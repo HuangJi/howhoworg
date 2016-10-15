@@ -1,1 +1,6 @@
 # howhoworg
+
+## Initialization
+```
+yarn
+```
