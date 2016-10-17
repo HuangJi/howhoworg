@@ -119,7 +119,7 @@ app.use((err, req, res) => {
   })
 })
 
-// Update all per 24 hours
+// Update all per 24 hours.
 updateAll()
 setInterval(() => updateAll(), 1000 * 3600 * 24)
 
