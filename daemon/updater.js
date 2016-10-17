@@ -339,7 +339,7 @@ function updateAll() {
         const fundIDList = data.toString().split('\n')
         fs.readFile('data/user_agent', (e, fundData) => {
           if (e) {
-            console.error(error)
+            console.error(e)
           } else {
             const userAgentList = fundData.toString().split('\n')
             getOneFundClearData(fundIDList, userAgentList)
