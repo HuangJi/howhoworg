@@ -238,7 +238,7 @@ function getProviderFunds (yahooProviderUrlList, callback) {
       if (error) {
         console.error(`error: ${error}`)
         getProviderFunds(yahooProviderUrlList, callback)
-      } 
+      }
       else {
         const $ = cheerio.load(body)
         // let table = $('.Bgc-w').children().next().next().children().attr('href')
@@ -252,7 +252,7 @@ function getProviderFunds (yahooProviderUrlList, callback) {
           }
         })
         getProviderFunds(yahooProviderUrlList, callback)
-      }    
+      }
     })
   })
 }
@@ -271,7 +271,7 @@ function getNavByYahooId (yahooIdList) {
       if (error) {
         console.error(`error: ${error}`)
         getNavByYahooId(yahooIdList)
-      } 
+      }
       else {
         const $ = cheerio.load(body)
         let fundChineseName = $('.mfund-header').children().children().first().text()
@@ -307,7 +307,7 @@ function getNavByYahooId (yahooIdList) {
             }
           })
         })
-      }    
+      }
     })
   })
 }
@@ -339,7 +339,7 @@ function updateAll() {
       function finishCall () {
         console.log(`fundRich data had been updated!`)
       }
-      // fundRich updating start 
+      // fundRich updating start
       updateOneFundRichDetailData(JSON.parse(JSON.stringify(fundRichIdList)))
       updateOneFundRichDividendData(JSON.parse(JSON.stringify(fundRichIdList)))
       updateOneFundRichAllocationData(JSON.parse(JSON.stringify(fundRichIdList)))
