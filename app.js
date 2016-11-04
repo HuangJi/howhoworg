@@ -120,7 +120,7 @@ app.use((err, req, res) => {
 })
 
 // Update all per 24 hours.
-updateAll()
+// updateAll()
 setInterval(() => updateAll(), 1000 * 3600 * 24)
 
 module.exports = app
