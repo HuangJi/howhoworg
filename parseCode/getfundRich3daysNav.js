@@ -70,5 +70,5 @@ function getAllFundRichId() {
     }
   })
 }
-
+// rrra
 getAllFundRichId()
