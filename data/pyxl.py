@@ -2,7 +2,7 @@
 import sys
 from openpyxl import load_workbook
 # wb = load_workbook(filename='fullTejNav.xlsx', read_only=True)
-wb = load_workbook(filename='b2bcnyes.xlsx', read_only=True)
+wb = load_workbook(filename='watt.csv', read_only=True)
 ws = wb['Sheet1'] # ws is now an IterableWorksheet
 
 for row in ws.rows:
