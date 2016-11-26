@@ -22,7 +22,7 @@ function getLatestDateString(dateStringArray) {
 function parseStockTopData(stockTopData) {
   return new Promise((resolve) => {
     co(function* __() {
-      let content
+      const content = ''
       const dateKey = yield getLatestDateString(Object.keys(stockTopData))
       if (dateKey) {
         const docs = stockTopData[dateKey]

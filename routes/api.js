@@ -281,7 +281,7 @@ router.post('/v1/fund/detail', (req, res) => {
           managementFee: frDetailObject.ManagementFee,
           costodianFee: frDetailObject.Custodian,
           otherCurrencyType: frDetailObject.otherCurrencyType,
-          distnbutionStatus: frDetailObject.DistnbutionStatus,
+          distributionStatus: frDetailObject.DistnbutionStatus,
           bemchmark: fundDjData.benchmark,
           investmentStrategy: frDetailObject.InvestmentStrategy,
           latestNavDate: fundNavObject.navDate,
