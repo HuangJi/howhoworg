@@ -260,16 +260,21 @@ router.post('/v1/fund/detail', (req, res) => {
           fundDjData = yield scalegridDb.collection('fundDJ').find({ FDId: fundCodeData.FDId }).limit(1).next()
         }
         const fundNavData = yield scalegridDb.collection('fundNav').find({ howfundId: fundCodeData.howfundId }).limit(1).next()
-
+        const fundClearNavData = yield scalegridDb.collection('FCNav').find({ FCId: fundCodeData.FCId }).limit(1).next()
+        const oneYearNavData = yield howfundHelper.getOneYearNavData(fundClearNavData.data)
         const fundNavObject = yield howfundHelper.parseFundNavData(fundNavData.navDate)
         const frDetailObject = yield howfundHelper.parseFRDetailData(frDetailData.data)
         const tejObject = yield howfundHelper.parseTejData(tejData.data)
+        const shareHolding = yield howfundHelper.parseStockTopData(frAllocationData.data.StockTop)
+        const dailyData = yield howfundHelper.getDailyDataFromHistoryData(fundClearNavData.data)
+        console.log(`fundShareholding:${shareHolding}`)
+        console.log(`dailyData:${JSON.stringify(dailyData, null, 4)}`)
         const detailObject = {
           chineseFullName: frDetailObject.Name,
           englishFullName: frDetailObject.NameEng,
           agentChineseName: frDetailObject.AgentCPName,
           isinCode: tejObject.isinCode,
-          fundManager1: tejObject.currentManagerA,
+          fundManager: tejObject.currentManagerA,
           categoryName: frDetailObject.CategoryName,
           startAsset: tejObject.startAsset,
           currencyCode: frDetailObject.CurrencyCode,
@@ -284,25 +289,22 @@ router.post('/v1/fund/detail', (req, res) => {
           distributionStatus: frDetailObject.DistnbutionStatus,
           bemchmark: fundDjData.benchmark,
           investmentStrategy: frDetailObject.InvestmentStrategy,
-          latestNavDate: fundNavObject.navDate,
+          latestNavDate: yield howfundHelper.getLatestDateString(Object.keys(fundNavData.navDate)),
           latestNav: fundNavObject.nav,
-          dayChange: fundNavObject.dayChange,
-          oneDayProfitRate: fundNavObject.oneDayProfitRate,
+          dayChange: dailyData.dayChange || fundNavObject.dayChange,
+          oneDayProfitRate: dailyData.dayChangeRate || fundNavObject.oneDayProfitRate,
           Sharpe1Y: fundNavObject.Sharpe1Y,
-          highestInYearNav: fundNavObject.highestInYearNav,
-          lowestInYearNav: fundNavObject.lowestInYearNav,
+          highestInYearNav: dailyData.maxNavInYear || fundNavObject.highestInYearNav,
+          lowestInYearNav: dailyData.minNavInYear || fundNavObject.lowestInYearNav,
           Rr1M: fundNavObject.Rr1M,
           Rr3M: fundNavObject.Rr3M,
           RrThisYear: fundNavObject.RrThisYear,
-          fundShareholding: howfundHelper.parseStockTopData(frAllocationData.data.StockTop),
-          graph: {
-            '3M': [],
-            '6M': [],
-            '1Y': [],
-            '2Y': [],
-            '3Y': [],
-          },
-          documentDownload: empty,
+          fundShareholding: shareHolding,
+          graph: oneYearNavData,
+        }
+        for (const key of Object.keys(detailObject)) {
+          if (key !== 'dayChange' || key !== 'oneDayProfitRate') detailObject[key] = detailObject[key] || '---'
+          if (detailObject[key] === '0') detailObject[key] = '---'
         }
         console.log(`frdetail name:${frDetailObject.Name}`)
         res.json(detailObject)

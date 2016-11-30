@@ -111,17 +111,19 @@ function updateFundRichNav(db, FRId, howfundId) {
 }
 
 function updateFromFundClearNav(db, FCId, howfundId) {
+  console.log(`From FC ${FCId} ${howfundId}`)
   db.collection('FCNav').find({ FCId }).limit(1).next((e1, r1) => {
     if (!e1 && r1) {
       for (const dateKey of Object.keys(r1.data)) {
         const navDate = r1.data[dateKey].TransDate
         const nav = r1.data[dateKey].Price
         const setObject = getDateKeyObject(navDate, { nav })
+        console.log(`in for setObject: ${JSON.stringify(setObject)} ${FCId}`)
         db.collection('fundNav').updateMany({ howfundId },
           { $set: setObject },
           { upsert: true }, (e, r) => {
             if (!e && r) {
-              console.log(`${howfundId} fundclear update done!`)
+              console.log(`${howfundId} ${FCId} ${navDate} fundclear update done!`)
             } else {
               console.log(e)
             }
@@ -137,7 +139,7 @@ scalegridConnect((err, db) => {
   if (err) {
     console.error(err)
   } else {
-    db.collection('fundCode').find().toArray((e1, docs) => {
+    db.collection('fundCode').find({ FCId: { $ne: '' } }).toArray((e1, docs) => {
       if (!e1 && docs) {
         for (const fund of docs) {
           // const filter = { howfundId: fund.howfundId }
