@@ -1,0 +1,89 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9867632,
+            "SInvRate": 98.67632,
+            "LInvRate": 98.67632
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0130135,
+            "SInvRate": 1.30135,
+            "LInvRate": 1.30135
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0002233,
+            "SInvRate": 0.02233,
+            "LInvRate": 0.02233
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 56.17628
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 42.50005
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SCENTRE GROUP REIT AUD",
+            "InvRate": 9.07621
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SUN HUNG KAI PROPERTIES ORD HKD",
+            "InvRate": 8.82878
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MITSUI FUDOSAN CO LTD ORD JPY",
+            "InvRate": 7.62507
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LINK REIT REIT HKD",
+            "InvRate": 6.63964
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHEUNG KONG PROPERTY HOLDING ORD HKD",
+            "InvRate": 6.52698
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GOODMAN GROUP REIT AUD",
+            "InvRate": 4.50646
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ORIX JREIT INC REIT JPY",
+            "InvRate": 4.40502
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GLP J-REIT REIT JPY",
+            "InvRate": 4.39336
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HULIC CO LTD ORD JPY",
+            "InvRate": 4.3474
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NIPPON BUILDING FUND INC REIT JPY",
+            "InvRate": 4.32077
+        }
+    ]
+}

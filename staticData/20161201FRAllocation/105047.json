@@ -1,0 +1,152 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9836523016347698,
+            "SInvRate": 98.36524,
+            "LInvRate": 98.36524
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.016347698365230163,
+            "SInvRate": 1.63477,
+            "LInvRate": 1.63477
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 23.81745
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 13.01971
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 10.27985
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 7.10108
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 7.10101
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 6.9689
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 6.06917
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 4.83855
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 3.82475
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.58396
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 2.68212
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 2.11935
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 1.86608
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.74474
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.69543
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.65308
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MOBILE LTD NPV",
+            "InvRate": 6.61192
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SINGAPORE TELECOMMUNICATIONS NPV",
+            "InvRate": 5.6322
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RELIANCE INDUSTRIES LTD INR10",
+            "InvRate": 5.03584
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELEKOMUNIKASI INDONESIA PER IDR50",
+            "InvRate": 4.18928
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CK HUTCHISON HOLDINGS LTD HKD1",
+            "InvRate": 3.82475
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NAN YA PLASTICS CORP TWD10",
+            "InvRate": 3.7673
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PTT PCL/FOREIGN THB10 (ALN)",
+            "InvRate": 3.27904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FORMOSA PLASTICS CORP TWD10",
+            "InvRate": 3.23402
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENAGA NASIONAL BHD MYR1",
+            "InvRate": 3.20366
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COAL INDIA LTD INR10",
+            "InvRate": 2.68212
+        }
+    ]
+}

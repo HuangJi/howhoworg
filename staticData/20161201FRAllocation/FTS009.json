@@ -1,0 +1,159 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8578314,
+            "SInvRate": 85.78314,
+            "LInvRate": 85.78314
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1274,
+            "SInvRate": 12.74,
+            "LInvRate": 12.74
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0147686,
+            "SInvRate": 1.47686,
+            "LInvRate": 1.47686
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 20.44802
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 10.42782
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 10.14111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 8.43242
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 6.09138
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 6.05232
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.50154
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 3.28711
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 3.17404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 3.09276
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.40816
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.1855
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.79972
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 1.24305
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.85008
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 0.64812
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 6.82645
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台化",
+            "InvRate": 4.35222
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "廣隆",
+            "InvRate": 4.22409
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台塑",
+            "InvRate": 4.01664
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "南僑",
+            "InvRate": 3.78582
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 3.76328
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "宇隆",
+            "InvRate": 3.62809
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "碩天",
+            "InvRate": 3.42322
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "東洋",
+            "InvRate": 3.17404
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "太醫",
+            "InvRate": 3.16845
+        }
+    ]
+}

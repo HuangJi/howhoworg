@@ -1,0 +1,179 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9545702,
+            "SInvRate": 95.45702,
+            "LInvRate": 95.45702
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0506,
+            "SInvRate": 5.06,
+            "LInvRate": 5.06
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0051702,
+            "SInvRate": -0.51702,
+            "LInvRate": -0.51702
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 19.68356
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.77319
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 8.94977
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 7.40021
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 5.07088
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.95104
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.86701
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 4.03438
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 3.95021
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.53319
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 3.50084
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 3.0195
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.01048
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.60795
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.11645
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 2.00167
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.75161
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.46082
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 1.17414
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.11044
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MIDEA GROUP CO LTD-A-CHN",
+            "InvRate": 6.21318
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD-HKG",
+            "InvRate": 5.08298
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SUOFEIYA HOME COLLECTION C-A-CHN",
+            "InvRate": 3.53319
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KWEICHOW MOUTAI CO LTD-A-CHN",
+            "InvRate": 3.50084
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANGZHOU ROBAM APPLIANCES-A-CHN",
+            "InvRate": 3.3663
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SUNNY OPTICAL TECH-HKG",
+            "InvRate": 3.09141
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BEIJING ORIGINWATER TECHNO-A-CHN",
+            "InvRate": 3.0195
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BEIJING NEW BUILDING MATER-A-CHN",
+            "InvRate": 2.97705
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WANGSU SCIENCE & TECHNOLOG-A-CHN",
+            "InvRate": 2.81825
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNWAY COMMUNICAT-A-CHN",
+            "InvRate": 2.54335
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "Currency": "USD",
+        "TransDate": "20091215",
+        "Div": 0.02673
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080922",
+        "Div": 0.01
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080418",
+        "Div": 0.01
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20070419",
+        "Div": 0.05
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20010403",
+        "Div": 0.5
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20000601",
+        "Div": 1
+    }
+]

@@ -1,0 +1,119 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9758451,
+            "SInvRate": 97.58451,
+            "LInvRate": 97.58451
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.024,
+            "SInvRate": 2.4,
+            "LInvRate": 2.4
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0001549,
+            "SInvRate": 0.01549,
+            "LInvRate": 0.01549
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 30.46592
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 21.87327
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 19.24311
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 14.35851
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 7.29367
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 2.77166
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.84001
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.73835
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PG & E CORP",
+            "InvRate": 3.79514
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NEXTERA ENERGY INC",
+            "InvRate": 3.66803
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TRANSCANADA CORP",
+            "InvRate": 3.3893
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SYDNEY AIRPORT",
+            "InvRate": 3.27787
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ATLANTIA SPA",
+            "InvRate": 3.19327
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EIFFAGE",
+            "InvRate": 3.10699
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ENBRIDGE INC",
+            "InvRate": 3.04904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TRANSURBAN GROUP",
+            "InvRate": 2.8538
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SEMPRA ENERGY",
+            "InvRate": 2.77097
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EDISON INTERNATIONAL",
+            "InvRate": 2.61483
+        }
+    ]
+}

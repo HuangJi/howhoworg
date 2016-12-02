@@ -1,0 +1,91 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9963293007341398,
+            "SInvRate": 99.63295,
+            "LInvRate": 99.63295
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0001418999716200057,
+            "SInvRate": 0.01419,
+            "LInvRate": 0.01419
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.00450719909856018,
+            "SInvRate": -0.45072,
+            "LInvRate": -0.45072
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.00803599839280032,
+            "SInvRate": 0.8036,
+            "LInvRate": 0.8036
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151101",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.00741
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITALY BTPS 3.75% 13 01 05 2021",
+            "InvRate": 2.79829
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SPANISH GOVT 0.25% 15 30 04 2018",
+            "InvRate": 2.56687
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCE O.A.T. 2.25% 12 25 10 2022",
+            "InvRate": 2.47369
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DEUTSCHLAND REP 1.5% 12 04 09 2022",
+            "InvRate": 2.36212
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITALY BTPS 1.45% 15 15 09 2022",
+            "InvRate": 2.3124
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KFW 0.125% 15 01 06 2020",
+            "InvRate": 1.99184
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NETHERLANDS GOVT 1.75% 13 15 07 2023",
+            "InvRate": 1.84337
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BNP PARIBAS OBLIPAR CI 3D PARTS CL 3 DEC",
+            "InvRate": 1.83464
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCE O.A.T. 2.5% 14 25 05 2030",
+            "InvRate": 1.78405
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCE O.A.T. 1.25% 16 25 05 2036",
+            "InvRate": 1.6521
+        }
+    ]
+}

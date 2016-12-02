@@ -1,0 +1,172 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9809082,
+            "SInvRate": 98.09082,
+            "LInvRate": 98.09082
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.0190918,
+            "SInvRate": 1.90918,
+            "LInvRate": 1.90918
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 26.90911
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 10.6835
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Defensive",
+            "InvRate": 8.51664
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Metals & Mining",
+            "InvRate": 7.59365
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.22146
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Agriculture",
+            "InvRate": 3.32389
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Autos",
+            "InvRate": 3.05848
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 2.61136
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 2.08361
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.92708
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Asset Management",
+            "InvRate": 1.90905
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Conglomerates",
+            "InvRate": 1.90499
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Online Media",
+            "InvRate": 1.8063
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.72439
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.61104
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.60899
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.60009
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.50036
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Credit Services",
+            "InvRate": 1.46823
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.11037
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Lukoil PJSC – ADR",
+            "InvRate": 9.77083
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Tatneft – ADR",
+            "InvRate": 7.33346
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Turkiye Garanti Bankasi AS",
+            "InvRate": 5.5708
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Sberbank RF",
+            "InvRate": 5.08769
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "X5 Retail Group NV – GDR – Reg",
+            "InvRate": 4.97249
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Moscow Exchange Micex",
+            "InvRate": 4.22146
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Magnit Pjsc Mgnt Ru",
+            "InvRate": 3.54415
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Turkiye Sinai Kalkinma Bankasi AS",
+            "InvRate": 3.36969
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Phosagro OAO – GDR",
+            "InvRate": 3.06573
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Tofas Turk Otomobil Fabrik",
+            "InvRate": 3.05848
+        }
+    ]
+}

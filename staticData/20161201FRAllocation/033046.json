@@ -1,0 +1,109 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9986412,
+            "SInvRate": 99.86412,
+            "LInvRate": 99.86412
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0194648,
+            "SInvRate": 1.94648,
+            "LInvRate": 1.94648
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": -0.018106,
+            "SInvRate": -1.8106,
+            "LInvRate": -1.8106
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Application Software",
+            "InvRate": 34.92527
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Semiconductors",
+            "InvRate": 18.10926
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Online Media",
+            "InvRate": 15.83957
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Computer Hardware",
+            "InvRate": 14.06614
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Communication Equipment",
+            "InvRate": 9.68602
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Credit Services",
+            "InvRate": 7.23786
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "MICROSOFT CORP",
+            "InvRate": 9.66848
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "APPLE INC",
+            "InvRate": 9.24439
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "CISCO SYSTEMS INC",
+            "InvRate": 5.83441
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "ALPHABET INC-CL C",
+            "InvRate": 5.80111
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "INTL BUSINESS MACHINES CORP",
+            "InvRate": 5.2998
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "FACEBOOK INC-A",
+            "InvRate": 4.83308
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "VISA INC-CLASS A SHARES",
+            "InvRate": 4.68088
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "INTEL CORP",
+            "InvRate": 4.41299
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "TEXAS INSTRUMENTS INC",
+            "InvRate": 3.61819
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "EMC CORP/MA",
+            "InvRate": 3.41294
+        }
+    ]
+}

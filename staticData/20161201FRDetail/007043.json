@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "007043",
+    "StarRatingFromEst": 2,
+    "Name": "摩根基金 - 新興市場債券基金 - JPM新興市場債券(歐元對沖) - A股(入息)",
+    "NameEng": "JPM Emerging Mkts Dbt A (inc) EUR H",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券",
+    "CPId": "383",
+    "CPName": "摩根資產管理(歐洲)有限公司",
+    "CPNameEng": "JPMorgan Asset Management (Europe) S.à r.l.",
+    "AgentCPId": "80",
+    "AgentCPName": "摩根證券投資信託股份有限公司",
+    "AgentCPNameEng": "JPMorgan Asset Management (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 11,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "19970314",
+    "CategoryId": "680",
+    "CategoryName": "環球新興市場債券(歐元傾向)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "提供一個回報,投資主要是在固定和浮動利率債務證券從新興市場.",
+    "Custodian": "摩根大通銀行(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.15,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 35000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 1578337435.33,
+    "PriceTransDate": "20161130",
+    "Price": 8.76,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.02,
+    "UpDownRate": -0.23,
+    "Rr1w": -1.29171,
+    "Rr1M": -1.07875,
+    "Rr3M": 0.91863,
+    "Rr6M": 4.89354,
+    "RrThisYear": 11.09235,
+    "Rr1Y": 9.44372,
+    "Rr2Y": 7.14624,
+    "Rr3Y": 13.29231,
+    "Rr5Y": 26.34636,
+    "Rr10Y": 46.67162,
+    "RrFromEst": 525.5677,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 6.89,
+    "Beta1Y": 0.21,
+    "Sharpe1Y": 1.73,
+    "StdDev1Y": 5.49,
+    "Alpha3Y": 0.93,
+    "Beta3Y": 0.24,
+    "Sharpe3Y": 0.78,
+    "StdDev3Y": 5.57,
+    "AriMean3Y": 0.36,
+    "Alpha5Y": 1.63,
+    "Beta5Y": 0.27,
+    "Sharpe5Y": 0.72,
+    "StdDev5Y": 6.61,
+    "Alpha10Y": 0.39,
+    "Beta10Y": 0.38,
+    "Sharpe10Y": 0.28,
+    "StdDev10Y": 11.91,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "73",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9566704,
+            "SInvRate": 95.66704,
+            "LInvRate": 95.66704
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.009331,
+            "SInvRate": -0.9331,
+            "LInvRate": -0.9331
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0526606,
+            "SInvRate": 5.26606,
+            "LInvRate": 5.26606
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.77
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 8.77
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 8.8
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 8.77
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 8.71
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 8.86
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 8.97
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.11
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.18
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.15
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.12
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.13
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.13
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.15
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.17
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.17
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.21
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.25
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.28
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.29
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.26
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.25
+        }
+    ],
+    "IndustryRatio": []
+}

@@ -1,0 +1,84 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9814788981478898,
+            "SInvRate": 98.14788,
+            "LInvRate": 98.14788
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0059903005990300595,
+            "SInvRate": 0.59903,
+            "LInvRate": 0.59903
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.012530801253080126,
+            "SInvRate": 1.25308,
+            "LInvRate": 1.25308
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 97.37971
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NEWCREST MINING LTD",
+            "InvRate": 9.95198
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RANDGOLD RESOURCES LTD. ADS",
+            "InvRate": 6.02802
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NEWMONT MINING CORP",
+            "InvRate": 5.84276
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AGNICO-EAGLE MINES LIMITED",
+            "InvRate": 5.66982
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SILVER WHEATON CORP",
+            "InvRate": 5.39773
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCO NEVADA CORP",
+            "InvRate": 4.54369
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BARRICK GOLD CORPORATION",
+            "InvRate": 4.33818
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ANGLOGOLD ASHANTI LTD. ADS",
+            "InvRate": 4.20691
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DETOUR GOLD CORP",
+            "InvRate": 4.14303
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRESNILLO PLC",
+            "InvRate": 3.85184
+        }
+    ]
+}

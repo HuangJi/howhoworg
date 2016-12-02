@@ -1,0 +1,157 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9572566,
+            "SInvRate": 95.72566,
+            "LInvRate": 95.72566
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0427434,
+            "SInvRate": 4.27434,
+            "LInvRate": 4.27434
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 15.48625
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 15.17011
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 11.07463
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 10.57846
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.02761
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 7.17747
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 4.50644
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 4.42012
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 3.19853
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 2.01788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.01178
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.9835
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.92556
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.88141
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.8706
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.72738
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 1.66795
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JOHNSON & JOHNSON COMMON STOCK USD1.0",
+            "InvRate": 6.12197
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NESTLE SA COMMON STOCK CHF.1",
+            "InvRate": 5.42886
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MICROSOFT CORP COMMON STOCK USD.00000625",
+            "InvRate": 4.96556
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VISA INC COMMON STOCK USD.0001",
+            "InvRate": 4.95943
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RECKITT BENCKISER GROUP PLC COMMON STOCK GBP.1",
+            "InvRate": 4.44476
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROCHE HOLDING AG COMMON STOCK",
+            "InvRate": 4.40398
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MOODY'S CORP COMMON STOCK USD.01",
+            "InvRate": 4.38584
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JAPAN TOBACCO INC COMMON STOCK",
+            "InvRate": 4.16167
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IMPERIAL BRANDS PLC COMMON STOCK GBP.1",
+            "InvRate": 3.94436
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PHILIP MORRIS INTERNATIONAL IN COMMON STOCK",
+            "InvRate": 3.81599
+        }
+    ]
+}

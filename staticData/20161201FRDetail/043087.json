@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "043087",
+    "StarRatingFromEst": 2,
+    "Name": "富達基金-全球通膨連結債券基金(美元累積)",
+    "NameEng": "Fidelity Gl Infl Link Bd A-Acc-USD",
+    "NameWarning": "",
+    "CPId": "12",
+    "CPName": "富達基金管理有限公司",
+    "CPNameEng": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+    "AgentCPId": "100",
+    "AgentCPName": "富達證券投資信託股份有限公司",
+    "AgentCPNameEng": "FIL Securities Invmt Trust Co. (TW) Ltd",
+    "RctName": "盧森堡",
+    "Count": 27,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20080529",
+    "CategoryId": "929",
+    "CategoryName": "環球通脹掛鉤債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金旨在利用全球通膨連結,利率以至信貸市場等一系列不同的策略,以追求吸引的實質收益和資本增值為目標.這些策略包括但不限於主動殖利率曲線策略,各類債輪動,挑選債券,相對價值管理和存續期管理.基金主要投資於債券及短期證券,並可投資於衍生性商品.基金主要(即至少70%之資產)投資於全球成熟市場與新興市場的發行機構(包括但不限於政府,機構,超國家機構,企業及銀行)發行的通膨連結債券,名目債券及其他債務證券.基金可將最多30%的資產投資於貨幣市場工具及銀行存款,最多25%投資於可轉換公司債及最多10%投資於股份及其他參與供股權.這些投資包括投資級別和非投資級別資產.本基金也可以投資UCITs和UCIs等投資工具.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.35,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 1196675749.53,
+    "PriceTransDate": "20161130",
+    "Price": 9.986,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.003,
+    "UpDownRate": -0.03,
+    "Rr1w": -0.09794,
+    "Rr1M": -1.7341,
+    "Rr3M": -1.16279,
+    "Rr6M": -1.63934,
+    "RrThisYear": 2.30692,
+    "Rr1Y": 0.69102,
+    "Rr2Y": -6.07735,
+    "Rr3Y": -8.60214,
+    "Rr5Y": -9.0098,
+    "Rr10Y": null,
+    "RrFromEst": 2,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.13,
+    "Beta1Y": 1.03,
+    "Sharpe1Y": 0.11,
+    "StdDev1Y": 4.78,
+    "Alpha3Y": -4.26,
+    "Beta3Y": 0.83,
+    "Sharpe3Y": -0.72,
+    "StdDev3Y": 4.24,
+    "AriMean3Y": -0.242,
+    "Alpha5Y": -3.36,
+    "Beta5Y": 0.94,
+    "Sharpe5Y": -0.42,
+    "StdDev5Y": 4.45,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "134",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 1.0958804,
+            "SInvRate": 109.58804,
+            "LInvRate": 109.58804
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.1049488,
+            "SInvRate": -10.49488,
+            "LInvRate": -10.49488
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0090684,
+            "SInvRate": 0.90684,
+            "LInvRate": 0.90684
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.986
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.989
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.984
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.971
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.973
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.973
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.02
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.996
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.979
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.02
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.03
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.05
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.06
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.13
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.16
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.2
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.22
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.25
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.23
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.23
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.2
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.18
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.18
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.21
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.24
+        }
+    ],
+    "IndustryRatio": []
+}

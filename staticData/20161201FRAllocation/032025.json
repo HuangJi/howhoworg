@@ -1,0 +1,166 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.8614507,
+            "SInvRate": 86.14507,
+            "LInvRate": 86.14507
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0888897,
+            "SInvRate": 8.88897,
+            "LInvRate": 8.88897
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0444208,
+            "SInvRate": 4.44208,
+            "LInvRate": 4.44208
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0052388,
+            "SInvRate": 0.52388,
+            "LInvRate": 0.52388
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 23.67822
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 9.96551
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 8.84834
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 8.63784
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 8.57412
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.45247
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 4.18205
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.39972
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 3.11025
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.00758
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.55545
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.2512
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 1.60134
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.02752
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.44072
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Coal",
+            "InvRate": 0.36611
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LUKOIL PJSC",
+            "InvRate": 9.23962
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MAGNIT PJSC",
+            "InvRate": 8.54532
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SBERBANK PREFERENCE",
+            "InvRate": 7.21018
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SURGUTNEFTEGAS PREFERENCE",
+            "InvRate": 5.38459
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GAZPROM PAO",
+            "InvRate": 4.59917
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TATNEFT PREF 3 SERIES",
+            "InvRate": 4.51371
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MOSCOW EXCHANGE MICEX RTS PJ",
+            "InvRate": 4.40286
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALROSA PAO",
+            "InvRate": 4.28028
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NOVATEK OJSC",
+            "InvRate": 4.25157
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MMC NORILSK NICKEL PJSC",
+            "InvRate": 3.96627
+        }
+    ]
+}

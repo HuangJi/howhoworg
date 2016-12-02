@@ -1,0 +1,77 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9742487,
+            "SInvRate": 97.42487,
+            "LInvRate": 97.42487
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0257513,
+            "SInvRate": 2.57513,
+            "LInvRate": 2.57513
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 97.42486
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Newmont Mining",
+            "InvRate": 9.68748
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Barrick Gold",
+            "InvRate": 8.33876
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Silver Wheaton",
+            "InvRate": 5.96939
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Newcrest Mining",
+            "InvRate": 5.92671
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Agnico Eagle Mines",
+            "InvRate": 5.41221
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Goldcorp",
+            "InvRate": 4.87505
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Franco-Nevada",
+            "InvRate": 4.55085
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Fresnillo",
+            "InvRate": 4.24536
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Randgold Resources",
+            "InvRate": 4.20143
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Anglogold Ashanti",
+            "InvRate": 4.18506
+        }
+    ]
+}

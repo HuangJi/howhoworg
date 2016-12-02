@@ -1,0 +1,122 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9591578,
+            "SInvRate": 95.91578,
+            "LInvRate": 95.91578
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0408422,
+            "SInvRate": 4.08422,
+            "LInvRate": 4.08422
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 21.23148
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 21.19784
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 15.53254
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 14.51351
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 7.22877
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 6.872
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.17494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 2.84632
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.99627
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 0.32209
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "APPLE INC USD0.00001",
+            "InvRate": 8.1478
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FACEBOOK INC-A USD0.000006",
+            "InvRate": 6.80437
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MICROSOFT CORP USD0.00000625",
+            "InvRate": 5.62995
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC-CL A USD0.001",
+            "InvRate": 5.11519
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRONICS CO LTD KRW5000",
+            "InvRate": 4.39606
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC-CL C USD0.001",
+            "InvRate": 4.26946
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VISA INC-CLASS A SHARES USD0.0001",
+            "InvRate": 4.04497
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CISCO SYSTEMS INC USD0.001",
+            "InvRate": 3.81252
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD HKD0.00002",
+            "InvRate": 3.79498
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HOLDING-SP ADR",
+            "InvRate": 3.36233
+        }
+    ]
+}

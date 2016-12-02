@@ -1,0 +1,102 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9801769,
+            "SInvRate": 98.01769,
+            "LInvRate": 98.01769
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0198231,
+            "SInvRate": 1.98231,
+            "LInvRate": 1.98231
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 38.30042
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 20.01737
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 17.64539
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 11.60715
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 8.6404
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.80695
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PG&E Corporation",
+            "InvRate": 6.75426
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Transurban Group Ltd.",
+            "InvRate": 5.94561
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "East Japan Railway Co",
+            "InvRate": 5.49594
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Crown Castle International Corp",
+            "InvRate": 4.67561
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Eversource Energy",
+            "InvRate": 4.46891
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Kinder Morgan Inc Class P",
+            "InvRate": 4.43619
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NextEra Energy, Inc.",
+            "InvRate": 4.39514
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Dominion Resources, Inc.",
+            "InvRate": 4.20747
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Abertis Infraestructuras SA",
+            "InvRate": 3.91776
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Union Pacific Corporation",
+            "InvRate": 3.83294
+        }
+    ]
+}

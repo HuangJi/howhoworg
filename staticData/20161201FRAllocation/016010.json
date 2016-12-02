@@ -1,0 +1,125 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0010203,
+            "SInvRate": 0.10203,
+            "LInvRate": 0.10203
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9106136,
+            "SInvRate": 91.06136,
+            "LInvRate": 91.06136
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0004098,
+            "SInvRate": 0.04098,
+            "LInvRate": 0.04098
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0014314,
+            "SInvRate": 0.14314,
+            "LInvRate": 0.14314
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0553502,
+            "SInvRate": 5.53502,
+            "LInvRate": 5.53502
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0311747,
+            "SInvRate": 3.11747,
+            "LInvRate": 3.11747
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 0.04358
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 0.02773
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 0.01694
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0.00936
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Forest Products",
+            "InvRate": 0.00442
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RUSSELL-EURO LIQUIDITY-R RUP",
+            "InvRate": 1.8546
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HRG GROUP INC",
+            "InvRate": 1.08641
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RIC III US DLR CASH II-RROLL",
+            "InvRate": 0.88422
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RCN TELECM SER/CAPITAL",
+            "InvRate": 0.88046
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JOSEPH T RYERSON & SON I",
+            "InvRate": 0.86832
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CENTURY ALUMINUM COMPANY",
+            "InvRate": 0.83287
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FORESIGHT ENERGY/FINANCE",
+            "InvRate": 0.78362
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VIZIENT INC",
+            "InvRate": 0.73173
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TENET HEALTHCARE CORP",
+            "InvRate": 0.70777
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TELECOM ITALIA SPA",
+            "InvRate": 0.64032
+        }
+    ]
+}

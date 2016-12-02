@@ -1,0 +1,200 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 1,
+            "SInvRate": 100,
+            "LInvRate": 100
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 14.81863
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 8.34198
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.09831
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 5.79392
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 5.63437
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 5.27983
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 4.92334
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 3.84038
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.6971
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 3.46448
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.06332
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 2.53302
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.45144
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 2.17739
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.17702
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.13689
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 2.0889
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 2.05143
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 2.04988
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 2.03091
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.9996
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Truck Manufacturing",
+            "InvRate": 1.89005
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.7693
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.67478
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 1.67453
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 1.6591
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.63184
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROCHE HLDGS AG GENUSSCHEINE NPV",
+            "InvRate": 4.4273
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TOTAL EUR2.5",
+            "InvRate": 3.86946
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ING GROEP NV-CVA INGA NA",
+            "InvRate": 3.63068
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RENAULT SA RNO FP",
+            "InvRate": 3.19259
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PANDORA A/S PNDORA DC",
+            "InvRate": 3.06332
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SVENSKA CELLULOSA AB-B SHS SCAB SS",
+            "InvRate": 2.86621
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MARINE HARVEST ASA",
+            "InvRate": 2.76816
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SOCIETE GENERALE",
+            "InvRate": 2.66315
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BT GROUP PLC SHS",
+            "InvRate": 2.53497
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PRUDENTIAL PLC PRU LN",
+            "InvRate": 2.53302
+        }
+    ]
+}

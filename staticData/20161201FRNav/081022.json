@@ -1,0 +1,630 @@
+[
+    {
+        "TransDate": "20121203",
+        "Price": null
+    },
+    {
+        "TransDate": "20160420",
+        "Price": 13.0641
+    },
+    {
+        "TransDate": "20160421",
+        "Price": 12.9769
+    },
+    {
+        "TransDate": "20160422",
+        "Price": 12.8822
+    },
+    {
+        "TransDate": "20160425",
+        "Price": 12.7647
+    },
+    {
+        "TransDate": "20160426",
+        "Price": 12.7969
+    },
+    {
+        "TransDate": "20160427",
+        "Price": 12.771
+    },
+    {
+        "TransDate": "20160428",
+        "Price": 12.7444
+    },
+    {
+        "TransDate": "20160429",
+        "Price": 12.6629
+    },
+    {
+        "TransDate": "20160502",
+        "Price": 12.5532
+    },
+    {
+        "TransDate": "20160503",
+        "Price": 12.6089
+    },
+    {
+        "TransDate": "20160504",
+        "Price": 12.445
+    },
+    {
+        "TransDate": "20160506",
+        "Price": 12.3317
+    },
+    {
+        "TransDate": "20160509",
+        "Price": 12.4574
+    },
+    {
+        "TransDate": "20160510",
+        "Price": 12.4353
+    },
+    {
+        "TransDate": "20160511",
+        "Price": 12.5534
+    },
+    {
+        "TransDate": "20160512",
+        "Price": 12.4896
+    },
+    {
+        "TransDate": "20160513",
+        "Price": 12.4153
+    },
+    {
+        "TransDate": "20160517",
+        "Price": 12.5153
+    },
+    {
+        "TransDate": "20160518",
+        "Price": 12.4049
+    },
+    {
+        "TransDate": "20160519",
+        "Price": 12.4192
+    },
+    {
+        "TransDate": "20160520",
+        "Price": 12.3641
+    },
+    {
+        "TransDate": "20160523",
+        "Price": 12.47
+    },
+    {
+        "TransDate": "20160524",
+        "Price": 12.4259
+    },
+    {
+        "TransDate": "20160525",
+        "Price": 12.6542
+    },
+    {
+        "TransDate": "20160526",
+        "Price": 12.7088
+    },
+    {
+        "TransDate": "20160527",
+        "Price": 12.7187
+    },
+    {
+        "TransDate": "20160530",
+        "Price": 12.7278
+    },
+    {
+        "TransDate": "20160531",
+        "Price": 12.735
+    },
+    {
+        "TransDate": "20160601",
+        "Price": 12.7519
+    },
+    {
+        "TransDate": "20160602",
+        "Price": 12.7698
+    },
+    {
+        "TransDate": "20160603",
+        "Price": 12.7786
+    },
+    {
+        "TransDate": "20160606",
+        "Price": 12.815
+    },
+    {
+        "TransDate": "20160607",
+        "Price": 12.8993
+    },
+    {
+        "TransDate": "20160608",
+        "Price": 12.9401
+    },
+    {
+        "TransDate": "20160609",
+        "Price": 12.9681
+    },
+    {
+        "TransDate": "20160610",
+        "Price": 12.8937
+    },
+    {
+        "TransDate": "20160613",
+        "Price": 12.7267
+    },
+    {
+        "TransDate": "20160614",
+        "Price": 12.656
+    },
+    {
+        "TransDate": "20160615",
+        "Price": 12.6521
+    },
+    {
+        "TransDate": "20160616",
+        "Price": 12.5846
+    },
+    {
+        "TransDate": "20160617",
+        "Price": 12.6459
+    },
+    {
+        "TransDate": "20160620",
+        "Price": 12.7905
+    },
+    {
+        "TransDate": "20160621",
+        "Price": 12.8944
+    },
+    {
+        "TransDate": "20160622",
+        "Price": 12.938
+    },
+    {
+        "TransDate": "20160624",
+        "Price": 12.5491
+    },
+    {
+        "TransDate": "20160627",
+        "Price": 12.3754
+    },
+    {
+        "TransDate": "20160628",
+        "Price": 12.2857
+    },
+    {
+        "TransDate": "20160629",
+        "Price": 12.5043
+    },
+    {
+        "TransDate": "20160630",
+        "Price": 12.7265
+    },
+    {
+        "TransDate": "20160701",
+        "Price": 12.8703
+    },
+    {
+        "TransDate": "20160704",
+        "Price": 12.8943
+    },
+    {
+        "TransDate": "20160705",
+        "Price": 12.872
+    },
+    {
+        "TransDate": "20160706",
+        "Price": 12.7195
+    },
+    {
+        "TransDate": "20160707",
+        "Price": 12.8288
+    },
+    {
+        "TransDate": "20160708",
+        "Price": 12.8697
+    },
+    {
+        "TransDate": "20160711",
+        "Price": 13.0782
+    },
+    {
+        "TransDate": "20160712",
+        "Price": 13.1471
+    },
+    {
+        "TransDate": "20160713",
+        "Price": 13.2051
+    },
+    {
+        "TransDate": "20160714",
+        "Price": 13.241
+    },
+    {
+        "TransDate": "20160715",
+        "Price": 13.2427
+    },
+    {
+        "TransDate": "20160718",
+        "Price": 13.1964
+    },
+    {
+        "TransDate": "20160719",
+        "Price": 13.2081
+    },
+    {
+        "TransDate": "20160720",
+        "Price": 13.2037
+    },
+    {
+        "TransDate": "20160721",
+        "Price": 13.3272
+    },
+    {
+        "TransDate": "20160722",
+        "Price": 13.3022
+    },
+    {
+        "TransDate": "20160725",
+        "Price": 13.402
+    },
+    {
+        "TransDate": "20160726",
+        "Price": 13.4352
+    },
+    {
+        "TransDate": "20160727",
+        "Price": 13.4558
+    },
+    {
+        "TransDate": "20160728",
+        "Price": 13.4218
+    },
+    {
+        "TransDate": "20160729",
+        "Price": 13.4086
+    },
+    {
+        "TransDate": "20160801",
+        "Price": 13.4503
+    },
+    {
+        "TransDate": "20160802",
+        "Price": 13.4917
+    },
+    {
+        "TransDate": "20160803",
+        "Price": 13.3476
+    },
+    {
+        "TransDate": "20160804",
+        "Price": 13.4078
+    },
+    {
+        "TransDate": "20160805",
+        "Price": 13.4433
+    },
+    {
+        "TransDate": "20160808",
+        "Price": 13.5241
+    },
+    {
+        "TransDate": "20160809",
+        "Price": 13.498
+    },
+    {
+        "TransDate": "20160810",
+        "Price": 13.5248
+    },
+    {
+        "TransDate": "20160811",
+        "Price": 13.5209
+    },
+    {
+        "TransDate": "20160812",
+        "Price": 13.5784
+    },
+    {
+        "TransDate": "20160816",
+        "Price": 13.6347
+    },
+    {
+        "TransDate": "20160817",
+        "Price": 13.5158
+    },
+    {
+        "TransDate": "20160818",
+        "Price": 13.5298
+    },
+    {
+        "TransDate": "20160819",
+        "Price": 13.5325
+    },
+    {
+        "TransDate": "20160822",
+        "Price": 13.4874
+    },
+    {
+        "TransDate": "20160823",
+        "Price": 13.5212
+    },
+    {
+        "TransDate": "20160824",
+        "Price": 13.5387
+    },
+    {
+        "TransDate": "20160825",
+        "Price": 13.475
+    },
+    {
+        "TransDate": "20160826",
+        "Price": 13.4608
+    },
+    {
+        "TransDate": "20160829",
+        "Price": 13.4619
+    },
+    {
+        "TransDate": "20160830",
+        "Price": 13.4722
+    },
+    {
+        "TransDate": "20160831",
+        "Price": 13.4418
+    },
+    {
+        "TransDate": "20160901",
+        "Price": 13.4101
+    },
+    {
+        "TransDate": "20160902",
+        "Price": 13.4458
+    },
+    {
+        "TransDate": "20160905",
+        "Price": 13.5933
+    },
+    {
+        "TransDate": "20160906",
+        "Price": 13.6038
+    },
+    {
+        "TransDate": "20160907",
+        "Price": 13.6909
+    },
+    {
+        "TransDate": "20160908",
+        "Price": 13.6914
+    },
+    {
+        "TransDate": "20160909",
+        "Price": 13.5265
+    },
+    {
+        "TransDate": "20160912",
+        "Price": 13.2047
+    },
+    {
+        "TransDate": "20160913",
+        "Price": 13.4172
+    },
+    {
+        "TransDate": "20160914",
+        "Price": 13.2549
+    },
+    {
+        "TransDate": "20160915",
+        "Price": 13.2148
+    },
+    {
+        "TransDate": "20160916",
+        "Price": 13.3612
+    },
+    {
+        "TransDate": "20160919",
+        "Price": 13.3175
+    },
+    {
+        "TransDate": "20160920",
+        "Price": 13.371
+    },
+    {
+        "TransDate": "20160921",
+        "Price": 13.4015
+    },
+    {
+        "TransDate": "20160922",
+        "Price": 13.5664
+    },
+    {
+        "TransDate": "20160923",
+        "Price": 13.5469
+    },
+    {
+        "TransDate": "20160926",
+        "Price": 13.4325
+    },
+    {
+        "TransDate": "20160927",
+        "Price": 13.3379
+    },
+    {
+        "TransDate": "20160928",
+        "Price": 13.4528
+    },
+    {
+        "TransDate": "20160929",
+        "Price": 13.5183
+    },
+    {
+        "TransDate": "20160930",
+        "Price": 13.4237
+    },
+    {
+        "TransDate": "20161003",
+        "Price": 13.4239
+    },
+    {
+        "TransDate": "20161004",
+        "Price": 13.4717
+    },
+    {
+        "TransDate": "20161005",
+        "Price": 13.4068
+    },
+    {
+        "TransDate": "20161006",
+        "Price": 13.47
+    },
+    {
+        "TransDate": "20161007",
+        "Price": 13.4215
+    },
+    {
+        "TransDate": "20161010",
+        "Price": 13.3963
+    },
+    {
+        "TransDate": "20161011",
+        "Price": 13.3275
+    },
+    {
+        "TransDate": "20161012",
+        "Price": 13.1849
+    },
+    {
+        "TransDate": "20161013",
+        "Price": 13.2028
+    },
+    {
+        "TransDate": "20161014",
+        "Price": 13.2008
+    },
+    {
+        "TransDate": "20161017",
+        "Price": 13.1875
+    },
+    {
+        "TransDate": "20161018",
+        "Price": 13.2036
+    },
+    {
+        "TransDate": "20161019",
+        "Price": 13.2917
+    },
+    {
+        "TransDate": "20161020",
+        "Price": 13.2546
+    },
+    {
+        "TransDate": "20161021",
+        "Price": 13.1856
+    },
+    {
+        "TransDate": "20161024",
+        "Price": 13.2098
+    },
+    {
+        "TransDate": "20161025",
+        "Price": 13.2987
+    },
+    {
+        "TransDate": "20161026",
+        "Price": 13.2403
+    },
+    {
+        "TransDate": "20161027",
+        "Price": 13.1918
+    },
+    {
+        "TransDate": "20161028",
+        "Price": 13.1563
+    },
+    {
+        "TransDate": "20161031",
+        "Price": 13.1928
+    },
+    {
+        "TransDate": "20161102",
+        "Price": 13.1763
+    },
+    {
+        "TransDate": "20161103",
+        "Price": 13.137
+    },
+    {
+        "TransDate": "20161104",
+        "Price": 13.0659
+    },
+    {
+        "TransDate": "20161107",
+        "Price": 13.0333
+    },
+    {
+        "TransDate": "20161108",
+        "Price": 13.2453
+    },
+    {
+        "TransDate": "20161109",
+        "Price": 13.0383
+    },
+    {
+        "TransDate": "20161110",
+        "Price": 13.1476
+    },
+    {
+        "TransDate": "20161111",
+        "Price": 12.9961
+    },
+    {
+        "TransDate": "20161114",
+        "Price": 12.9652
+    },
+    {
+        "TransDate": "20161115",
+        "Price": 12.8343
+    },
+    {
+        "TransDate": "20161116",
+        "Price": 12.8588
+    },
+    {
+        "TransDate": "20161117",
+        "Price": 13.0024
+    },
+    {
+        "TransDate": "20161118",
+        "Price": 13.055
+    },
+    {
+        "TransDate": "20161121",
+        "Price": 13.0207
+    },
+    {
+        "TransDate": "20161122",
+        "Price": 13.1147
+    },
+    {
+        "TransDate": "20161123",
+        "Price": 13.1156
+    },
+    {
+        "TransDate": "20161124",
+        "Price": 13.0491
+    },
+    {
+        "TransDate": "20161125",
+        "Price": 13.0662
+    },
+    {
+        "TransDate": "20161128",
+        "Price": 13.1136
+    },
+    {
+        "TransDate": "20161129",
+        "Price": 13.1526
+    },
+    {
+        "TransDate": "20161130",
+        "Price": 13.1728
+    }
+]

@@ -1,0 +1,164 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9040863,
+            "SInvRate": 90.40863,
+            "LInvRate": 90.40863
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0908,
+            "SInvRate": 9.08,
+            "LInvRate": 9.08
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0051137,
+            "SInvRate": 0.51137,
+            "LInvRate": 0.51137
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 17.40507
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 14.28904
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 12.78019
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 6.80648
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 5.42972
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 4.23621
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.08625
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 4.06342
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.76419
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 3.07547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 2.55434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 2.39041
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.13029
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 2.11759
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.04572
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.71433
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 1.51993
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NINTENDO CO LTD",
+            "InvRate": 3.33495
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SONY CORP",
+            "InvRate": 3.30224
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "日本電產",
+            "InvRate": 2.90249
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "威孚高科",
+            "InvRate": 2.79185
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MABUCHI MOTOR CO LTD",
+            "InvRate": 2.77777
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "YANZHOU COAL MINING CO-H",
+            "InvRate": 2.55434
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "北京汽車",
+            "InvRate": 2.46234
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "招商銀行",
+            "InvRate": 2.39041
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "普利司通",
+            "InvRate": 2.32275
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "POLA ORBIS HOLDINGS INC",
+            "InvRate": 2.25882
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.4262470573752943,
+            "SInvRate": 42.62471,
+            "LInvRate": 42.62471
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "債券",
+            "InvRate": 0.30555486944451304,
+            "SInvRate": 30.55549,
+            "LInvRate": 30.55549
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "可換股債券",
+            "InvRate": 0.00022249997775000222,
+            "SInvRate": 0.02225,
+            "LInvRate": 0.02225
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.2602422739757726,
+            "SInvRate": 26.02423,
+            "LInvRate": 26.02423
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.007733299226670078,
+            "SInvRate": 0.77333,
+            "LInvRate": 0.77333
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Online Media",
+            "InvRate": 4.16707
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 4.1604
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.06465
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 2.70048
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Biotechnology",
+            "InvRate": 2.69502
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.19687
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Credit Services",
+            "InvRate": 2.01751
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.99099
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.93361
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.89785
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Application Software",
+            "InvRate": 1.87406
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Services",
+            "InvRate": 1.70453
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Devices",
+            "InvRate": 1.42676
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.39334
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Business Services",
+            "InvRate": 1.24302
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Life",
+            "InvRate": 0.87408
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.80197
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.65007
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.59335
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.57145
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 0.56989
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.54882
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 0.5409
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Airlines",
+            "InvRate": 0.48936
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Building Materials",
+            "InvRate": 0.46538
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.45521
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.43885
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Real Estate",
+            "InvRate": 0.41062
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Publishing",
+            "InvRate": 0.36943
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Distribution",
+            "InvRate": 0.28129
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Education",
+            "InvRate": 0.24602
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 0.22553
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Semiconductors",
+            "InvRate": 0.22042
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "THREADNEEDLE EU HI YLD B-X",
+            "InvRate": 5.14859
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "MEX BONOS DESARR FIX RT 8.00 07/12/2023",
+            "InvRate": 5.07566
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "TLUX ENH COMMOD FD XU USD",
+            "InvRate": 4.71443
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "AUSTRALIAN GOVERNMENT 3.25 21/04/2029",
+            "InvRate": 4.02421
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "AUSTRALIAN GOVERNMENT 2.75 21/04/2024",
+            "InvRate": 3.82226
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "MEX BONOS DESARR FIX RT 6.50 09/06/2022",
+            "InvRate": 3.75763
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "TREASURY BILL 0.00 28/07/2016",
+            "InvRate": 2.40539
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "MEX BONOS DESARR FIX RT 7.50 03/06/2027",
+            "InvRate": 2.04484
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "NEW S WALES TREASURY CRP 3.50 20/03/2019",
+            "InvRate": 1.41981
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "ALPHABET INC-CL A",
+            "InvRate": 1.34587
+        }
+    ]
+}

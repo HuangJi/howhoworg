@@ -1,0 +1,210 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 1,
+            "SInvRate": 100,
+            "LInvRate": 100
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 7.51154
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 7.42616
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.69759
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 6.68564
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 6.62582
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 5.60514
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 5.17884
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 4.98428
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 4.41625
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.21707
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 3.58934
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 3.40913
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 3.18992
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 2.75406
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.39169
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.3156
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.26583
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 2.20426
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 2.14959
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 2.14334
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.0999
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.85096
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.82295
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.67896
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.62038
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.39336
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.31021
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.28343
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.17871
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UnitedHealth Group, Inc.",
+            "InvRate": 2.74244
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Facebook, Inc. - Class A",
+            "InvRate": 2.66046
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Amazon.com, Inc.",
+            "InvRate": 2.59744
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Broadcom Ltd.",
+            "InvRate": 2.59599
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Charles Schwab Corp. (The)",
+            "InvRate": 2.52675
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Alphabet, Inc. - Class C",
+            "InvRate": 2.51838
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Intercontinental Exchange, Inc.",
+            "InvRate": 2.51225
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NVIDIA Corp.",
+            "InvRate": 2.48552
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Comcast Corp. - Class A",
+            "InvRate": 2.47464
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Palo Alto Networks, Inc.",
+            "InvRate": 2.46555
+        }
+    ]
+}

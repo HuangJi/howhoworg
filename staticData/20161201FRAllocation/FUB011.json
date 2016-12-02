@@ -1,0 +1,154 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8922565,
+            "SInvRate": 89.22565,
+            "LInvRate": 89.22565
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0833,
+            "SInvRate": 8.33,
+            "LInvRate": 8.33
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0244435,
+            "SInvRate": 2.44435,
+            "LInvRate": 2.44435
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 32.16202
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 11.29502
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 8.96926
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 6.75109
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.39038
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 4.93978
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.85015
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.47395
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 3.23082
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.41877
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 1.59486
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.47204
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.22721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.28749
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.1628
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 8.58691
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "樺漢",
+            "InvRate": 4.09136
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "億豐",
+            "InvRate": 3.81925
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大江",
+            "InvRate": 3.65823
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "精測",
+            "InvRate": 2.96579
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "太醫",
+            "InvRate": 2.57199
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "啟碁",
+            "InvRate": 2.32419
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "葡萄王",
+            "InvRate": 2.10003
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瑞昱",
+            "InvRate": 2.07984
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台光電",
+            "InvRate": 2.03939
+        }
+    ]
+}

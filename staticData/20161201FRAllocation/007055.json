@@ -1,0 +1,224 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9911606,
+            "SInvRate": 99.11606,
+            "LInvRate": 99.11606
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0052598,
+            "SInvRate": 0.52598,
+            "LInvRate": 0.52598
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0035796,
+            "SInvRate": 0.35796,
+            "LInvRate": 0.35796
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 16.46168
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 15.57058
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 11.55795
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 7.95558
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 5.6649
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 4.7981
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 3.52166
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 3.3825
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 2.81288
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.66902
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 2.52357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 2.21674
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.89871
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 1.78041
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.64937
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.39226
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Distribution",
+            "InvRate": 1.36446
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Waste Management",
+            "InvRate": 1.33661
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 1.31747
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.29148
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.12519
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 1.12469
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 0.96255
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.90711
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 0.80866
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 0.75952
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 0.74284
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.48791
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 0.47521
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALIBABA GROUP HOLDING LTD ADR USD 0.000025",
+            "InvRate": 9.99804
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TENCENT HOLDINGS LTD COMMON STOCK HKD 0.00002",
+            "InvRate": 9.91184
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA CONSTRUCTION BANK CORP COMMON STOCK HKD 1",
+            "InvRate": 7.78731
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PING AN INSURANCE GROUP CO OF CHINA LTD COMMON STOCK HKD 1",
+            "InvRate": 6.55856
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CNOOC LTD COMMON STOCK HKD 0",
+            "InvRate": 5.6649
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA MERCHANTS BANK CO LTD COMMON STOCK HKD 1",
+            "InvRate": 4.61589
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA TELECOM CORP LTD COMMON STOCK HKD 1",
+            "InvRate": 3.52888
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JD.COM INC ADR USD 0.00002",
+            "InvRate": 2.87503
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AAC TECHNOLOGIES HOLDINGS INC COMMON STOCK HKD 0.01",
+            "InvRate": 2.81288
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CTRIP.COM INTERNATIONAL LTD ADR USD 0.01",
+            "InvRate": 2.19984
+        }
+    ]
+}

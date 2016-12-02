@@ -1,0 +1,297 @@
+{
+    "Area": "A",
+    "FundId": "CIT023",
+    "StarRatingFromEst": 3,
+    "Name": "群益安家基金",
+    "NameEng": "Capital Strategic Balance",
+    "NameWarning": "",
+    "CPId": "55",
+    "CPName": "群益證券投資信託股份有限公司",
+    "CPNameEng": "Capital Investment Trust Co., Ltd",
+    "AgentCPId": "55",
+    "AgentCPName": "群益證券投資信託股份有限公司",
+    "AgentCPNameEng": "Capital Investment Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 105,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20041119",
+    "CategoryId": "407",
+    "CategoryName": "新台幣積極型股債混合",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票債券混和基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求中長期之投資利得及維持收益之安全為目標,以誠信原則及專業經營方式,將本基金投資於國內上市或上櫃股票,承銷股票,上市之債券換股權利證書,台灣存託憑證,上市證券投資信託基金受益憑證,政府債券,公司債,可轉換公司債,金融債券,依金融資產證券化條例公開招募之受益證券或資產基礎證券,依不動產證券化條例募集之不動產投資信託受益證券或不動產資產信託受益證券及其他經金管會核准於國內募集發行之國外金融組織債券.並應依下列規範進行投資:(1)本基金於成立日起三個月後,投資於國內之上市或上櫃股票,承銷股票,上市之債券換股權利證書,台灣存託憑證,上市證券投資信託基金受益憑證,每年平均不得超過本基金淨資產價值之百分之七十(70%),且每年平均不得低於本基金淨資產價值之百分之三十(30%).",
+    "Custodian": "華南商業銀行",
+    "CustodianFee": 0.12,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 3000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 182415129,
+    "PriceTransDate": "20161201",
+    "Price": 18.4186,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0007,
+    "UpDownRate": 0,
+    "Rr1w": -0.841,
+    "Rr1M": -4.301,
+    "Rr3M": 2.33234,
+    "Rr6M": 9.14515,
+    "RrThisYear": 14.16349,
+    "Rr1Y": 14.8216,
+    "Rr2Y": 12.71065,
+    "Rr3Y": 17.43893,
+    "Rr5Y": 42.96258,
+    "Rr10Y": 90.19831,
+    "RrFromEst": 90.41898,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.95,
+    "Beta1Y": 1.35,
+    "Sharpe1Y": 1.32,
+    "StdDev1Y": 10.34,
+    "Alpha3Y": 0.89,
+    "Beta3Y": 1.01,
+    "Sharpe3Y": 0.48,
+    "StdDev3Y": 10.52,
+    "AriMean3Y": 0.493,
+    "Alpha5Y": 2.56,
+    "Beta5Y": 1.02,
+    "Sharpe5Y": 0.67,
+    "StdDev5Y": 10.05,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": 0.46,
+    "StdDev10Y": 13.72,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.6815875,
+            "SInvRate": 68.15875,
+            "LInvRate": 68.15875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.082606,
+            "SInvRate": 8.2606,
+            "LInvRate": 8.2606
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0527685,
+            "SInvRate": 5.27685,
+            "LInvRate": 5.27685
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1172,
+            "SInvRate": 11.72,
+            "LInvRate": 11.72
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.065838,
+            "SInvRate": 6.5838,
+            "LInvRate": 6.5838
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161201",
+            "Price": 18.4186
+        },
+        {
+            "TransDate": "20161130",
+            "Price": 18.4552
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 18.4545
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 18.458
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 18.4086
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 18.3903
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 18.4843
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 18.4301
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 18.3467
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 18.2435
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 18.207
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 18.2148
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 18.1503
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 18.1451
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 18.2328
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 18.5649
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 18.1599
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 18.6088
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 18.6289
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 18.4634
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 18.4705
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 18.5761
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 19.0072
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 19.0419
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 19.0452
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 19.1231
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 19.2065
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 19.2472
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 19.2034
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 19.2128
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 23.90831
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 15.20657
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.6887
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 5.92602
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.5261
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.6123
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.18957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.09136
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.77545
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 1.45803
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.41753
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.3588
+        }
+    ]
+}

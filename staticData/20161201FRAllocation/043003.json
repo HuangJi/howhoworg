@@ -1,0 +1,127 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 1.0073696007369601,
+            "SInvRate": 100.73695,
+            "LInvRate": 100.73695
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": -0.007369600736960073,
+            "SInvRate": -0.73696,
+            "LInvRate": -0.73696
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 26.60557
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 20.89167
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 15.4939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 10.56249
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 7.30898
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 5.87899
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 4.30855
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Distribution",
+            "InvRate": 2.00101
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Personal Services",
+            "InvRate": 1.24868
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.56676
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.4213
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JOHNSON & JOHNSON",
+            "InvRate": 9.79822
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MEDTRONIC PLC",
+            "InvRate": 5.30725
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALLERGAN PLC",
+            "InvRate": 4.75088
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROCHE HOLDINGS AG (GENUSSCHEINE)",
+            "InvRate": 4.60203
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ABBOTT LABORATORIES",
+            "InvRate": 4.01212
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LILLY (ELI) & CO",
+            "InvRate": 3.79953
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FRESENIUS MED CARE AG & CO AKT",
+            "InvRate": 3.56035
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NOVO-NORDISK AS CL B",
+            "InvRate": 3.50965
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTELLAS PHARMA INC_CFD",
+            "InvRate": 2.82071
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CIGNA CORP",
+            "InvRate": 2.7729
+        }
+    ]
+}

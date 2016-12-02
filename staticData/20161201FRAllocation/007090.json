@@ -1,0 +1,247 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9673224,
+            "SInvRate": 96.73224,
+            "LInvRate": 96.73224
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0326776,
+            "SInvRate": 3.26776,
+            "LInvRate": 3.26776
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 9.79434
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 8.20693
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 7.89395
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 5.67829
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 4.96038
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.74787
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 4.64149
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 3.66857
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Packaging & Containers",
+            "InvRate": 3.49244
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.08798
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.95953
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.87648
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.73568
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.57088
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.37847
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 2.30651
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 1.90935
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.86343
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 1.8462
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.8408
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Waste Management",
+            "InvRate": 1.76813
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.70233
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.67945
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 1.58818
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 1.44032
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.25724
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 1.1566
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 1.13832
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.04269
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.98605
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 0.97712
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 0.88043
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 0.82849
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.49418
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.33311
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TORO CO/THE COMMON STOCK USD 1",
+            "InvRate": 2.47948
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DOUGLAS DYNAMICS INC COMMON STOCK USD 0.01",
+            "InvRate": 2.40028
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "APTARGROUP INC COMMON STOCK USD 0.01",
+            "InvRate": 2.36399
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SPECTRUM BRANDS HOLDINGS INC COMMON STOCK USD 0.01",
+            "InvRate": 2.35211
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "POOL CORP COMMON STOCK USD 0.001",
+            "InvRate": 1.97317
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PATTERSON-UTI ENERGY INC COMMON STOCK USD 0.01",
+            "InvRate": 1.90935
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "IDEXX LABORATORIES INC COMMON STOCK USD 0.1",
+            "InvRate": 1.83858
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BRINKER INTERNATIONAL INC COMMON STOCK USD 0.1",
+            "InvRate": 1.74898
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HEALTHSOUTH CORP COMMON STOCK USD 0.01",
+            "InvRate": 1.58818
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WEST PHARMACEUTICAL SERVICES INC COMMON STOCK USD 0.25",
+            "InvRate": 1.58712
+        }
+    ]
+}

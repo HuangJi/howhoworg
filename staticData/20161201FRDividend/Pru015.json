@@ -1,0 +1,22 @@
+[
+    {
+        "Currency": "TWD",
+        "TransDate": "20000210",
+        "Div": 6.25
+    },
+    {
+        "Currency": "TWD",
+        "TransDate": "19990224",
+        "Div": 2.9
+    },
+    {
+        "Currency": "TWD",
+        "TransDate": "19980216",
+        "Div": 3.5
+    },
+    {
+        "Currency": "TWD",
+        "TransDate": "19970224",
+        "Div": 1.5
+    }
+]

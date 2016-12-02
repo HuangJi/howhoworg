@@ -1,0 +1,248 @@
+{
+    "Area": "B",
+    "FundId": "042033",
+    "StarRatingFromEst": 3,
+    "Name": "貝萊德世界能源基金 A2 歐元",
+    "NameEng": "BGF World Energy A2",
+    "NameWarning": "",
+    "CPId": "33",
+    "CPName": "貝萊德(盧森堡)公司",
+    "CPNameEng": "BlackRock (Luxembourg) SA",
+    "AgentCPId": "101",
+    "AgentCPName": "貝萊德證券投資信託股份有限公司",
+    "AgentCPNameEng": "BlackRock Investment Mngt (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 15,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20010406",
+    "CategoryId": "183",
+    "CategoryName": "能源股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "世界能源基金以盡量提高總回報為目標.基金將不少於70%的總資產投資於全球各地主要從事能源勘探,開發,生產及分銷業務的公司之股本證券.",
+    "Custodian": "紐約梅隆銀行(國際)有限公司",
+    "CustodianFee": 0.441,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": null,
+    "FundSize": null,
+    "PriceTransDate": "20161130",
+    "Price": 16.98,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.96,
+    "UpDownRate": 5.99,
+    "Rr1w": -3.31457,
+    "Rr1M": 0,
+    "Rr3M": 5.67327,
+    "Rr6M": 4.10774,
+    "RrThisYear": 14.18021,
+    "Rr1Y": 0.65104,
+    "Rr2Y": -16.65769,
+    "Rr3Y": -14.44383,
+    "Rr5Y": -11.55606,
+    "Rr10Y": -6.92353,
+    "RrFromEst": 38.53053,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.65,
+    "Beta1Y": 1.14,
+    "Sharpe1Y": 0.07,
+    "StdDev1Y": 21.09,
+    "Alpha3Y": -4.83,
+    "Beta3Y": 1.06,
+    "Sharpe3Y": -0.5,
+    "StdDev3Y": 20.76,
+    "AriMean3Y": -0.862,
+    "Alpha5Y": -5.87,
+    "Beta5Y": 1.06,
+    "Sharpe5Y": -0.3,
+    "StdDev5Y": 18.87,
+    "Alpha10Y": -3,
+    "Beta10Y": 1.07,
+    "Sharpe10Y": -0.01,
+    "StdDev10Y": 23.74,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "94",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9903427,
+            "SInvRate": 99.03427,
+            "LInvRate": 99.03427
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.00935,
+            "SInvRate": 0.935,
+            "LInvRate": 0.935
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0003073,
+            "SInvRate": 0.03073,
+            "LInvRate": 0.03073
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 16.98
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 16.61
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 16.69
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 16.86
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 16.74
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 16.73
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 16.67
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 16.3
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 16.37
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 16.16
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 16.18
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 15.65
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 15.57
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 15.86
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 15.56
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 15.29
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 15.3
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 15.09
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 15.13
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 14.85
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 15.46
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 15.75
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 15.81
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 15.56
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 15.99
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 15.95
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 15.9
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 15.88
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 47.46495
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 30.17548
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 10.26188
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 6.03936
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 5.09259
+        }
+    ]
+}

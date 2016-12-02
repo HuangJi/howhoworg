@@ -1,0 +1,180 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0119519,
+            "SInvRate": 1.19519,
+            "LInvRate": 1.19519
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.6686329,
+            "SInvRate": 66.86329,
+            "LInvRate": 66.86329
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0298593,
+            "SInvRate": 2.98593,
+            "LInvRate": 2.98593
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0151874,
+            "SInvRate": 1.51874,
+            "LInvRate": 1.51874
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.2300881,
+            "SInvRate": 23.00881,
+            "LInvRate": 23.00881
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0442804,
+            "SInvRate": 4.42804,
+            "LInvRate": 4.42804
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.42901
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.08024
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.05378
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.02158
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.01803
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 0.01724
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 0.01484
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 0.01275
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.01187
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 0.00884
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.00841
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 0.00556
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.00536
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.00429
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.00172
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO多元收益債券基金-機構H級類別(累積股份)",
+            "InvRate": 13.08079
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "群益中國高收益債券基金-人民幣",
+            "InvRate": 8.41457
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鋒裕基金-美國高息A2",
+            "InvRate": 8.38898
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO全球高收益債券基金-機構H級類別(累積股份)",
+            "InvRate": 7.63625
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鋒裕基金-新興市場債券A2",
+            "InvRate": 5.56564
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "景順環球高收益債券基金C股 美元",
+            "InvRate": 5.43461
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-新興市場債券基金(美元)",
+            "InvRate": 5.11832
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-亞洲高收益基金(美元累積)",
+            "InvRate": 5.04739
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-歐洲高收益基金(Y類股份累計股份-歐元)",
+            "InvRate": 4.7223
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "英傑華投資-全球高收益債券基金(美元)",
+            "InvRate": 4.33838
+        }
+    ]
+}

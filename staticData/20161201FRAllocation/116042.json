@@ -1,0 +1,91 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160401",
+            "Name": "債券",
+            "InvRate": 0.7211476278852372,
+            "SInvRate": 72.11477,
+            "LInvRate": 72.11477
+        },
+        {
+            "TransDate": "20160401",
+            "Name": "優先股",
+            "InvRate": 0.0017315998268400174,
+            "SInvRate": 0.17316,
+            "LInvRate": 0.17316
+        },
+        {
+            "TransDate": "20160401",
+            "Name": "現金",
+            "InvRate": 0.26376957362304265,
+            "SInvRate": 26.37696,
+            "LInvRate": 26.37696
+        },
+        {
+            "TransDate": "20160401",
+            "Name": "其他",
+            "InvRate": 0.013351198664880133,
+            "SInvRate": 1.33512,
+            "LInvRate": 1.33512
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151001",
+            "Name": "Forest Products",
+            "InvRate": 0.00003
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FEDERAL HOME LOAN BANK DISCOUNT NOTES",
+            "InvRate": 14.92203
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FEDERAL HOME LOAN BANK DISCOUNT NOTES",
+            "InvRate": 8.10949
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FEDERAL HOME LOAN BANK DISCOUNT NOTES",
+            "InvRate": 4.05676
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "ISHARES $ HIGH YIELD CORPORATE BOND UCITS ETF",
+            "InvRate": 2.02006
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "GOVT NATL MORTG ASSN",
+            "InvRate": 1.84149
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FANNIE MAE",
+            "InvRate": 1.57519
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FANNIE MAE",
+            "InvRate": 1.33381
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "MALAYSIA GOVT",
+            "InvRate": 1.24057
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "MEXICAN FIXED RATE BONDS",
+            "InvRate": 1.11957
+        },
+        {
+            "TransDate": "20160401",
+            "ExternalName": "FEDERAL HOME LOAN MORTGAGE CORP",
+            "InvRate": 1.05337
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.914011,
+            "SInvRate": 91.4011,
+            "LInvRate": 91.4011
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1327,
+            "SInvRate": 13.27,
+            "LInvRate": 13.27
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.046711,
+            "SInvRate": -4.6711,
+            "LInvRate": -4.6711
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GeoPark Latin America Ltd Agencia en Chile",
+            "InvRate": 1.71131
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Mexican Bonos",
+            "InvRate": 1.49211
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "REPUBLIC OF ARGENTINA",
+            "InvRate": 1.42666
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Helios Towers Finance Netherlands BV",
+            "InvRate": 1.42373
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Petrobras International Finance Co - Pifco",
+            "InvRate": 1.33598
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "REPUBLIC OF GHANA",
+            "InvRate": 1.31185
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CIA BRASILEIRA DE ALUMIN",
+            "InvRate": 1.24399
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ACI Airport Sudamerica SA",
+            "InvRate": 1.14623
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Grupo Posadas SAB de CV",
+            "InvRate": 1.12263
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Union Andina de Cementos SAA",
+            "InvRate": 1.0737
+        }
+    ]
+}

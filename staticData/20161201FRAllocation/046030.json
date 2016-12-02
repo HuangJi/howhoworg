@@ -1,0 +1,189 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9908725990872599,
+            "SInvRate": 99.08725,
+            "LInvRate": 99.08725
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.004891300489130049,
+            "SInvRate": 0.48913,
+            "LInvRate": 0.48913
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0042361004236100425,
+            "SInvRate": 0.42361,
+            "LInvRate": 0.42361
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 9.14626
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 7.93447
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 7.74532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 7.08736
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 7.07793
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 6.17629
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 5.97402
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 5.30984
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.58767
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 4.33664
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 4.23902
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 4.23873
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 3.74304
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.88804
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 2.71806
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.62477
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.48944
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.33633
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.30916
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.05743
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.03882
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 2.02862
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC. CLASS A COMMON",
+            "InvRate": 7.08736
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ACCENTURE PLC CLASS A",
+            "InvRate": 6.57945
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VISA INC COMMON",
+            "InvRate": 4.33664
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "THERMO FISHER SCIENTIFIC COMMON",
+            "InvRate": 4.23902
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ABBOTT LABS COMMON",
+            "InvRate": 3.74304
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COLGATE PALMOLIVE CO COMMON",
+            "InvRate": 3.7371
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NIKE INC CLASS B",
+            "InvRate": 3.4197
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TEXAS INSTRUMENTS COMMON",
+            "InvRate": 3.24957
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AUTOZONE INC COMMON",
+            "InvRate": 2.93945
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ECOLAB INC COMMON",
+            "InvRate": 2.90445
+        }
+    ]
+}

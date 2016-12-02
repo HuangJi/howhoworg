@@ -1,0 +1,200 @@
+{
+    "Area": "A",
+    "FundId": "Pru037",
+    "StarRatingFromEst": null,
+    "Name": "保德信中國中小證券投資信託基金－美元",
+    "NameEng": "Prudential Financial China SMID USD",
+    "NameWarning": "",
+    "CPId": "74",
+    "CPName": "保德信證券投資信託股份有限公司",
+    "CPNameEng": "Prudential Financial Sec Inv Trust Ent",
+    "AgentCPId": "74",
+    "AgentCPName": "保德信證券投資信託股份有限公司",
+    "AgentCPNameEng": "Prudential Financial Sec Inv Trust Ent",
+    "RctName": "台灣",
+    "Count": 3,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20160905",
+    "CategoryId": "152",
+    "CategoryName": "中國股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於中華民國有價證券及外國有價證券.原則上,本基金自成立日起六個月後,投資於上市或上櫃公司股票,承銷股票,興櫃股票,存託憑證之總金額不低於本基金淨資產價值之百分之七十(含);投資於中國大陸,香港之有價證券,及中國大陸,香港政府或企業所發行而於中華民國,新加坡,美國,英國,德國及法國等國家或地區交易之有價證券總金額,不得低於本基金淨資產價值之百分之六十(含);投資於中小型公司所發行之有價證券總金額,不得低於本基金淨資產價值之百分之六十(含).",
+    "Custodian": "臺灣土地銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.8,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 300,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 90363295.46,
+    "PriceTransDate": "20161130",
+    "Price": 9.47,
+    "PerformanceTransDate": null,
+    "UpDown": -0.02,
+    "UpDownRate": -0.21,
+    "Rr1w": null,
+    "Rr1M": null,
+    "Rr3M": null,
+    "Rr6M": null,
+    "RrThisYear": null,
+    "Rr1Y": null,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": null,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": null,
+    "StdDev1Y": null,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 5,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "N",
+    "StopTradeType": null,
+    "AssertAllocation": [],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.47
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.46
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.48
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.47
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.46
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.49
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.56
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.54
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.59
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.65
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.67
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.72
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.73
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.79
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.78
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.8
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.73
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.75
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.78
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.81
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.86
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.85
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.79
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.89
+        }
+    ],
+    "IndustryRatio": []
+}

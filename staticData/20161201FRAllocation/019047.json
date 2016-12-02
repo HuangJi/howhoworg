@@ -1,0 +1,208 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9719668,
+            "SInvRate": 97.19668,
+            "LInvRate": 97.19668
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.0104901,
+            "SInvRate": 1.04901,
+            "LInvRate": 1.04901
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.00022,
+            "SInvRate": 0.022,
+            "LInvRate": 0.022
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0170992,
+            "SInvRate": 1.70992,
+            "LInvRate": 1.70992
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0002239,
+            "SInvRate": 0.02239,
+            "LInvRate": 0.02239
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 17.34363
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 12.14331
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 8.05898
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Specialty",
+            "InvRate": 7.94301
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 5.98774
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 5.87469
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 5.01823
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 4.84774
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 4.70919
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.07122
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 3.0962
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.90877
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 2.85498
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.0941
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.78493
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.76539
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.74571
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.62164
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 1.16497
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.94146
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Employment Services",
+            "InvRate": 0.6992
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 0.33655
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.18502
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MUENCHENER RUECKVER AG-REG",
+            "InvRate": 5.02192
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SES",
+            "InvRate": 4.9406
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROYAL DUTCH SHELL PLC-A SHS",
+            "InvRate": 4.71637
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SUNRISE COMMUNICATIONS GROUP",
+            "InvRate": 4.34055
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VODAFONE GROUP PLC",
+            "InvRate": 3.56614
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FREENET AG",
+            "InvRate": 3.52917
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CIA DE DISTRIBUCION INTEGRAL",
+            "InvRate": 3.50703
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALLIANZ SE-REG",
+            "InvRate": 3.36225
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VIVENDI",
+            "InvRate": 3.11149
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "YARA INTERNATIONAL ASA",
+            "InvRate": 3.09401
+        }
+    ]
+}

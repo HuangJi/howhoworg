@@ -1,0 +1,298 @@
+{
+    "Area": "A",
+    "FundId": "DEF003",
+    "StarRatingFromEst": 1,
+    "Name": "德銀遠東DWS台灣旗艦基金",
+    "NameEng": "DFE DWS TW Flagship",
+    "NameWarning": "",
+    "CPId": "83",
+    "CPName": "德銀遠東證券投資信託股份有限公司",
+    "CPNameEng": "Deutsche FE DWS Asset Mgmt Co.,Ltd",
+    "AgentCPId": "83",
+    "AgentCPName": "德銀遠東證券投資信託股份有限公司",
+    "AgentCPNameEng": "Deutsche FE DWS Asset Mgmt Co.,Ltd",
+    "RctName": "台灣",
+    "Count": 11,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20010802",
+    "CategoryId": "403",
+    "CategoryName": "台灣大型股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於中華民國境內之上市或上櫃股票,承銷股票,上市受益憑證,台灣存託憑證,政府公債,公司債,可轉換公司債,金融債券,上市債券換股權利證書及其他經財政部核准於國內募集發行之國外金融組織債券.本基金自成立日起三個月後,投資於股票之總額不低於本基金淨資產價值之百分之七十(含).但在特殊情形下,為分散風險,確保基金安全之目的,經理公司依其專業判斷得不受前述投資比例之限制.",
+    "Custodian": "永豐銀行",
+    "CustodianFee": 0.15,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.6,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 10000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 281643630,
+    "PriceTransDate": "20161201",
+    "Price": 16.23,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.04,
+    "UpDownRate": 0.25,
+    "Rr1w": -1.08238,
+    "Rr1M": -2.31591,
+    "Rr3M": 1.2931,
+    "Rr6M": 5.99227,
+    "RrThisYear": 3.26428,
+    "Rr1Y": -0.24257,
+    "Rr2Y": -3.40576,
+    "Rr3Y": -2.72028,
+    "Rr5Y": 11.14866,
+    "Rr10Y": -1.14179,
+    "RrFromEst": 64.49992,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -5.28,
+    "Beta1Y": 0.81,
+    "Sharpe1Y": -0.07,
+    "StdDev1Y": 8.5,
+    "Alpha3Y": -4.16,
+    "Beta3Y": 1.01,
+    "Sharpe3Y": -0.11,
+    "StdDev3Y": 10.82,
+    "AriMean3Y": -0.028,
+    "Alpha5Y": -2.47,
+    "Beta5Y": 0.96,
+    "Sharpe5Y": 0.16,
+    "StdDev5Y": 12.19,
+    "Alpha10Y": -0.95,
+    "Beta10Y": 0.97,
+    "Sharpe10Y": 0.04,
+    "StdDev10Y": 19.98,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9203801,
+            "SInvRate": 92.03801,
+            "LInvRate": 92.03801
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0794,
+            "SInvRate": 7.94,
+            "LInvRate": 7.94
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0002199,
+            "SInvRate": 0.02199,
+            "LInvRate": 0.02199
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161201",
+            "Price": 16.23
+        },
+        {
+            "TransDate": "20161130",
+            "Price": 16.22
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 16.18
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 16.2
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 16.05
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 16
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 16.06
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 15.94
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 15.91
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 15.82
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 15.74
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 15.67
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 15.69
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 15.81
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 16.18
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 15.79
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 16.22
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 16.16
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 15.97
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 15.95
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 16.08
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 16.41
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 16.45
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 16.53
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 16.53
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 16.65
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 16.72
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 16.63
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 16.59
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 22.63667
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 18.39745
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 8.90008
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 7.41273
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.38523
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.90111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 4.81249
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.80295
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.62937
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.43624
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 3.05311
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 2.04339
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.44717
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.25213
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.9279
+        }
+    ]
+}

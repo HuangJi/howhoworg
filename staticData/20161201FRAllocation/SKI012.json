@@ -1,0 +1,111 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.2613085261308526,
+            "SInvRate": 26.13085,
+            "LInvRate": 26.13085
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.5846518584651859,
+            "SInvRate": 58.46518,
+            "LInvRate": 58.46518
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.14490001449000145,
+            "SInvRate": 14.49,
+            "LInvRate": 14.49
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.009139600913960091,
+            "SInvRate": 0.91396,
+            "LInvRate": 0.91396
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 11.3953
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 9.74804
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.04101
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.47481
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.4717
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Plains All American Pipeline LP / PAA Finance Corp",
+            "InvRate": 3.26568
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Dollar General Corp",
+            "InvRate": 3.25065
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Pioneer Natural Resources Co",
+            "InvRate": 2.68875
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Ford Motor Credit Co LLC",
+            "InvRate": 2.66162
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Kinder Morgan Inc/DE",
+            "InvRate": 2.64983
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "General Motors Financial Co Inc",
+            "InvRate": 2.62531
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "General Motors Financial Co Inc",
+            "InvRate": 2.31856
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Kroger Co/The",
+            "InvRate": 2.28742
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Anheuser-Busch InBev Finance Inc",
+            "InvRate": 2.07933
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ProLogis Inc",
+            "InvRate": 1.97284
+        }
+    ]
+}

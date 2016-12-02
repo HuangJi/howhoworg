@@ -1,0 +1,199 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8984173,
+            "SInvRate": 89.84173,
+            "LInvRate": 89.84173
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.099,
+            "SInvRate": 9.9,
+            "LInvRate": 9.9
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0025827,
+            "SInvRate": 0.25827,
+            "LInvRate": 0.25827
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 16.9301
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 10.82748
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 9.46216
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 8.09989
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 6.58525
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.24788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.02879
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 3.02718
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.81781
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.56705
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 2.46467
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.30884
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.2719
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.87107
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 1.85597
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 1.60298
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.52951
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.28841
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.25857
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 1.22399
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.08203
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.03402
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 0.91232
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.54386
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Wangsu Science & Technolog-A. 300017 cs",
+            "InvRate": 4.66772
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EICHER MOTORS LTD",
+            "InvRate": 3.69677
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Galaxy Entertainment Group Ltd",
+            "InvRate": 2.81781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Shenzhou International Group. 2313hk",
+            "InvRate": 2.81677
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Tencent Holdings LTD.700hk",
+            "InvRate": 2.66654
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Byd company LTD-H .1211 hk",
+            "InvRate": 2.65506
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HOLDING-SP ADR",
+            "InvRate": 2.56705
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "YY INC-ADR",
+            "InvRate": 2.56419
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HUANENG RENEWABLES CORP-H",
+            "InvRate": 2.46467
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Guangzhou Automobile Group Co Ltd 2238hk",
+            "InvRate": 2.34026
+        }
+    ]
+}

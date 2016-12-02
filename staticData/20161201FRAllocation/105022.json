@@ -1,0 +1,179 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.983351,
+            "SInvRate": 98.3351,
+            "LInvRate": 98.3351
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.016345,
+            "SInvRate": 1.6345,
+            "LInvRate": 1.6345
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.000304,
+            "SInvRate": 0.0304,
+            "LInvRate": 0.0304
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 21.19339
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 13.89441
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 9.01759
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 8.28788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 7.87011
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.75099
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 6.10729
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 5.61898
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 2.5691
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.30866
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.04388
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 1.87222
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 1.78208
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.55344
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.50596
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.48796
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.28323
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.16727
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.0682
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 0.95244
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD HKD0.00002",
+            "InvRate": 8.72838
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFAC TWD10",
+            "InvRate": 7.83486
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HOLDING-SP ADR",
+            "InvRate": 6.75099
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MOBILE LTD NPV",
+            "InvRate": 5.62847
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA CONSTRUCTION BANK-H CNY1",
+            "InvRate": 5.02866
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IND & COMM BK OF CHINA-H CNY1",
+            "InvRate": 4.26804
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIA GROUP LTD NPV",
+            "InvRate": 3.93192
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF CHINA LTD-H CNY1",
+            "InvRate": 3.77241
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BAIDU INC - SPON ADR",
+            "InvRate": 3.29937
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HON HAI PRECISION INDUSTRY TWD10",
+            "InvRate": 2.85095
+        }
+    ]
+}

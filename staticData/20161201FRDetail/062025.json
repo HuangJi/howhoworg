@@ -1,0 +1,250 @@
+{
+    "Area": "B",
+    "FundId": "062025",
+    "StarRatingFromEst": null,
+    "Name": "百達-生物科技-HR 歐元",
+    "NameEng": "Pictet-Biotech HR EUR",
+    "NameWarning": "",
+    "CPId": "24",
+    "CPName": "百達資產管理",
+    "CPNameEng": "Pictet Asset Management (Europe) SA",
+    "AgentCPId": "321",
+    "AgentCPName": "百達證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Pictet Funds (Taiwan)",
+    "RctName": "盧森堡",
+    "Count": 15,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20040630",
+    "CategoryId": "187",
+    "CategoryName": "其他行業股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此成分基金的目標是藉投資於由在醫療行業作為創新先鋒的生物醫藥公司所發行的股票或類似證券,以達致增長.成分基金將至少以其淨資產的三分之二投資於由從事該行業的公司所發行的股票.此成分基金的投資並沒有地域上的限制,但由於醫藥行業所有創新產品集中於北美及西歐,此成分基金的大部分投資亦集中於這些地區.為了就醫藥行業的創新項目提供資金,此生物科技成分基金最多可以其淨資產的10%投資於私人股票及／或非上市證券.",
+    "Custodian": "百達(歐洲)",
+    "CustodianFee": 0.3,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2.9,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 942581729.01,
+    "PriceTransDate": "20161130",
+    "Price": 392.62,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 1.62,
+    "UpDownRate": 0.4,
+    "Rr1w": -3.43489,
+    "Rr1M": -10.97941,
+    "Rr3M": -13.74024,
+    "Rr6M": -7.53148,
+    "RrThisYear": -27.73738,
+    "Rr1Y": -25.60765,
+    "Rr2Y": -18.4213,
+    "Rr3Y": 6.44336,
+    "Rr5Y": 85.07746,
+    "Rr10Y": 67.78289,
+    "RrFromEst": 100.104057,
+    "RatingTransDate": null,
+    "Alpha1Y": -28.54,
+    "Beta1Y": 2.67,
+    "Sharpe1Y": -0.73,
+    "StdDev1Y": 33.72,
+    "Alpha3Y": -8.23,
+    "Beta3Y": 1.54,
+    "Sharpe3Y": -0.07,
+    "StdDev3Y": 26.15,
+    "AriMean3Y": -0.133,
+    "Alpha5Y": -3.52,
+    "Beta5Y": 1.53,
+    "Sharpe5Y": 0.42,
+    "StdDev5Y": 24.8,
+    "Alpha10Y": 1.47,
+    "Beta10Y": 1.18,
+    "Sharpe10Y": 0.24,
+    "StdDev10Y": 27.4,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9496023,
+            "SInvRate": 94.96023,
+            "LInvRate": 94.96023
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0223613,
+            "SInvRate": 2.23613,
+            "LInvRate": 2.23613
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0078694,
+            "SInvRate": 0.78694,
+            "LInvRate": 0.78694
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.020167,
+            "SInvRate": 2.0167,
+            "LInvRate": 2.0167
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 392.62
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 401.64
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 400.02
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 407.12
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 405.64
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 401.84
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 409.43
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 407.24
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 411.38
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 408.25
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 414.63
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 417.75
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 412.32
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 415.32
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 408.08
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 374.65
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 373.34
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 361.42
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 353.51
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 363.47
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 365.75
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 371.13
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 377.55
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 375.99
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 376.22
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 378.76
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 381.23
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 385.49
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 381.81
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 384.7
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 79.56627
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 6.88199
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.16571
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.34626
+        }
+    ]
+}

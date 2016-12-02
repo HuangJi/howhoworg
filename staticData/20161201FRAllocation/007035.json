@@ -1,0 +1,216 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9765440023455998,
+            "SInvRate": 97.65441,
+            "LInvRate": 97.65441
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0017355998264400173,
+            "SInvRate": 0.17356,
+            "LInvRate": 0.17356
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.019302298069770192,
+            "SInvRate": 1.93023,
+            "LInvRate": 1.93023
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.002418099758190024,
+            "SInvRate": 0.24181,
+            "LInvRate": 0.24181
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 29.68174
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 22.1213
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 8.24644
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 7.36497
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 4.88729
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.64165
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 3.05763
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.69438
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 1.91095
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.80419
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.57338
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 1.50535
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.4037
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 1.35093
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 1.31454
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.14726
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 0.86897
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Employment Services",
+            "InvRate": 0.73197
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 0.48257
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 0.47644
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 0.47544
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 0.46337
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.39866
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 0.02808
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.01762
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.0056
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GAZPROM PJSC",
+            "InvRate": 9.61501
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SBERBANK OF RUSSIA PJSC ADR USD",
+            "InvRate": 9.37352
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LUKOIL PJSC ADR USD 0.025",
+            "InvRate": 8.04952
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MAGNIT PJSC COMMON STOCK RUB 0.01",
+            "InvRate": 6.06678
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NOVATEK OJSC GDR USD",
+            "InvRate": 5.20546
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "OTP BANK PLC COMMON STOCK HUF 100",
+            "InvRate": 4.36012
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROSNEFT PJSC GDR USD",
+            "InvRate": 4.02618
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MMC NORILSK NICKEL PJSC-ADR",
+            "InvRate": 3.31872
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TURKIYE GARANTI BANKASI AS COMMON STOCK TRY 1",
+            "InvRate": 3.04232
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "POWSZECHNY ZAKLAD UBEZPIECZEN SA COMMON STOCK PLN 0.1",
+            "InvRate": 2.69438
+        }
+    ]
+}

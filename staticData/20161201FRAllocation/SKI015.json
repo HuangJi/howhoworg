@@ -1,0 +1,139 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.942513,
+            "SInvRate": 94.2513,
+            "LInvRate": 94.2513
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0551,
+            "SInvRate": 5.51,
+            "LInvRate": 5.51
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.002387,
+            "SInvRate": 0.2387,
+            "LInvRate": 0.2387
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 26.66704
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 24.41998
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 14.50118
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 14.01029
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 4.51695
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.82778
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.79194
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.6552
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.26821
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.99741
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.94736
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 0.64796
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 6.75665
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "F-譜瑞",
+            "InvRate": 6.47244
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 5.4369
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "皇田",
+            "InvRate": 5.24177
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "材料-KY",
+            "InvRate": 4.51695
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "亞德客-KY",
+            "InvRate": 4.40523
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "碩天",
+            "InvRate": 3.77038
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "臻鼎-KY",
+            "InvRate": 3.68398
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "同致電子",
+            "InvRate": 3.66194
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "敦泰",
+            "InvRate": 3.53786
+        }
+    ]
+}

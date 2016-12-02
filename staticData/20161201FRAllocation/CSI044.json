@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0295469,
+            "SInvRate": 2.95469,
+            "LInvRate": 2.95469
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8429691,
+            "SInvRate": 84.29691,
+            "LInvRate": 84.29691
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1096777,
+            "SInvRate": 10.96777,
+            "LInvRate": 10.96777
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0178063,
+            "SInvRate": 1.78063,
+            "LInvRate": 1.78063
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CAR INC",
+            "InvRate": 4.18953
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LONGFOR PROPERTIES",
+            "InvRate": 3.82051
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COUNTRY GARDEN HLDG CO",
+            "InvRate": 3.31689
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EHI CAR SERVICES LTD",
+            "InvRate": 3.25453
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHUI ON DEVELOPMENT HOLD",
+            "InvRate": 3.24837
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Geely Automobile Holdings Ltd",
+            "InvRate": 3.2169
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MCE Finance Ltd",
+            "InvRate": 3.1107
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GREENKO INVESTMENT CO",
+            "InvRate": 3.01632
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Unigroup International Holdings Ltd",
+            "InvRate": 2.95469
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DORSETT HOSPITALITY INTL",
+            "InvRate": 2.77389
+        }
+    ]
+}

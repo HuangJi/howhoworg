@@ -1,0 +1,263 @@
+{
+    "Area": "B",
+    "FundId": "081014",
+    "StarRatingFromEst": 1,
+    "Name": "安本環球亞洲地產股票基金X - 2 類",
+    "NameEng": "Aberdeen Glb Asian Prpty Shr X2 $",
+    "NameWarning": "",
+    "CPId": "53",
+    "CPName": "安本資產管理",
+    "CPNameEng": "Aberdeen Global Services SA",
+    "AgentCPId": "326",
+    "AgentCPName": "安本國際證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Aberdeen Intl Secs Invmt Consult Co Ltd",
+    "RctName": "盧森堡",
+    "Count": 117,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20121203",
+    "CategoryId": "389",
+    "CategoryName": "亞洲房地產(間接)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金的投資目標在於追求長期總報酬,以至少三分之二的基金資產投資於股票和股票相關證券,該等股票及股票相關證券之發行公司須為註冊營業處位於亞太地區國家的房地產公司;和/或其大部分商業活動發生於亞太地區國家的房地產公司;和/或大部分資產投資於亞太地區國家註冊成立的房地產公司的控股公司.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 0.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 49816310,
+    "PriceTransDate": "20161130",
+    "Price": 9.0438,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0533,
+    "UpDownRate": 0.59,
+    "Rr1w": -1.08061,
+    "Rr1M": -2.34795,
+    "Rr3M": -2.39206,
+    "Rr6M": -0.10751,
+    "RrThisYear": 4.59995,
+    "Rr1Y": 1.12649,
+    "Rr2Y": -12.6421,
+    "Rr3Y": -11.89741,
+    "Rr5Y": 19.38365,
+    "Rr10Y": null,
+    "RrFromEst": 34.72239,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -5.05,
+    "Beta1Y": 0.9,
+    "Sharpe1Y": 0.12,
+    "StdDev1Y": 14.5,
+    "Alpha3Y": -4.24,
+    "Beta3Y": 0.84,
+    "Sharpe3Y": -0.26,
+    "StdDev3Y": 13.29,
+    "AriMean3Y": -0.279,
+    "Alpha5Y": -2.23,
+    "Beta5Y": 0.82,
+    "Sharpe5Y": 0.3,
+    "StdDev5Y": 15.23,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "48",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9913147,
+            "SInvRate": 99.13147,
+            "LInvRate": 99.13147
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0065631,
+            "SInvRate": 0.65631,
+            "LInvRate": 0.65631
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0021222,
+            "SInvRate": 0.21222,
+            "LInvRate": 0.21222
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.0438
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 8.9905
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.0022
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.9676
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 8.937
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.9805
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.9788
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 8.9834
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.9828
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 8.9764
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 8.9295
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.0057
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.0238
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.1288
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.1962
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.1984
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.2794
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.2532
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.2675
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.3169
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.3194
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.2913
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.2891
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.3729
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.3797
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.3995
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.3928
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.3452
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.3643
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 9.3247
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 47.17214
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 15.76931
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 14.24411
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 7.56705
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 6.17298
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 5.16255
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.55888
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 1.48446
+        }
+    ]
+}

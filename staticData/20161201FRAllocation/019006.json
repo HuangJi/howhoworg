@@ -1,0 +1,204 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9753351,
+            "SInvRate": 97.53351,
+            "LInvRate": 97.53351
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.024574,
+            "SInvRate": 2.4574,
+            "LInvRate": 2.4574
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0000909,
+            "SInvRate": 0.00909,
+            "LInvRate": 0.00909
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 18.01806
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 10.76731
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 9.92353
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 6.5444
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 6.32863
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 3.85833
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.75724
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.48001
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.26233
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.85494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 2.82961
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.74192
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.37986
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 2.32274
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 2.20295
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 2.0877
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 1.96585
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.93422
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 1.70577
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 1.51629
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.49175
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.29157
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.09421
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.02132
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.99711
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHALLENGER LTD",
+            "InvRate": 2.8735
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "POWER ASSETS HOLDINGS LTD",
+            "InvRate": 2.84066
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFAC",
+            "InvRate": 2.82961
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "QBE INSURANCE GROUP LTD",
+            "InvRate": 2.74192
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PCCW LTD",
+            "InvRate": 2.42983
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SPARK INFRASTRUCTURE GROUP",
+            "InvRate": 2.32311
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SPOTLESS GROUP HOLDINGS LTD",
+            "InvRate": 2.32274
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA CONSTRUCTION BANK-H",
+            "InvRate": 2.29809
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IND & COMM BK OF CHINA-H",
+            "InvRate": 2.29265
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FLETCHER BUILDING LTD",
+            "InvRate": 2.23142
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9958450004155,
+            "SInvRate": 99.58451,
+            "LInvRate": 99.58451
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.004132499586750041,
+            "SInvRate": 0.41325,
+            "LInvRate": 0.41325
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.000022499997750000224,
+            "SInvRate": 0.00225,
+            "LInvRate": 0.00225
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 17.66257
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 16.47943
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 10.6302
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.76971
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 6.20995
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.70098
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 4.66734
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.25757
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.25554
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 3.60441
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 3.03609
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.90564
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 2.72275
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.56802
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 2.3092
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.15092
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 1.87689
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 1.47082
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.6713
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 0.29649
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INFOSYS LTD INR5",
+            "InvRate": 8.5269
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HOUSING DEVELOPMENT FINANCE INR2",
+            "InvRate": 6.95233
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LARSEN & TOUBRO LTD INR2",
+            "InvRate": 4.70098
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TATA CONSULTANCY SVCS LTD INR1",
+            "InvRate": 4.56803
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TATA MOTORS LTD-A-DVR INR2",
+            "InvRate": 4.567
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DR. REDDY'S LABORATORIES INR5",
+            "InvRate": 3.76175
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ITC LTD INR1",
+            "InvRate": 3.60441
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LIC HOUSING FINANCE LTD INR2",
+            "InvRate": 3.5125
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TATA MOTORS LTD INR2",
+            "InvRate": 3.49032
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RELIANCE INDUSTRIES LTD INR10",
+            "InvRate": 3.30788
+        }
+    ]
+}

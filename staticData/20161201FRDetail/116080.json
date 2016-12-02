@@ -1,0 +1,236 @@
+{
+    "Area": "B",
+    "FundId": "116080",
+    "StarRatingFromEst": null,
+    "Name": "富蘭克林坦伯頓全球投資系列－全球房地產基金歐元避險A (Ydis)股-H1",
+    "NameEng": "Franklin Global Real Estate A Ydis EURH1",
+    "NameWarning": "本基金之配息來源可能為本金",
+    "CPId": "30",
+    "CPName": "富蘭克林鄧普頓投資",
+    "CPNameEng": "Franklin Templeton Investment Funds",
+    "AgentCPId": "325",
+    "AgentCPName": "富蘭克林證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Franklin Templeton Invsmts (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 12,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20100820",
+    "CategoryId": "764",
+    "CategoryName": "房地產 - 其他（間接）",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金之在於收益與增值總報酬極大化.投資經理公司藉由於不動產信託基金(Real Estate Investment Trusts,REITs)以及其他位於世界各地(包括新興市場)主要業務為從事融資,買賣,持有,開發和管理不動產的及相關業務公司(包括小型到中)來尋求達成其投資目標.“不動產投資信託基金”是以公司股份形式在證券交易所掛牌上市,其將顯著部位淨資產直接投於不動相關資產則得以享有特殊優惠稅制.本基金的這些投資係為符合規範可轉讓證券.本基尋求投資的公司標的係跨越廣泛的不動產產業以及國家.本基金也得為貨幣避險以及/或是效率投組管理(例如但不限定於遠期交易和交叉遠期交易,利率期貨,互換交易以及選擇權)而運用各種不同的金融衍生性商品.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.14,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 276711124.79,
+    "PriceTransDate": "20161130",
+    "Price": 12.92,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.09,
+    "UpDownRate": -0.69,
+    "Rr1w": -1.98384,
+    "Rr1M": -6.12245,
+    "Rr3M": -10.40967,
+    "Rr6M": -3.54456,
+    "RrThisYear": -1.3903,
+    "Rr1Y": -2.791,
+    "Rr2Y": -1.36698,
+    "Rr3Y": 8.53287,
+    "Rr5Y": 34.90273,
+    "Rr10Y": null,
+    "RrFromEst": 48.8123,
+    "RatingTransDate": null,
+    "Alpha1Y": -7.45,
+    "Beta1Y": 1.39,
+    "Sharpe1Y": -0.09,
+    "StdDev1Y": 21.04,
+    "Alpha3Y": -10,
+    "Beta3Y": 1.11,
+    "Sharpe3Y": -0.21,
+    "StdDev3Y": 15.78,
+    "AriMean3Y": -0.27,
+    "Alpha5Y": -8.96,
+    "Beta5Y": 1.2,
+    "Sharpe5Y": 0.15,
+    "StdDev5Y": 17.41,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "116",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9888147,
+            "SInvRate": 98.88147,
+            "LInvRate": 98.88147
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0111853,
+            "SInvRate": 1.11853,
+            "LInvRate": 1.11853
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 12.92
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 13.01
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 12.92
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 12.84
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 12.8
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 12.79
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 12.84
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 12.69
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 12.68
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 12.69
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 12.74
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 12.81
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 12.84
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 12.75
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 12.75
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 12.97
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 13.19
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 13.13
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 13.06
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 13.03
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 13.07
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 13.19
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 13.34
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 13.19
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 13.18
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 13.44
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 13.61
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 13.61
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 13.57
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 13.62
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 76.99957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 20.6521
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.82516
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.40464
+        }
+    ]
+}

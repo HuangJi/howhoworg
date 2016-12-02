@@ -1,0 +1,125 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": -0.0103101,
+            "SInvRate": -1.03101,
+            "LInvRate": -1.03101
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.8871608,
+            "SInvRate": 88.71608,
+            "LInvRate": 88.71608
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0153266,
+            "SInvRate": 1.53266,
+            "LInvRate": 1.53266
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0168327,
+            "SInvRate": 1.68327,
+            "LInvRate": 1.68327
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0689016,
+            "SInvRate": 6.89016,
+            "LInvRate": 6.89016
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0220884,
+            "SInvRate": 2.20884,
+            "LInvRate": 2.20884
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 0.9723
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.46925
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.28177
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 0.18166
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.01942
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FIRST DATA CORPORATION 144A 7 12/01/2023",
+            "InvRate": 0.97985
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CAESARS ENTERTAINMENT RESORT PROPE 8 10/01/2020",
+            "InvRate": 0.94795
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AMAYA INC NPV CNV PRF 0 12/31/2049",
+            "InvRate": 0.93167
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GAZ CAPITAL SA 144A 4.95 07/19/2022",
+            "InvRate": 0.88731
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NGPL PIPECO LLC 144A 7.119 12/15/2017",
+            "InvRate": 0.87977
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALLY FINANCIAL INC 8 11/01/2031",
+            "InvRate": 0.85811
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ATALAYA LUXCO PIKCO RegS 13.25 05/30/2020",
+            "InvRate": 0.85358
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ARGENTINA REPUBLIC OF GOVERNMENT 144A 7.5 04/22/2026",
+            "InvRate": 0.83601
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FREEPORT-MCMORAN COPPER & GOLD INC 2.375 03/15/2018",
+            "InvRate": 0.75939
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SFR GROUP SA 144A 7.375 05/01/2026",
+            "InvRate": 0.72796
+        }
+    ]
+}

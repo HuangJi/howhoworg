@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.7788379,
+            "SInvRate": 77.88379,
+            "LInvRate": 77.88379
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.2223,
+            "SInvRate": 22.23,
+            "LInvRate": 22.23
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0011379,
+            "SInvRate": -0.11379,
+            "LInvRate": -0.11379
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TRAGAS 9% 5/8",
+            "InvRate": 3.69904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SBERRU 5.18%",
+            "InvRate": 3.44397
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BBVASM 6% 3/4",
+            "InvRate": 3.34798
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "STABAN 8% 1/8",
+            "InvRate": 3.05598
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BCP 6% 1/8",
+            "InvRate": 3.01363
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FSRSJ 4% 1/4",
+            "InvRate": 2.80904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FERMCA 6% 3/8",
+            "InvRate": 2.66107
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GMEXIB 5% 1/2",
+            "InvRate": 2.62418
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BCOLO 5.95%",
+            "InvRate": 2.45379
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ECLCI 5% 5/8",
+            "InvRate": 2.42138
+        }
+    ]
+}

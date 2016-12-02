@@ -1,0 +1,189 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9828124,
+            "SInvRate": 98.28124,
+            "LInvRate": 98.28124
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0164433,
+            "SInvRate": 1.64433,
+            "LInvRate": 1.64433
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0007443,
+            "SInvRate": 0.07443,
+            "LInvRate": 0.07443
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 10.03577
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 9.41365
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 7.88617
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 6.32591
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 6.31838
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 5.98961
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 5.95665
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 5.67101
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 5.32873
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 4.11368
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.92244
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 3.58075
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.48198
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 3.36956
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Coal",
+            "InvRate": 3.17312
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.88966
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.09876
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Packaging & Containers",
+            "InvRate": 1.97379
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.85696
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.66698
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.6436
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.58408
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ADVANCED INFO SERVICE-FOR RG",
+            "InvRate": 6.32591
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CP ALL PCL-FOREIGN",
+            "InvRate": 5.98961
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SIAM CEMENT PUB CO-FOR REG",
+            "InvRate": 5.95665
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PTT PCL/FOREIGN",
+            "InvRate": 5.32873
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VGI GLOBAL MEDIA PCL-FOREIGN",
+            "InvRate": 4.11368
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANGKOK CHAIN HOSPITAL-FOREG",
+            "InvRate": 4.09581
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AIRPORTS OF THAILAND PCL-FOR",
+            "InvRate": 3.92244
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CENTRAL PATTANA PUB CO-FOREI",
+            "InvRate": 3.85052
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SINO-THAI ENGR & CONST-FOR",
+            "InvRate": 3.80846
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANGKOK DUSIT MED SERVICE-F",
+            "InvRate": 3.79036
+        }
+    ]
+}

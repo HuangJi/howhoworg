@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9198875,
+            "SInvRate": 91.98875,
+            "LInvRate": 91.98875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0735775,
+            "SInvRate": 7.35775,
+            "LInvRate": 7.35775
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.006535,
+            "SInvRate": 0.6535,
+            "LInvRate": 0.6535
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNITED STATES TREASURY NOTE/BOND 1.13% 31/08/2021",
+            "InvRate": 1.80874
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WALT DISNEY CO/THE 4.13% 01/06/2044",
+            "InvRate": 1.80452
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF NEW YORK MELLON CORP/T 2.8% 04/05/2026",
+            "InvRate": 1.2563
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROCHE HOLDINGS INC 2.63% 15/05/2026",
+            "InvRate": 1.21272
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SANTANDER UK PLC 2.5% 14/03/2019",
+            "InvRate": 1.19248
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HOUSTON GALLERIA MALL TRUST 20 3.09% 05/03/2037",
+            "InvRate": 1.16584
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHELL INTERNATIONAL FINANCE BV 4% 10/05/2046",
+            "InvRate": 1.1575
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "USAA CAPITAL CORP 2.13% 03/06/2019",
+            "InvRate": 1.15283
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NIKE INC 3.88% 01/11/2045",
+            "InvRate": 1.1336
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GE CAPITAL INTERNATIONAL FUNDI 4.42% 15/11/2035",
+            "InvRate": 1.11703
+        }
+    ]
+}

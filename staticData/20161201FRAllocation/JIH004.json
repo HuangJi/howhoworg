@@ -1,0 +1,150 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0013045997390800522,
+            "SInvRate": 0.13046,
+            "LInvRate": 0.13046
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8779968244006351,
+            "SInvRate": 87.7997,
+            "LInvRate": 87.7997
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.00300049939990012,
+            "SInvRate": 0.30005,
+            "LInvRate": 0.30005
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.022185695562860888,
+            "SInvRate": 2.21857,
+            "LInvRate": 2.21857
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.06586628682674263,
+            "SInvRate": 6.58663,
+            "LInvRate": 6.58663
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.029646094070781184,
+            "SInvRate": 2.96461,
+            "LInvRate": 2.96461
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.02836
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.02509
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 0.02445
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 0.01782
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 0.01254
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.01193
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.0076
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.00243
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.00024
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-亞洲高收益基金(美元累積)",
+            "InvRate": 11.98934
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鋒裕基金-美國高息A2",
+            "InvRate": 11.89351
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "施羅德環球基金系列 - 環球高收益 A1 類股份 - 累積單位(美元)",
+            "InvRate": 11.61151
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "安本環球新興市場債券基金A - 2% 類",
+            "InvRate": 9.97134
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MFS全盛基金系列-MFS全盛新興市場債券基金 A1(美元)",
+            "InvRate": 9.00484
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO全球債券基金-E級類別(收息股份)",
+            "InvRate": 7.40036
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─亞洲債券基金A(美元)",
+            "InvRate": 6.12748
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-美元債券基金(美元累積)",
+            "InvRate": 5.90878
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "德意志歐洲高收益公司債USD FCH",
+            "InvRate": 5.72957
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "貝萊德亞洲老虎債券基金 A2 美元",
+            "InvRate": 5.63543
+        }
+    ]
+}

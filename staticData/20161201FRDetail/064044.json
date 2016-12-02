@@ -1,0 +1,231 @@
+{
+    "Area": "B",
+    "FundId": "064044",
+    "StarRatingFromEst": 3,
+    "Name": "歐義銳榮公用事業基金R2",
+    "NameEng": "Eurizon EasyFund Eq Utilities LTE R2",
+    "NameWarning": "",
+    "CPId": "34",
+    "CPName": "歐義銳榮資產管理公司",
+    "CPNameEng": "Eurizon Capital S.A.",
+    "AgentCPId": "334",
+    "AgentCPName": "第一金證券投資顧問股份有限公司",
+    "AgentCPNameEng": "First Captial Management Inc",
+    "RctName": "盧森堡",
+    "Count": 57,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20080818",
+    "CategoryId": "191",
+    "CategoryName": "公共事業股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金之凈資産主要投資於公用事業部門(例如:電力之生産與供應,天然氣與水的陪送)之發行人所發行之相關聯之股票,可轉換為股票之債券或任何其他任何證券.投資選擇主要是根據證券流動性,已發行股票之規糢及其在股票市場的總市值與其他部門總市值之間的比較.本子基金之凈資産未投資於股票,可轉換為股票之債券或與股票有關聯之任何其他證券之範圍內,其餘凈資産得投資於債券或任何其他類似債務商品.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.8,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 700,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 10862717.05,
+    "PriceTransDate": "20161129",
+    "Price": 147.4,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.69,
+    "UpDownRate": 0.47,
+    "Rr1w": 1.88505,
+    "Rr1M": -0.68343,
+    "Rr3M": -5.47954,
+    "Rr6M": -0.4395,
+    "RrThisYear": 6.92767,
+    "Rr1Y": 4.96048,
+    "Rr2Y": -1.47744,
+    "Rr3Y": 9.20177,
+    "Rr5Y": 21.49225,
+    "Rr10Y": null,
+    "RrFromEst": 7.56987,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.72,
+    "Beta1Y": 0.98,
+    "Sharpe1Y": 0.45,
+    "StdDev1Y": 11.47,
+    "Alpha3Y": -1.71,
+    "Beta3Y": 0.99,
+    "Sharpe3Y": 0.31,
+    "StdDev3Y": 10.77,
+    "AriMean3Y": 0.292,
+    "Alpha5Y": -1.6,
+    "Beta5Y": 0.99,
+    "Sharpe5Y": 0.4,
+    "StdDev5Y": 11.05,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 1.0004103,
+            "SInvRate": 100.04103,
+            "LInvRate": 100.04103
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": -0.0004103,
+            "SInvRate": -0.04103,
+            "LInvRate": -0.04103
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 147.4
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 146.71
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 144.64
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 142.76
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 142.75
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 144
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 143.21
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 141.97
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 143.31
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 142.86
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 143.84
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 142.07
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 143.66
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 144.53
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 148.27
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 152.9
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 152.21
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 150.86
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 151.32
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 151.07
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 154.04
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 152.04
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 151.8
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 152.47
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 151.76
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 151.19
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 151.12
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 151.89
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 151.73
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 151.7
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Regulated",
+            "InvRate": 96.55812
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Waste Management",
+            "InvRate": 1.90793
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.48989
+        }
+    ]
+}

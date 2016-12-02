@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9367846063215394,
+            "SInvRate": 93.67847,
+            "LInvRate": 93.67847
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.06321539367846063,
+            "SInvRate": 6.32154,
+            "LInvRate": 6.32154
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WI TREASURY SEC.",
+            "InvRate": 8.00737
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UK TSY 1.25% 07/22/18",
+            "InvRate": 5.86481
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KOMMUNLBNK FRN 05/02/17",
+            "InvRate": 5.81987
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MEXICO ST 7.75% 11/13/42",
+            "InvRate": 5.58221
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EUROPEAN 7.2% 07/09/19",
+            "InvRate": 4.89909
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "U.S. Treasury Notes",
+            "InvRate": 4.43545
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HUNGARY 5.5% 06/24/25",
+            "InvRate": 4.07512
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MEX BONOS DESARR FIX RT",
+            "InvRate": 3.91425
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Svensk Exportkredit AB",
+            "InvRate": 3.68584
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MEXICO ST 8.5% 05/31/29",
+            "InvRate": 3.57001
+        }
+    ]
+}

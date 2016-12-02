@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "043036",
+    "StarRatingFromEst": 4,
+    "Name": "富達基金-歐元債券基金(歐元累積)",
+    "NameEng": "Fidelity Euro Bond A-Acc-EUR",
+    "NameWarning": "",
+    "CPId": "12",
+    "CPName": "富達基金管理有限公司",
+    "CPNameEng": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+    "AgentCPId": "100",
+    "AgentCPName": "富達證券投資信託股份有限公司",
+    "AgentCPNameEng": "FIL Securities Invmt Trust Co. (TW) Ltd",
+    "RctName": "盧森堡",
+    "Count": 28,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20060703",
+    "CategoryId": "226",
+    "CategoryName": "歐元多元化債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "主要(即至少70%之資產)投資於以歐元計價之債券.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.35,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 1594867674,
+    "PriceTransDate": "20161130",
+    "Price": 15.36,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.01,
+    "UpDownRate": -0.07,
+    "Rr1w": -0.94757,
+    "Rr1M": -1.50754,
+    "Rr3M": -1.19723,
+    "Rr6M": 2.08333,
+    "RrThisYear": 4.6729,
+    "Rr1Y": 4.11687,
+    "Rr2Y": 6.66668,
+    "Rr3Y": 17.27748,
+    "Rr5Y": 35.40589,
+    "Rr10Y": 52.82649,
+    "RrFromEst": 56.80003,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 1.16,
+    "Beta1Y": 0.81,
+    "Sharpe1Y": 1.23,
+    "StdDev1Y": 3.56,
+    "Alpha3Y": -0.32,
+    "Beta3Y": 1.1,
+    "Sharpe3Y": 1.33,
+    "StdDev3Y": 4.1,
+    "AriMean3Y": 0.451,
+    "Alpha5Y": -0.25,
+    "Beta5Y": 1.08,
+    "Sharpe5Y": 1.42,
+    "StdDev5Y": 4.27,
+    "Alpha10Y": -0.86,
+    "Beta10Y": 1.11,
+    "Sharpe10Y": 0.65,
+    "StdDev10Y": 4.65,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "134",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9540356,
+            "SInvRate": 95.40356,
+            "LInvRate": 95.40356
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0114007,
+            "SInvRate": 1.14007,
+            "LInvRate": 1.14007
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0345637,
+            "SInvRate": 3.45637,
+            "LInvRate": 3.45637
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 15.36
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 15.37
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 15.36
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 15.33
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 15.31
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 15.3
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 15.37
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 15.32
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 15.32
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 15.34
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 15.36
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 15.41
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 15.33
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 15.4
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 15.48
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 15.62
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 15.64
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 15.67
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 15.66
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 15.66
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 15.69
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 15.63
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 15.68
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 15.67
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 15.68
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 15.76
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 15.83
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 15.83
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 15.84
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 15.84
+        }
+    ],
+    "IndustryRatio": []
+}

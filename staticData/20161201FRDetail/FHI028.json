@@ -1,0 +1,215 @@
+{
+    "Area": "A",
+    "FundId": "FHI028",
+    "StarRatingFromEst": null,
+    "Name": "復華人民幣貨幣市場基金",
+    "NameEng": "Fuh Hwa RMB Money Market Fund",
+    "NameWarning": "",
+    "CPId": "46",
+    "CPName": "復華證券投資信託股份有限公司",
+    "CPNameEng": "Fuh Hwa Securities Investment Tr Co Ltd",
+    "AgentCPId": "46",
+    "AgentCPName": "復華證券投資信託股份有限公司",
+    "AgentCPNameEng": "Fuh Hwa Securities Investment Tr Co Ltd",
+    "RctName": "台灣",
+    "Count": 54,
+    "CurrencyCode": "CNY",
+    "InceptionYmdOn": "20130520",
+    "CategoryId": "772",
+    "CategoryName": "貨幣市場 - 其他",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "貨幣市場",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並維持收益之安定為目標.以誠信原則及專業經營方式,將該基金投資於前項八所列之有價證券,並依下列規範進行投資:(一)該基金運用於銀行存款,短期票券及債券附買回交易之總金額需達該基金淨資產價值百分之七十以上.但該基金信託契約終止前一月,得不受前述比例之限制.(二)經理公司運用該基金資產從事證券相關商品交易,須符合金管會之(證券投資信託事業運用證券投資信託基金從事證券相關商品交易應行注意事項)及其他金管會之相關規定,並應遵守下列規定:1.經理公司得為避險操作目的從事衍生自信用相關金融商品交易(如:信用違約交換CDS,CDX index及iTraxx Index),並應就契約違約條件所訂金額取得交易對手之保證.2.經理公司為避險目的得利用換匯,遠期外匯,換匯換利交易,匯率選擇權及一籃子外幣間匯率避險交易(Proxy Basket Hedge)(含換匯,遠期外匯,換匯換利及匯率選擇權等)等交易方式,處理該基金資產之匯入匯出,並應符合中華民國中央銀行及金管會之相關規定.如因有關法令或相關規定修改者,從其規定.",
+    "Custodian": "玉山商業銀行",
+    "CustodianFee": 0.11,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.4,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 50000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 270330281.87,
+    "PriceTransDate": "20161201",
+    "Price": 10.9728,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0009,
+    "UpDownRate": 0.01,
+    "Rr1w": 0.05668,
+    "Rr1M": 0.22617,
+    "Rr3M": 0.52809,
+    "Rr6M": 1.0161,
+    "RrThisYear": 2.04449,
+    "Rr1Y": 2.57619,
+    "Rr2Y": 5.64226,
+    "Rr3Y": 8.34538,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 9.44825,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": -1.21,
+    "StdDev1Y": 3.86,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": -0.26,
+    "StdDev3Y": 3.7,
+    "AriMean3Y": -0.072,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 1,
+    "ProviderId": "42",
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "N",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.5677,
+            "SInvRate": 56.77,
+            "LInvRate": 56.77
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.4323,
+            "SInvRate": 43.23,
+            "LInvRate": 43.23
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161201",
+            "Price": 10.9728
+        },
+        {
+            "TransDate": "20161130",
+            "Price": 10.9719
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.971
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.9701
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.9674
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 10.9665
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.9656
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.9647
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.9639
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.9613
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.9604
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.9595
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.9587
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.9579
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.9554
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.9546
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.9538
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.953
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.9521
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.9496
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.9488
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.9479
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.947
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.9457
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.9431
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.9422
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.9413
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.9404
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.9395
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.9361
+        }
+    ],
+    "IndustryRatio": []
+}

@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "Man010",
+    "StarRatingFromEst": 3,
+    "Name": "宏利中國點心高收益債券基金-A不配息(人民幣)",
+    "NameEng": "Manulife China Dim Sum Hh Yd Bd RMB Acc",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券",
+    "CPId": "42",
+    "CPName": "宏利證券投資信託股份有限公司",
+    "CPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "AgentCPId": "42",
+    "AgentCPName": "宏利證券投資信託股份有限公司",
+    "AgentCPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "RctName": "台灣",
+    "Count": 21,
+    "CurrencyCode": "CNY",
+    "InceptionYmdOn": "20130502",
+    "CategoryId": "1012",
+    "CategoryName": "人民幣高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於外國有價證券,並依下列規範進行投資:(一),本基金投資於由中華民國以外之國家或機構所保證或發行之債券(含政府公債,公司債(含次順位公司債,無擔保公司債),金融債券(含次順位金融債券),金融資產證券化之受益證券或資產基礎證券,不動產資產信託受益證券及具有相當於債券性質之有價證券).(二),原則上本基金自成立日起屆滿三個月(含)後,整體資產組合之加權平均存續期間應在一年以上(含).本基金自成立日起六個月後,投資於高收益債券之總金額不得低於本基金淨資產價值之百分之六十(含),其餘資產之運用以貨幣市場工具及投資於經第三款所述信用評等機構評定其債務發行評等達BBB/Baa2級以上之債券為限;投資所在國之國家或地區之評等等級未達相當於BBB/Baa2級者,投資該國或地區之政府債券及其他債券總金額,不得超過基金淨資產價值之百分之三十.本基金投資於投資於點心債券之總金額不得低於本基金淨資產價值之百分之六十(含),所謂(點心債券)係指在香港發行之人民幣計價之債券;投資於下列有價證券之總金額不得低於本基金淨資產價值之百分之六十(含):1.由中國大陸地區,香港之國家或機構所保證或發行之債券;2.由中國大陸地區,香港以外之國家或機構所保證或發行而於中國大陸地區,香港發行或交易之債券3.依彭博(Bloomberg)資訊系統顯示(涉險國家)為中國大陸地區或香港之債券;",
+    "Custodian": "遠東國際商業銀行",
+    "CustodianFee": 0.25,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.25,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 6000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 319042258.87,
+    "PriceTransDate": "20161130",
+    "Price": 79.0259,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0309,
+    "UpDownRate": 0.04,
+    "Rr1w": 0.07626,
+    "Rr1M": 0.33539,
+    "Rr3M": 1.82384,
+    "Rr6M": 4.89026,
+    "RrThisYear": 9.56128,
+    "Rr1Y": 9.70133,
+    "Rr2Y": 12.26557,
+    "Rr3Y": 15.7461,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 15.9702,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 0.37,
+    "Beta1Y": 0.55,
+    "Sharpe1Y": 1.97,
+    "StdDev1Y": 4.17,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": 0.69,
+    "StdDev3Y": 4.36,
+    "AriMean3Y": 0.407,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "38",
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9593693,
+            "SInvRate": 95.93693,
+            "LInvRate": 95.93693
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0293782,
+            "SInvRate": 2.93782,
+            "LInvRate": 2.93782
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0112525,
+            "SInvRate": 1.12525,
+            "LInvRate": 1.12525
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 79.0259
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 78.9953
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 78.9644
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 78.9478
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 78.9484
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 78.9647
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 78.9002
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 78.8802
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 78.8578
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 78.9068
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 78.8775
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 78.8253
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 78.8027
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 79.1165
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 79.1847
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 79.1617
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 79.1647
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 79.1082
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 79.0906
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 79.0983
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 79.0915
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 79.1056
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 79.1268
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 79.107
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 79.1055
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 79.1027
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 79.0999
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 79.0665
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 79.0216
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 78.987
+        }
+    ],
+    "IndustryRatio": []
+}

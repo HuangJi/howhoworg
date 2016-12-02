@@ -1,0 +1,209 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8280465,
+            "SInvRate": 82.80465,
+            "LInvRate": 82.80465
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1594,
+            "SInvRate": 15.94,
+            "LInvRate": 15.94
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0125535,
+            "SInvRate": 1.25535,
+            "LInvRate": 1.25535
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 15.47012
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 14.41001
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 11.08959
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 7.93353
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 5.5327
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.01719
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 4.01697
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Distribution",
+            "InvRate": 3.65404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 3.03076
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 2.84125
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.141
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Distribution",
+            "InvRate": 1.64014
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.62452
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 1.13637
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.96931
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.84159
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 0.82016
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 0.50533
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.44117
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.19885
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.18694
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.04446
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 0.03444
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.02958
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.02024
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.01523
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Japfa Comfeed Indonesia Tbk",
+            "InvRate": 5.16971
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "五糧液",
+            "InvRate": 4.85075
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Charoen Pokphand Indonesia T",
+            "InvRate": 4.66507
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "三星電子",
+            "InvRate": 4.51598
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "福耀玻璃",
+            "InvRate": 4.26383
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PTT PCL",
+            "InvRate": 3.93033
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES A50 CHINA INDEX ETF",
+            "InvRate": 3.88221
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Vale indonesia tbk",
+            "InvRate": 3.81579
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "上海醫藥",
+            "InvRate": 3.65404
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中鼎股份",
+            "InvRate": 3.54456
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "Area": "B",
+    "FundId": "029087",
+    "StarRatingFromEst": null,
+    "Name": "聯博-房貸收益基金A2級別美元",
+    "NameEng": "AB FCP I Mortgage Income A2 USD Acc",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "9",
+    "CPName": "聯博(盧森堡)公司",
+    "CPNameEng": "AllianceBernstein (Luxembourg) S.à r.l.",
+    "AgentCPId": "97",
+    "AgentCPName": "聯博證券投資信託股份有限公司",
+    "AgentCPNameEng": "AllianceBernstein Investments Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 19,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20140220",
+    "CategoryId": "691",
+    "CategoryName": "美元靈活型債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的投資目標為實現經風險調整之高額總報酬.本基金尋求透過投資房貸相關證券及其他資產擔保證券實現其目標.本基金可投資於多種多樣發行人及保薦人發行的具備投資級別和非投資級別品質的證券.本基金的投資可包括固定及浮動利率證券,包括機構類房貸擔保證券及非機構類(即私人發行)房貸擔保證券((MBS))以及其他資產擔保證券((ABS)),商業抵押擔保證券((CMBS))和抵押債務((CDOs))及相關金融衍生性工具和貨幣.本基金會至少將其總資產的三分之二投資於房貸相關證券.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 499734668,
+    "PriceTransDate": "20161130",
+    "Price": 16.03,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.01,
+    "UpDownRate": -0.06,
+    "Rr1w": -0.12407,
+    "Rr1M": -0.12407,
+    "Rr3M": 1.19422,
+    "Rr6M": 4.27461,
+    "RrThisYear": 4.27461,
+    "Rr1Y": 4.00517,
+    "Rr2Y": 4.95437,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 7.33333,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 1,
+    "StdDev1Y": 3.7,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "90",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9709922,
+            "SInvRate": 97.09922,
+            "LInvRate": 97.09922
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0290078,
+            "SInvRate": 2.90078,
+            "LInvRate": 2.90078
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 16.04
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 16.04
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 16.06
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 16.07
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 16.11
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 16.11
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 16.1
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 16.1
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 16.1
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 16.09
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 16.11
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 16.12
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 16.11
+        }
+    ],
+    "IndustryRatio": []
+}

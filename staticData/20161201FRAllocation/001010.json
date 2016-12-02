@@ -1,0 +1,219 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9633117,
+            "SInvRate": 96.33117,
+            "LInvRate": 96.33117
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.0001516,
+            "SInvRate": 0.01516,
+            "LInvRate": 0.01516
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0365367,
+            "SInvRate": 3.65367,
+            "LInvRate": 3.65367
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 11.83429
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 8.89758
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 7.18262
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.62435
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 5.17966
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 5.06271
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.01824
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 4.01779
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.95799
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 3.50699
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 3.45955
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 3.42331
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.74495
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 2.71873
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.53326
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 2.50614
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.43058
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 2.10824
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 1.90963
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 1.8357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.78444
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 1.71979
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 1.63016
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.60781
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 1.57182
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 1.56781
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 0.94007
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 0.55696
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MICROSOFT CORP",
+            "InvRate": 4.53616
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AMAZON.COM INC",
+            "InvRate": 4.06018
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NORTHERN TRUST GLOBAL FUNDS PL",
+            "InvRate": 3.37984
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "OTSUKA HOLDINGS CO LTD",
+            "InvRate": 3.25014
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TESSERA TECHNOLOGIES INC",
+            "InvRate": 2.94815
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MOTOROLA SOLUTIONS INC",
+            "InvRate": 2.85608
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INGREDION INC",
+            "InvRate": 2.74495
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDIVIOR PLC",
+            "InvRate": 2.70627
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TOHO HOLDINGS CO LTD",
+            "InvRate": 2.53966
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MEDTRONIC PLC",
+            "InvRate": 2.28429
+        }
+    ]
+}

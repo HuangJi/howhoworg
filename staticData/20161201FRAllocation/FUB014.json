@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9190705,
+            "SInvRate": 91.90705,
+            "LInvRate": 91.90705
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1003,
+            "SInvRate": 10.03,
+            "LInvRate": 10.03
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0193705,
+            "SInvRate": -1.93705,
+            "LInvRate": -1.93705
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CLEAR CHANNEL WORLDWIDE W/RTS 7.625%",
+            "InvRate": 3.20942
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WIND ACQUISITION FIN SA REG S 7.375%",
+            "InvRate": 2.27512
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HCA HOLDINGS INC 6.25%",
+            "InvRate": 2.10249
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KRATON POLYMERS LLC/CAP REG S 10.50%",
+            "InvRate": 1.90679
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CCO HLDGS LLC/CAP CORP 5.250%",
+            "InvRate": 1.8691
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GFLENV 7% 7/8",
+            "InvRate": 1.86523
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NGL ENRGY PART LP/FIN CO 5.125%",
+            "InvRate": 1.86279
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TDG 6%",
+            "InvRate": 1.83488
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LEVEL 3 FINANCING INC 144A W/RTS 5.250%",
+            "InvRate": 1.71532
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ATRIUM WINDOWS & DOORS REG S 7.750%",
+            "InvRate": 1.6814
+        }
+    ]
+}

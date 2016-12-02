@@ -1,0 +1,167 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9533475,
+            "SInvRate": 95.33475,
+            "LInvRate": 95.33475
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0466525,
+            "SInvRate": 4.66525,
+            "LInvRate": 4.66525
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 12.97964
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 11.34302
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 10.39024
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 7.18586
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 6.7139
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 5.8673
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 5.6718
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 5.52141
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 4.65446
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.08594
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.708
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 3.53018
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 3.26826
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.4567
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 2.35508
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.07326
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.26177
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 0.9412
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.68014
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNITED CONTINENTAL HOLDINGS UAL US",
+            "InvRate": 9.84016
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VERITIV CORP VRTV US",
+            "InvRate": 5.75376
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIR PRODUCTS & CHEMICALS INC APD US",
+            "InvRate": 5.09126
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BALL CORP BLL US",
+            "InvRate": 5.03995
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EAGLE PHARMACEUTICALS INC EGRX US",
+            "InvRate": 4.78201
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ST JOE CO/THE JOE US",
+            "InvRate": 4.65446
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MATTEL INC MAT US",
+            "InvRate": 4.56234
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ZEBRA TECHNOLOGIES CORP-CL A ZBRA US",
+            "InvRate": 4.47684
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EDGEWELL PERSONAL CARE CO-WI EPC-W US",
+            "InvRate": 4.08546
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KNOWLES CORP-WHEN ISSUED KN-W US",
+            "InvRate": 3.78225
+        }
+    ]
+}

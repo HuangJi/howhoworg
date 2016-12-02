@@ -1,0 +1,98 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0024954,
+            "SInvRate": 0.24954,
+            "LInvRate": 0.24954
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9691909,
+            "SInvRate": 96.91909,
+            "LInvRate": 96.91909
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0022184,
+            "SInvRate": 0.22184,
+            "LInvRate": 0.22184
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0120494,
+            "SInvRate": 1.20494,
+            "LInvRate": 1.20494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0140459,
+            "SInvRate": 1.40459,
+            "LInvRate": 1.40459
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.24954
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Bundesrepublik Deutschland Series 97",
+            "InvRate": 12.85635
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Italy Buoni Poliennali Del Tesoro",
+            "InvRate": 4.37781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "France Government Bond OAT",
+            "InvRate": 3.70733
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Netherlands Government Bond",
+            "InvRate": 2.33085
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Italy Buoni Poliennali Del Tesoro",
+            "InvRate": 2.14826
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Spain Government Bond",
+            "InvRate": 1.71726
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Ireland Government Bond",
+            "InvRate": 1.37919
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UniCredit SpA Series E",
+            "InvRate": 1.15603
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Netherlands Government Bond",
+            "InvRate": 1.12046
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EDP Finance BV Series E",
+            "InvRate": 1.05976
+        }
+    ]
+}

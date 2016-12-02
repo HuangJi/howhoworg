@@ -1,0 +1,134 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8691219,
+            "SInvRate": 86.91219,
+            "LInvRate": 86.91219
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0859,
+            "SInvRate": 8.59,
+            "LInvRate": 8.59
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0449781,
+            "SInvRate": 4.49781,
+            "LInvRate": 4.49781
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 37.98404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 17.11854
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 5.9479
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 5.26466
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.47571
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 4.05366
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 3.5817
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 3.41943
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.034
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.08116
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.9514
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "F-VHQ",
+            "InvRate": 5.9479
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 4.90092
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鴻準",
+            "InvRate": 4.63463
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "卜蜂",
+            "InvRate": 4.47571
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "華新科",
+            "InvRate": 4.03282
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "微星",
+            "InvRate": 3.86293
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "奇力新",
+            "InvRate": 3.83057
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "精測",
+            "InvRate": 3.78646
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "超眾",
+            "InvRate": 3.4771
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "盟立",
+            "InvRate": 3.43601
+        }
+    ]
+}

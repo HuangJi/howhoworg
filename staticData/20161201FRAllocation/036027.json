@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0048577,
+            "SInvRate": 0.48577,
+            "LInvRate": 0.48577
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9295445,
+            "SInvRate": 92.95445,
+            "LInvRate": 92.95445
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0476443,
+            "SInvRate": 4.76443,
+            "LInvRate": 4.76443
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0179535,
+            "SInvRate": 1.79535,
+            "LInvRate": 1.79535
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NORTHERN TRUST GLOBAL FUND THE US DOLLAR FUND",
+            "InvRate": 3.80172
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NORTHERN TRUST GLOBAL FUND EURO LIQUIDITY ACC SHS CLS A",
+            "InvRate": 1.78674
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CEQUEL COMMUN HLGS I/CAP CORP 6.375% CALLABLE 15SEP2020 144A",
+            "InvRate": 1.50281
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LIBERTY MEDIA CORPORATION 8.25% NOTES 01FEB2030",
+            "InvRate": 1.4495
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DIAMOND 1 FIN/DIAMOND 2 FIN 7.125% CALL 15JUN24 144A",
+            "InvRate": 1.44286
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TELECOM ITALIA SPA 5.303% BONDS 30MAY2024 144A",
+            "InvRate": 1.42116
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SABINE PASS LNG LP 5.625% BONDS 01FEB2021",
+            "InvRate": 1.37391
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HERTZ CORP 5.875% CALLABLE 15OCT2020",
+            "InvRate": 1.32787
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TULLOW OIL PLC 6.00% CALLABLE 01NOV2020 REGS",
+            "InvRate": 1.32591
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SIGNODE INDUSTRIAL GROUP 6.375% CALLABLE 01MAY22 144A",
+            "InvRate": 1.22926
+        }
+    ]
+}

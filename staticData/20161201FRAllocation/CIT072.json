@@ -1,0 +1,206 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.7546984754698476,
+            "SInvRate": 75.46984,
+            "LInvRate": 75.46984
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.01915610191561019,
+            "SInvRate": 1.91561,
+            "LInvRate": 1.91561
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.2567589256758926,
+            "SInvRate": 25.67589,
+            "LInvRate": 25.67589
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.030613503061350307,
+            "SInvRate": -3.06135,
+            "LInvRate": -3.06135
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 64.5672
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 5.32983
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.6953
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.49284
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.44089
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.41699
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.3833
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.31455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.18791
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 0.11143
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.10721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.10001
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 0.06111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.05229
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 0.04812
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.04237
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.04117
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.03192
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.02189
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.01963
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.00232
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.00111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 0.00038
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.00006
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PROLOGIS INC",
+            "InvRate": 5.24335
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "賽門物業集團",
+            "InvRate": 4.41752
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ACTIVIA PROPERTIES INC",
+            "InvRate": 3.26261
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MAPLETREE LOGISTICS TRUST",
+            "InvRate": 3.16191
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BOSTON PROPERTIES IN",
+            "InvRate": 3.01414
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JAPAN HOTEL REIT INVESTME",
+            "InvRate": 2.95811
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Senior Housing Prope",
+            "InvRate": 2.802
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PUBLIC STORAGE INC",
+            "InvRate": 2.64059
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "三井不動產",
+            "InvRate": 2.62774
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AVALONBAY COMMUNITIE",
+            "InvRate": 2.46678
+        }
+    ]
+}

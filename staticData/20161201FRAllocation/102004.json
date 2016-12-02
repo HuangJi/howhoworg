@@ -1,0 +1,225 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.0001306,
+            "SInvRate": 0.01306,
+            "LInvRate": 0.01306
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.7589134,
+            "SInvRate": 75.89134,
+            "LInvRate": 75.89134
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "優先股",
+            "InvRate": 0.0143689,
+            "SInvRate": 1.43689,
+            "LInvRate": 1.43689
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "可換股債券",
+            "InvRate": 0.0748494,
+            "SInvRate": 7.48494,
+            "LInvRate": 7.48494
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.1047216,
+            "SInvRate": 10.47216,
+            "LInvRate": 10.47216
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0470161,
+            "SInvRate": 4.70161,
+            "LInvRate": 4.70161
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Banks",
+            "InvRate": 1.20265
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Industrial Products",
+            "InvRate": 0.04486
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "REITs",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Retail - Defensive",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Semiconductors",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Building Materials",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Chemicals",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Equipment",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Services",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Engineering & Construction",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Entertainment",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Health Care Providers",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Application Software",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Autos",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "US Treasury Bonds",
+            "InvRate": 5.8994
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Republic of Brazil",
+            "InvRate": 3.55601
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "US Treasury Bonds",
+            "InvRate": 2.93112
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "US Treasury Bonds",
+            "InvRate": 2.78897
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "GAM Star Dyn Global Bd Fd",
+            "InvRate": 2.63188
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "GAM Star Abs Global Portfolio",
+            "InvRate": 2.21509
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "US Treasury Inflation Idx Bds",
+            "InvRate": 1.81241
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "US Treasury Bonds",
+            "InvRate": 1.73983
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Realkredit Danmark A/S",
+            "InvRate": 1.55205
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Denmark Gov Bond",
+            "InvRate": 1.50444
+        }
+    ]
+}

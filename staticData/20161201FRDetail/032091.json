@@ -1,0 +1,235 @@
+{
+    "Area": "B",
+    "FundId": "032091",
+    "StarRatingFromEst": 4,
+    "Name": "法巴百利達亞洲可換股債券基金 C (美元)",
+    "NameEng": "Parvest Convertible Bd Asia C C",
+    "NameWarning": "(本基金主要係投資於非投資等級之高風險債券，基金之配息來源可能為本金)",
+    "CPId": "14",
+    "CPName": "法國巴黎投資盧森堡公司",
+    "CPNameEng": "BNP Paribas Investment Partners Lux",
+    "AgentCPId": "323",
+    "AgentCPName": "法銀巴黎證券投資顧問股份有限公司",
+    "AgentCPNameEng": "BNP Paribas Investment Partners Taiwan",
+    "RctName": "盧森堡",
+    "Count": 13,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19950110",
+    "CategoryId": "259",
+    "CategoryName": "亞洲/日本可換股債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "可轉換債券",
+    "InvestmentStrategy": "主要投資在總公司位於亞洲地區或主要於亞洲國家營業之公司所發行之可轉換公司債及其他等同於可轉換公司債之有價證券.可轉債為一種結合股票與債券的投資工具,可享有股市上漲利多,退可擁有債券底部保障,擁有進可攻退可守的產品特色.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 52337752,
+    "PriceTransDate": "20161130",
+    "Price": 354.91,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -0.78946,
+    "Rr1M": -0.40741,
+    "Rr3M": 2.07642,
+    "Rr6M": 2.18748,
+    "RrThisYear": 2.03265,
+    "Rr1Y": 1.7795,
+    "Rr2Y": -0.77844,
+    "Rr3Y": -0.67626,
+    "Rr5Y": 9.8323,
+    "Rr10Y": 41.13976,
+    "RrFromEst": 256.900146,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -2.97,
+    "Beta1Y": 1.07,
+    "Sharpe1Y": 0.32,
+    "StdDev1Y": 5.08,
+    "Alpha3Y": -3.9,
+    "Beta3Y": 0.98,
+    "Sharpe3Y": -0.02,
+    "StdDev3Y": 6.7,
+    "AriMean3Y": -0.001,
+    "Alpha5Y": -2.57,
+    "Beta5Y": 0.99,
+    "Sharpe5Y": 0.31,
+    "StdDev5Y": 6.3,
+    "Alpha10Y": -2.15,
+    "Beta10Y": 0.97,
+    "Sharpe10Y": 0.28,
+    "StdDev10Y": 12.37,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.0752488,
+            "SInvRate": 7.52488,
+            "LInvRate": 7.52488
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.91649,
+            "SInvRate": 91.649,
+            "LInvRate": 91.649
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.000306,
+            "SInvRate": 0.0306,
+            "LInvRate": 0.0306
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0079552,
+            "SInvRate": 0.79552,
+            "LInvRate": 0.79552
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 354.91
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 355.4
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 355.4
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 354.05
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 353.7
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 354.34
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 355.02
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 355.12
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 353.78
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 353.63
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 353.23
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 353.58
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 354.51
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 357.79
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 358.47
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 356.89
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 360.55
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 359.86
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 359.4
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 357.5
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 358.08
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 356.9
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 357.13
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 357.76
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 358.22
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 359.76
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 359.74
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 358.83
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 359.08
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 359.46
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20150601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.30751
+        }
+    ]
+}

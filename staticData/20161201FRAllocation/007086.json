@@ -1,0 +1,66 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.9975652002434799,
+            "SInvRate": 99.75653,
+            "LInvRate": 99.75653
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0024347997565200242,
+            "SInvRate": 0.24348,
+            "LInvRate": 0.24348
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CMMNWLTH BNK OF AUS CORPORATE COMMERCIAL PAPER",
+            "InvRate": 2.92678
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NORDEA BANK FINLAND PLC/NEW YORK CERTIFICATE OF",
+            "InvRate": 2.92622
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DBS BANK LTD. CORPORATE COMMERCIAL PAPER DISCOUNT",
+            "InvRate": 2.92155
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANK OF NOVA SCOTIA/HOUSTON CERTIFICATE OF DEPOSIT",
+            "InvRate": 2.44255
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DNB BANK ASA CORPORATE COMMERCIAL PAPER VARIABLE",
+            "InvRate": 2.43922
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANCO DEL ESTA DE CHLE CERTIFICATE OF DEPOSIT",
+            "InvRate": 2.43834
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TORONTO DOMIN HOLDING CORPORATE COMMERCIAL PAPER",
+            "InvRate": 2.43476
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WELLS FARGO BANK NA CERTIFICATE OF DEPOSIT",
+            "InvRate": 2.19577
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SUMITOMO MITSUI TRUST BANK LIMITED/ NEW YORK",
+            "InvRate": 2.19533
+        }
+    ]
+}

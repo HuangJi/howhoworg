@@ -1,0 +1,224 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9771977,
+            "SInvRate": 97.71977,
+            "LInvRate": 97.71977
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0124575,
+            "SInvRate": 1.24575,
+            "LInvRate": 1.24575
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0103448,
+            "SInvRate": 1.03448,
+            "LInvRate": 1.03448
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 15.78035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 11.33354
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 6.1584
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 6.03035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 5.4355
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 5.22877
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 3.99517
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 3.01037
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.73075
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 2.62267
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.45678
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.26568
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.22734
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.03631
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 1.97645
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 1.87335
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.79856
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 1.49042
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 1.21345
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.11625
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.08946
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.08631
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.96168
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.90578
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.83485
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.70043
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 0.51534
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.49701
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.43367
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TAIWAN SEMICONDUCTOR",
+            "InvRate": 6.03035
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SAMSUNG ELECTRONICS CO",
+            "InvRate": 4.48071
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDUSTRIAL & COMMERCIAL",
+            "InvRate": 3.56347
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA MOBILE LTD COMMON",
+            "InvRate": 3.4328
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INFOSYS LTD ADR USD",
+            "InvRate": 2.73075
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CK HUTCHISON HOLDINGS",
+            "InvRate": 2.62267
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITC LTD COMMON STOCK INR",
+            "InvRate": 2.58202
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KT&G CORP COMMON STOCK",
+            "InvRate": 2.54177
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UBS AG EQUITY WRT",
+            "InvRate": 2.28484
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CNOOC LTD COMMON STOCK",
+            "InvRate": 2.26568
+        }
+    ]
+}

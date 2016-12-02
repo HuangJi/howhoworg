@@ -1,0 +1,192 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9836587,
+            "SInvRate": 98.36587,
+            "LInvRate": 98.36587
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.0163413,
+            "SInvRate": 1.63413,
+            "LInvRate": 1.63413
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 12.52301
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Autos",
+            "InvRate": 7.86658
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Services",
+            "InvRate": 7.70582
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Online Media",
+            "InvRate": 6.39787
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Life",
+            "InvRate": 5.58149
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 5.45005
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Semiconductors",
+            "InvRate": 4.88813
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 4.6803
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.64453
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Biotechnology",
+            "InvRate": 3.7914
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Health Care Providers",
+            "InvRate": 3.4781
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.16124
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.09752
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.9745
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.72471
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.65295
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.59837
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.56451
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Application Software",
+            "InvRate": 2.02814
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.65702
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Real Estate",
+            "InvRate": 1.38692
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 1.26747
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Building Materials",
+            "InvRate": 0.84853
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Metals & Mining",
+            "InvRate": 0.62795
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Samsung Electronics Company",
+            "InvRate": 6.71581
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Tencent Holdings",
+            "InvRate": 6.39787
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Aia Group",
+            "InvRate": 5.58149
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Taiwan Semiconductor Manufacturing Company",
+            "InvRate": 4.88813
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "China Mobile",
+            "InvRate": 4.35775
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Amorepacific",
+            "InvRate": 2.97919
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Aerospace Industrial Development",
+            "InvRate": 2.9745
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Advantech Company",
+            "InvRate": 2.75803
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Picc Property & Casualty Company",
+            "InvRate": 2.72471
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Tenaga Nasional Bhd",
+            "InvRate": 2.65295
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "Area": "B",
+    "FundId": "116084",
+    "StarRatingFromEst": null,
+    "Name": "富蘭克林坦伯頓全球投資系列－公司債基金澳幣避險A (Mdis)股-H1",
+    "NameEng": "Franklin High Yield A Mdis AUD H1",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券且基金之配息來源可能為本金",
+    "CPId": "30",
+    "CPName": "富蘭克林鄧普頓投資",
+    "CPNameEng": "Franklin Templeton Investment Funds",
+    "AgentCPId": "325",
+    "AgentCPName": "富蘭克林證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Franklin Templeton Invsmts (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 21,
+    "CurrencyCode": "AUD",
+    "InceptionYmdOn": "20130226",
+    "CategoryId": "759",
+    "CategoryName": "高收益債券 - 其他對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的首要目標為尋求高水平的經常性收益,次目標為資產增值,但須在符合首要投資目標下始實行.本基金主要透過投資於包含眾多已發行固定入息由美國或非美國發行機構所發出的債務證券,以獲取高息及避免過多風險.本基金的一般投資對象,包括如屬美國發行者,則為附有投資等級或評為較低等級的固定入息債務證券,而非美國發行或未被評級者,亦為其同類型的投資項目.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.14,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.8,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3513834811.31,
+    "PriceTransDate": "20161130",
+    "Price": 9.09,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.02,
+    "UpDownRate": 0.22,
+    "Rr1w": -1.39635,
+    "Rr1M": 0.32314,
+    "Rr3M": 3.93861,
+    "Rr6M": 10.30637,
+    "RrThisYear": 16.59996,
+    "Rr1Y": 9.08617,
+    "Rr2Y": 0.78847,
+    "Rr3Y": 7.41411,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 13.7153,
+    "RatingTransDate": null,
+    "Alpha1Y": -0.71,
+    "Beta1Y": 1.74,
+    "Sharpe1Y": 0.97,
+    "StdDev1Y": 16.68,
+    "Alpha3Y": -12.88,
+    "Beta3Y": 2.12,
+    "Sharpe3Y": -0.25,
+    "StdDev3Y": 15.56,
+    "AriMean3Y": -0.31,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "116",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0068755,
+            "SInvRate": 0.68755,
+            "LInvRate": 0.68755
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9535888,
+            "SInvRate": 95.35888,
+            "LInvRate": 95.35888
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0070121,
+            "SInvRate": 0.70121,
+            "LInvRate": 0.70121
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0320261,
+            "SInvRate": 3.20261,
+            "LInvRate": 3.20261
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0004975,
+            "SInvRate": 0.04975,
+            "LInvRate": 0.04975
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.09
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.08
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.03
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.01
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.02
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 8.99
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 8.93
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.03
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.03
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.06
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.08
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.13
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.08
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.08
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.09
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.14
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.18
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.23
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.26
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.28
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.3
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.31
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.3
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.3
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.66869
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.01886
+        }
+    ]
+}

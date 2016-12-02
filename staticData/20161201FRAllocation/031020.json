@@ -1,0 +1,257 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9992282,
+            "SInvRate": 99.92282,
+            "LInvRate": 99.92282
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0007718,
+            "SInvRate": 0.07718,
+            "LInvRate": 0.07718
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 22.47932
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 7.88994
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 6.77731
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 5.82345
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 5.16959
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Coal",
+            "InvRate": 5.15651
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 4.59574
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 4.49519
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 4.3968
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 4.26583
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.2136
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 3.41745
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 2.4752
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 2.24339
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 1.81987
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.72557
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.4632
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 1.26628
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 1.23986
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.23642
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.19725
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 1.06731
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Packaging & Containers",
+            "InvRate": 0.82831
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.81945
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.54045
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.49709
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.40748
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.39872
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 0.32534
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.30875
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 0.28314
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 0.27265
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.26644
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.25583
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.10883
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.10567
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 0.07112
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "STATE BANK OF INDIA SBIN IN",
+            "InvRate": 2.7006
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RURAL ELECTRIFICATION CORP RECL IN",
+            "InvRate": 2.4752
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "IND & COMM BK OF CHINA-H 1398 HK",
+            "InvRate": 2.44097
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA LIFE INSURANCE CO-H 2628 HK",
+            "InvRate": 2.29509
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ANZ BK",
+            "InvRate": 2.22784
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HINDALCO INDUSTRIES LTD HNDL IN",
+            "InvRate": 2.04387
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "COAL INDIA LTD COAL IN",
+            "InvRate": 1.91105
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SAMSUNG ELECTRONICS CO LTD 005930 KS",
+            "InvRate": 1.8708
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MANDO CORP 204320 KS",
+            "InvRate": 1.63949
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFAC 2330 TT",
+            "InvRate": 1.6308
+        }
+    ]
+}

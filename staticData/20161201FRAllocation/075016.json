@@ -1,0 +1,199 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9746173,
+            "SInvRate": 97.46173,
+            "LInvRate": 97.46173
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0096359,
+            "SInvRate": 0.96359,
+            "LInvRate": 0.96359
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0157468,
+            "SInvRate": 1.57468,
+            "LInvRate": 1.57468
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 17.82443
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 12.44159
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.87077
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 8.11066
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 5.44326
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.04821
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 3.94887
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 3.8782
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 3.81239
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 3.79904
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 3.24088
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 2.77381
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.55559
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 2.34525
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 2.30687
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.92634
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 1.6719
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 1.28257
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.2035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.19295
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.02435
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Specialty",
+            "InvRate": 1.01106
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.99103
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.75813
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANCA TRANSILVANIA SA",
+            "InvRate": 6.95545
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KRKA DD NOVO MESTO",
+            "InvRate": 5.93987
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "OTP BANK PLC COMMON",
+            "InvRate": 5.51903
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CCC SA COMMON STOCK PLN",
+            "InvRate": 5.44326
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BUDIMEX SA COMMON STOCK",
+            "InvRate": 5.15554
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SANOK RUBBER CO SA",
+            "InvRate": 4.37004
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TALLINK GRUPP AS COMMON",
+            "InvRate": 4.04821
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KRUK SA COMMON STOCK PLN",
+            "InvRate": 3.94888
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RICHTER GEDEON NYRT",
+            "InvRate": 3.9309
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ASSECO POLAND SA COMMON",
+            "InvRate": 3.81239
+        }
+    ]
+}

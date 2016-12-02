@@ -1,0 +1,142 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9637896,
+            "SInvRate": 96.37896,
+            "LInvRate": 96.37896
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0362104,
+            "SInvRate": 3.62104,
+            "LInvRate": 3.62104
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 39.91148
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 29.4636
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 6.0449
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 4.711
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 4.43187
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 3.05434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.25489
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.09346
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 1.78228
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.10744
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 0.76348
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.51718
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 0.22833
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 0.0147
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KWS SAAT",
+            "InvRate": 7.29594
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Agrium",
+            "InvRate": 5.99342
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Monsanto Co.",
+            "InvRate": 5.61239
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CF Industries Holdings",
+            "InvRate": 5.3525
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Vilmorin & Compagnie",
+            "InvRate": 4.70409
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Potash Corp. of Saskatchewan",
+            "InvRate": 3.30943
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Mosaic, The",
+            "InvRate": 3.00142
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "The Andersons",
+            "InvRate": 2.17316
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Syngenta Reg.",
+            "InvRate": 2.08336
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Yara International",
+            "InvRate": 2.08139
+        }
+    ]
+}

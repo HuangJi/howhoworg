@@ -1,0 +1,174 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9759906,
+            "SInvRate": 97.59906,
+            "LInvRate": 97.59906
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.016222,
+            "SInvRate": 1.6222,
+            "LInvRate": 1.6222
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0077874,
+            "SInvRate": 0.77874,
+            "LInvRate": 0.77874
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 20.89357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 9.7815
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 9.55371
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 7.17268
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 6.73353
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 6.19574
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 5.09551
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.31647
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 4.1721
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 4.04988
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.59806
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.70047
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.59246
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 2.51443
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 2.3099
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 2.09224
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.04444
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 1.17804
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 0.60433
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PTT Public Co Ltd (Foreign)",
+            "InvRate": 9.7815
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CP ALL Public Co Ltd (Foreign)",
+            "InvRate": 9.55371
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Siam Commercial Bank Public Co Ltd (Foreign)",
+            "InvRate": 7.27735
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PTT Exploration & Production Public Co Ltd (Foreign)",
+            "InvRate": 6.73353
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Kasikornbank Public Co Ltd (Foreign)",
+            "InvRate": 6.47996
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "IRPC Public Co Ltd (Foreign)",
+            "InvRate": 3.65671
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Kiatnakin Bank Public Co Ltd (Foreign)",
+            "InvRate": 3.61863
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Star Petroleum Refining PCL (F)",
+            "InvRate": 3.51598
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TISCO Financial Group Public Co Ltd (Foreign)",
+            "InvRate": 3.2506
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "True Corp Public Co Ltd (Foreign)",
+            "InvRate": 3.20173
+        }
+    ]
+}

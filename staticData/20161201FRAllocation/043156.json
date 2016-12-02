@@ -1,0 +1,64 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 1,
+            "SInvRate": 100,
+            "LInvRate": 100
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BNP PARIBAS TD 0% 10/03/2016",
+            "InvRate": 13.84406
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ING BANK NV TD 0% 10/04/2016",
+            "InvRate": 9.70327
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ING BANK NV TD 0% 10/05/2016",
+            "InvRate": 9.70327
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CREDIT AGRICOLE CIB LONDON CP 0 11/03/2016",
+            "InvRate": 4.77616
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BNP PARIBAS CD 0% 12/04/2016",
+            "InvRate": 4.62369
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EADS FIN BV CP 0 10/18/2016",
+            "InvRate": 4.62136
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BNP PARIBAS TD 0% 10/04/2016",
+            "InvRate": 4.6206
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RABOBANK NEDERLAND TD 0% 10/05/2016",
+            "InvRate": 4.6206
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RABOBANK NEDERLAND TD 0% 10/04/2016",
+            "InvRate": 4.6206
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRED BANQUE CD 1ME 07/14/17",
+            "InvRate": 4.62001
+        }
+    ]
+}

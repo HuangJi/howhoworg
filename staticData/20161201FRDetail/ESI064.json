@@ -1,0 +1,243 @@
+{
+    "Area": "A",
+    "FundId": "ESI064",
+    "StarRatingFromEst": 4,
+    "Name": "瀚亞亞太不動產證券化基金A類型-新臺幣",
+    "NameEng": "Eastspring Inv Asia Pacific REITs A",
+    "NameWarning": "",
+    "CPId": "37",
+    "CPName": "瀚亞證券投資信託股份有限公司",
+    "CPNameEng": "Eastspring Securities Invst Tr Co Ltd",
+    "AgentCPId": "37",
+    "AgentCPName": "瀚亞證券投資信託股份有限公司",
+    "AgentCPNameEng": "Eastspring Securities Invst Tr Co Ltd",
+    "RctName": "台灣",
+    "Count": 42,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20061226",
+    "CategoryId": "389",
+    "CategoryName": "亞洲房地產(間接)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於前述(八)所列標的.並依下列規定進行投資:1.原則上,本基金自成立之日起屆滿六個月後,投資於前述(八)國家及地區之房地產有價證券及不動產證券化商品之總額,不得低於本基金淨資產價值之百分之七十(含),其中投資於外國有價證券之總額不得低於本基金淨資產價值之百分之六十(含);且投資於不動證券化商品之總額不得低於本基金淨資產價值之百分之六十(含);但在本基金信託契約終止前一個月,得不受前述投資比例之限制.",
+    "Custodian": "中國信託商業銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 3000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3453117354,
+    "PriceTransDate": "20161130",
+    "Price": 10.79,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.04,
+    "UpDownRate": 0.37,
+    "Rr1w": -1.50442,
+    "Rr1M": -4.38144,
+    "Rr3M": -5.99662,
+    "Rr6M": -2.36842,
+    "RrThisYear": 7.43243,
+    "Rr1Y": 10.52632,
+    "Rr2Y": 9.76332,
+    "Rr3Y": 20.45454,
+    "Rr5Y": 53.72926,
+    "Rr10Y": null,
+    "RrFromEst": 11.3,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 4.15,
+    "Beta1Y": 0.9,
+    "Sharpe1Y": 1,
+    "StdDev1Y": 13.38,
+    "Alpha3Y": 2.72,
+    "Beta3Y": 0.76,
+    "Sharpe3Y": 0.35,
+    "StdDev3Y": 13.08,
+    "AriMean3Y": 0.388,
+    "Alpha5Y": 6.1,
+    "Beta5Y": 0.74,
+    "Sharpe5Y": 0.56,
+    "StdDev5Y": 15.22,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 5,
+    "ProviderId": "5",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9448173,
+            "SInvRate": 94.48173,
+            "LInvRate": 94.48173
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0353,
+            "SInvRate": 3.53,
+            "LInvRate": 3.53
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0198827,
+            "SInvRate": 1.98827,
+            "LInvRate": 1.98827
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.79
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.71
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.67
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.65
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 10.62
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.68
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.61
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.59
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.67
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.66
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.55
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.63
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.68
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.78
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.93
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.91
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 11.01
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.95
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.97
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 11.07
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 11.07
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 11.14
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 11.13
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 11.07
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 11.2
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 11.26
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 11.27
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 11.3
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 11.29
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 11.29
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 64.01059
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 25.70952
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.50923
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.25239
+        }
+    ]
+}

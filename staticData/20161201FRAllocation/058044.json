@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9628048,
+            "SInvRate": 96.28048,
+            "LInvRate": 96.28048
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0197576,
+            "SInvRate": 1.97576,
+            "LInvRate": 1.97576
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0174376,
+            "SInvRate": 1.74376,
+            "LInvRate": 1.74376
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GE Capital International Funding Co., Unlimited Co.",
+            "InvRate": 2.7478
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GOLDMAN SACHS GROUP INC",
+            "InvRate": 2.232
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WACHOVIA CORP",
+            "InvRate": 2.1101
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DIAGEO CAPITAL PLC",
+            "InvRate": 2.02415
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SUMITOMO MITSUI BANKING",
+            "InvRate": 2.02006
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Citigroup Inc.",
+            "InvRate": 2.00901
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Chevron Corp",
+            "InvRate": 1.98888
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VIER GAS TRANSPORT GMBH",
+            "InvRate": 1.95331
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANK OF AMERICA CORP",
+            "InvRate": 1.91381
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RIO TINTO FIN USA LTD",
+            "InvRate": 1.80585
+        }
+    ]
+}

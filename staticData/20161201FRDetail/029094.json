@@ -1,0 +1,268 @@
+{
+    "Area": "B",
+    "FundId": "029094",
+    "StarRatingFromEst": 3,
+    "Name": "聯博-全球不動產證券基金 A股美元",
+    "NameEng": "AB SICAV I Glbl Real Estt Sec A",
+    "NameWarning": "基金之配息來源可能為本金",
+    "CPId": "9",
+    "CPName": "聯博(盧森堡)公司",
+    "CPNameEng": "AllianceBernstein (Luxembourg) S.à r.l.",
+    "AgentCPId": "97",
+    "AgentCPName": "聯博證券投資信託股份有限公司",
+    "AgentCPNameEng": "AllianceBernstein Investments Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 37,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19970227",
+    "CategoryId": "189",
+    "CategoryName": "環球房地產(間接)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "為達致此投資目標,投資管理人預計本基金最少投資其淨資產的80%於全球房地產投資信託股權證券((房地產投資信託公司))或按揭房地產投資信託股權證券及其他房地產行業公司,而在任何情況下,本基金投資於該等證券的資產將不會少於其總資產的三分之二.本基金亦可投資於短期投資級債務證券及其他定息證券.投資管理人預計,在任何時候,對此等定息證券的投資不會超過基金總資產的5%.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.5,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 41469572,
+    "PriceTransDate": "20161130",
+    "Price": 21.67,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.16,
+    "UpDownRate": -0.73,
+    "Rr1w": -1.88514,
+    "Rr1M": -4.96815,
+    "Rr3M": -7.55886,
+    "Rr6M": -0.75388,
+    "RrThisYear": 3.03867,
+    "Rr1Y": 2.00547,
+    "Rr2Y": 2.14514,
+    "Rr3Y": 10.2463,
+    "Rr5Y": 42.36642,
+    "Rr10Y": -2.35604,
+    "RrFromEst": 123.799843,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.83,
+    "Beta1Y": 0.83,
+    "Sharpe1Y": 0.19,
+    "StdDev1Y": 12.38,
+    "Alpha3Y": -2.38,
+    "Beta3Y": 0.73,
+    "Sharpe3Y": 0.36,
+    "StdDev3Y": 10.26,
+    "AriMean3Y": 0.314,
+    "Alpha5Y": -1.07,
+    "Beta5Y": 0.84,
+    "Sharpe5Y": 0.65,
+    "StdDev5Y": 11.78,
+    "Alpha10Y": -3.59,
+    "Beta10Y": 0.92,
+    "Sharpe10Y": 0.06,
+    "StdDev10Y": 21.04,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "90",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9050958,
+            "SInvRate": 90.50958,
+            "LInvRate": 90.50958
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0723726,
+            "SInvRate": 7.23726,
+            "LInvRate": 7.23726
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0225316,
+            "SInvRate": 2.25316,
+            "LInvRate": 2.25316
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 21.67
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 21.83
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 21.68
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 21.6
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 21.53
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 21.58
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 21.33
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 21.34
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 21.37
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 21.39
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 21.53
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 21.51
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 21.45
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 21.47
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 21.9
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 22.13
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 22.06
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 21.96
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 21.91
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 21.98
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 22.38
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 22.15
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 22.17
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 22.53
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 22.75
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 22.81
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 22.66
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 22.7
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 22.73
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 22.66
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 69.2434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 18.01498
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 0.55228
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.49068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.4869
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.48186
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.46522
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.4094
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.36477
+        }
+    ]
+}

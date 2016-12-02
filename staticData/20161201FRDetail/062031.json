@@ -1,0 +1,278 @@
+{
+    "Area": "B",
+    "FundId": "062031",
+    "StarRatingFromEst": 1,
+    "Name": "百達-精選品牌-R 美元",
+    "NameEng": "Pictet-Premium Brands R USD",
+    "NameWarning": "",
+    "CPId": "24",
+    "CPName": "百達資產管理",
+    "CPNameEng": "Pictet Asset Management (Europe) SA",
+    "AgentCPId": "321",
+    "AgentCPName": "百達證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Pictet Funds (Taiwan)",
+    "RctName": "盧森堡",
+    "Count": 13,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20070123",
+    "CategoryId": "182",
+    "CategoryName": "消費品及服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此成分基金將採用資本增長策略,至少以其淨資產的三分之二投資於由從事優質品牌行業並提供優質服務和產品的公司所發行的股票.這些公司得益於高度的市場認受性,因為他們有能力塑造或帶動消費者的潮流走勢,同時亦有可能受惠於其設定價格的能力.這些公司專門從事高檔產品和服務的業務,或為此類活動提供融資.此成分基金的投資並不限於任何特定地區.此成分基金將在符合投資限制規定的限額內,持有由上市公司發行的證券組成的多元化投資組合.這些證券可能是普通股或優先股以及在較少程度上,為可轉讓證券的認股權證及選擇權.成分基金最多可以其淨資產的10%投資於UCI,如本公開說明書投資限制A卷§1第5)點所述.成分基金亦可投資於結構性產品,例如其報酬與指數,可轉讓證券或一籃子可轉讓證券的績效連結的債券或其他可轉讓證券,或集合投資計劃.成分基金可在符合投資限制規定的限額內,為有效管理的目的而運用衍生技巧及工具.",
+    "Custodian": "百達(歐洲)",
+    "CustodianFee": 0.3,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2.9,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 513821416.48,
+    "PriceTransDate": "20161129",
+    "Price": 121.31,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.68,
+    "UpDownRate": 0.56,
+    "Rr1w": -1.34591,
+    "Rr1M": -3.72031,
+    "Rr3M": -4.33729,
+    "Rr6M": -5.56241,
+    "RrThisYear": -8.52638,
+    "Rr1Y": -15.16391,
+    "Rr2Y": -15.73623,
+    "Rr3Y": -20.33193,
+    "Rr5Y": 5.10907,
+    "Rr10Y": null,
+    "RrFromEst": 20.38752,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -17.37,
+    "Beta1Y": 0.94,
+    "Sharpe1Y": -1.39,
+    "StdDev1Y": 11.54,
+    "Alpha3Y": -11.04,
+    "Beta3Y": 0.99,
+    "Sharpe3Y": -0.54,
+    "StdDev3Y": 12.81,
+    "AriMean3Y": -0.563,
+    "Alpha5Y": -7.73,
+    "Beta5Y": 1.04,
+    "Sharpe5Y": 0.13,
+    "StdDev5Y": 14.17,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9874166012583399,
+            "SInvRate": 98.74167,
+            "LInvRate": 98.74167
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.012528898747110126,
+            "SInvRate": 1.25289,
+            "LInvRate": 1.25289
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.00005449999455000054,
+            "SInvRate": 0.00545,
+            "LInvRate": 0.00545
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 121.31
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 120.63
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 121.29
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 119.91
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 120.26
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 120.23
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 119.42
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 120.45
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 118.9
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 119.33
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 118.6
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 119.73
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 119.71
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 121.3
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 121.78
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 121.4
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 120.17
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 119.81
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 120.73
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 122.41
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 122.65
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 122.05
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 122.55
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 122.61
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 124.08
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 123.82
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 124.88
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 125.13
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 124.53
+        },
+        {
+            "TransDate": "20161017",
+            "Price": 123.78
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 22.14462
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 19.65811
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 17.90106
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 14.7038
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 9.99566
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 3.33095
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 3.00134
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.4908
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Personal Services",
+            "InvRate": 2.07687
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 1.98388
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 1.45457
+        }
+    ]
+}

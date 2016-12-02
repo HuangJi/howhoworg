@@ -1,0 +1,239 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 1.0166092,
+            "SInvRate": 101.66092,
+            "LInvRate": 101.66092
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": -0.0186468,
+            "SInvRate": -1.86468,
+            "LInvRate": -1.86468
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "其他",
+            "InvRate": 0.0020376,
+            "SInvRate": 0.20376,
+            "LInvRate": 0.20376
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Online Media",
+            "InvRate": 18.0505
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Banks",
+            "InvRate": 16.88855
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Services",
+            "InvRate": 9.38623
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 9.02966
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Life",
+            "InvRate": 6.88978
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 3.96155
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Real Estate",
+            "InvRate": 3.86534
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.61414
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.54899
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Autos",
+            "InvRate": 2.33896
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.85324
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.81884
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.57381
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Steel",
+            "InvRate": 1.56279
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Education",
+            "InvRate": 1.49736
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Computer Hardware",
+            "InvRate": 1.15491
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Medical Distribution",
+            "InvRate": 1.07622
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.02224
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Coal",
+            "InvRate": 1.00719
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Building Materials",
+            "InvRate": 0.98382
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.93546
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Equipment",
+            "InvRate": 0.87868
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.82819
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Industrial Products",
+            "InvRate": 0.82722
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.81101
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.80675
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Waste Management",
+            "InvRate": 0.74805
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Biotechnology",
+            "InvRate": 0.7083
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.5675
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Conglomerates",
+            "InvRate": 0.56173
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 0.00674
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Semiconductors",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160701",
+            "ExternalName": "TENCENT HOLDINGS LTD",
+            "InvRate": 9.44848
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "ALIBABA GROUP HOLDING LTD",
+            "InvRate": 8.10672
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "CHINA MOBILE LTD",
+            "InvRate": 7.53364
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "CHINA CONSTRUNCT.BK-H",
+            "InvRate": 5.94622
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "IND & COMM BK CHINA-H",
+            "InvRate": 4.91903
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "FUTURE HANG SENG CHINA ENT H-SHARES IDX FUT Aug16",
+            "InvRate": 4.85712
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "BAIDU.COM ADR",
+            "InvRate": 4.37429
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "BANK OF CHINA LTD-H",
+            "InvRate": 3.82328
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "PING AN INSURANCE GRP",
+            "InvRate": 3.05499
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "CNOOC LTD",
+            "InvRate": 2.54899
+        }
+    ]
+}

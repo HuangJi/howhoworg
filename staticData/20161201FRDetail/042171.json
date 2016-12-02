@@ -1,0 +1,256 @@
+{
+    "Area": "B",
+    "FundId": "042171",
+    "StarRatingFromEst": 3,
+    "Name": "貝萊德世界金融基金 A2 美元",
+    "NameEng": "BGF World Financials A2RF",
+    "NameWarning": "",
+    "CPId": "33",
+    "CPName": "貝萊德(盧森堡)公司",
+    "CPNameEng": "BlackRock (Luxembourg) SA",
+    "AgentCPId": "101",
+    "AgentCPName": "貝萊德證券投資信託股份有限公司",
+    "AgentCPNameEng": "BlackRock Investment Mngt (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 41,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20000303",
+    "CategoryId": "184",
+    "CategoryName": "金融服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "世界金融基金以盡量提高總回報為目標.基金將不少於70%的總資產投資於全球各地主要從事金融服務的公司的股本證券.",
+    "Custodian": "紐約梅隆銀行(國際)有限公司",
+    "CustodianFee": 0.441,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 251691213,
+    "PriceTransDate": "20161130",
+    "Price": 20.47,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.25,
+    "UpDownRate": 1.24,
+    "Rr1w": -1.02881,
+    "Rr1M": 4.45168,
+    "Rr3M": 9.0085,
+    "Rr6M": 4.11255,
+    "RrThisYear": -4.23096,
+    "Rr1Y": -5.59372,
+    "Rr2Y": -10.63633,
+    "Rr3Y": -7.09801,
+    "Rr5Y": 37.72369,
+    "Rr10Y": -26.7606,
+    "RrFromEst": 92.40006,
+    "RatingTransDate": "201610",
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": -0.12,
+    "StdDev1Y": 25.28,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": -0.06,
+    "StdDev3Y": 17.49,
+    "AriMean3Y": -0.076,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": 0.45,
+    "StdDev5Y": 17.52,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": -0.06,
+    "StdDev10Y": 22.54,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "94",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9744456,
+            "SInvRate": 97.44456,
+            "LInvRate": 97.44456
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0255544,
+            "SInvRate": 2.55544,
+            "LInvRate": 2.55544
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 20.47
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 20.22
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 20.27
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 20.42
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 20.42
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 20.36
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 20.49
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 20.32
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 20.33
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 20.33
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 20.26
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 20.27
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 20.52
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 20.19
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 20.49
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 19.64
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 19.23
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 19.24
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 18.89
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 19.07
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 18.89
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 19.24
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 19.35
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 19.43
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 19.31
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 19.38
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 19.44
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 19.12
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 19.23
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 19.05
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 65.57614
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 7.70827
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 5.86892
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 5.77667
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.94561
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 3.5883
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 2.97778
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.00287
+        }
+    ]
+}

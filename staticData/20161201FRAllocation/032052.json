@@ -1,0 +1,119 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9949886,
+            "SInvRate": 99.49886,
+            "LInvRate": 99.49886
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0040834,
+            "SInvRate": 0.40834,
+            "LInvRate": 0.40834
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.000928,
+            "SInvRate": 0.0928,
+            "LInvRate": 0.0928
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 64.09272
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 11.27894
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 8.28419
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 6.25597
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.9919
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 2.76385
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.90398
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 0.92099
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JPMORGAN CHASE & CO",
+            "InvRate": 6.71274
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANK OF AMERICA CORP",
+            "InvRate": 5.55294
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WELLS FARGO & CO",
+            "InvRate": 5.03141
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CITIGROUP INC",
+            "InvRate": 4.25846
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AIA GROUP LTD",
+            "InvRate": 3.57029
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "COMMONWEALTH BANK OF AUSTRAL",
+            "InvRate": 3.13341
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHUBB LTD",
+            "InvRate": 2.99191
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MITSUBISHI UFJ FINANCIAL GRO",
+            "InvRate": 2.88119
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BLACKROCK INC",
+            "InvRate": 2.76385
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GOLDMAN SACHS GROUP INC",
+            "InvRate": 2.69451
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9553906,
+            "SInvRate": 95.53906,
+            "LInvRate": 95.53906
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0302862,
+            "SInvRate": 3.02862,
+            "LInvRate": 3.02862
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0143232,
+            "SInvRate": 1.43232,
+            "LInvRate": 1.43232
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 21.99142
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 10.4016
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 10.12971
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 8.06625
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.96687
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 6.73441
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 5.31158
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.82403
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 3.57287
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.07535
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.39359
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.67619
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 1.57646
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 1.33409
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 1.16985
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.15788
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 0.98314
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.80209
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 0.64002
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 0.57715
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.39749
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 0.31341
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 0.20923
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INFOSYS LTD",
+            "InvRate": 6.862
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "STATE BANK OF INDIA",
+            "InvRate": 6.10171
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDUSIND BANK LTD.",
+            "InvRate": 4.02356
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ULTRATECH CEMENT LTD",
+            "InvRate": 3.44907
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RELIANCE INDUSTRIES LTD",
+            "InvRate": 3.41892
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ICICI BANK LTD",
+            "InvRate": 2.99311
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TATA MOTORS LTD",
+            "InvRate": 2.50943
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LUPIN LTD.",
+            "InvRate": 2.4363
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BAJAJ FINANCE LTD",
+            "InvRate": 2.41788
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SUN PHARMACEUTICAL INDUSTRIES LTD",
+            "InvRate": 2.37281
+        }
+    ]
+}
