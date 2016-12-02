@@ -1,0 +1,179 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9618136,
+            "SInvRate": 96.18136,
+            "LInvRate": 96.18136
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0431,
+            "SInvRate": 4.31,
+            "LInvRate": 4.31
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0049136,
+            "SInvRate": -0.49136,
+            "LInvRate": -0.49136
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 21.28931
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 12.98601
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 11.44085
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 8.08685
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 6.30469
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 6.12675
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 5.69045
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.8939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.95257
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.67416
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.46825
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 2.34597
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.20158
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 1.33573
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 1.14151
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.13455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.0107
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 0.98547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.76062
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 0.35146
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRONICS CO LTD",
+            "InvRate": 7.13503
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 6.12675
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHARTER HALL GROUP",
+            "InvRate": 3.84583
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中華電",
+            "InvRate": 3.69252
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WESTPAC BANKING CORP",
+            "InvRate": 3.54315
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BPD JAWA BARAT DAN BANK",
+            "InvRate": 3.49617
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KOREA ELECTRIC POWER CORP",
+            "InvRate": 3.4371
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF CHINA LTD-H",
+            "InvRate": 3.12468
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PACIFIC TEXTILES HOLDINGS",
+            "InvRate": 2.95257
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA CONSTRUCTION BANK-H",
+            "InvRate": 2.61956
+        }
+    ]
+}

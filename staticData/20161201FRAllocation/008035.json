@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9058141094185891,
+            "SInvRate": 90.58142,
+            "LInvRate": 90.58142
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.03543189645681035,
+            "SInvRate": 3.54319,
+            "LInvRate": 3.54319
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.05875399412460059,
+            "SInvRate": 5.8754,
+            "LInvRate": 5.8754
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SHORT-TERM INV CO LIQTY PFOLIO INSTL",
+            "InvRate": 4.24274
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UKRAINE(REP OF) 7.750 SEP 01 19",
+            "InvRate": 2.25423
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KAZMUNAIGAZ FINANC 6.375 APR 09 21 REG",
+            "InvRate": 1.74344
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ESKOM HLDG SOC LTD 7.125 FEB 11 25 REG",
+            "InvRate": 1.72867
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PEMEX PROJ FDG MASTE 6.625 JUN 15 35",
+            "InvRate": 1.70311
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ARGENTINE REPUBLIC 6.250 APR 22 19 REG",
+            "InvRate": 1.67528
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DOMINICAN REPUBLIC 6.875 JAN 29 26 REG",
+            "InvRate": 1.5653
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PETROLEOS DE VENEZ 5.250 APR 12 17 REG",
+            "InvRate": 1.53732
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDONESIA REP 4.125 JAN 15 25 REG",
+            "InvRate": 1.51565
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ISHARES JP MOR EM MK ETF",
+            "InvRate": 1.34465
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "Area": "B",
+    "FundId": "008057",
+    "StarRatingFromEst": 2,
+    "Name": "景順日本動力基金A股 日圓",
+    "NameEng": "Invesco Japanese Equity Core A JPY",
+    "NameWarning": "",
+    "CPId": "56",
+    "CPName": "インベスコ･グローバル･アセット･マネジメントDAC",
+    "CPNameEng": "Invesco Global Asset Management DAC",
+    "AgentCPId": "99",
+    "AgentCPName": "景順證券投資信託股份有限公司",
+    "AgentCPNameEng": "Invesco Taiwan Limited",
+    "RctName": "愛爾蘭",
+    "Count": 13,
+    "CurrencyCode": "JPY",
+    "InceptionYmdOn": "20101208",
+    "CategoryId": "169",
+    "CategoryName": "日本大型股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金的投資目標,是從日本取得資本增值.本基金將主要投資於根據日本法例成立的公司的股份,惟倘基金經理認為適當,亦可包括在其他地區成立但其收入源自日本或在當地擁有重大權益的公司的股份.本基金將投資於在認可市場上市或買賣的證券.",
+    "Custodian": "紐約梅隆銀行信託公司(愛爾蘭)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 47896870986.66,
+    "PriceTransDate": "20161130",
+    "Price": 2146,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 1,
+    "UpDownRate": 0.05,
+    "Rr1w": 1.52207,
+    "Rr1M": 5.81703,
+    "Rr3M": 5.31579,
+    "Rr6M": 5.87302,
+    "RrThisYear": -9.45701,
+    "Rr1Y": -11.85022,
+    "Rr2Y": 3.67877,
+    "Rr3Y": 15.66476,
+    "Rr5Y": 92.40385,
+    "Rr10Y": null,
+    "RrFromEst": 55.11629,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -6.1,
+    "Beta1Y": 0.73,
+    "Sharpe1Y": -0.72,
+    "StdDev1Y": 15.79,
+    "Alpha3Y": -1.89,
+    "Beta3Y": 0.95,
+    "Sharpe3Y": 0.36,
+    "StdDev3Y": 17.42,
+    "AriMean3Y": 0.528,
+    "Alpha5Y": -2.77,
+    "Beta5Y": 1.17,
+    "Sharpe5Y": 0.68,
+    "StdDev5Y": 22.92,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "92",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9812162,
+            "SInvRate": 98.12162,
+            "LInvRate": 98.12162
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0187838,
+            "SInvRate": 1.87838,
+            "LInvRate": 1.87838
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 2146
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 2145
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 2143
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 2138
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 2133
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 2100
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 2101
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 2097
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 2078
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 2070
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 2073
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 2038
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 2025
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 1988
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 1965
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 1895
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 1943
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 1939
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 1918
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 1955
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 1955
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 1997
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 2001
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 2001
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 1979
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 1986
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 1985
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 1971
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 1971
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 1968
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 13.46247
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 12.73472
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 9.33921
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 9.07428
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 7.93821
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 7.47114
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 6.04357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.93349
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 3.89095
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 3.23045
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 3.02034
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.94849
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 2.71324
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 2.63971
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 2.58208
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.88404
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 1.86812
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.00775
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 0.86475
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.78571
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.6889
+        }
+    ]
+}

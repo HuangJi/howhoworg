@@ -1,0 +1,253 @@
+{
+    "Area": "A",
+    "FundId": "CIT031",
+    "StarRatingFromEst": null,
+    "Name": "群益全球關鍵生技基金-美元",
+    "NameEng": "Capital Global Biotech USD",
+    "NameWarning": "",
+    "CPId": "55",
+    "CPName": "群益證券投資信託股份有限公司",
+    "CPNameEng": "Capital Investment Trust Co., Ltd",
+    "AgentCPId": "55",
+    "AgentCPName": "群益證券投資信託股份有限公司",
+    "AgentCPNameEng": "Capital Investment Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 39,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20131225",
+    "CategoryId": "180",
+    "CategoryName": "生化科學股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金之股票投資以從事或轉投資于生物科技,只要,醫療保健服務,醫療保健設備,醫療保健科技及食品與基本消費品零售產業等醫療保健及生物科技事業為主要業務之相關國內及外國公司所發行之有價證券為主.",
+    "Custodian": "合作金庫商業銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 100,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 46164186.86,
+    "PriceTransDate": "20161130",
+    "Price": 11.9635,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.05,
+    "UpDownRate": 0.41,
+    "Rr1w": -3.35055,
+    "Rr1M": -8.11313,
+    "Rr3M": -11.737,
+    "Rr6M": -7.16745,
+    "RrThisYear": -13.56807,
+    "Rr1Y": -11.81902,
+    "Rr2Y": -1.49729,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 18.61993,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": -0.7,
+    "StdDev1Y": 16.48,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9254334,
+            "SInvRate": 92.54334,
+            "LInvRate": 92.54334
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.073,
+            "SInvRate": 7.3,
+            "LInvRate": 7.3
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0015666,
+            "SInvRate": 0.15666,
+            "LInvRate": 0.15666
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 11.9635
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 12.114
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 12.064
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 12.145
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 12.1136
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 12.0645
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 12.1892
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 12.1783
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 12.3313
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 12.2707
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 12.3932
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 12.4229
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 12.3616
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 12.5572
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 12.398
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 11.8658
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 11.8825
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 11.6098
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 11.5419
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 11.703
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 11.8355
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 11.8614
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 11.9822
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 12.2118
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 12.1746
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 12.2067
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 12.2726
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 12.3223
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 12.447
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 12.3672
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 35.82306
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 35.23755
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 13.24207
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 4.20015
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 3.31973
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.72077
+        }
+    ]
+}

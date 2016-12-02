@@ -1,0 +1,283 @@
+{
+    "Area": "A",
+    "FundId": "YUI065",
+    "StarRatingFromEst": 3,
+    "Name": "元大經貿證券投資信託基金",
+    "NameEng": "Yuanta International Trade Eq",
+    "NameWarning": "",
+    "CPId": "21",
+    "CPName": "元大證券投資信託股份有限公司",
+    "CPNameEng": "Yuanta Security Inv Trust Co., Ltd",
+    "AgentCPId": "21",
+    "AgentCPName": "元大證券投資信託股份有限公司",
+    "AgentCPNameEng": "Yuanta Security Inv Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 17,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "19981124",
+    "CategoryId": "404",
+    "CategoryName": "台灣中小型股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於國內上市及上櫃股票,上市受益憑證,政府公債,公司債(包括可轉換公司債)及其他金融債券.原則上,本基金淨資產價值之百分之六十以上將投資於與國家經濟建設相關或以外銷為主要營收來源之上市,上櫃公司股票為主;並於本基金成立六個月後,投資於上市,上櫃股票之總額不低於淨資產價值之百分之七十,但依經理公司之專業判斷,在特殊情況下,得不受前述比例限制.1.國家經濟建設相關事業:指從事或轉投資於行政院經濟建設委員會於八十六年一月制定的(跨世紀國家建設計劃)中所推動之重大公共工程建設及重大科技發展計畫等相關產業之上市,上櫃公司為主.其中重大公共工程建設包括(1)都市及住宅建設.(2)運輸通訊建設.(3)能源開發建設等營建,營造,電信,油品,電力開發產業.重大科技發展計畫等相關產業包括通訊,資訊,航太,消費性電子,半導體,多媒體,視訊,精密機械與自動化,高級材料,特用化學品,醫療保健,污染防治等產業.本基金所謂轉投資係指依據(證券發行人財務報告編製準則)之規定,列為長期投資重大公共工程建設及重大科技發展計畫等相關產業之投資總額佔其實收股本百分之五(含本數)以上,且投資總額達新台幣五千萬元(含本數)以上之公司.2.以外銷為主要營收來源之事業:指最近年度外銷總值佔全年度營業總額之百分之五十以上之上市,上櫃公司.前述所指特殊情況,係指本基金信託契約終止前一個月或證券交易所及櫃檯中心發佈之發行量加權股價指數有下列情形之一者:(1)最近六個營業日指數累計漲幅超過10%(含本數),或跌幅超過10%(含本數).(2)最近三十個營業日指數累計漲幅超過20%(含本數),或跌幅超過20%(含本數).",
+    "Custodian": "永豐銀行",
+    "CustodianFee": 0.15,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.6,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 1135013925,
+    "PriceTransDate": "20161201",
+    "Price": 28.25,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.09,
+    "UpDownRate": -0.32,
+    "Rr1w": -1.24453,
+    "Rr1M": -2.74925,
+    "Rr3M": 1.5917,
+    "Rr6M": 4.15041,
+    "RrThisYear": 6.72483,
+    "Rr1Y": 4.7823,
+    "Rr2Y": 8.37949,
+    "Rr3Y": 22.53755,
+    "Rr5Y": 38.22974,
+    "Rr10Y": 56.75393,
+    "RrFromEst": 193.599823,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 6.57,
+    "Beta1Y": 0.82,
+    "Sharpe1Y": 0.49,
+    "StdDev1Y": 8.78,
+    "Alpha3Y": -3.28,
+    "Beta3Y": 1.09,
+    "Sharpe3Y": 0.58,
+    "StdDev3Y": 11.43,
+    "AriMean3Y": 0.62,
+    "Alpha5Y": -4.43,
+    "Beta5Y": 0.99,
+    "Sharpe5Y": 0.48,
+    "StdDev5Y": 13.38,
+    "Alpha10Y": 4.49,
+    "Beta10Y": 0.99,
+    "Sharpe10Y": 0.26,
+    "StdDev10Y": 22.16,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "20",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.893308,
+            "SInvRate": 89.3308,
+            "LInvRate": 89.3308
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0948,
+            "SInvRate": 9.48,
+            "LInvRate": 9.48
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.011892,
+            "SInvRate": 1.1892,
+            "LInvRate": 1.1892
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161201",
+            "Price": 28.25
+        },
+        {
+            "TransDate": "20161130",
+            "Price": 28.31
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 28.4
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 28.41
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 28.37
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 28.21
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 28.42
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 28.34
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 27.99
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 27.8
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 27.56
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 27.55
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 27.45
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 27.45
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 27.78
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 28.55
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 27.36
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 28.44
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 28.59
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 28.25
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 28.04
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 28.25
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 29.23
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 29.36
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 29.45
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 29.71
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 29.82
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 29.79
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 29.73
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 29.73
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 23.94571
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 18.34944
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.67341
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 7.84466
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 7.22908
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.26757
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.11836
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.73409
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.48032
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.79983
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.58556
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.30277
+        }
+    ]
+}

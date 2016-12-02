@@ -1,0 +1,184 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.890601,
+            "SInvRate": 89.0601,
+            "LInvRate": 89.0601
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1184,
+            "SInvRate": 11.84,
+            "LInvRate": 11.84
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.009001,
+            "SInvRate": -0.9001,
+            "LInvRate": -0.9001
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 12.33627
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.47832
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 7.71866
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 7.35599
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 6.12687
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 5.06448
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 4.85385
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 4.85312
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.3685
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 4.10451
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.13864
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.78673
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 2.64205
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 2.49366
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.38208
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.00186
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.97368
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.64802
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.46124
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.26045
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.01115
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHANGHAI WANGSU SCIENCE-A",
+            "InvRate": 5.18124
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNWAY COMMUNICAT-A",
+            "InvRate": 4.85385
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GEELY AUTOMOBILE HOLDING LTD",
+            "InvRate": 4.85312
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BEIJING ORIGINWATER TECHNO-A",
+            "InvRate": 4.33552
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HENAN PINGGAO ELECTRIC CO-A",
+            "InvRate": 4.11135
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANGZHOU HIKVISION DIGITAL-A",
+            "InvRate": 4.10451
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANGZHOU ROBAM APPLIANCES-A",
+            "InvRate": 3.68934
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PING AN INSURANCE GROUP CO-H",
+            "InvRate": 3.47584
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HUANENG RENEWABLES CORP-H",
+            "InvRate": 3.13864
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA STATE CONSTRUCTION INT-R",
+            "InvRate": 3.07304
+        }
+    ]
+}

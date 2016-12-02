@@ -1,0 +1,228 @@
+{
+    "Area": "B",
+    "FundId": "042097",
+    "StarRatingFromEst": null,
+    "Name": "貝萊德世界黃金基金Hedged A2 澳幣",
+    "NameEng": "BGF World Gold A2 AUD H",
+    "NameWarning": "",
+    "CPId": "33",
+    "CPName": "貝萊德(盧森堡)公司",
+    "CPNameEng": "BlackRock (Luxembourg) SA",
+    "AgentCPId": "101",
+    "AgentCPName": "貝萊德證券投資信託股份有限公司",
+    "AgentCPNameEng": "BlackRock Investment Mngt (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 87,
+    "CurrencyCode": "AUD",
+    "InceptionYmdOn": "20140226",
+    "CategoryId": "187",
+    "CategoryName": "其他行業股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "世界黃金基金以盡量提高總回報為目標.基金將不少於70%的總資產投資於全球各地主要從事金礦業務的公司的股本證券.基金亦可投資於主要從事其他貴金屬或礦物及基本金屬或採礦業務的公司之股本證券.基金不會實際持有黃金或其他金屬.",
+    "Custodian": "紐約梅隆銀行(國際)有限公司",
+    "CustodianFee": 0.441,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 6960836595.13,
+    "PriceTransDate": "20161130",
+    "Price": 8.74,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.1,
+    "UpDownRate": -1.13,
+    "Rr1w": -2.27704,
+    "Rr1M": -9.88626,
+    "Rr3M": -18.18904,
+    "Rr6M": -1.341,
+    "RrThisYear": 64.27432,
+    "Rr1Y": 52.1418,
+    "Rr2Y": 36.24338,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 3.00001,
+    "RatingTransDate": null,
+    "Alpha1Y": -0.49,
+    "Beta1Y": 0.92,
+    "Sharpe1Y": 1.14,
+    "StdDev1Y": 53.92,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 5,
+    "ProviderId": "94",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9814788981478898,
+            "SInvRate": 98.14788,
+            "LInvRate": 98.14788
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0059903005990300595,
+            "SInvRate": 0.59903,
+            "LInvRate": 0.59903
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.012530801253080126,
+            "SInvRate": 1.25308,
+            "LInvRate": 1.25308
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 8.84
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.67
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 8.62
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.7
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.98
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.06
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.9
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.3
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.23
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.12
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 8.68
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.32
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.1
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.61
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.3
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.32
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.58
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.78
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.93
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.3
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.28
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.3
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.5
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.46
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.54
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.52
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.59
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.51
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 97.37971
+        }
+    ]
+}

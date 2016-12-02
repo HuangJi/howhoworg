@@ -1,0 +1,189 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9796277979627798,
+            "SInvRate": 97.96277,
+            "LInvRate": 97.96277
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.010231801023180102,
+            "SInvRate": 1.02318,
+            "LInvRate": 1.02318
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.010140401014040101,
+            "SInvRate": 1.01404,
+            "LInvRate": 1.01404
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 17.87168
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 13.76244
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 9.17147
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 7.00177
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.44059
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 5.62829
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 5.23657
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 4.25294
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 3.47322
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 3.29054
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 3.04642
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.87578
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.72906
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Distribution",
+            "InvRate": 2.43663
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 2.12447
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.52178
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Publishing",
+            "InvRate": 1.48441
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 1.08158
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.05707
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.03113
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 0.09861
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EXPERIAN PLC",
+            "InvRate": 6.02702
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SAP SE",
+            "InvRate": 5.33731
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SANOFI",
+            "InvRate": 4.15978
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GRIFOLS",
+            "InvRate": 3.62269
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SCHINDLER HOLDING AG PART CERT",
+            "InvRate": 3.29054
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NOVO-NORDISK AS CL B",
+            "InvRate": 3.23463
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AMADEUS IT GROUP SA",
+            "InvRate": 3.07405
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BRITISH AMERICAN TOBACCO PLC",
+            "InvRate": 3.04642
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHRISTIAN DIOR SE",
+            "InvRate": 3.00266
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WORLDPAY GROUP PLC",
+            "InvRate": 2.85142
+        }
+    ]
+}

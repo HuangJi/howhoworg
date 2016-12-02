@@ -1,0 +1,371 @@
+{
+    "Area": "B",
+    "FundId": "116059",
+    "StarRatingFromEst": 3,
+    "Name": "富蘭克林坦伯頓全球投資系列-歐洲基金美元A (Ydis)股",
+    "NameEng": "Templeton European A Ydis USD",
+    "NameWarning": "",
+    "CPId": "30",
+    "CPName": "富蘭克林鄧普頓投資",
+    "CPNameEng": "Franklin Templeton Investment Funds",
+    "AgentCPId": "325",
+    "AgentCPName": "富蘭克林證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Franklin Templeton Invsmts (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 12,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19910417",
+    "CategoryId": "161",
+    "CategoryName": "歐洲大型價值型股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金透過投資於歐洲公司以及政府所發行的股票及債務承擔,以達致長線資本增值之目標.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.14,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 233983391.42,
+    "PriceTransDate": "20161130",
+    "Price": 18.29,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.07,
+    "UpDownRate": 0.38,
+    "Rr1w": -0.5914,
+    "Rr1M": -0.80472,
+    "Rr3M": 1.98566,
+    "Rr6M": -2.98986,
+    "RrThisYear": -3.6867,
+    "Rr1Y": -6.60965,
+    "Rr2Y": -5.94672,
+    "Rr3Y": -15.60485,
+    "Rr5Y": 24.38743,
+    "Rr10Y": -7.07089,
+    "RrFromEst": 249.0158,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 2.57,
+    "Beta1Y": 1.21,
+    "Sharpe1Y": -0.33,
+    "StdDev1Y": 14.5,
+    "Alpha3Y": -2.52,
+    "Beta3Y": 1.01,
+    "Sharpe3Y": 0.18,
+    "StdDev3Y": 13.61,
+    "AriMean3Y": 0.202,
+    "Alpha5Y": -0.16,
+    "Beta5Y": 1.05,
+    "Sharpe5Y": 0.76,
+    "StdDev5Y": 13.09,
+    "Alpha10Y": -1.37,
+    "Beta10Y": 0.98,
+    "Sharpe10Y": 0.05,
+    "StdDev10Y": 15.66,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "116",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9874901,
+            "SInvRate": 98.74901,
+            "LInvRate": 98.74901
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.0125099,
+            "SInvRate": 1.25099,
+            "LInvRate": 1.25099
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 18.29
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 18.22
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 18.15
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 18.38
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 18.31
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 18.25
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 18.4
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 18.36
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 18.25
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 18.37
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 18.34
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 18.54
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 18.45
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 18.51
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 18.75
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 18.6
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 18.35
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 18.34
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 18.15
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 18.27
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 18.14
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 18.39
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 18.49
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 18.63
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 18.53
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 18.52
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 18.54
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 18.6
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 18.56
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 18.6
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 14.74408
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 12.66366
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.72469
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Services",
+            "InvRate": 7.52444
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance",
+            "InvRate": 6.62952
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Biotechnology",
+            "InvRate": 5.4766
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Building Materials",
+            "InvRate": 5.10276
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 3.87841
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 3.85974
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 2.89468
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 2.73657
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 2.66377
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.20487
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Application Software",
+            "InvRate": 2.09288
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.07238
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 1.81473
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.74834
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Devices",
+            "InvRate": 1.73523
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Autos",
+            "InvRate": 1.34241
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Airlines",
+            "InvRate": 1.33511
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.17666
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.09778
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Life",
+            "InvRate": 1.09167
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Metals & Mining",
+            "InvRate": 1.04207
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Asset Management",
+            "InvRate": 0.96165
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.79607
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Semiconductors",
+            "InvRate": 0.75514
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Steel",
+            "InvRate": 0.63953
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.45189
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Entertainment",
+            "InvRate": 0.44784
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.04384
+        }
+    ]
+}

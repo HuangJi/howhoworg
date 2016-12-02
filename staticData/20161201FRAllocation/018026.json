@@ -1,0 +1,182 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9606291,
+            "SInvRate": 96.06291,
+            "LInvRate": 96.06291
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0393709,
+            "SInvRate": 3.93709,
+            "LInvRate": 3.93709
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 15.82975
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 13.58953
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 8.8286
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 8.02879
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 6.81489
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 6.6388
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.45305
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 4.84645
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 4.56414
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.80106
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.67537
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.57558
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.12288
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.75984
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.68674
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.47554
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.1544
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.9206
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.86617
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.76218
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 0.66857
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.00001
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HLDGS LIMI HKD0.00002",
+            "InvRate": 9.8584
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHN INTL HLDGS HKD1",
+            "InvRate": 8.02879
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAL EDUCATION GRP ADS EA REPR 2 CL A ORD SHS",
+            "InvRate": 6.81489
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAIWAN SEMICON MAN TWD10",
+            "InvRate": 6.6388
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN INVESTMEN HKD0.05",
+            "InvRate": 4.8835
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ANHUI GUJING DISTL 'B'CNY1",
+            "InvRate": 4.56414
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PING AN INSURANCE 'H'CNY1",
+            "InvRate": 3.80106
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA RES LAND HKD0.10",
+            "InvRate": 3.13116
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA CONST BK 'H'CNY1",
+            "InvRate": 3.02404
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INDUSTRIAL & COM B 'H'CNY1",
+            "InvRate": 3.00685
+        }
+    ]
+}

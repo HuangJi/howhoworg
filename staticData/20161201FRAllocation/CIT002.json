@@ -1,0 +1,153 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.3565729,
+            "SInvRate": 35.65729,
+            "LInvRate": 35.65729
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.3905113,
+            "SInvRate": 39.05113,
+            "LInvRate": 39.05113
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.1380417,
+            "SInvRate": 13.80417,
+            "LInvRate": 13.80417
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1128,
+            "SInvRate": 11.28,
+            "LInvRate": 11.28
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0020741,
+            "SInvRate": 0.20741,
+            "LInvRate": 0.20741
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 7.88638
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 6.22215
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 6.18404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 3.31808
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 2.21206
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.01921
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 1.66955
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.56857
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.2912
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.2681
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.00927
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.00869
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "104年度甲類第13期中央政府建設公債",
+            "InvRate": 13.72867
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "101年度甲類第五期中央政府公債",
+            "InvRate": 8.6184
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "101央債甲1",
+            "InvRate": 8.3569
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "105年度甲類第4期中央政府建設公債",
+            "InvRate": 8.34716
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "永冠二可轉債",
+            "InvRate": 3.94246
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瑞儀一可轉債",
+            "InvRate": 3.6554
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中華電",
+            "InvRate": 3.31808
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "隆達二可轉債",
+            "InvRate": 3.16447
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "金可一可轉債",
+            "InvRate": 3.04183
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "啟碁",
+            "InvRate": 2.68499
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9208943920894392,
+            "SInvRate": 92.08943,
+            "LInvRate": 92.08943
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.013805901380590138,
+            "SInvRate": 1.38059,
+            "LInvRate": 1.38059
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.027500002750000276,
+            "SInvRate": 2.75,
+            "LInvRate": 2.75
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.03779970377997038,
+            "SInvRate": 3.77997,
+            "LInvRate": 3.77997
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 26.57763
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 9.14388
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 6.1491
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 5.60161
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 4.74043
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 4.41291
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.18256
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.96826
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.60031
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.52995
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.44111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 2.36445
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.35887
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 1.82472
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.63441
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 1.49645
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.46974
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.31302
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 1.14916
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.11963
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.00549
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 0.76798
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.73989
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 0.73631
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 0.55228
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.54025
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 0.48511
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.43166
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.40787
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 0.34441
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANCO BRADESCO-ADR",
+            "InvRate": 4.91014
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ITAU UNIBANCO HLDNG-",
+            "InvRate": 4.79077
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMBEV SA-ADR",
+            "InvRate": 4.67554
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PETROBRAS - PETROLEO",
+            "InvRate": 3.94777
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FOMENTO ECONOMICO ME",
+            "InvRate": 3.48647
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMERICA MOVIL-ADR SE",
+            "InvRate": 2.68323
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRUPO FINANCIERO BAN",
+            "InvRate": 2.52501
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRF-BRASIL FOODS SA",
+            "InvRate": 2.45663
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRUPO TELEVISA SAB-S",
+            "InvRate": 2.44111
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ITAUSA-INVESTIMENTOS",
+            "InvRate": 2.35268
+        }
+    ]
+}

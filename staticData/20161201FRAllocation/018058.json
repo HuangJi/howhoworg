@@ -1,0 +1,117 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9895652,
+            "SInvRate": 98.95652,
+            "LInvRate": 98.95652
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0104348,
+            "SInvRate": 1.04348,
+            "LInvRate": 1.04348
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 43.794
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 26.35034
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 7.15815
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 6.51875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 5.46819
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 4.74322
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.79018
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.08204
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 1.05165
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JOHNSON & JOHNSON COM USD1",
+            "InvRate": 7.11165
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNITEDHEALTH GRP COM USD0.01",
+            "InvRate": 4.53349
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROCHE HLDGS AG GENUSSCHEINE NPV",
+            "InvRate": 4.41184
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALLERGAN PLC COM USD0.0001",
+            "InvRate": 4.11618
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NOVARTIS AG CHF0.50(REGD)",
+            "InvRate": 4.06489
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ELI LILLY AND CO COM NPV",
+            "InvRate": 3.90132
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NOVO-NORDISK AS DKK0.2 SER'B'",
+            "InvRate": 3.47445
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MERCK & CO INC COM USD0.50",
+            "InvRate": 3.39616
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHIRE ORD GBP0.05",
+            "InvRate": 3.38816
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BIOGEN INC COM STK USD0.0005",
+            "InvRate": 3.22454
+        }
+    ]
+}

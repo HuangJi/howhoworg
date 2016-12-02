@@ -1,0 +1,31 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.517,
+            "SInvRate": 51.7,
+            "LInvRate": 51.7
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.483,
+            "SInvRate": 48.3,
+            "LInvRate": 48.3
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "國外_一般型存款",
+            "InvRate": 51.7
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Other Assets and Liabilities",
+            "InvRate": 48.3
+        }
+    ]
+}

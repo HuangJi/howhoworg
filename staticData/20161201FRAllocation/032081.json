@@ -1,0 +1,112 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9817332,
+            "SInvRate": 98.17332,
+            "LInvRate": 98.17332
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0182668,
+            "SInvRate": 1.82668,
+            "LInvRate": 1.82668
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 38.89149
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 28.86015
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 11.17258
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 7.85592
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 3.812
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.68734
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 2.62592
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Distribution",
+            "InvRate": 2.26793
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITEDHEALTH GROUP INC",
+            "InvRate": 5.84209
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JOHNSON & JOHNSON",
+            "InvRate": 5.2634
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALLERGAN PLC",
+            "InvRate": 5.23604
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROCHE HOLDING AG GENUSSCHEIN",
+            "InvRate": 4.91877
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MERCK & CO. INC.",
+            "InvRate": 4.89653
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ABBVIE INC",
+            "InvRate": 4.18778
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CELGENE CORP",
+            "InvRate": 4.03985
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GILEAD SCIENCES INC",
+            "InvRate": 3.98643
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PFIZER INC",
+            "InvRate": 3.55403
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BOSTON SCIENTIFIC CORP",
+            "InvRate": 3.50421
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9521662,
+            "SInvRate": 95.21662,
+            "LInvRate": 95.21662
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "優先股",
+            "InvRate": 0.0142392,
+            "SInvRate": 1.42392,
+            "LInvRate": 1.42392
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0335946,
+            "SInvRate": 3.35946,
+            "LInvRate": 3.35946
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Banks",
+            "InvRate": 24.15863
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Computer Hardware",
+            "InvRate": 13.60324
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Communication Services",
+            "InvRate": 12.60675
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Semiconductors",
+            "InvRate": 5.8934
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.83366
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Metals & Mining",
+            "InvRate": 3.68364
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Chemicals",
+            "InvRate": 3.64098
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.10666
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Application Software",
+            "InvRate": 3.08116
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.88719
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.28523
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.99203
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Real Estate",
+            "InvRate": 1.99052
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.6917
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.58059
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance",
+            "InvRate": 1.50774
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Coal",
+            "InvRate": 1.37443
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.36566
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.34274
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Tobacco Products",
+            "InvRate": 1.32064
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 1.25751
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.01252
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "CHINA MOBILE LTD NPV",
+            "InvRate": 2.28744
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "OIL CO LUKOIL PJSC ADR EACH REPR 1 ORD RUB0.02",
+            "InvRate": 2.28523
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "ADVANCED SEMICONDT TWD10 (ASE)",
+            "InvRate": 2.27471
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "GPO MEXICO SA SER'B'COM NPV",
+            "InvRate": 2.26336
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "CHINA MERCHANTS PO NPV",
+            "InvRate": 2.25908
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "TOTAL ACCESS COMMU THB2 (NVDR)",
+            "InvRate": 2.23997
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SIAM CEMENT CO THB1(NVDR)",
+            "InvRate": 2.22677
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "OTP BANK HUF100",
+            "InvRate": 2.21967
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "ICICI BANK INR2",
+            "InvRate": 2.21854
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "LARGAN PRECISION C TWD10",
+            "InvRate": 2.19718
+        }
+    ]
+}

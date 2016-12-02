@@ -1,0 +1,154 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9865137,
+            "SInvRate": 98.65137,
+            "LInvRate": 98.65137
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0122635,
+            "SInvRate": 1.22635,
+            "LInvRate": 1.22635
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0012228,
+            "SInvRate": 0.12228,
+            "LInvRate": 0.12228
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 21.19401
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 12.4365
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 12.42525
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 11.91676
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 8.85231
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 5.05959
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 4.82893
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.61079
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 3.82489
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 3.70173
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.15579
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 2.43885
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 2.27621
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.05872
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 0.87103
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SBERBANK OF RUSSIA PJSC COMMON STOCK RUB 3",
+            "InvRate": 9.5898
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GAZPROM PJSC",
+            "InvRate": 8.44809
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MAGNIT PJSC COMMON STOCK RUB 0.01",
+            "InvRate": 8.28624
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LUKOIL PJSC ADR USD 0.025",
+            "InvRate": 6.72474
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROSNEFT PJSC GDR USD",
+            "InvRate": 6.02119
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PAO SEVERSTAL GDR USD",
+            "InvRate": 5.05959
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NOVATEK OJSC GDR USD",
+            "InvRate": 4.86731
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MOSCOW EXCHANGE MICEX-RTS PJSC COMMON STOCK RUB 1",
+            "InvRate": 4.61079
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MMC NORILSK NICKEL PJSC-ADR",
+            "InvRate": 4.50847
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALROSA PJSC USD",
+            "InvRate": 4.34384
+        }
+    ]
+}

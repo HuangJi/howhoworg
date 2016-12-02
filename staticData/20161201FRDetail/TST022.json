@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "TST022",
+    "StarRatingFromEst": null,
+    "Name": "台新1699貨幣市場基金",
+    "NameEng": "Taishin 1699 Money Market",
+    "NameWarning": "",
+    "CPId": "47",
+    "CPName": "台新證券投資信託股份有限公司",
+    "CPNameEng": "Taishin Securities Investment Tr Co Ltd",
+    "AgentCPId": "47",
+    "AgentCPName": "台新證券投資信託股份有限公司",
+    "AgentCPNameEng": "Taishin Securities Investment Tr Co Ltd",
+    "RctName": "台灣",
+    "Count": 13,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "19990607",
+    "CategoryId": "409",
+    "CategoryName": "貨幣基金 - 新台幣",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "貨幣市場",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,保持高流動性及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於銀行存款,短期票券(國庫券,可轉讓銀行定期存單,公司及公營事業機構發行之本票或匯票,其他經金管會核准之短期債務憑證),有價證券(政府債券,公司債,金融債券,金融資產證券化之受益證券及資產基礎證券,依不動產證券化條例募集之不動產資產信託受益證券(REAT),金管會核准於國內募集發行之外國金融組織債券),附買回交易(含短期票券及有價證券)及其他經金管會洽中央銀行核准之投資.本基金運用於銀行存款,短期票券及附買回交易(附買回交易標的,包含短期票券及有價證券)之總金額需達本基金淨資產價值百分之七十以上.",
+    "Custodian": "玉山商業銀行",
+    "CustodianFee": 0.048,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.09,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 10000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 0,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 52809267464,
+    "PriceTransDate": "20161201",
+    "Price": 13.3959,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0001,
+    "UpDownRate": 0,
+    "Rr1w": 0.00523,
+    "Rr1M": 0.02315,
+    "Rr3M": 0.07024,
+    "Rr6M": 0.14656,
+    "RrThisYear": 0.27178,
+    "Rr1Y": 0.34841,
+    "Rr2Y": 0.90335,
+    "Rr3Y": 1.46828,
+    "Rr5Y": 2.91148,
+    "Rr10Y": 8.22195,
+    "RrFromEst": 33.92894,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": -30.46,
+    "StdDev1Y": 0.02,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": -37.1,
+    "StdDev3Y": 0.03,
+    "AriMean3Y": 0.04,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": -12,
+    "StdDev5Y": 0.04,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": -4.14,
+    "StdDev10Y": 0.14,
+    "RiskRatingFromEst": 1,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.0215014,
+            "SInvRate": 2.15014,
+            "LInvRate": 2.15014
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.9778,
+            "SInvRate": 97.78,
+            "LInvRate": 97.78
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0006986,
+            "SInvRate": 0.06986,
+            "LInvRate": 0.06986
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161201",
+            "Price": 13.3959
+        },
+        {
+            "TransDate": "20161130",
+            "Price": 13.3958
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 13.3957
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 13.3956
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 13.3953
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 13.3952
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 13.3951
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 13.395
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 13.3949
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 13.3946
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 13.3945
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 13.3944
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 13.3943
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 13.3942
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 13.394
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 13.3939
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 13.3938
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 13.3937
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 13.3936
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 13.3933
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 13.3932
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 13.3931
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 13.393
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 13.3929
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 13.3926
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 13.3925
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 13.3924
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 13.3923
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 13.3922
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 13.3919
+        }
+    ],
+    "IndustryRatio": []
+}

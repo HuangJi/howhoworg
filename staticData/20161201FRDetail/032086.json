@@ -1,0 +1,238 @@
+{
+    "Area": "B",
+    "FundId": "032086",
+    "StarRatingFromEst": 4,
+    "Name": "法巴百利達全球公用事業股票基金/年配 (歐元)",
+    "NameEng": "Parvest Equity World Utilities C D",
+    "NameWarning": "(基金之配息來源可能為本金)",
+    "CPId": "14",
+    "CPName": "法國巴黎投資盧森堡公司",
+    "CPNameEng": "BNP Paribas Investment Partners Lux",
+    "AgentCPId": "323",
+    "AgentCPName": "法銀巴黎證券投資顧問股份有限公司",
+    "AgentCPNameEng": "BNP Paribas Investment Partners Taiwan",
+    "RctName": "盧森堡",
+    "Count": 31,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20130517",
+    "CategoryId": "191",
+    "CategoryName": "公共事業股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此子基金主要投資於全球公用事業公司的股票.這些公司可包括供應水,電,天然氣的公司,多種服務公司或獨立的能源生產公司或輸配公司.此基金的管理遵循自下而上的投資方法,即在選擇股票時,強調首先分析每種股票的具體特點.基金經理基於全球公用事業的股票分類進行股票選擇.基金經理的職責為構建出呈現出良好的風險或收益比率的分散化股票投資組合.若有利的投資機會出現,此基金亦可投資於其他金融工具.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 83640509,
+    "PriceTransDate": "20161130",
+    "Price": 81.35,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.14,
+    "UpDownRate": 0.17,
+    "Rr1w": 1.21628,
+    "Rr1M": 1.54645,
+    "Rr3M": -3.72279,
+    "Rr6M": 4.85279,
+    "RrThisYear": 7.38879,
+    "Rr1Y": 6.98157,
+    "Rr2Y": 13.65249,
+    "Rr3Y": 39.68793,
+    "Rr5Y": 65.64206,
+    "Rr10Y": 26.20453,
+    "RrFromEst": 60.83374,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 0.58,
+    "Beta1Y": 0.95,
+    "Sharpe1Y": 0.55,
+    "StdDev1Y": 11.37,
+    "Alpha3Y": -0.53,
+    "Beta3Y": 0.96,
+    "Sharpe3Y": 0.42,
+    "StdDev3Y": 10.55,
+    "AriMean3Y": 0.376,
+    "Alpha5Y": -0.2,
+    "Beta5Y": 0.99,
+    "Sharpe5Y": 0.52,
+    "StdDev5Y": 11.11,
+    "Alpha10Y": -1.42,
+    "Beta10Y": 1.09,
+    "Sharpe10Y": 0.08,
+    "StdDev10Y": 15.6,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9828940017105998,
+            "SInvRate": 98.28941,
+            "LInvRate": 98.28941
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.011606698839330116,
+            "SInvRate": 1.16067,
+            "LInvRate": 1.16067
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.005499299450070055,
+            "SInvRate": 0.54993,
+            "LInvRate": 0.54993
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 81.35
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 83.19
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 83.05
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 81.74
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 81.24
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 81.54
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 80.9
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 80.47
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 80.34
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 80.07
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 80.19
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 79.22
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 79.11
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 79.14
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 81.02
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 82.52
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 82.16
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 80.7
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 81.22
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 80.95
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 84.05
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 83.12
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 83.03
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 83.41
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 83.53
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 83.04
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 83.01
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 83.07
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 82.78
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 82.75
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 95.17376
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 2.07969
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.03593
+        }
+    ]
+}

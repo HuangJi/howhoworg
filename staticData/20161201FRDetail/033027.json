@@ -1,0 +1,253 @@
+{
+    "Area": "B",
+    "FundId": "033027",
+    "StarRatingFromEst": 3,
+    "Name": "NN (L) 能源基金X股歐元",
+    "NameEng": "NN (L) Energy X Cap EUR",
+    "NameWarning": "",
+    "CPId": "48",
+    "CPName": null,
+    "CPNameEng": "NN Investment Partners Luxembourg SA",
+    "AgentCPId": "19",
+    "AgentCPName": "野村證券投資信託股份有限公司",
+    "AgentCPNameEng": "Nomura Asset Management Taiwan",
+    "RctName": "盧森堡",
+    "Count": 21,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20080624",
+    "CategoryId": "183",
+    "CategoryName": "能源股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金主要(至少三分之二)投資於由設立,上市或交易於能源公司所發行之股票和/或可轉讓有價證券(可轉讓有價證券認購權證及可轉換債券,前者最高可達子基金淨資產之10%)所組成的多元化投資組合.特別包括以下這些產業的公司:石油及煤氣產業(包括探勘,生產,提煉,及/或運輸石油及煤氣),能源設備及服務產業(製造及提供鑽油設備和其他能源相關設備服務).",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 99453317.94,
+    "PriceTransDate": "20161130",
+    "Price": 808.85,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 38.92,
+    "UpDownRate": 5.06,
+    "Rr1w": -2.6601,
+    "Rr1M": 0.99534,
+    "Rr3M": 5.12046,
+    "Rr6M": 4.67837,
+    "RrThisYear": 9.45944,
+    "Rr1Y": 0.8443,
+    "Rr2Y": -11.20304,
+    "Rr3Y": -8.69555,
+    "Rr5Y": -1.9602,
+    "Rr10Y": null,
+    "RrFromEst": -25.54411,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.45,
+    "Beta1Y": 0.92,
+    "Sharpe1Y": 0.07,
+    "StdDev1Y": 17.29,
+    "Alpha3Y": -3.46,
+    "Beta3Y": 0.94,
+    "Sharpe3Y": -0.47,
+    "StdDev3Y": 18.47,
+    "AriMean3Y": -0.709,
+    "Alpha5Y": -3.84,
+    "Beta5Y": 0.98,
+    "Sharpe5Y": -0.22,
+    "StdDev5Y": 17.42,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "145",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9874423012557699,
+            "SInvRate": 98.74424,
+            "LInvRate": 98.74424
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0006415999358400064,
+            "SInvRate": 0.06416,
+            "LInvRate": 0.06416
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.011916098808390119,
+            "SInvRate": 1.19161,
+            "LInvRate": 1.19161
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 808.85
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 769.93
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 781.69
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 792.33
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 802.39
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 798.85
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 797.47
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 780.29
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 774.75
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 773.66
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 774.6
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 753.29
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 744.05
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 756.88
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 751.73
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 735.1
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 732.97
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 715.32
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 721.75
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 718.56
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 735.44
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 741.73
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 751.86
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 759.78
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 757.84
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 761.22
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 762
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 765.93
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 765.37
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 763.58
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 42.96434
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 29.60011
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 10.82031
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 8.97886
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 5.22137
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 1.15925
+        }
+    ]
+}

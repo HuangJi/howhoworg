@@ -1,0 +1,105 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.0065516,
+            "SInvRate": 0.65516,
+            "LInvRate": 0.65516
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "債券",
+            "InvRate": 0.9492005,
+            "SInvRate": 94.92005,
+            "LInvRate": 94.92005
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "優先股",
+            "InvRate": 0.0002794,
+            "SInvRate": 0.02794,
+            "LInvRate": 0.02794
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "可換股債券",
+            "InvRate": 0.0006455,
+            "SInvRate": 0.06455,
+            "LInvRate": 0.06455
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.0009032,
+            "SInvRate": 0.09032,
+            "LInvRate": 0.09032
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.0424198,
+            "SInvRate": 4.24198,
+            "LInvRate": 4.24198
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20140101",
+            "Name": "Credit Services",
+            "InvRate": 0.09739
+        },
+        {
+            "TransDate": "20140101",
+            "Name": "Banks",
+            "InvRate": 0.08729
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 0.875%",
+            "InvRate": 4.09228
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 2.500%",
+            "InvRate": 3.38099
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 1.000%",
+            "InvRate": 3.34901
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 3.375%",
+            "InvRate": 2.33706
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 1.125%",
+            "InvRate": 2.08446
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 1.625%",
+            "InvRate": 1.81728
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Fannie Mae Pool 3.500%",
+            "InvRate": 1.4738
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "United States Treasury N/B 1.375%",
+            "InvRate": 1.40496
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Fannie Mae Pool 4.000%",
+            "InvRate": 1.32557
+        }
+    ]
+}

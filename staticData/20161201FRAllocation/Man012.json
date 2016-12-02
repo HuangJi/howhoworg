@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8845757115424289,
+            "SInvRate": 88.45758,
+            "LInvRate": 88.45758
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1282999871700013,
+            "SInvRate": 12.83,
+            "LInvRate": 12.83
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.012875698712430128,
+            "SInvRate": -1.28757,
+            "LInvRate": -1.28757
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CGB 3.95%",
+            "InvRate": 5.26559
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CGB 3%",
+            "InvRate": 4.73117
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SDBC 4.2%",
+            "InvRate": 4.29609
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EXIMCH 4.15%",
+            "InvRate": 3.7501
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LNGFOR 6.75%",
+            "InvRate": 2.71641
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CCB V4.9",
+            "InvRate": 2.68153
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ANZ V4.75 EMTN",
+            "InvRate": 2.64781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KDB 4.2% 625",
+            "InvRate": 2.63933
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHQIGR 4.02%",
+            "InvRate": 2.63606
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHNHAN 4.2%",
+            "InvRate": 2.63598
+        }
+    ]
+}

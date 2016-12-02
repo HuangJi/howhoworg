@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9709922,
+            "SInvRate": 97.09922,
+            "LInvRate": 97.09922
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0290078,
+            "SInvRate": 2.90078,
+            "LInvRate": 2.90078
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 1.554
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 1.40251
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 1.09367
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association Connecticut Avenue Securities Series 2015-C03, Class 1M2",
+            "InvRate": 1.04804
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal Home Loan Mortgage Corp. Structured Agency Credit Risk Debt Notes Series 2014-DN4, Class M3",
+            "InvRate": 1.04549
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association Connecticut Avenue Securities Series 2015-C04, Class 2M2",
+            "InvRate": 1.03802
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal Home Loan Mortgage Corp. Structured Agency Credit Risk Debt Notes Series 2014-DN3, Class M3",
+            "InvRate": 0.94575
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 0.80415
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 0.78702
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal Home Loan Mortgage Corp. Structured Agency Credit Risk Debt Notes Series 2015-DN1, Class M3",
+            "InvRate": 0.76725
+        }
+    ]
+}

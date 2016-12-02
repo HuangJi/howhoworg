@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9517031,
+            "SInvRate": 95.17031,
+            "LInvRate": 95.17031
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0452,
+            "SInvRate": 4.52,
+            "LInvRate": 4.52
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0030969,
+            "SInvRate": 0.30969,
+            "LInvRate": 0.30969
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FTR 11% WI",
+            "InvRate": 1.47751
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASH 6.875%",
+            "InvRate": 1.28709
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TMUS 6.375% '19",
+            "InvRate": 1.28121
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LEA 5.25%",
+            "InvRate": 1.27828
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ACACN 8.75% REGS",
+            "InvRate": 1.2724
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BLL 5%",
+            "InvRate": 1.2724
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DISH 6.75%",
+            "InvRate": 1.2724
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IRM 6%",
+            "InvRate": 1.26064
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AYR 5.125%",
+            "InvRate": 1.26064
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ATCNA 7.75% Regs",
+            "InvRate": 1.25918
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9539248953924896,
+            "SInvRate": 95.39248,
+            "LInvRate": 95.39248
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.046075104607510464,
+            "SInvRate": 4.60751,
+            "LInvRate": 4.60751
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 14.95411
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 11.82454
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 10.51405
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 6.29527
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 5.90783
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 5.4871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.89433
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 4.11722
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 3.73671
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 3.68314
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.3653
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.30502
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.99132
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.55365
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 2.53104
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.51159
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.37947
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.20404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.7464
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.66487
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 0.61003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.60521
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 0.51026
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TORONTO-DOMINION COM NPV",
+            "InvRate": 5.76607
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK NOVA SCOTIA HALIFAX COM",
+            "InvRate": 4.81994
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BROOKFIELD ASSET MGMT INC CL A LTD VT SH",
+            "InvRate": 4.30992
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AGNICO EAGLE MINES LTD COM",
+            "InvRate": 4.30162
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CAN PACIFIC RYS COM NPV",
+            "InvRate": 4.20905
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CINEPLEX INC COM NPV",
+            "InvRate": 4.11722
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIMENTATION COUCHE TARD INC SUB VTG SH",
+            "InvRate": 3.86476
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CGI GROUP INC 'A'SUB-VTG NPV",
+            "InvRate": 3.74093
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WASTE CONNECTIONS COM NPV (POST REV SPLT)",
+            "InvRate": 3.73671
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CANADIAN NAT RES LTD COM",
+            "InvRate": 3.49748
+        }
+    ]
+}

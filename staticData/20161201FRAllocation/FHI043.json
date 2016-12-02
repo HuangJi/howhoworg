@@ -1,0 +1,134 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9448681,
+            "SInvRate": 94.48681,
+            "LInvRate": 94.48681
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.074,
+            "SInvRate": 7.4,
+            "LInvRate": 7.4
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0188681,
+            "SInvRate": -1.88681,
+            "LInvRate": -1.88681
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 31.32494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 15.99365
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 15.23062
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 6.19203
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.70761
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 5.49614
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.79578
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 3.74671
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.14078
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.0794
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 1.77917
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "智擎",
+            "InvRate": 6.25576
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NVIDIA CORP-USA",
+            "InvRate": 6.17888
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD-HKG",
+            "InvRate": 5.49614
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 5.1103
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "樺漢",
+            "InvRate": 4.07096
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMBARELLA INC-USA",
+            "InvRate": 4.04271
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN O-FILM TECH CO-A-CHN",
+            "InvRate": 3.86409
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HOLDING-SP ADR-USA",
+            "InvRate": 3.79578
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNWAY COMMUNICAT-A-CHN",
+            "InvRate": 3.56773
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRONICS CO LTD-KOR",
+            "InvRate": 3.53989
+        }
+    ]
+}

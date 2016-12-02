@@ -1,0 +1,142 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9858155,
+            "SInvRate": 98.58155,
+            "LInvRate": 98.58155
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0141845,
+            "SInvRate": 1.41845,
+            "LInvRate": 1.41845
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 21.29966
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Online Media",
+            "InvRate": 18.28461
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Drug Manufacturers",
+            "InvRate": 10.20578
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Life",
+            "InvRate": 9.43406
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 9.32526
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Health Care Providers",
+            "InvRate": 8.66619
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Travel & Leisure",
+            "InvRate": 5.53676
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.27072
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Biotechnology",
+            "InvRate": 2.93589
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 2.86387
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Restaurants",
+            "InvRate": 2.81416
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Chemicals",
+            "InvRate": 1.51589
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.35382
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.07489
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Tencent Holdings Ltd.",
+            "InvRate": 9.52106
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Alibaba Group Holding Ltd. Sponsored ADR",
+            "InvRate": 7.40264
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Ctrip.com International Ltd Sponsored ADR",
+            "InvRate": 5.53676
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Ping An Insurance (Group) Company of China, Ltd. Class H",
+            "InvRate": 5.09946
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "PT Kalbe Farma Tbk",
+            "InvRate": 4.76705
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Amorepacific Corp.",
+            "InvRate": 4.43948
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "AIA Group Limited",
+            "InvRate": 4.3346
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Universal Robina Corp.",
+            "InvRate": 4.28952
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Britannia Industries Ltd",
+            "InvRate": 4.12179
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "JD.com, Inc. Sponsored ADR Class A",
+            "InvRate": 4.0223
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 1.0697260069726007,
+            "SInvRate": 106.97259,
+            "LInvRate": 106.97259
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.000005700000570000057,
+            "SInvRate": 0.00057,
+            "LInvRate": 0.00057
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.002409600240960024,
+            "SInvRate": 0.24096,
+            "LInvRate": 0.24096
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.09578970957897096,
+            "SInvRate": -9.57897,
+            "LInvRate": -9.57897
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.023648402364840237,
+            "SInvRate": 2.36484,
+            "LInvRate": 2.36484
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151101",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TREASURY NOTE 1.375 10/31/2020",
+            "InvRate": 5.64996
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCE (REPUBLIC OF) RegS 0.5 05/25/2025",
+            "InvRate": 3.62523
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN (GOVERNMENT OF) 5YR #110 0.3 03/20/2018",
+            "InvRate": 2.77851
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN (GOVERNMENT OF) 10YR #318 1 09/20/2021",
+            "InvRate": 2.46537
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN (GOVERNMENT OF) 20YR #99 2.1 12/20/2027",
+            "InvRate": 1.84899
+        }
+    ]
+}

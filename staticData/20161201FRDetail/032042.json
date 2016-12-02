@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "032042",
+    "StarRatingFromEst": 2,
+    "Name": "法巴百利達美元短期債券基金C (美元)",
+    "NameEng": "Parvest Bond USD Short Duration C C",
+    "NameWarning": "",
+    "CPId": "14",
+    "CPName": "法國巴黎投資盧森堡公司",
+    "CPNameEng": "BNP Paribas Investment Partners Lux",
+    "AgentCPId": "323",
+    "AgentCPName": "法銀巴黎證券投資顧問股份有限公司",
+    "AgentCPNameEng": "BNP Paribas Investment Partners Taiwan",
+    "RctName": "盧森堡",
+    "Count": 19,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19900327",
+    "CategoryId": "224",
+    "CategoryName": "美元短期債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "主要投資於借款人所發行具投資等級之美國國內債券,洋基債券及以美元計價之歐元債券(EuroBond).透過利率走勢與內部的研究分析,本基金修正後存續期間為0.5-8.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 0.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 84743354,
+    "PriceTransDate": "20161130",
+    "Price": 449,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.27,
+    "UpDownRate": 0.06,
+    "Rr1w": -0.00662,
+    "Rr1M": -0.22461,
+    "Rr3M": -0.25755,
+    "Rr6M": 0.43222,
+    "RrThisYear": 2.0541,
+    "Rr1Y": 1.52588,
+    "Rr2Y": 1.8591,
+    "Rr3Y": 3.08967,
+    "Rr5Y": 2.69479,
+    "Rr10Y": 35.52783,
+    "RrFromEst": 248.546356,
+    "RatingTransDate": "201511",
+    "Alpha1Y": -0.48,
+    "Beta1Y": 0.99,
+    "Sharpe1Y": 0.88,
+    "StdDev1Y": 1.41,
+    "Alpha3Y": -0.57,
+    "Beta3Y": 1,
+    "Sharpe3Y": 0.61,
+    "StdDev3Y": 1.5,
+    "AriMean3Y": 0.085,
+    "Alpha5Y": -1.37,
+    "Beta5Y": 1.23,
+    "Sharpe5Y": 0.22,
+    "StdDev5Y": 2.08,
+    "Alpha10Y": -1.66,
+    "Beta10Y": 1.66,
+    "Sharpe10Y": 0.58,
+    "StdDev10Y": 4.05,
+    "RiskRatingFromEst": 2,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9964543,
+            "SInvRate": 99.64543,
+            "LInvRate": 99.64543
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0038062,
+            "SInvRate": 0.38062,
+            "LInvRate": 0.38062
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": -0.0002605,
+            "SInvRate": -0.02605,
+            "LInvRate": -0.02605
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 449
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 448.94
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 448.67
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 448.23
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 447.91
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 448.29
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 448.93
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 448.76
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 448.98
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 449.71
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 450.03
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 450.05
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 450.28
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 451.01
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 451.57
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 451.88
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 452.93
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 453.4
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 453.75
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 453.63
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 453.59
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 453.11
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 452.95
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 452.56
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 452.86
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 453.13
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 453.14
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 453.34
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 453.34
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 453.47
+        }
+    ],
+    "IndustryRatio": []
+}

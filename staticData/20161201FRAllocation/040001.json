@@ -1,0 +1,174 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9418791941879194,
+            "SInvRate": 94.18791,
+            "LInvRate": 94.18791
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.05812120581212058,
+            "SInvRate": 5.81212,
+            "LInvRate": 5.81212
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -4.00000040000004e-7,
+            "SInvRate": -0.00004,
+            "LInvRate": -0.00004
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 11.27231
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 9.01322
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 8.84905
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 6.98617
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 6.44003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.4278
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 6.07908
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 3.74961
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.61878
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.50422
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 3.38281
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 3.36331
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.32792
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 3.25948
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 3.14262
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.00677
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.9551
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.94973
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.85988
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FUJITSU LTD ORD JPY",
+            "InvRate": 4.72419
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DISCO CORP ORD JPY",
+            "InvRate": 3.74961
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DON QUIJOTE HOLDINGS CO LTD ORD JPY",
+            "InvRate": 3.68937
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EAST JAPAN RAILWAY CO ORD JPY",
+            "InvRate": 3.61878
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MURATA MANUFACTURING CO LTD ORD JPY",
+            "InvRate": 3.58954
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KOSE CORP ORD JPY",
+            "InvRate": 3.50422
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DENSO CORP ORD JPY",
+            "InvRate": 3.48115
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FANUC CORP ORD JPY",
+            "InvRate": 3.42002
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SEIBU HOLDINGS INC ORD JPY",
+            "InvRate": 3.38281
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAKEDA PHARMACEUTICAL CO LTD ORD JPY",
+            "InvRate": 3.36331
+        }
+    ]
+}

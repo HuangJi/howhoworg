@@ -1,0 +1,235 @@
+{
+    "Area": "B",
+    "FundId": "033009",
+    "StarRatingFromEst": 4,
+    "Name": "NN (L) 新興市場債券基金X股美元",
+    "NameEng": "NN (L) Em Mkt Dbt HC X Cap USD",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "48",
+    "CPName": null,
+    "CPNameEng": "NN Investment Partners Luxembourg SA",
+    "AgentCPId": "19",
+    "AgentCPName": "野村證券投資信託股份有限公司",
+    "AgentCPNameEng": "Nomura Asset Management Taiwan",
+    "RctName": "盧森堡",
+    "Count": 126,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20120131",
+    "CategoryId": "225",
+    "CategoryName": "新興市場債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本子基金主要(至少三分之二)投資於由低或中等所得之開發中國家公開或非公開發行人所發行之可轉讓證券或固定收益貨幣市場工具所組成多元化投資組合.這些國家常被稱為(新興市場).主要投資於中南美(包括加勒比海),中歐,東歐,亞洲,非洲及中東.更精確而言,本基金主要投資於在經理人得以評估特殊政治及經濟風險,且曾經歷經濟改革並達成某些成長目標之國家.本子基金之目標為,於數年之期間內績效優於指標-JPMorgan EMBI Global Diversified.按照規定,當計算前述三分之二之投資限制時將不納入以輔助基礎持有之流動資產.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3462401606,
+    "PriceTransDate": "20161130",
+    "Price": 314.23,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.01,
+    "UpDownRate": 0,
+    "Rr1w": -1.07391,
+    "Rr1M": -1.00542,
+    "Rr3M": 1.67888,
+    "Rr6M": 7.02988,
+    "RrThisYear": 14.21923,
+    "Rr1Y": 12.59244,
+    "Rr2Y": 9.47039,
+    "Rr3Y": 16.90721,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 31.15577,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.95,
+    "Beta1Y": 1.16,
+    "Sharpe1Y": 1.75,
+    "StdDev1Y": 6.75,
+    "Alpha3Y": -2.49,
+    "Beta3Y": 1.18,
+    "Sharpe3Y": 0.81,
+    "StdDev3Y": 6.57,
+    "AriMean3Y": 0.452,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "145",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.9515801,
+            "SInvRate": 95.15801,
+            "LInvRate": 95.15801
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "可換股債券",
+            "InvRate": 0.0001682,
+            "SInvRate": 0.01682,
+            "LInvRate": 0.01682
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0396888,
+            "SInvRate": 3.96888,
+            "LInvRate": 3.96888
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0085629,
+            "SInvRate": 0.85629,
+            "LInvRate": 0.85629
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 314.23
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 314.24
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 314.58
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 314.22
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 314.35
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 314.48
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 315.42
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 315.13
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 314.02
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 316.12
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 315.45
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 314.77
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 311.21
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 317.27
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 320.85
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 326.03
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 330.06
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 328.89
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 327.8
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 327.98
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 327.82
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 328.34
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 328.86
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 328.76
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 329.67
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 331.08
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 332.16
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 332.43
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 331.88
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 332.67
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20140801",
+            "Name": "Banks",
+            "InvRate": 0.00092
+        }
+    ]
+}

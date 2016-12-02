@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "Man016",
+    "StarRatingFromEst": 4,
+    "Name": "宏利東方明珠短期收益證券投資信託基金專戶（美元）",
+    "NameEng": "Manulife Oriental Pearl S/T Inc",
+    "NameWarning": "",
+    "CPId": "42",
+    "CPName": "宏利證券投資信託股份有限公司",
+    "CPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "AgentCPId": "42",
+    "AgentCPName": "宏利證券投資信託股份有限公司",
+    "AgentCPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "RctName": "台灣",
+    "Count": 15,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20121011",
+    "CategoryId": "837",
+    "CategoryName": "人民幣債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於外國有價證券,並依下列規範進行投資:1.符合下列信用評等等級規定,而由中華民國以外之國家或機構所保證或發行之債券(含政府公債,公司債(含次順位公司債,無擔保公司債),金融債券(含次順位金融債券),金融資產證券化之受益證券或資產基礎證券,不動產資產信託受益證券):(1)外國中央政府債券:發行國家主權評等應符合前述所列信用評等機構評定達一定等級以上.(2)前述第(1)目以外之外國債券:該外國債券之債務發行評等應符合前述所列信用評等機構評定達一定等級以上.但未經信用評等機構評等之外國債券得以債券發行人或保證人之長期債務信用評等為準.(3)外國金融資產證券化之受益證券或資產基礎證券,不動產資產信託受益證券:該受益證券或基礎證券之債務發行評等應符合前述所列信用評等機構評定達一定等級以上.(4)前述第(1)目至第(3)目所指有關(信用評等)規定,依最新公開說明書之基金概況中基金簡介之投資策略規定辦理.2.於外國證券交易所及其他經金管會核准之外國店頭市場交易以及經金管會核准或申報生效得募集及銷售之債券型(含固定收益型基金)基金受益憑證,基金股份,投資單位(含放空型ETF(Exchange Traded Fund))及追蹤,模擬或複製債券指數表現之ETF(Exchange Traded Fund).",
+    "Custodian": "中國信託商業銀行",
+    "CustodianFee": 0.2,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 19786367.28,
+    "PriceTransDate": "20161130",
+    "Price": 10.4393,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0233,
+    "UpDownRate": 0.22,
+    "Rr1w": -0.04709,
+    "Rr1M": -0.94723,
+    "Rr3M": -0.39134,
+    "Rr6M": -0.03861,
+    "RrThisYear": 3.81354,
+    "Rr1Y": 0.63621,
+    "Rr2Y": -0.09508,
+    "Rr3Y": 1.55285,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 6.14317,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.08,
+    "Beta1Y": 0.54,
+    "Sharpe1Y": 3.04,
+    "StdDev1Y": 2.14,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": 0.97,
+    "StdDev3Y": 2.22,
+    "AriMean3Y": 0.338,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "38",
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9594769,
+            "SInvRate": 95.94769,
+            "LInvRate": 95.94769
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0318,
+            "SInvRate": 3.18,
+            "LInvRate": 3.18
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0087231,
+            "SInvRate": 0.87231,
+            "LInvRate": 0.87231
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.4393
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.4199
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.3966
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.3905
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 10.3958
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.4084
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.4284
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.432
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.4444
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.4716
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.4665
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.4917
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.5007
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.5651
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.5724
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.6018
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.6062
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.614
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.633
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.6325
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.6281
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.6191
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.614
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.604
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.6023
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.6049
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.6176
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.619
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.652
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.6509
+        }
+    ],
+    "IndustryRatio": []
+}

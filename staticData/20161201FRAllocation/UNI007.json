@@ -1,0 +1,224 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.7418312,
+            "SInvRate": 74.18312,
+            "LInvRate": 74.18312
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.2559929,
+            "SInvRate": 25.59929,
+            "LInvRate": 25.59929
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0021759,
+            "SInvRate": 0.21759,
+            "LInvRate": 0.21759
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 9.34563
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 8.51306
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 6.16712
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.44312
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.24898
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.24478
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 4.20588
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.12311
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 4.04748
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.71047
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 3.39377
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 2.91247
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.57331
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.32012
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.21871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.97276
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 1.87763
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.86126
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.67314
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 1.43491
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 1.38726
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 1.1516
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 1.0958
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 1.02287
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.91731
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.87994
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.85565
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 0.56969
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.51856
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "China Medical System Holding.867 hk",
+            "InvRate": 3.26497
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Weifu High-Technology Grp-A.000581 cs",
+            "InvRate": 3.09872
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Dongjiang Environmental-H.895 hk",
+            "InvRate": 2.59486
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "東洋",
+            "InvRate": 2.57331
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JIANGSU CHANGJIANG ELECTRO-A",
+            "InvRate": 2.35758
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "百和",
+            "InvRate": 2.32012
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WIJAYA KARYA PERSERO TBK PT",
+            "InvRate": 2.23919
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Pax Global Technology LTD.327 hk",
+            "InvRate": 2.21743
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA ZHONGWANG HOLDINGS LTD",
+            "InvRate": 2.00441
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Xinyi Glass Holdings Ltd.(868 HK)",
+            "InvRate": 1.97276
+        }
+    ]
+}

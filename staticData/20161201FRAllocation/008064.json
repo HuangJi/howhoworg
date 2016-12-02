@@ -1,0 +1,147 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9780584978058497,
+            "SInvRate": 97.80584,
+            "LInvRate": 97.80584
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.02194150219415022,
+            "SInvRate": 2.19415,
+            "LInvRate": 2.19415
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 20.52223
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 14.75116
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 12.23348
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 8.92199
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 8.64626
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 7.4323
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 5.65494
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 5.26606
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 4.75784
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.14984
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 2.90534
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 1.21487
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.03071
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.87076
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 0.44805
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AMAZON COM INC COMMON",
+            "InvRate": 9.33932
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DISH NETWORK CORP CLASS A",
+            "InvRate": 4.35311
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALPHABET INC CLASS A",
+            "InvRate": 4.07878
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "COMCAST CORP CLASS A",
+            "InvRate": 4.06863
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ACTIVISION BLIZZARD COMMON",
+            "InvRate": 3.84786
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ELECTRONIC ARTS INC COMMON",
+            "InvRate": 3.64887
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TAKE-TWO INTERACTIVE COMMON",
+            "InvRate": 3.63623
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LOWES CO COMMON",
+            "InvRate": 3.40631
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TIME WARNER INC COMMON",
+            "InvRate": 2.95756
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "D R HORTON INC COMMON",
+            "InvRate": 2.9558
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9538906046109396,
+            "SInvRate": 95.38907,
+            "LInvRate": 95.38907
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.055635094436490555,
+            "SInvRate": 5.56351,
+            "LInvRate": 5.56351
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": -0.009525699047430095,
+            "SInvRate": -0.95257,
+            "LInvRate": -0.95257
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Semiconductors",
+            "InvRate": 12.31819
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Banks",
+            "InvRate": 10.5213
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Life",
+            "InvRate": 9.93005
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Online Media",
+            "InvRate": 9.64257
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Real Estate",
+            "InvRate": 7.41394
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Communication Services",
+            "InvRate": 6.50552
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.25213
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Drug Manufacturers",
+            "InvRate": 5.02529
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.12411
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.86648
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.40014
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Asset Management",
+            "InvRate": 2.15218
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.10588
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Application Software",
+            "InvRate": 1.9657
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.90774
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Industrial Products",
+            "InvRate": 1.8769
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.80962
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Computer Hardware",
+            "InvRate": 1.52689
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Waste Management",
+            "InvRate": 1.48935
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Conglomerates",
+            "InvRate": 1.44784
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.11786
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 0.98549
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "TENCENT HOLDINGS LTD",
+            "InvRate": 9.64257
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFAC",
+            "InvRate": 9.15694
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "AIA GROUP LTD",
+            "InvRate": 6.76194
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "ALIBABA GROUP HOLDING-SP ADR",
+            "InvRate": 6.25213
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "CHINA MOBILE LTD",
+            "InvRate": 4.71569
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "CHINA OVERSEAS LAND & INVEST",
+            "InvRate": 4.52221
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "E.SUN FINANCIAL HOLDING CO",
+            "InvRate": 3.22076
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "PING AN INSURANCE GROUP CO-H",
+            "InvRate": 3.16811
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "BOC HONG KONG HOLDINGS LTD",
+            "InvRate": 2.89651
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "HENDERSON LAND DEVELOPMENT",
+            "InvRate": 2.89173
+        }
+    ]
+}

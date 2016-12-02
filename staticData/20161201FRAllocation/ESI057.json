@@ -1,0 +1,190 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.001303700130370013,
+            "SInvRate": 0.13037,
+            "LInvRate": 0.13037
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8684882868488287,
+            "SInvRate": 86.84882,
+            "LInvRate": 86.84882
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0036181003618100363,
+            "SInvRate": 0.36181,
+            "LInvRate": 0.36181
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0021532002153200214,
+            "SInvRate": 0.21532,
+            "LInvRate": 0.21532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.101024510102451,
+            "SInvRate": 10.10245,
+            "LInvRate": 10.10245
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.023412202341220233,
+            "SInvRate": 2.34122,
+            "LInvRate": 2.34122
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.01455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 0.01329
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 0.01285
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.01097
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 0.00951
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.00906
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.00708
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.0069
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.00609
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.00571
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 0.0046
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 0.00363
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 0.0028
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 0.00098
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 0.00097
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.00022
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─優質公司債基金Adm(美元月配)",
+            "InvRate": 26.33993
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─美國高收益債券基金Adm(美元月配)",
+            "InvRate": 24.04461
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞全球高收益債券基金A-新台幣",
+            "InvRate": 8.1606
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO新興市場債券基金-機構H級類別(累積股份)",
+            "InvRate": 8.12505
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-亞洲高收益基金(Y類股份累計股份-美元)",
+            "InvRate": 5.08205
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "貝萊德新興市場債券基金 A6 美元 (穩定配息)",
+            "InvRate": 4.87521
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VANECK VECTORS EMERGING MARK",
+            "InvRate": 4.1419
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-美元高收益基金(A股-月配息)",
+            "InvRate": 3.6513
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "保德信WIP新興市場固定收益基金I",
+            "InvRate": 3.56461
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "景順新興市場債券基金A-固定月配息股 美元",
+            "InvRate": 3.08098
+        }
+    ]
+}

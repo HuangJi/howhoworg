@@ -1,0 +1,129 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9128017,
+            "SInvRate": 91.28017,
+            "LInvRate": 91.28017
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0464,
+            "SInvRate": 4.64,
+            "LInvRate": 4.64
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0407983,
+            "SInvRate": 4.07983,
+            "LInvRate": 4.07983
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 41.16231
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 17.61266
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.47969
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 6.27171
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 5.11197
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 3.94439
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.39458
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.61293
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.40635
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.28358
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 8.9666
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "華新科",
+            "InvRate": 5.76063
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "元太",
+            "InvRate": 5.38219
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中裕",
+            "InvRate": 5.11197
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "友達",
+            "InvRate": 4.93107
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "茂林-KY",
+            "InvRate": 4.91781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "微星",
+            "InvRate": 4.36829
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "喬山",
+            "InvRate": 3.94439
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "華夏",
+            "InvRate": 3.78138
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "神達",
+            "InvRate": 3.75033
+        }
+    ]
+}

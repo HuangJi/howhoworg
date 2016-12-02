@@ -1,0 +1,194 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9914753,
+            "SInvRate": 99.14753,
+            "LInvRate": 99.14753
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 1e-7,
+            "SInvRate": 0.00001,
+            "LInvRate": 0.00001
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0085246,
+            "SInvRate": 0.85246,
+            "LInvRate": 0.85246
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 16.81447
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 12.95391
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 11.26269
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 9.77715
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 8.38479
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.34252
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 5.86392
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 4.26408
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 3.0466
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.73606
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 2.66068
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.63969
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 2.62035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.99754
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 1.67455
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 1.54545
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 1.08457
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.01975
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 0.92599
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.62353
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.4752
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.42297
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 0.01107
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "British American Tobacco Shs",
+            "InvRate": 5.51037
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Alibaba Group Holding Ltd ADR",
+            "InvRate": 4.95023
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HDFC Bank",
+            "InvRate": 4.57192
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Ambev SA ADR",
+            "InvRate": 4.42647
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Tencent Holdings Ltd",
+            "InvRate": 4.32254
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Housing Dev Fin Cp",
+            "InvRate": 4.24957
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITC Ltd Dematerialised Shs",
+            "InvRate": 4.19608
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Fomento Economico Mexicano Adr",
+            "InvRate": 3.9106
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Unilever",
+            "InvRate": 2.9359
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Naspers",
+            "InvRate": 2.87305
+        }
+    ]
+}

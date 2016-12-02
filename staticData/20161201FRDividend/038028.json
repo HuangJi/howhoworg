@@ -1,0 +1,532 @@
+[
+    {
+        "Currency": "USD",
+        "TransDate": "20161102",
+        "Div": 0.0589
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20161003",
+        "Div": 0.0637
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160901",
+        "Div": 0.0755
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160801",
+        "Div": 0.061
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160701",
+        "Div": 0.057
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160601",
+        "Div": 0.0517
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160503",
+        "Div": 0.0646
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160401",
+        "Div": 0.0683
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160301",
+        "Div": 0.0545
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160201",
+        "Div": 0.0539
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160104",
+        "Div": 0.057
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20151201",
+        "Div": 0.0605
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20151102",
+        "Div": 0.0645
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20151001",
+        "Div": 0.0649
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150901",
+        "Div": 0.0561
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150803",
+        "Div": 0.0691
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150701",
+        "Div": 0.0751
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150601",
+        "Div": 0.071
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150505",
+        "Div": 0.0665
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150401",
+        "Div": 0.0593
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150302",
+        "Div": 0.0659
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150202",
+        "Div": 0.0672
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150102",
+        "Div": 0.064
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20141201",
+        "Div": 0.0684
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20141103",
+        "Div": 0.0829
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20141001",
+        "Div": 0.0774
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140901",
+        "Div": 0.0863
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140801",
+        "Div": 0.0876
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140701",
+        "Div": 0.089
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140602",
+        "Div": 0.085
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140502",
+        "Div": 0.0888
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140401",
+        "Div": 0.0888
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140303",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140203",
+        "Div": 0.08
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140102",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20131202",
+        "Div": 0.07
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20131104",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20131001",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130902",
+        "Div": 0.08
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130801",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130701",
+        "Div": 0.06
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130603",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130502",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130402",
+        "Div": 0.08
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130301",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130201",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130102",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20121203",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20121102",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20121001",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120903",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120801",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120702",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120601",
+        "Div": 0.08
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120502",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120402",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120301",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120201",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120103",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20111201",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20111102",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20111003",
+        "Div": 0.06
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110901",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110801",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110701",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110601",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110503",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110401",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110301",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110201",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20110104",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20101201",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20101102",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20101001",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100901",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100802",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100701",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100601",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100504",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100401",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100301",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100201",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20100104",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20091201",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20091102",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20091001",
+        "Div": 0.12
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090901",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090803",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090701",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090602",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090505",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090401",
+        "Div": 0.11
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090302",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090202",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090102",
+        "Div": 0.14
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20081201",
+        "Div": 0.1
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20081103",
+        "Div": 0.1014
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20081001",
+        "Div": 0.14
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080901",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080801",
+        "Div": 0.17
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080701",
+        "Div": 0.17
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080602",
+        "Div": 0.17
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080501",
+        "Div": 0.13
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080401",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080229",
+        "Div": 0.09
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20080201",
+        "Div": 0.14
+    }
+]

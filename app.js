@@ -10,7 +10,9 @@ const routes = require('./routes/index')
 const users = require('./routes/users')
 const api = require('./routes/api')
 
-const updateAll = require('./daemon/updater').updateAll
+// const updateAll = require('./daemon/updater').updateAll
+const fundRichUpdater = require('./daemon/fundRichUpdater')
+const fundClearUpdater = require('./daemon/fundClearUpdater')
 
 const app = express()
 
@@ -121,6 +123,16 @@ app.use((err, req, res) => {
 
 // Update all per 24 hours.
 // updateAll()
-setInterval(() => updateAll(), 1000 * 3600 * 24)
+fundRichUpdater.updateAll()
+fundClearUpdater.updateAll()
+
+setInterval(() => {
+  if (new Date().getHours() === 11) fundRichUpdater.updateAll()
+}, 1000 * 3600 * 1)
+
+setInterval(() => {
+  if (new Date().getHours() === 11) fundClearUpdater.updateAll()
+}, 1000 * 3600 * 1)
+// setInterval(() => fundClearUpdater.updateAll(), 1000 * 3600 * 24)
 
 module.exports = app

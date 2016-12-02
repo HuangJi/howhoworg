@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9939881006011899,
+            "SInvRate": 99.39882,
+            "LInvRate": 99.39882
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.00601189939881006,
+            "SInvRate": 0.60119,
+            "LInvRate": 0.60119
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF 10.00000% 14-01.01.25",
+            "InvRate": 19.36832
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF 10.00000% 16-01.01.27",
+            "InvRate": 14.59503
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF 0.00000% 05.04.13-01.01.17",
+            "InvRate": 14.36236
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF 10.00000% 12-01.01.23",
+            "InvRate": 13.73899
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF FLR/SELIC 15-01.03.21",
+            "InvRate": 7.74696
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF TB 0.00000% 04.07.14-01.07.18",
+            "InvRate": 6.07286
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF TB 0.00000% 03.07.15-01.07.19",
+            "InvRate": 5.78223
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, REPUBLIC OF TB 0.00000% 10.01.14-01.01.18",
+            "InvRate": 5.0632
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRAZIL, FEDERATIVE REPUBLIC OF 10.00000% 10-01.01.21",
+            "InvRate": 4.49052
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PETROBRAS GLOBAL FINANCE BV 5.37500% 11-27.01.21",
+            "InvRate": 4.00391
+        }
+    ]
+}

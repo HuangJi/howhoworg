@@ -1,0 +1,238 @@
+{
+    "Area": "A",
+    "FundId": "UBS005",
+    "StarRatingFromEst": null,
+    "Name": "瑞銀全球生物科技基金(CNY)",
+    "NameEng": "UBS(TW) Global Biotech Equity CNH",
+    "NameWarning": "",
+    "CPId": "330",
+    "CPName": "瑞銀證券投資信託股份有限公司",
+    "CPNameEng": "UBS Asset Management (Taiwan) Ltd",
+    "AgentCPId": "330",
+    "AgentCPName": "瑞銀證券投資信託股份有限公司",
+    "AgentCPNameEng": "UBS Asset Management (Taiwan) Ltd",
+    "RctName": "台灣",
+    "Count": 5928,
+    "CurrencyCode": "CNY",
+    "InceptionYmdOn": "20160310",
+    "CategoryId": "180",
+    "CategoryName": "生化科學股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "原則上,本基金自成立日起屆滿六個月後,投資於國內外股票(含承銷股票),興櫃股票及存託憑證之總額不得低於本基金淨資產價值之百分之七十(含);且投資於從事全球生物科技議題相關產業之公司所發行之有價證券不得低於本基金淨資產價值之百分之六十(含).前述全球生物科技議題相關產業係指以從事或轉投資於生物科技,製藥,醫療保健服務,醫療設備器材,醫療保健科技等與醫療保健及生物科技之相關事業,及以醫療保健及生物科技事業為主要(>50%)經營業務之相關國內及外國公司.",
+    "Custodian": "玉山商業銀行",
+    "CustodianFee": 0.27,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 3000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 49092944.32,
+    "PriceTransDate": "20161130",
+    "Price": 11.28,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.08,
+    "UpDownRate": 0.7,
+    "Rr1w": -3.71402,
+    "Rr1M": -10.06071,
+    "Rr3M": -9.1944,
+    "Rr6M": -3.35508,
+    "RrThisYear": null,
+    "Rr1Y": null,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 3.7,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": null,
+    "StdDev1Y": null,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.7959856,
+            "SInvRate": 79.59856,
+            "LInvRate": 79.59856
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.2788,
+            "SInvRate": 27.88,
+            "LInvRate": 27.88
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": -0.0747856,
+            "SInvRate": -7.47856,
+            "LInvRate": -7.47856
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 11.28
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 11.57
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 11.49
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 11.69
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 11.57
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 11.44
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 11.67
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 11.59
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 11.7
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 11.62
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 11.79
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 11.87
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 11.72
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 11.54
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.67
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.61
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.25
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.06
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.31
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.48
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.37
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.53
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.7
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.71
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.73
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.77
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.8
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.8
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.71
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 10.82
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Biotechnology",
+            "InvRate": 68.94048
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 8.63033
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.02774
+        }
+    ]
+}

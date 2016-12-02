@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8756603,
+            "SInvRate": 87.56603,
+            "LInvRate": 87.56603
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0828159,
+            "SInvRate": 8.28159,
+            "LInvRate": 8.28159
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0415238,
+            "SInvRate": 4.15238,
+            "LInvRate": 4.15238
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MPEL 5%",
+            "InvRate": 3.66413
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CNUCOM 4%",
+            "InvRate": 3.25983
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "YNPOWE 5% 1/2",
+            "InvRate": 3.2399
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CIFIHG 7% 3/4",
+            "InvRate": 3.15627
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHIOIL 5%",
+            "InvRate": 2.97784
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LNGFOR 6% 3/4",
+            "InvRate": 2.81133
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GUOSEN 6.4%",
+            "InvRate": 2.74275
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRNLHK 5% 1/2",
+            "InvRate": 2.72707
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SIDEVE 5.15%",
+            "InvRate": 2.7223
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SINOTR 4% 1/2",
+            "InvRate": 2.71864
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8965142,
+            "SInvRate": 89.65142,
+            "LInvRate": 89.65142
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0959,
+            "SInvRate": 9.59,
+            "LInvRate": 9.59
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0075858,
+            "SInvRate": 0.75858,
+            "LInvRate": 0.75858
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 75.02057
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 14.63085
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SIMON PROPERTY GROUP",
+            "InvRate": 5.01918
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Entertainment Proper",
+            "InvRate": 4.85962
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DWNI GR",
+            "InvRate": 4.42176
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "8985 JP Equity",
+            "InvRate": 4.36683
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "長實地產",
+            "InvRate": 4.02105
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MGR AU Equity",
+            "InvRate": 3.02536
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NNN US",
+            "InvRate": 2.91416
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RIOCAN REAL ESTATE I",
+            "InvRate": 2.74235
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Spirit Realty Capital Inc",
+            "InvRate": 2.64437
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Goodman Group",
+            "InvRate": 2.3352
+        }
+    ]
+}

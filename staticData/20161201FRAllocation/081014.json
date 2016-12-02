@@ -1,0 +1,119 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9913147,
+            "SInvRate": 99.13147,
+            "LInvRate": 99.13147
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0065631,
+            "SInvRate": 0.65631,
+            "LInvRate": 0.65631
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0021222,
+            "SInvRate": 0.21222,
+            "LInvRate": 0.21222
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 47.17214
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 15.76931
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 14.24411
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 7.56705
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 6.17298
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 5.16255
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.55888
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 1.48446
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MITSUBISHI ESTATE CO NPV",
+            "InvRate": 8.72571
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CITY DEVELOPMENTS SGD0.5",
+            "InvRate": 7.68259
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EAST JAPAN RAILWAY CO NPV",
+            "InvRate": 5.24696
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DAIBIRU CORP NPV",
+            "InvRate": 5.03469
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MILLENNIUM & COPTHORNE HOTEL GBP0.3",
+            "InvRate": 4.95575
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JARDINE STRATEGIC HLDGS USD0.05",
+            "InvRate": 4.82603
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SWIRE PROPERTIES NPV",
+            "InvRate": 4.58058
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AYALA LAND PHP1",
+            "InvRate": 4.3353
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CAPITALAND NPV",
+            "InvRate": 3.23691
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GRASIM INDSTS SPN GDR-REP 1ORD INR1 144A",
+            "InvRate": 3.09524
+        }
+    ]
+}

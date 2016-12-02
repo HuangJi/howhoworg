@@ -1,0 +1,249 @@
+{
+    "Area": "B",
+    "FundId": "018018",
+    "StarRatingFromEst": null,
+    "Name": "瑞銀(盧森堡)歐元高收益債券基金(歐元)(美元避險)(月配息)",
+    "NameEng": "UBS (Lux) BF Euro Hi Yld € P-mdist USDH",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券",
+    "CPId": "20",
+    "CPName": "瑞銀基金管理(盧森堡)股份有限公司",
+    "CPNameEng": "UBS Fund Management (Luxembourg) S.A.",
+    "AgentCPId": "330",
+    "AgentCPName": "瑞銀證券投資信託股份有限公司",
+    "AgentCPNameEng": "UBS Asset Management (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 35,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20130610",
+    "CategoryId": "759",
+    "CategoryName": "高收益債券 - 其他對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "此基金主要將至少三分之二的淨資產投資於歐元或可轉換為歐元的質素稍遜的債券和債權,亦可能包括歐洲貨幣聯盟參與國的貨幣的投資,以提高回報潛力.",
+    "Custodian": "瑞士銀行(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.01,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3784886802.6,
+    "PriceTransDate": "20161130",
+    "Price": 94.52,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -0.14631,
+    "Rr1M": 0.99103,
+    "Rr3M": 2.87672,
+    "Rr6M": 5.18697,
+    "RrThisYear": 6.97448,
+    "Rr1Y": 6.20083,
+    "Rr2Y": 8.84985,
+    "Rr3Y": 14.20293,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 19.18084,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 1.04,
+    "StdDev1Y": 5.65,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": 1,
+    "StdDev3Y": 4.4,
+    "AriMean3Y": 0.377,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0012999,
+            "SInvRate": 0.12999,
+            "LInvRate": 0.12999
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9349409,
+            "SInvRate": 93.49409,
+            "LInvRate": 93.49409
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0028333,
+            "SInvRate": 0.28333,
+            "LInvRate": 0.28333
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0014144,
+            "SInvRate": 0.14144,
+            "LInvRate": 0.14144
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0466035,
+            "SInvRate": 4.66035,
+            "LInvRate": 4.66035
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.012908,
+            "SInvRate": 1.2908,
+            "LInvRate": 1.2908
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 94.52
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 94.42
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 94.42
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 94.42
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 94.4
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 94.35
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 94.35
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 94.15
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 94.13
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 94.25
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 94.21
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 94.3
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 94.59
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 94.98
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 95.23
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 95.22
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 95.41
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 95.37
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 95.2
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 95.26
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 95.25
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 95.55
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 95.48
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 95.61
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 95.67
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 95.73
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 95.69
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 95.57
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 95.51
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 95.36
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.12999
+        }
+    ]
+}

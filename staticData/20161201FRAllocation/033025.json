@@ -1,0 +1,91 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.9515801,
+            "SInvRate": 95.15801,
+            "LInvRate": 95.15801
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "可換股債券",
+            "InvRate": 0.0001682,
+            "SInvRate": 0.01682,
+            "LInvRate": 0.01682
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0396888,
+            "SInvRate": 3.96888,
+            "LInvRate": 3.96888
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0085629,
+            "SInvRate": 0.85629,
+            "LInvRate": 0.85629
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20140801",
+            "Name": "Banks",
+            "InvRate": 0.00092
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "NN (L) Frontier Markets Debt (HC) - I Cap USD",
+            "InvRate": 3.9651
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "NN (L) Emerging Markets Corporate Debt - Z Cap USD",
+            "InvRate": 2.54778
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "4.400% 1MDB GLOBAL INVESTMENTS 03/09/2023",
+            "InvRate": 1.83241
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "5.000% RUSSIAN FEDERATION 04/29/2020",
+            "InvRate": 1.62401
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "4.875% REPUBLIC OF TURKEY 04/16/2043",
+            "InvRate": 1.61287
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "7.375% REPUBLIC OF COLOMBIA 09/18/2037",
+            "InvRate": 1.59697
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "5.100% URUGUAY (ORIENTAL REPUBLIC OF) 06/18/2050",
+            "InvRate": 1.52118
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "6.625% PETROLEOS MEXICANOS 06/15/2035",
+            "InvRate": 1.39659
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "5.000% LEBANESE REPUBLIC 10/12/2017",
+            "InvRate": 1.38019
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "6.375% HUNGARY 03/29/2021",
+            "InvRate": 1.36084
+        }
+    ]
+}

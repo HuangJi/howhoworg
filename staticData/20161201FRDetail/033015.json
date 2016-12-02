@@ -1,0 +1,268 @@
+{
+    "Area": "B",
+    "FundId": "033015",
+    "StarRatingFromEst": 3,
+    "Name": "NN (L) 銀行及保險基金X股美元",
+    "NameEng": "NN (L) Banking & Insurance X Cap USD",
+    "NameWarning": "",
+    "CPId": "48",
+    "CPName": null,
+    "CPNameEng": "NN Investment Partners Luxembourg SA",
+    "AgentCPId": "19",
+    "AgentCPName": "野村證券投資信託股份有限公司",
+    "AgentCPNameEng": "Nomura Asset Management Taiwan",
+    "RctName": "盧森堡",
+    "Count": 34,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19970903",
+    "CategoryId": "184",
+    "CategoryName": "金融服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本無限期成分基金的目標是集中投資於金融行業(特別是銀行及保險公司)以取得投資資本增值.投資組合將以其至少三分之二資產投資於金融行業股份,特別是銀行及保險公司.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.07,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 80899399,
+    "PriceTransDate": "20161130",
+    "Price": 595.07,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 2.98,
+    "UpDownRate": 0.5,
+    "Rr1w": 0.36632,
+    "Rr1M": 1.36689,
+    "Rr3M": 4.255,
+    "Rr6M": 3.61794,
+    "RrThisYear": 1.8085,
+    "Rr1Y": -0.15259,
+    "Rr2Y": -1.78007,
+    "Rr3Y": -0.95273,
+    "Rr5Y": 42.44849,
+    "Rr10Y": -36.55288,
+    "RrFromEst": 11.23804,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 0.94,
+    "Beta1Y": 0.85,
+    "Sharpe1Y": 0.04,
+    "StdDev1Y": 14.32,
+    "Alpha3Y": -1.4,
+    "Beta3Y": 0.91,
+    "Sharpe3Y": 0.02,
+    "StdDev3Y": 12.34,
+    "AriMean3Y": 0.036,
+    "Alpha5Y": -1.25,
+    "Beta5Y": 0.97,
+    "Sharpe5Y": 0.55,
+    "StdDev5Y": 14.53,
+    "Alpha10Y": -2.25,
+    "Beta10Y": 1.03,
+    "Sharpe10Y": -0.1,
+    "StdDev10Y": 24.03,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "145",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9177672,
+            "SInvRate": 91.77672,
+            "LInvRate": 91.77672
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0148864,
+            "SInvRate": 1.48864,
+            "LInvRate": 1.48864
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0673464,
+            "SInvRate": 6.73464,
+            "LInvRate": 6.73464
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 595.07
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 592.09
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 590.52
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 595.71
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 594.25
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 593.44
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 593.1
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 591.46
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 588.6
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 590.83
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 586.15
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 590.41
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 587.32
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 581.01
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 579.92
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 566.96
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 558.1
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 556.5
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 547.5
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 552.35
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 550.17
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 555.04
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 556.19
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 555.32
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 557.63
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 556.5
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 554.16
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 554.16
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 550.96
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 552.51
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Banks",
+            "InvRate": 41.91194
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Life",
+            "InvRate": 9.96798
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Asset Management",
+            "InvRate": 8.21229
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance",
+            "InvRate": 7.88524
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 7.38175
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "REITs",
+            "InvRate": 5.58133
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Credit Services",
+            "InvRate": 4.59023
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Specialty",
+            "InvRate": 3.47056
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.77541
+        }
+    ]
+}

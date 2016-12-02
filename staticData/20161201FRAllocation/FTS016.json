@@ -1,0 +1,120 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.00015319998468000154,
+            "SInvRate": 0.01532,
+            "LInvRate": 0.01532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.7894218210578179,
+            "SInvRate": 78.94219,
+            "LInvRate": 78.94219
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.00043789995621000435,
+            "SInvRate": 0.04379,
+            "LInvRate": 0.04379
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.009583799041620095,
+            "SInvRate": 0.95838,
+            "LInvRate": 0.95838
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.13454548654545134,
+            "SInvRate": 13.45455,
+            "LInvRate": 13.45455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.06585779341422066,
+            "SInvRate": 6.58578,
+            "LInvRate": 6.58578
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.01486
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.00042
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.00003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富蘭克林坦伯頓全球投資系列-美國政府基金美元A (Mdis)股",
+            "InvRate": 27.00372
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-亞洲高收益基金 (A股月配息)",
+            "InvRate": 21.5022
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富蘭克林坦伯頓全球投資系列-歐洲高收益基金美元避險A(Mdis)股-H1",
+            "InvRate": 14.21383
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富蘭克林坦伯頓全球投資系列-歐洲高收益基金歐元A(Mdis)股",
+            "InvRate": 8.20885
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NN (L) 投資級公司債基金X股美元(月配息)",
+            "InvRate": 5.24654
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "景順歐洲企業債券基金A-月配息股 歐元",
+            "InvRate": 3.80065
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─美國優質債券基金Adm(美元月配)",
+            "InvRate": 3.41149
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "領先UCITS ETF每日雙倍賣空債",
+            "InvRate": 2.62008
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富蘭克林坦伯頓全球投資系列-公司債基金美元A (Mdis)股",
+            "InvRate": 2.22267
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-新興市場債券基金(A股月配息-美元)",
+            "InvRate": 1.20539
+        }
+    ]
+}

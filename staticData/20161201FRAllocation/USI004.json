@@ -1,0 +1,144 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9071631,
+            "SInvRate": 90.71631,
+            "LInvRate": 90.71631
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0525,
+            "SInvRate": 5.25,
+            "LInvRate": 5.25
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0403369,
+            "SInvRate": 4.03369,
+            "LInvRate": 4.03369
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 31.18192
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 21.73419
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.50551
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 5.47738
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 4.45463
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 4.42455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 3.51989
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.7755
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.62645
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.44686
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.19544
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.1052
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.26878
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 8.6033
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "泰博",
+            "InvRate": 5.47738
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "微星",
+            "InvRate": 4.75679
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "神達",
+            "InvRate": 4.67445
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "允強",
+            "InvRate": 4.45463
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "璟德",
+            "InvRate": 4.42455
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "立端",
+            "InvRate": 3.92845
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "百和",
+            "InvRate": 3.51989
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "東陽",
+            "InvRate": 3.3403
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鴻準",
+            "InvRate": 3.2972
+        }
+    ]
+}

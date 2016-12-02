@@ -1,0 +1,298 @@
+{
+    "Area": "A",
+    "FundId": "ESI066",
+    "StarRatingFromEst": 2,
+    "Name": "瀚亞亞太基礎建設基金-新臺幣",
+    "NameEng": "Eastspring Inv Asia Pacific Infras",
+    "NameWarning": "",
+    "CPId": "37",
+    "CPName": "瀚亞證券投資信託股份有限公司",
+    "CPNameEng": "Eastspring Securities Invst Tr Co Ltd",
+    "AgentCPId": "37",
+    "AgentCPName": "瀚亞證券投資信託股份有限公司",
+    "AgentCPNameEng": "Eastspring Securities Invst Tr Co Ltd",
+    "RctName": "台灣",
+    "Count": 9,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20070523",
+    "CategoryId": "442",
+    "CategoryName": "基礎建設股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於前述(八)所列標的.並依下列規定進行投資:1.原則上,本基金自成立之日起屆滿六個月後,投資於國內外股票及存託憑證之總額不得低於本基金淨資產價值之百分之七十(含);投資於前述(八)國家及地區之基礎建設事業之有價證券總額不得低於本基金淨資產價值之百分之六十(含),投資於外國有價證券之總額不得低於本基金淨資產價值之百分之六十(含);但在本基金信託契約終止前一個月,得不受前述投資比例之限制.",
+    "Custodian": "彰化銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 3000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 971311842,
+    "PriceTransDate": "20161130",
+    "Price": 10.02,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.02,
+    "UpDownRate": 0.2,
+    "Rr1w": -2.17803,
+    "Rr1M": 0,
+    "Rr3M": -1.24283,
+    "Rr6M": 0.68226,
+    "RrThisYear": 3.92354,
+    "Rr1Y": -0.4817,
+    "Rr2Y": -12.38338,
+    "Rr3Y": -7.10432,
+    "Rr5Y": 0.9775,
+    "Rr10Y": null,
+    "RrFromEst": 3.3,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.86,
+    "Beta1Y": 0.69,
+    "Sharpe1Y": 0.22,
+    "StdDev1Y": 12.61,
+    "Alpha3Y": -10.67,
+    "Beta3Y": 1.16,
+    "Sharpe3Y": -0.3,
+    "StdDev3Y": 13.63,
+    "AriMean3Y": -0.327,
+    "Alpha5Y": -4.01,
+    "Beta5Y": 0.89,
+    "Sharpe5Y": 0,
+    "StdDev5Y": 14.24,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "5",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9683387,
+            "SInvRate": 96.83387,
+            "LInvRate": 96.83387
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0301,
+            "SInvRate": 3.01,
+            "LInvRate": 3.01
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0015613,
+            "SInvRate": 0.15613,
+            "LInvRate": 0.15613
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.02
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.02
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.97
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.04
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.99
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.94
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.97
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.98
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.95
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.96
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.06
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.22
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.1
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.26
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.19
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.14
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.2
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.24
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.35
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.33
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.36
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.42
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.45
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.54
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.56
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.51
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.52
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 23.7765
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 15.25911
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 8.80801
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 7.34526
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 7.33157
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 7.01366
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 6.29679
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 5.2305
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 3.84432
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 2.64365
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 2.5866
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.84379
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.81934
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.6656
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 1.36917
+        }
+    ]
+}

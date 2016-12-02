@@ -1,0 +1,234 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9909273990927399,
+            "SInvRate": 99.09273,
+            "LInvRate": 99.09273
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.002074800207480021,
+            "SInvRate": 0.20748,
+            "LInvRate": 0.20748
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.00699780069978007,
+            "SInvRate": 0.69978,
+            "LInvRate": 0.69978
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 17.70021
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 14.72717
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 8.5443
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 7.58846
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 6.77104
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 5.24635
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 4.80741
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 4.69587
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 4.55811
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 4.07538
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 3.1456
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.78784
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.53598
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.19979
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 1.86034
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.54581
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 1.48241
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.11228
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 0.79826
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.60576
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.35784
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.33084
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Employment Services",
+            "InvRate": 0.29567
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 0.27238
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.24473
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 0.20188
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 0.13563
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.13309
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 0.1208
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 0.11422
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 0.0973
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SOFTBANK GROUP CORP",
+            "InvRate": 4.78191
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MAKITA CORP",
+            "InvRate": 4.3615
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MISUMI GROUP INC",
+            "InvRate": 4.16461
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NIDEC CORP",
+            "InvRate": 3.66431
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DISCO CORP",
+            "InvRate": 3.60788
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ORIX CORP",
+            "InvRate": 3.51156
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KEYENCE CORP",
+            "InvRate": 3.51072
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NIPPON SHINYAKU CO LTD",
+            "InvRate": 3.47519
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "DAIKIN INDUSTRIES LTD",
+            "InvRate": 3.26254
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TORAY INDUSTRIES INC",
+            "InvRate": 3.1456
+        }
+    ]
+}

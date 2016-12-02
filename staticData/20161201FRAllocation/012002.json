@@ -1,0 +1,209 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9854254014574598,
+            "SInvRate": 98.54255,
+            "LInvRate": 98.54255
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "優先股",
+            "InvRate": 0.012584998741500125,
+            "SInvRate": 1.2585,
+            "LInvRate": 1.2585
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.00198959980104002,
+            "SInvRate": 0.19896,
+            "LInvRate": 0.19896
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 18.91339
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 10.61391
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Application Software",
+            "InvRate": 4.67295
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Real Estate",
+            "InvRate": 4.51921
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.48977
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance",
+            "InvRate": 4.0784
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.86982
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 3.44694
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Education",
+            "InvRate": 3.25481
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.01127
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.66252
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.52987
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.50055
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Business Services",
+            "InvRate": 2.36768
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 2.3487
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Restaurants",
+            "InvRate": 2.22108
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Autos",
+            "InvRate": 2.15774
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Entertainment",
+            "InvRate": 1.91987
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "REITs",
+            "InvRate": 1.84807
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Forest Products",
+            "InvRate": 1.72867
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Building Materials",
+            "InvRate": 1.34733
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Metals & Mining",
+            "InvRate": 1.34071
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.1611
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.0644
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 1.04449
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.94811
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Itau Unibanco Holding SA – ADR",
+            "InvRate": 7.13215
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Ambev SA – ADR",
+            "InvRate": 6.27018
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Banco Bradesco SA – ADR",
+            "InvRate": 4.46965
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Grupo Financiero Banorte SAB de CV",
+            "InvRate": 4.39916
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Fomento Economico Mexicano SAB de CV – ADR",
+            "InvRate": 4.34373
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "BB Seguridade Participacoes SA",
+            "InvRate": 4.0784
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Credicorp",
+            "InvRate": 3.44955
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Ultrapar Participacoes SA",
+            "InvRate": 3.44694
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Kroton Educacional SA",
+            "InvRate": 3.25481
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Saci Falabella",
+            "InvRate": 3.02201
+        }
+    ]
+}

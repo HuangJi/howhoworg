@@ -1,0 +1,109 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9874423012557699,
+            "SInvRate": 98.74424,
+            "LInvRate": 98.74424
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0006415999358400064,
+            "SInvRate": 0.06416,
+            "LInvRate": 0.06416
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.011916098808390119,
+            "SInvRate": 1.19161,
+            "LInvRate": 1.19161
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 42.96434
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 29.60011
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 10.82031
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 8.97886
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 5.22137
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 1.15925
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "EXXON MOBIL CORP",
+            "InvRate": 9.15381
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "ROYAL DUTCH SHELL PLC-A SHS",
+            "InvRate": 8.66272
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "TOTAL SA",
+            "InvRate": 7.5717
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "BP PLC",
+            "InvRate": 6.70332
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "PHILLIPS 66",
+            "InvRate": 3.97512
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SUNCOR ENERGY INC",
+            "InvRate": 3.74824
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "PIONEER NATURAL RESOURCES CO",
+            "InvRate": 3.66549
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "VALERO ENERGY CORP",
+            "InvRate": 3.65155
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SCHLUMBERGER LTD",
+            "InvRate": 3.17202
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SPECTRA ENERGY CORP",
+            "InvRate": 3.16373
+        }
+    ]
+}

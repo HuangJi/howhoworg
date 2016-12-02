@@ -1,0 +1,263 @@
+{
+    "Area": "A",
+    "FundId": "Meg006",
+    "StarRatingFromEst": 1,
+    "Name": "兆豐國際生命科學基金",
+    "NameEng": "Mega Life Science",
+    "NameWarning": "",
+    "CPId": "69",
+    "CPName": "兆豐國際證券投資信託股份有限公司",
+    "CPNameEng": "Mega International Inv Trust Co., Ltd",
+    "AgentCPId": "69",
+    "AgentCPName": "兆豐國際證券投資信託股份有限公司",
+    "AgentCPNameEng": "Mega International Inv Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 21,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20020625",
+    "CategoryId": "185",
+    "CategoryName": "健康護理股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於外國之有價證券及中華民國之上市及上櫃股票,承銷股票,台灣存託憑證,政府公債,公司債,可轉換公司債,債券換股權利證書,金融債券及金管會核准於國內募集發行之國外金融組織債券.經理公司並應依下列規定進行投資:1.本基金投資之外國有價證券,以金管會核准之外國證券集中交易市場或店頭市場交易之股票,債券,交易所買賣基金(ETFs,Exchange Traded Funds),存託憑證(Depository Receipts),或經金管會規定之外國著名評鑑機構評定為A級以上由國家或機構所保證或發行之債券為限,並應符合金管會之限制或禁止規定.2.本基金主要投資於從事或轉投資於電子科技與生物科技之重要科技事業之上市或上櫃股票,包括網際網路(設備及服務),電信,電子商務,行動通訊,電腦及其週邊,半導體,光纖電纜,多媒體,軟體,關鍵零組件,資訊家電,醫療保健,生物科技,特用化學品與製藥污染防治,資源開發等相關國內及外國公司所發行之上市,上櫃股票為主.3.本基金投資之外國有價證券,以在日本,韓國,香港,新加坡,以色列,印度,美國,加拿大,德國,英國,法國,芬蘭,瑞典,荷蘭,瑞士,義大利之證券集中交易市場或經金管會核准之店頭市場交易之股票,債券,交易所買賣基金(ETFs,Exchange Traded Funds),存託憑證(Depository Receipts),或經金管會規定之外國著名評鑑機構評定為A級以上由國家或機構所保證或發行,於日本,韓國,香港,新加坡,以色列,印度,美國,加拿大,德國,英國,法國,芬蘭,瑞典,荷蘭,瑞士,義大利交易之債券為主.",
+    "Custodian": "中國信託商業銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.7,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 3000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 274550182,
+    "PriceTransDate": "20161130",
+    "Price": 15.55,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -3.68932,
+    "Rr1M": -9.98185,
+    "Rr3M": -13.48837,
+    "Rr6M": -9.59903,
+    "RrThisYear": -24.42864,
+    "Rr1Y": -23.53546,
+    "Rr2Y": -20.47035,
+    "Rr3Y": -2.55404,
+    "Rr5Y": 20.29105,
+    "Rr10Y": 7.20465,
+    "RrFromEst": 48.80005,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.91,
+    "Beta1Y": 0.96,
+    "Sharpe1Y": -0.93,
+    "StdDev1Y": 23.13,
+    "Alpha3Y": -7.02,
+    "Beta3Y": 0.85,
+    "Sharpe3Y": -0.1,
+    "StdDev3Y": 17.81,
+    "AriMean3Y": -0.137,
+    "Alpha5Y": -3.86,
+    "Beta5Y": 0.84,
+    "Sharpe5Y": 0.24,
+    "StdDev5Y": 15.41,
+    "Alpha10Y": -2.22,
+    "Beta10Y": 0.98,
+    "Sharpe10Y": 0.12,
+    "StdDev10Y": 18.56,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "63",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8928363,
+            "SInvRate": 89.28363,
+            "LInvRate": 89.28363
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0721233,
+            "SInvRate": 7.21233,
+            "LInvRate": 7.21233
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0350404,
+            "SInvRate": 3.50404,
+            "LInvRate": 3.50404
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 15.55
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 15.82
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 15.82
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 16.11
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 16.06
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 16.03
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 15.9
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 16.09
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 16.26
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 16.19
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 16.47
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 16.58
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 16.31
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 16.42
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 16.07
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 14.97
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 14.95
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 14.52
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 14.28
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 14.73
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 14.96
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 14.88
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 15.12
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 15.35
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 15.29
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 15.34
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 15.45
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 15.54
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 15.5
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 60.52187
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 22.95763
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.79243
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 1.51774
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 1.00996
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 0.27777
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.20434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.00188
+        }
+    ]
+}

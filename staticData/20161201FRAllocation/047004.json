@@ -1,0 +1,142 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160501",
+            "Name": "股票",
+            "InvRate": 0.8505154,
+            "SInvRate": 85.05154,
+            "LInvRate": 85.05154
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "現金",
+            "InvRate": 0.1494846,
+            "SInvRate": 14.94846,
+            "LInvRate": 14.94846
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160501",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 31.40096
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Banks",
+            "InvRate": 13.00401
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.12227
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 7.01416
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Insurance",
+            "InvRate": 5.80582
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Application Software",
+            "InvRate": 5.47552
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 3.22264
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Business Services",
+            "InvRate": 2.71408
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Chemicals",
+            "InvRate": 2.36125
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.07207
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.00795
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Medical Devices",
+            "InvRate": 1.26128
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Industrial Products",
+            "InvRate": 1.05081
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.5387
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Henkel AG & Co. KGaA",
+            "InvRate": 9.78929
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Unilever PLC",
+            "InvRate": 9.45985
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Berkshire Hathaway Inc",
+            "InvRate": 5.80582
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Waters Corporation",
+            "InvRate": 4.44428
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Oversea-Chinese Banking Corp",
+            "InvRate": 4.36288
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Infosys Limited",
+            "InvRate": 4.03579
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Nestle S.A.",
+            "InvRate": 4.03397
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Colgate-Palmolive Company",
+            "InvRate": 4.01618
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Markel Corp",
+            "InvRate": 3.22264
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "Unicharm Corp",
+            "InvRate": 3.08044
+        }
+    ]
+}

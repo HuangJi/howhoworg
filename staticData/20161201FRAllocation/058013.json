@@ -1,0 +1,108 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0112808,
+            "SInvRate": 1.12808,
+            "LInvRate": 1.12808
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9279953,
+            "SInvRate": 92.79953,
+            "LInvRate": 92.79953
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0101649,
+            "SInvRate": 1.01649,
+            "LInvRate": 1.01649
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0107942,
+            "SInvRate": 1.07942,
+            "LInvRate": 1.07942
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0397648,
+            "SInvRate": 3.97648,
+            "LInvRate": 3.97648
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.49431
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 0.28228
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0.04151
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LM WA Euro Hgh Yld Fnd",
+            "InvRate": 8.36711
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "U.S. Treasury Notes",
+            "InvRate": 2.55366
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Republic of Turkey",
+            "InvRate": 1.73783
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Telecom Italia SpA",
+            "InvRate": 1.43883
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PETROBRAS INTL FIN CO",
+            "InvRate": 1.41692
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "US TREASURY N/B 08/21 1.125",
+            "InvRate": 1.23323
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PROVINCIA 7.88% 06/15/27",
+            "InvRate": 1.22552
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LM WA EMG Corp Bnd Fnd",
+            "InvRate": 1.19876
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Charter Communications Operating LLC/Charter Communications Operating Capital Corp.",
+            "InvRate": 0.92548
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VIMPELCOM HLDGS",
+            "InvRate": 0.90469
+        }
+    ]
+}

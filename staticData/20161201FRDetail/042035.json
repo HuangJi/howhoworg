@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "042035",
+    "StarRatingFromEst": 3,
+    "Name": "貝萊德世界債券基金 A2 美元",
+    "NameEng": "BGF World Bond A2 USD",
+    "NameWarning": "",
+    "CPId": "33",
+    "CPName": "貝萊德(盧森堡)公司",
+    "CPNameEng": "BlackRock (Luxembourg) SA",
+    "AgentCPId": "101",
+    "AgentCPName": "貝萊德證券投資信託股份有限公司",
+    "AgentCPNameEng": "BlackRock Investment Mngt (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 51,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19850904",
+    "CategoryId": "679",
+    "CategoryName": "環球債券-美元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "世界債券基金以盡量提高總回報為目標.基金將不少於70%的總資產投資於投資級定息可轉讓證券.貨幣風險將靈活管理.",
+    "Custodian": "紐約梅隆銀行(國際)有限公司",
+    "CustodianFee": 0.441,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.85,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 1618512480,
+    "PriceTransDate": "20161130",
+    "Price": 73.01,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -0.49452,
+    "Rr1M": -1.12882,
+    "Rr3M": -0.8259,
+    "Rr6M": 1.61048,
+    "RrThisYear": 4.57929,
+    "Rr1Y": 4.09676,
+    "Rr2Y": 5.67778,
+    "Rr3Y": 11.41875,
+    "Rr5Y": 20.93891,
+    "Rr10Y": 48.60274,
+    "RrFromEst": 644.499634,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.26,
+    "Beta1Y": 0.84,
+    "Sharpe1Y": 1.55,
+    "StdDev1Y": 2.43,
+    "Alpha3Y": -0.11,
+    "Beta3Y": 0.86,
+    "Sharpe3Y": 1.5,
+    "StdDev3Y": 2.34,
+    "AriMean3Y": 0.303,
+    "Alpha5Y": 0,
+    "Beta5Y": 0.95,
+    "Sharpe5Y": 1.43,
+    "StdDev5Y": 2.62,
+    "Alpha10Y": -0.39,
+    "Beta10Y": 0.97,
+    "Sharpe10Y": 1.08,
+    "StdDev10Y": 2.96,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "94",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 1.0064558993544102,
+            "SInvRate": 100.6456,
+            "LInvRate": 100.6456
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.00000809999919000008,
+            "SInvRate": 0.00081,
+            "LInvRate": 0.00081
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.002207599779240022,
+            "SInvRate": 0.22076,
+            "LInvRate": 0.22076
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.08526909147309085,
+            "SInvRate": -8.52691,
+            "LInvRate": -8.52691
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.07659749234025076,
+            "SInvRate": 7.65975,
+            "LInvRate": 7.65975
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 73.01
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 73.01
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 72.94
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 72.89
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 72.87
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 72.89
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 72.98
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 72.92
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 73.06
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 73.18
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 73.17
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 73.26
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 73.27
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 73.6
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 73.79
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 74.32
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 74.42
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 74.43
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 74.47
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 74.43
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 74.46
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 74.45
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 74.35
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 74.56
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 74.67
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 74.75
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 74.82
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 74.8
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 74.73
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 74.72
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151101",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0
+        }
+    ]
+}

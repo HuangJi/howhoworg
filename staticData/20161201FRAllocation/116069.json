@@ -1,0 +1,199 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.902376909762309,
+            "SInvRate": 90.2377,
+            "LInvRate": 90.2377
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "現金",
+            "InvRate": 0.08712119128788087,
+            "SInvRate": 8.71212,
+            "LInvRate": 8.71212
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.010501898949810105,
+            "SInvRate": 1.05019,
+            "LInvRate": 1.05019
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 16.43693
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Real Estate",
+            "InvRate": 7.86728
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Services",
+            "InvRate": 6.85439
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Health Care Providers",
+            "InvRate": 6.50468
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 5.05603
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Transportation & Logistics",
+            "InvRate": 5.02806
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 4.3757
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Entertainment",
+            "InvRate": 3.92564
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Restaurants",
+            "InvRate": 3.88089
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.67077
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.90105
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 2.66231
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.45531
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Packaging & Containers",
+            "InvRate": 2.35351
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Building Materials",
+            "InvRate": 2.27744
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 2.09703
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 1.96153
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.77171
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.41747
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Specialty",
+            "InvRate": 1.40891
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Equipment",
+            "InvRate": 1.04944
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.94977
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 0.36162
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 0.20619
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "SIAM COMMERCIAL BANK PCL ORD THB10 (FGN)",
+            "InvRate": 9.41013
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "THAI BEVERAGE PCL ORD SGD NPV",
+            "InvRate": 5.05603
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "ADVANCED INFO SERVICE PCL ORD THB1 (FGN)",
+            "InvRate": 4.81784
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "SIAM CEMENT PUBLIC CO LTD (THE) ORD THB1 (FGN)",
+            "InvRate": 4.3757
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "MAJOR CINEPLEX GROUP PCL ORD THB1 (FGN)",
+            "InvRate": 3.54122
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "BANGKOK DUSIT MEDICAL SERVICES PCL ORD THB.1 (FGN)",
+            "InvRate": 3.30032
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "BANGKOK CHAIN HOSPITAL PCL ORD THB1 (FGN)",
+            "InvRate": 3.20436
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "JWD INFOLOGISTICS PCL ORD THB.5 (FGN)",
+            "InvRate": 3.06554
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "THE ERAWAN GROUP PUBLIC CO LTD ORD THB1 (FGN)",
+            "InvRate": 2.90105
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "SVI PCL ORD THB1 (FGN)",
+            "InvRate": 2.76405
+        }
+    ]
+}

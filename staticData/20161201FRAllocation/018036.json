@@ -1,0 +1,105 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0002194999780500022,
+            "SInvRate": 0.02195,
+            "LInvRate": 0.02195
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9539740046025995,
+            "SInvRate": 95.39741,
+            "LInvRate": 95.39741
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0008561999143800085,
+            "SInvRate": 0.08562,
+            "LInvRate": 0.08562
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.00031529996847000315,
+            "SInvRate": 0.03153,
+            "LInvRate": 0.03153
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.04276979572302043,
+            "SInvRate": 4.27698,
+            "LInvRate": 4.27698
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0018651998134800187,
+            "SInvRate": 0.18652,
+            "LInvRate": 0.18652
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151201",
+            "Name": "Banks",
+            "InvRate": 0.00229
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND SICAV - EUR CORPORATES (EUR) U-X-ACC",
+            "InvRate": 7.19709
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND SICAV - USD CORPORATES U-X-ACC",
+            "InvRate": 6.98339
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND SICAV-SHORT TERM USD CORPORATES (USD) U-X-ACC",
+            "InvRate": 6.02911
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND SICAV - USD HIGH YIELD U-X-ACC",
+            "InvRate": 4.01375
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND FUND - EURO HIGH YIELD (EUR) I-X-ACC",
+            "InvRate": 3.08272
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) EMERGING ECONOMIES FUND-GLOBAL BONDS (USD)-U-X ACC",
+            "InvRate": 3.02102
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMERICA, UNITED STATES OF 3.62500% 10-15.02.20",
+            "InvRate": 2.58132
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMERICA, UNITED STATES OF 1.75000% 13-15.05.23",
+            "InvRate": 2.47506
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ITALY, REPUBLIC OF-BTP 4.75000% 08-01.08.23",
+            "InvRate": 2.13374
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UBS (LUX) BOND SICAV - EMERGING ECONOMIES CORP (USD)-I-X-DIS",
+            "InvRate": 1.89987
+        }
+    ]
+}

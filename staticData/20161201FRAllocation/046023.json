@@ -1,0 +1,77 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9430791943079194,
+            "SInvRate": 94.30791,
+            "LInvRate": 94.30791
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.05692080569208057,
+            "SInvRate": 5.69208,
+            "LInvRate": 5.69208
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160401",
+            "Name": "Health Care Providers",
+            "InvRate": 0.00018
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "US TREASURY N/B 0.875 MAR 31 18",
+            "InvRate": 2.26267
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "US TREASURY N/B 0.750 FEB 28 18",
+            "InvRate": 1.91578
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "US TREASURY N/B 0.875 JUN 15 19",
+            "InvRate": 1.43776
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FNMA 15YR TBA 2.5% OCT TBA",
+            "InvRate": 1.02329
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GEDFT 2014-1 A FRB JUL 20 19",
+            "InvRate": 0.73377
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NEXTERA ENERGY CAPITAL HOLDINGS INC 2.056 SEP 01 17",
+            "InvRate": 0.7021
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SWEDISH EXPORT CREDIT 1.125 AUG 28 19",
+            "InvRate": 0.69644
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHIRE ACQUISITIONS INVESTMENTS IRELAND D 1.900 SEP 23 19",
+            "InvRate": 0.69527
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FNMA #AS4916 3.000 MAY 01 30",
+            "InvRate": 0.67596
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SWEDBANK AB 144A 2.125 SEP 29 17",
+            "InvRate": 0.66416
+        }
+    ]
+}

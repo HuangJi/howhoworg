@@ -1,0 +1,209 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9455032,
+            "SInvRate": 94.55032,
+            "LInvRate": 94.55032
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0497,
+            "SInvRate": 4.97,
+            "LInvRate": 4.97
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0047968,
+            "SInvRate": 0.47968,
+            "LInvRate": 0.47968
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 10.77372
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 10.01472
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 7.99162
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.2565
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.90325
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.87119
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 4.50641
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.09678
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.09
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 3.49109
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.24037
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 3.20617
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 2.83075
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.74614
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.67511
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 2.65134
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.35109
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 2.27564
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 2.01655
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Publishing",
+            "InvRate": 1.63234
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 1.49581
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.47616
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.34959
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 0.80714
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.62893
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.17189
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNWAY COMMUNICAT-A",
+            "InvRate": 5.90325
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANGZHOU ROBAM APPLIANCES-A",
+            "InvRate": 5.68277
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD",
+            "InvRate": 5.47777
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHANGHAI WANGSU SCIENCE-A",
+            "InvRate": 5.29595
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KWEICHOW MOUTAI CO LTD-A",
+            "InvRate": 4.50641
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JIANGSU HENGRUI MEDICINE C-A",
+            "InvRate": 4.01699
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GALAXY ENTERTAINMENT GROUP L",
+            "InvRate": 4.00503
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GEELY AUTOMOBILE HOLDING LTD",
+            "InvRate": 3.53554
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIER EYE HOSPITAL GROUP CO-A",
+            "InvRate": 3.49109
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HUANENG RENEWABLES CORP-H",
+            "InvRate": 3.24037
+        }
+    ]
+}

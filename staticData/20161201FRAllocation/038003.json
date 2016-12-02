@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9819377981937798,
+            "SInvRate": 98.19377,
+            "LInvRate": 98.19377
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.01806220180622018,
+            "SInvRate": 1.80622,
+            "LInvRate": 1.80622
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DP WORLD LTD SR UNSECURED REGS 07/37 6.85",
+            "InvRate": 2.56792
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TURKCELL ILETISIM HIZMETLERI A SR UNSECURED REGS 10/25 5.75",
+            "InvRate": 2.04193
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MINERVA LUXEMBOURG SA 09/26 6.5",
+            "InvRate": 2.02001
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANCO MERCANTIL DEL NORTE SA 10/31 1",
+            "InvRate": 1.94782
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AES EL SALVADOR TRUST II COMPANY GUAR REGS 03/23 6.75",
+            "InvRate": 1.94332
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PETROBRAS GLOBAL FINANCE BV COMPANY GUAR 05/26 8.75",
+            "InvRate": 1.9304
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MAF GLOBAL SECURITIES LTD 12/49 1",
+            "InvRate": 1.75513
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAUDI ELECTRICITY GLOBAL SUKUK SR UNSECURED REGS 04/44 5.5",
+            "InvRate": 1.67997
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALFA SAB DE CV SR UNSECURED REGS 03/44 6.875",
+            "InvRate": 1.64755
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LAMAR FUNDING LTD COMPANY GUAR REGS 05/25 3.958",
+            "InvRate": 1.64649
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9254334,
+            "SInvRate": 92.54334,
+            "LInvRate": 92.54334
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.073,
+            "SInvRate": 7.3,
+            "LInvRate": 7.3
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0015666,
+            "SInvRate": 0.15666,
+            "LInvRate": 0.15666
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 35.82306
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 35.23755
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 13.24207
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 4.20015
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 3.31973
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.72077
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BIOGEN INC",
+            "InvRate": 6.10356
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMGEN",
+            "InvRate": 5.6919
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTRAZENECA",
+            "InvRate": 5.68587
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROCHE HOLDING GENUSS",
+            "InvRate": 5.34098
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AETNA",
+            "InvRate": 5.17748
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MERCK & CO. INC.",
+            "InvRate": 5.11094
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALLERGAN PLC",
+            "InvRate": 4.93972
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JOHNSON & JOHNSON",
+            "InvRate": 4.60667
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALEXION PHARMACEUTICALS",
+            "InvRate": 4.06185
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VERTEX PHARMACEUTICALS",
+            "InvRate": 3.74099
+        }
+    ]
+}

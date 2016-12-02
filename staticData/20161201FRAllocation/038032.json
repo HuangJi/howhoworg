@@ -1,0 +1,242 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9748618025138197,
+            "SInvRate": 97.48619,
+            "LInvRate": 97.48619
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.02513819748618025,
+            "SInvRate": 2.51382,
+            "LInvRate": 2.51382
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 7.35512
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 5.91827
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 5.78345
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.82191
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 4.73716
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.66036
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 4.42043
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 4.22003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 4.112
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.04871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 3.73653
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 3.54122
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.43256
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 3.10411
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.08162
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.96672
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Publishing",
+            "InvRate": 2.70119
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.33975
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.9555
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.85541
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 1.84917
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.78097
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.63517
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.53885
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 1.51545
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 1.44862
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 1.43343
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.42734
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.3519
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 1.18642
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.16098
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 0.9355
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 0.8232
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.60715
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BOOKER GROUP PLC COMMON STOCK GBP.01",
+            "InvRate": 3.26406
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MELROSE INDUSTRIES PLC COMMON STOCK GBP.06857143",
+            "InvRate": 3.21488
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRITISH AMERICAN TOBACCO PLC COMMON STOCK GBP.25",
+            "InvRate": 3.1273
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BP PLC COMMON STOCK USD.25",
+            "InvRate": 2.68406
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IMPERIAL BRANDS PLC COMMON STOCK GBP.1",
+            "InvRate": 2.65615
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RPC GROUP PLC COMMON STOCK GBP.05",
+            "InvRate": 2.6507
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BT GROUP PLC COMMON STOCK GBP.05",
+            "InvRate": 2.63952
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BREEDON AGGREGATES LTD COMMON STOCK",
+            "InvRate": 2.54245
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "RENTOKIL INITIAL PLC COMMON STOCK GBP.01",
+            "InvRate": 2.50268
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTRAZENECA PLC COMMON STOCK USD.25",
+            "InvRate": 2.4844
+        }
+    ]
+}

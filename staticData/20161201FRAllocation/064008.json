@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 0.00010429998957000104,
+            "SInvRate": 0.01043,
+            "LInvRate": 0.01043
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "債券",
+            "InvRate": 0.9735240026475998,
+            "SInvRate": 97.35241,
+            "LInvRate": 97.35241
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.026371697362830265,
+            "SInvRate": 2.63717,
+            "LInvRate": 2.63717
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160701",
+            "ExternalName": "SERBIA 7.25% 09/21",
+            "InvRate": 1.47608
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "RUSSIA 4.875 09/23 US",
+            "InvRate": 1.12884
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "MEX 4.75% 03/44",
+            "InvRate": 1.11517
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "HUNGARY 6.375% 03/21",
+            "InvRate": 1.04563
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "ARGENT 7 1/2 04/22/26",
+            "InvRate": 0.99183
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "PANAMA 3.75% 03/25",
+            "InvRate": 0.9673
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "URUGUA 5.1% 06/50",
+            "InvRate": 0.94661
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "KENINT 6.875 06/24",
+            "InvRate": 0.90619
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "MEX 4 1/8 01/21/26",
+            "InvRate": 0.9047
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "PERU 8.75% 11/33",
+            "InvRate": 0.87175
+        }
+    ]
+}

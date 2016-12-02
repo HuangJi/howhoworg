@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "債券",
+            "InvRate": 0.9126232912623291,
+            "SInvRate": 91.26232,
+            "LInvRate": 91.26232
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.08737670873767088,
+            "SInvRate": 8.73767,
+            "LInvRate": 8.73767
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160701",
+            "ExternalName": "10% Brazil 01.01.2017 Senior",
+            "InvRate": 6.30899
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "6.3% Turkey 14.02.2018 Senior",
+            "InvRate": 3.49086
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "9% Turkey 08.03.2017 Senior",
+            "InvRate": 2.91389
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "8.30% TURKGB 20.06.2018",
+            "InvRate": 2.80772
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "5.95% Romania 11.06.2021 Senior",
+            "InvRate": 2.74323
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "10.6% Turkey 11.02.2026 Senior",
+            "InvRate": 2.67252
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "7.25% South Africa 15.01.2020 Senior",
+            "InvRate": 2.64641
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "10.5% South Africa 21.12.2026 Senior",
+            "InvRate": 2.56513
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "2.50% POLGB 25.07.2026",
+            "InvRate": 2.55441
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "7% Indonesia 15.05.2027 Senior",
+            "InvRate": 2.52142
+        }
+    ]
+}

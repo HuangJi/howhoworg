@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9391692,
+            "SInvRate": 93.91692,
+            "LInvRate": 93.91692
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0002284,
+            "SInvRate": 0.02284,
+            "LInvRate": 0.02284
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0295795,
+            "SInvRate": 2.95795,
+            "LInvRate": 2.95795
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0310229,
+            "SInvRate": 3.10229,
+            "LInvRate": 3.10229
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GAZPRU 8.625%",
+            "InvRate": 5.26328
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BNDES 5.75%",
+            "InvRate": 4.19871
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CDEL 4.5%",
+            "InvRate": 3.37426
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHITRA 5.625%",
+            "InvRate": 3.17671
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NGERIA 6.375%",
+            "InvRate": 3.15329
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PERTIJ 5.625%",
+            "InvRate": 2.94337
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TMBTB 5.5%",
+            "InvRate": 2.43324
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FCGNZ 3.6%",
+            "InvRate": 2.38338
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHIOLI 5.95%",
+            "InvRate": 2.37195
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES JPM USD EM BND",
+            "InvRate": 2.36595
+        }
+    ]
+}

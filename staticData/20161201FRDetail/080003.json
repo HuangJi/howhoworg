@@ -1,0 +1,233 @@
+{
+    "Area": "B",
+    "FundId": "080003",
+    "StarRatingFromEst": 4,
+    "Name": "安盛環球基金-泛靈頓歐洲房地產基金A Cap",
+    "NameEng": "AXA WF Frm Europe RealEst Sec A-C EUR",
+    "NameWarning": "",
+    "CPId": "61",
+    "CPName": "安盛環球基金管理公司",
+    "CPNameEng": "AXA Funds Management S.A.",
+    "AgentCPId": "318",
+    "AgentCPName": "國泰證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Cathay Securities Investment Consulting",
+    "RctName": "盧森堡",
+    "Count": 7,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20050816",
+    "CategoryId": "390",
+    "CategoryName": "歐洲房地產 (間接)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金目標在於達成長期資本成長.其典型投資人將透過積極管理的投資組合,其內容包括上市股票,股票相關證券,以及此等證券之衍生性金融商品,尋求以歐元評估之長期資本成長.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": 0.03,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 615761310,
+    "PriceTransDate": "20161130",
+    "Price": 184.94,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.98,
+    "UpDownRate": -0.53,
+    "Rr1w": -3.47737,
+    "Rr1M": -7.50271,
+    "Rr3M": -10.11688,
+    "Rr6M": -7.6802,
+    "RrThisYear": -10.31879,
+    "Rr1Y": -14.09212,
+    "Rr2Y": 13.65234,
+    "Rr3Y": 34.23954,
+    "Rr5Y": 84.34031,
+    "Rr10Y": 41.74349,
+    "RrFromEst": 817.25116,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 1.26,
+    "Beta1Y": 0.92,
+    "Sharpe1Y": -0.88,
+    "StdDev1Y": 15.56,
+    "Alpha3Y": 0.08,
+    "Beta3Y": 1.02,
+    "Sharpe3Y": 0.73,
+    "StdDev3Y": 15.15,
+    "AriMean3Y": 0.913,
+    "Alpha5Y": -0.5,
+    "Beta5Y": 0.97,
+    "Sharpe5Y": 0.94,
+    "StdDev5Y": 13.89,
+    "Alpha10Y": 3.11,
+    "Beta10Y": 0.9,
+    "Sharpe10Y": 0.21,
+    "StdDev10Y": 18.17,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9672574,
+            "SInvRate": 96.72574,
+            "LInvRate": 96.72574
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0175914,
+            "SInvRate": 1.75914,
+            "LInvRate": 1.75914
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0151512,
+            "SInvRate": 1.51512,
+            "LInvRate": 1.51512
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 184.94
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 185.92
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 185.31
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 184.41
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 183.63
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 183.64
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 183.29
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 182.12
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 182.89
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 183.37
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 181.38
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 182.36
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 180.07
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 182.06
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 180.41
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 185.13
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 186.43
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 185.89
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 184.04
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 186.07
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 184.99
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 187.64
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 187.23
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 187.56
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 190.78
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 194.36
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 194.4
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 193.62
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 193.75
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 191.91
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 53.80236
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 42.92338
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "002023",
+    "StarRatingFromEst": 3,
+    "Name": "柏瑞環球基金-柏瑞環球新興市場當地貨幣債券基金 AD",
+    "NameEng": "PineBridge Glbl Emerg Mkt Lcl Ccy Bd AD",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "50",
+    "CPName": "柏瑞投資愛爾蘭有限公司",
+    "CPNameEng": "PineBridge Investments Ireland Ltd",
+    "AgentCPId": "64",
+    "AgentCPName": "柏瑞證券投資信託股份有限公司",
+    "AgentCPNameEng": "PineBridge Investments Mgmt Taiwan Ltd",
+    "RctName": "愛爾蘭",
+    "Count": 83,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20100721",
+    "CategoryId": "681",
+    "CategoryName": "環球新興市場債券(本地貨幣)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "子基金藉由將三分之二以上之子基金總資產,投資於包括但不限於下列地區之主權國家或準主權國家或公司組織發行以當地貨幣計價之固定收益工具:拉丁美洲,歐洲新興市場,亞洲,中東,非洲以及俄羅斯,以達尋求與資本保值相符之優越總報酬率及收益之投資目標.",
+    "Custodian": "道富保管服務(愛爾蘭)有限公司",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160131",
+    "FundSize": 37930000,
+    "PriceTransDate": "20161130",
+    "Price": 7.0684,
+    "PerformanceTransDate": "20161028",
+    "UpDown": 0.044,
+    "UpDownRate": 0.63,
+    "Rr1w": -0.51,
+    "Rr1M": -0.79093,
+    "Rr3M": 0.6756,
+    "Rr6M": 4.4188,
+    "RrThisYear": 16.35483,
+    "Rr1Y": 10.24824,
+    "Rr2Y": -9.55792,
+    "Rr3Y": -14.38233,
+    "Rr5Y": -10.49803,
+    "Rr10Y": null,
+    "RrFromEst": -3.26023,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 2.49,
+    "Beta1Y": 0.73,
+    "Sharpe1Y": 1.01,
+    "StdDev1Y": 10.38,
+    "Alpha3Y": -1.17,
+    "Beta3Y": 0.89,
+    "Sharpe3Y": -0.38,
+    "StdDev3Y": 10.81,
+    "AriMean3Y": -0.331,
+    "Alpha5Y": -0.87,
+    "Beta5Y": 0.93,
+    "Sharpe5Y": -0.13,
+    "StdDev5Y": 11.41,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "58",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "債券",
+            "InvRate": 0.9202516,
+            "SInvRate": 92.02516,
+            "LInvRate": 92.02516
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.0695267,
+            "SInvRate": 6.95267,
+            "LInvRate": 6.95267
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "其他",
+            "InvRate": 0.0102217,
+            "SInvRate": 1.02217,
+            "LInvRate": 1.02217
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 7.0684
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 7.0244
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 7.0434
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 6.9926
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 7.0006
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 7.0067
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 7.0696
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 7.0612
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 7.0208
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 7.0852
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 7.0813
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 7.0791
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 7.0238
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 7.0708
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 7.2244
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 7.4196
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 7.5756
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 7.5417
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 7.5254
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 7.5476
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 7.5371
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 7.5669
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 7.608
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 7.5995
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 7.6589
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 7.685
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 7.685
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 7.647
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 7.6642
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 7.6732
+        }
+    ],
+    "IndustryRatio": []
+}

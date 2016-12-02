@@ -1,0 +1,308 @@
+{
+    "Area": "B",
+    "FundId": "062028",
+    "StarRatingFromEst": 4,
+    "Name": "百達-保安-R 美元",
+    "NameEng": "Pictet-Security R USD",
+    "NameWarning": "",
+    "CPId": "24",
+    "CPName": "百達資產管理",
+    "CPNameEng": "Pictet Asset Management (Europe) SA",
+    "AgentCPId": "321",
+    "AgentCPName": "百達證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Pictet Funds (Taiwan)",
+    "RctName": "盧森堡",
+    "Count": 11,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20061031",
+    "CategoryId": "205",
+    "CategoryName": "環球中小型股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此成分基金採取的資本增長策略,是主要投資於就健全,健康及自由(不論是個人的,公司的或政治上的)提供保障的公司所發行的股份或類似證券.",
+    "Custodian": "百達(歐洲)",
+    "CustodianFee": 0.3,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 2.9,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 1583855059,
+    "PriceTransDate": "20161129",
+    "Price": 173.53,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.14,
+    "UpDownRate": 0.08,
+    "Rr1w": -2.11272,
+    "Rr1M": -5.43883,
+    "Rr3M": -5.21582,
+    "Rr6M": -0.19059,
+    "RrThisYear": -0.38619,
+    "Rr1Y": -1.35845,
+    "Rr2Y": 6.88355,
+    "Rr3Y": 15.83111,
+    "Rr5Y": 52.96511,
+    "Rr10Y": 72.82001,
+    "RrFromEst": 72.82004,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -2.42,
+    "Beta1Y": 1.07,
+    "Sharpe1Y": -0.07,
+    "StdDev1Y": 13.08,
+    "Alpha3Y": 1.49,
+    "Beta3Y": 0.94,
+    "Sharpe3Y": 0.47,
+    "StdDev3Y": 11.61,
+    "AriMean3Y": 0.463,
+    "Alpha5Y": 0.46,
+    "Beta5Y": 0.94,
+    "Sharpe5Y": 0.78,
+    "StdDev5Y": 11.73,
+    "Alpha10Y": 2.05,
+    "Beta10Y": 0.89,
+    "Sharpe10Y": 0.38,
+    "StdDev10Y": 15.9,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9647144035285596,
+            "SInvRate": 96.47145,
+            "LInvRate": 96.47145
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.03490159650984035,
+            "SInvRate": 3.49016,
+            "LInvRate": 3.49016
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.00038399996160000383,
+            "SInvRate": 0.0384,
+            "LInvRate": 0.0384
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 173.53
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 173.39
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 175.04
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 174.25
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 174.5
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 175.25
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 174.05
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 174.81
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 174.01
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 173.41
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 172.16
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 173.37
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 173.5
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 174.39
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 173.46
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 173.21
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 170.47
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 170.71
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 171.05
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 172.82
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 172.13
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 172.21
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 174.23
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 174.15
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 176.55
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 175.34
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 175.58
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 176.33
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 175.95
+        },
+        {
+            "TransDate": "20161017",
+            "Price": 174.85
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 23.7025
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 19.50106
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 10.60845
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 9.80555
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 6.77501
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 5.78689
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 3.94901
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 3.92415
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.15286
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 1.84253
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.764
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 1.68701
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.39979
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 1.08377
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.9232
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 0.79226
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Waste Management",
+            "InvRate": 0.7734
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "029009",
+    "StarRatingFromEst": null,
+    "Name": "聯博-美國收益基金AT股歐元避險",
+    "NameEng": "AB FCP I American Income AT EUR H",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "9",
+    "CPName": "聯博(盧森堡)公司",
+    "CPNameEng": "AllianceBernstein (Luxembourg) S.à r.l.",
+    "AgentCPId": "97",
+    "AgentCPName": "聯博證券投資信託股份有限公司",
+    "AgentCPNameEng": "AllianceBernstein Investments Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 15,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20100910",
+    "CategoryId": "687",
+    "CategoryName": "其他債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的首要投資目標是致力以多元化定息證券組合,提供與保本相符的高流動收入.本基金的次要投資目標為透過增加投資以增加資本,以維持及(如可能)增加各股東投資金額的購買力.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.5,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 9870714370.74,
+    "PriceTransDate": "20161130",
+    "Price": 14.01,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.1,
+    "UpDownRate": -0.71,
+    "Rr1w": -0.4548,
+    "Rr1M": -0.4548,
+    "Rr3M": -0.53543,
+    "Rr6M": 2.69794,
+    "RrThisYear": 7.87223,
+    "Rr1Y": 5.33014,
+    "Rr2Y": 4.3478,
+    "Rr3Y": 9.87179,
+    "Rr5Y": 19.92493,
+    "Rr10Y": null,
+    "RrFromEst": 27.16553,
+    "RatingTransDate": null,
+    "Alpha1Y": 6.00475,
+    "Beta1Y": -0.08836,
+    "Sharpe1Y": 0.41,
+    "StdDev1Y": 11.63,
+    "Alpha3Y": 2.0483,
+    "Beta3Y": 0.09911,
+    "Sharpe3Y": -0.39,
+    "StdDev3Y": 9.55,
+    "AriMean3Y": -0.299,
+    "Alpha5Y": 2.70221,
+    "Beta5Y": 0.10749,
+    "Sharpe5Y": -0.08,
+    "StdDev5Y": 9.99,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "90",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0007812,
+            "SInvRate": 0.07812,
+            "LInvRate": 0.07812
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9817974,
+            "SInvRate": 98.17974,
+            "LInvRate": 98.17974
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0059211,
+            "SInvRate": 0.59211,
+            "LInvRate": 0.59211
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0070716,
+            "SInvRate": 0.70716,
+            "LInvRate": 0.70716
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0044287,
+            "SInvRate": 0.44287,
+            "LInvRate": 0.44287
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 14.01
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 14.11
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 14.05
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 14.03
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 14.03
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 14.05
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 14.03
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 14.02
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 14.06
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 14.07
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 14.05
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 14
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 14.15
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 14.18
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 14.26
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 14.36
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 14.41
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 14.35
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 14.34
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 14.34
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 14.38
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 14.47
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 14.43
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 14.47
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 14.5
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 14.49
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 14.5
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 14.49
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 14.48
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 14.47
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.07812
+        }
+    ]
+}

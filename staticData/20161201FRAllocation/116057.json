@@ -1,0 +1,204 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9915788,
+            "SInvRate": 99.15788,
+            "LInvRate": 99.15788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": -0.0005187,
+            "SInvRate": -0.05187,
+            "LInvRate": -0.05187
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0089399,
+            "SInvRate": 0.89399,
+            "LInvRate": 0.89399
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 19.84835
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 14.6685
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 11.54139
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 10.03939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 8.87319
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.49667
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 3.71985
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.49185
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 3.45546
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.44866
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 2.44403
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.1413
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.99104
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.91871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.59726
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.59547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.11682
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.0101
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.84638
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.66207
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.51961
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.51518
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.12022
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 0.04866
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 0.04772
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRILLIANCE CHINA AUTOMOTIVE HOLDINGS LTD ORD USD.01",
+            "InvRate": 8.39809
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PTT PCL ORD THB10 (FGN)",
+            "InvRate": 6.56875
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "OIL & GAS DEVELOPMENT CO LTD ORD PKR10",
+            "InvRate": 6.54122
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALUMINUM CORP OF CHINA LTD ORD HKD1 CL H",
+            "InvRate": 5.61012
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK RAKYAT INDONESIA PERSERO TBK PT ORD IDR250",
+            "InvRate": 4.50257
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SIAM COMMERCIAL BANK PCL ORD THB10 (FGN)",
+            "InvRate": 4.26469
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK DANAMON INDONESIA TBK PT ORD IDR50000",
+            "InvRate": 3.90106
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTRA INTERNATIONAL TBK PT ORD IDR50",
+            "InvRate": 3.59397
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DAIRY FARM INTERNATIONAL HOLDINGS LTD ORD USD.0555 (SINGAPORE)",
+            "InvRate": 3.49185
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VEDANTA LTD ORD INR1",
+            "InvRate": 3.26307
+        }
+    ]
+}

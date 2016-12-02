@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "076013",
+    "StarRatingFromEst": 4,
+    "Name": "德意志可轉債 LC",
+    "NameEng": "Deutsche Invest I Convertibles LC",
+    "NameWarning": "",
+    "CPId": "120",
+    "CPName": "德意志資產管理公司",
+    "CPNameEng": "Deutsche Asset Management S.A.",
+    "AgentCPId": "83",
+    "AgentCPName": "德銀遠東證券投資信託股份有限公司",
+    "AgentCPNameEng": "Deutsche FE DWS Asset Mgmt Co.,Ltd",
+    "RctName": "盧森堡",
+    "Count": 10,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20040112",
+    "CategoryId": "666",
+    "CategoryName": "環球可換股債券- 歐元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "可轉換債券",
+    "InvestmentStrategy": "德意志DWS Invest可轉債(DWS Invest Convertibles)之投資政策,目標是將以歐元投資的子基金獲取高於平均水準的投資報酬,然而無法保證一定達成投資目標.本子基金的資產,70%以上應投資於各國及國際性發行機構所發行之可轉換債券,權證連動式債券及類似之可轉換金融商品.本子基金的資產,30%以下得投資於固定收益債券及變動收益證券(不包括轉換權利)及股票,認股權證及參與憑證,而股票,認股權證及參與憑證之總比例不得超過10%.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 2374194858,
+    "PriceTransDate": "20161130",
+    "Price": 164.4,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.29,
+    "UpDownRate": 0.18,
+    "Rr1w": -0.16353,
+    "Rr1M": -0.03639,
+    "Rr3M": 0.22497,
+    "Rr6M": 0.25544,
+    "RrThisYear": -3.13785,
+    "Rr1Y": -4.18507,
+    "Rr2Y": 1.65269,
+    "Rr3Y": 6.7202,
+    "Rr5Y": 29.68295,
+    "Rr10Y": 45.73813,
+    "RrFromEst": 64.84001,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.2,
+    "Beta1Y": 0.83,
+    "Sharpe1Y": -0.61,
+    "StdDev1Y": 6.19,
+    "Alpha3Y": -1.3,
+    "Beta3Y": 0.83,
+    "Sharpe3Y": 0.4,
+    "StdDev3Y": 5.9,
+    "AriMean3Y": 0.195,
+    "Alpha5Y": -0.01,
+    "Beta5Y": 0.73,
+    "Sharpe5Y": 0.88,
+    "StdDev5Y": 5.99,
+    "Alpha10Y": 0.3,
+    "Beta10Y": 0.66,
+    "Sharpe10Y": 0.36,
+    "StdDev10Y": 7.88,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.0588352,
+            "SInvRate": 5.88352,
+            "LInvRate": 5.88352
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.906725,
+            "SInvRate": 90.6725,
+            "LInvRate": 90.6725
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0344398,
+            "SInvRate": 3.44398,
+            "LInvRate": 3.44398
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 164.4
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 164.11
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 164.36
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 164.17
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 164.12
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 164.08
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 164.15
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 163.91
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 163.84
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 163.67
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 163.6
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 163.3
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 163.55
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 163.79
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 164.67
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 164.21
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 164.59
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 163.97
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 163.49
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 163.95
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 164.21
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 164.84
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 164.9
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 165.11
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 165.13
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 165.38
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 165.11
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 165.03
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 165.03
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 164.75
+        }
+    ],
+    "IndustryRatio": []
+}

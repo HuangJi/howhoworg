@@ -1,0 +1,231 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9837171016282898,
+            "SInvRate": 98.37172,
+            "LInvRate": 98.37172
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.008565999143400086,
+            "SInvRate": 0.8566,
+            "LInvRate": 0.8566
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.0004505999549400045,
+            "SInvRate": -0.04506,
+            "LInvRate": -0.04506
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.008167499183250082,
+            "SInvRate": 0.81675,
+            "LInvRate": 0.81675
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 10.505
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 9.93769
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 6.38851
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 5.89636
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 5.82079
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 4.96192
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 4.8275
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 4.77461
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.74111
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 4.69799
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 4.31302
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 3.25881
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.08182
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.00779
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 2.93484
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.63875
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 2.576
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.35903
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 2.22186
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Entertainment",
+            "InvRate": 1.75371
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.57745
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 1.32166
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 1.05432
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.84293
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.69412
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.67927
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.67602
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.45224
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.37658
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Samsung Electronics Co Ltd",
+            "InvRate": 7.24777
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SK Hynix Inc",
+            "InvRate": 4.8275
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Korea Electric Power Corp",
+            "InvRate": 4.77461
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KCC Corp",
+            "InvRate": 4.05613
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Hyundai Glovis Co Ltd",
+            "InvRate": 3.30125
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "E-MART Co Ltd",
+            "InvRate": 3.08182
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Korea Investment Holdings Co Ltd",
+            "InvRate": 3.00779
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CJ CheilJedang Corp",
+            "InvRate": 2.99144
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Samsung Biologics Co Ltd",
+            "InvRate": 2.84103
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LG Chem Ltd",
+            "InvRate": 2.83257
+        }
+    ]
+}

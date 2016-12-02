@@ -1,0 +1,92 @@
+[
+    {
+        "Currency": "EUR",
+        "TransDate": "20150803",
+        "Div": 0.0005
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20140801",
+        "Div": 0.0009
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20130801",
+        "Div": 0.0021
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20120801",
+        "Div": 0.0201
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20110801",
+        "Div": 0.0064
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20100802",
+        "Div": 0.006
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20090803",
+        "Div": 0.2688
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20080801",
+        "Div": 0.3355
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20070801",
+        "Div": 0.2354
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20060801",
+        "Div": 0.1449
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20050801",
+        "Div": 0.124
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20040802",
+        "Div": 0.1324
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20030801",
+        "Div": 0.2694
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20020801",
+        "Div": 0.2986
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20010801",
+        "Div": 0.3635
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "20000801",
+        "Div": 0.2329
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "19990802",
+        "Div": 0.2616
+    },
+    {
+        "Currency": "EUR",
+        "TransDate": "19980803",
+        "Div": 0.50191
+    }
+]

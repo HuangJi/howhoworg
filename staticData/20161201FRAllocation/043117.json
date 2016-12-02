@@ -1,0 +1,207 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9980518,
+            "SInvRate": 99.80518,
+            "LInvRate": 99.80518
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0019482,
+            "SInvRate": 0.19482,
+            "LInvRate": 0.19482
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 9.05705
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 8.72939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.94376
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 5.73604
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 5.5214
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 5.23857
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 5.04039
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 5.02771
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.62617
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 4.41071
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 3.9796
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.70994
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.55678
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.36619
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 3.20509
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.70332
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 2.69278
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.23708
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.09427
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 2.07909
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.04721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 1.64434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 1.62555
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 1.46382
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 1.32728
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.27177
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.38413
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TOTAL SA",
+            "InvRate": 8.72939
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "L'OREAL SA ORD",
+            "InvRate": 7.54977
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SANOFI",
+            "InvRate": 5.73604
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHRISTIAN DIOR SE",
+            "InvRate": 5.35918
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AXA SA",
+            "InvRate": 5.02771
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SCHNEIDER ELECTRIC SE",
+            "InvRate": 4.41071
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EIFFAGE SA (FORM FOUGEROLLE)",
+            "InvRate": 4.36978
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SOCIETE GENERALE SA CL A",
+            "InvRate": 4.30265
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNIBAIL-RODAMCO",
+            "InvRate": 3.9796
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LAFARGEHOLCIM LTD (REG)",
+            "InvRate": 3.70994
+        }
+    ]
+}

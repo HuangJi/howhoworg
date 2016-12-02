@@ -1,0 +1,181 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.6226344,
+            "SInvRate": 62.26344,
+            "LInvRate": 62.26344
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.2340051,
+            "SInvRate": 23.40051,
+            "LInvRate": 23.40051
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1093,
+            "SInvRate": 10.93,
+            "LInvRate": 10.93
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0340605,
+            "SInvRate": 3.40605,
+            "LInvRate": 3.40605
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 17.81288
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 10.12584
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.8858
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.51659
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 3.51586
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.05268
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 2.97814
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.29327
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.05626
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 2.01971
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.99046
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 1.27092
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 1.20603
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.19972
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.05811
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.94691
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.82128
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.81523
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 0.69776
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "102年度甲類第 2期中央政府建設公債",
+            "InvRate": 12.33912
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 8.66804
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "101年度甲類第1期中央政府建設公債",
+            "InvRate": 8.59333
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 4.16877
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "樺漢",
+            "InvRate": 3.62849
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "統一",
+            "InvRate": 3.05268
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台塑化",
+            "InvRate": 2.97814
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "葡萄王",
+            "InvRate": 2.48509
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "九十六年度甲類第三期中央政府建設公債",
+            "InvRate": 2.46806
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台耀",
+            "InvRate": 2.40071
+        }
+    ]
+}

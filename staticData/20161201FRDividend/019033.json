@@ -1,0 +1,62 @@
+[
+    {
+        "Currency": "USD",
+        "TransDate": "20151215",
+        "Div": 0.20853
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20141215",
+        "Div": 0.04157
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20131216",
+        "Div": 0.06775
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20121217",
+        "Div": 0.07016
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20111215",
+        "Div": 0.03089
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20101215",
+        "Div": 0.02879
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20091215",
+        "Div": 0.0861
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20081215",
+        "Div": 0.04
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20071115",
+        "Div": 0.03
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20061115",
+        "Div": 0.05
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20051115",
+        "Div": 0.05
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20031117",
+        "Div": 0.05
+    }
+]

@@ -1,0 +1,227 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9707447,
+            "SInvRate": 97.07447,
+            "LInvRate": 97.07447
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.0292553,
+            "SInvRate": 2.92553,
+            "LInvRate": 2.92553
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Banks",
+            "InvRate": 13.65325
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 9.31422
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Online Media",
+            "InvRate": 8.80042
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.73321
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 5.33921
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.68733
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.50248
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.30068
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Drug Manufacturers",
+            "InvRate": 3.25626
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance",
+            "InvRate": 2.68
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 2.59808
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.48138
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Biotechnology",
+            "InvRate": 2.40411
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Asset Management",
+            "InvRate": 2.04236
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Equipment",
+            "InvRate": 2.03355
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Credit Services",
+            "InvRate": 2.02396
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Autos",
+            "InvRate": 2.00002
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Devices",
+            "InvRate": 1.98667
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Communication Services",
+            "InvRate": 1.90805
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.88693
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 1.86511
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Business Services",
+            "InvRate": 1.77755
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.65143
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.63816
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.58162
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Semiconductors",
+            "InvRate": 1.49629
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.37132
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.03607
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.96523
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Application Software",
+            "InvRate": 0.89976
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Insurance - Life",
+            "InvRate": 0.76057
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Amazon.Com Inc.",
+            "InvRate": 6.94155
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Apple Computer Company",
+            "InvRate": 5.33921
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Facebook Inc. – A",
+            "InvRate": 4.68146
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Citigroup Inc.",
+            "InvRate": 4.59069
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Bank of America Corp.",
+            "InvRate": 4.1471
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "JPMorgan Chase & Company",
+            "InvRate": 4.00555
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Lennar Corp.",
+            "InvRate": 3.07051
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "American International Group Inc.",
+            "InvRate": 2.68
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "NVR Inc.",
+            "InvRate": 2.6627
+        },
+        {
+            "TransDate": "20160601",
+            "ExternalName": "Alphabet Inc. – A",
+            "InvRate": 2.64391
+        }
+    ]
+}

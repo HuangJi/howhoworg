@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "Man012",
+    "StarRatingFromEst": 1,
+    "Name": "宏利中國離岸債券證券投資信託基金專戶-A不配息",
+    "NameEng": "Manulife China Offshore Bond A",
+    "NameWarning": "",
+    "CPId": "42",
+    "CPName": "宏利證券投資信託股份有限公司",
+    "CPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "AgentCPId": "42",
+    "AgentCPName": "宏利證券投資信託股份有限公司",
+    "AgentCPNameEng": "Manulife Asset Management(Taiwan) Co Ltd",
+    "RctName": "台灣",
+    "Count": 14,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20111109",
+    "CategoryId": "837",
+    "CategoryName": "人民幣債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於中華民國及外國有價證券,並依下列規範進行投資:(一),本基金投資於中華民國之有價證券為:中華民國境內之政府公債,公司債(含無擔保公司債,次順位公司債),金融債券(含次順位金融債券),承銷中之公司債,債券型證券投資信託基金受益憑證,依金融資產證券化條例公開募集之受益證券或資產基礎證券,經金管會核准於我國境內募集發行之國際金融組織債券,依不動產證券化條例募集之不動產資產信託受益證券.(二),本基金投資於外國有價證券為:1.符合金管會規定之下列信用評等等級,而由外國國家或機構所保證或發行之債券(含政府公債,公司債,金融債券,金融資產證券化之受益證券或資產基礎證券,不動產資產信託受益證券及具有相當於債券性質之有價證券).如因有關法令或相關規定修正信用評等之規定者,從其規定:(1.)經Standard&Poor's Corporation評定,債務發行評等達BBB級(含)以上.(2.)經Moody's Investors Service評定,債務發行評等達Baa2級(含)以上.(3.)經Fitch Ratings Ltd.評定,債務發行評等達BBB級(含)以上.2.於外國證券交易所及其他經金管會核准之外國店頭市場交易以及經金管會核准或申報生效得募集及銷售之債券型(含固定收益型基金)基金受益憑證,基金股份,投資單位(含放空型ETF(Exchange Traded Fund))及追蹤,模擬或複製債券指數表現之ETF(Exchange Traded Fund).",
+    "Custodian": "台新國際商業銀行",
+    "CustodianFee": 0.17,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 30000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 795135486,
+    "PriceTransDate": "20161130",
+    "Price": 10.6627,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0339,
+    "UpDownRate": 0.32,
+    "Rr1w": -0.43515,
+    "Rr1M": -0.44621,
+    "Rr3M": -1.40731,
+    "Rr6M": -1.67954,
+    "RrThisYear": -0.28559,
+    "Rr1Y": -2.35536,
+    "Rr2Y": 0.45211,
+    "Rr3Y": 2.40642,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 7.54017,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.87,
+    "Beta1Y": 1.22,
+    "Sharpe1Y": 2.82,
+    "StdDev1Y": 2.24,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": 0.04,
+    "StdDev3Y": 3.4,
+    "AriMean3Y": 0.165,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "38",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8845757115424289,
+            "SInvRate": 88.45758,
+            "LInvRate": 88.45758
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1282999871700013,
+            "SInvRate": 12.83,
+            "LInvRate": 12.83
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.012875698712430128,
+            "SInvRate": -1.28757,
+            "LInvRate": -1.28757
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.6627
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.6344
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.6005
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.6415
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 10.6404
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.6361
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.6834
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.7053
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.717
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.6984
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.6907
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.7268
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.7623
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 10.7678
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.7062
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.6969
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.7262
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.7369
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.7413
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.7385
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.7675
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.7556
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.7538
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.7605
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.7668
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.7473
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.7761
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.8008
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.778
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.7739
+        }
+    ],
+    "IndustryRatio": []
+}

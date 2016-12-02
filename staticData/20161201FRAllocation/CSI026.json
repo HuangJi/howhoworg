@@ -1,0 +1,134 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9323759,
+            "SInvRate": 93.23759,
+            "LInvRate": 93.23759
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.079,
+            "SInvRate": 7.9,
+            "LInvRate": 7.9
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0113759,
+            "SInvRate": -1.13759,
+            "LInvRate": -1.13759
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 34.7588
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 21.12526
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 9.36113
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 8.61282
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.71761
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.07772
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.50167
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.48804
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.41217
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.46658
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.71579
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 5.2721
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 5.07896
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "奇力新",
+            "InvRate": 4.42229
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "南僑",
+            "InvRate": 4.07772
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "祥碩",
+            "InvRate": 3.53287
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "F-譜瑞",
+            "InvRate": 3.50589
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "文曄",
+            "InvRate": 3.47544
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "智邦",
+            "InvRate": 3.42055
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "萬潤",
+            "InvRate": 3.21119
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "劍麟",
+            "InvRate": 3.21018
+        }
+    ]
+}

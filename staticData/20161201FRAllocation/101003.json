@@ -1,0 +1,207 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9989407,
+            "SInvRate": 99.89407,
+            "LInvRate": 99.89407
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0010593,
+            "SInvRate": 0.10593,
+            "LInvRate": 0.10593
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 11.61904
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 8.75908
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 8.67548
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 8.67123
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 5.24076
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Distribution",
+            "InvRate": 5.18137
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 4.83426
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 4.68904
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 4.27338
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.93319
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 3.75721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 3.41746
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 2.88298
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 2.71909
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.37728
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.20053
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.0487
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.98583
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.84344
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.81451
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 1.68239
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.63638
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.4546
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.33166
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 1.25615
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.04604
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 0.56303
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MOTOROLA SOLUTIONS INC",
+            "InvRate": 5.10319
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JPMORGAN CHASE & CO",
+            "InvRate": 4.83426
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BERKSHIRE HATHAWAY INC-CL B",
+            "InvRate": 4.68904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GOLDMAN SACHS GROUP INC",
+            "InvRate": 4.59338
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INTERCONTINENTAL EXCHANGE IN",
+            "InvRate": 4.28208
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC-CL C",
+            "InvRate": 4.27338
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HCA HOLDINGS INC",
+            "InvRate": 3.75721
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CISCO SYSTEMS INC",
+            "InvRate": 3.65588
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CARDINAL HEALTH INC",
+            "InvRate": 3.55124
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "STANLEY BLACK & DECKER INC",
+            "InvRate": 3.42132
+        }
+    ]
+}

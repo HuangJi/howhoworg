@@ -1,0 +1,257 @@
+{
+    "Area": "B",
+    "FundId": "042168",
+    "StarRatingFromEst": 2,
+    "Name": "貝萊德世界礦業基金 A2 歐元",
+    "NameEng": "BGF World Mining A2",
+    "NameWarning": "",
+    "CPId": "33",
+    "CPName": "貝萊德(盧森堡)公司",
+    "CPNameEng": "BlackRock (Luxembourg) SA",
+    "AgentCPId": "101",
+    "AgentCPName": "貝萊德證券投資信託股份有限公司",
+    "AgentCPNameEng": "BlackRock Investment Mngt (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 25,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "19970324",
+    "CategoryId": "439",
+    "CategoryName": "天然資源股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "世界礦業基金以盡量提高總回報為目標.基金將不少於70%的總資產投資於全球各地主要從事生產基本金屬及工業用礦物(例如鐵礦及煤)的礦業及金屬公司之股本證券.基金亦可持有從事黃金或其他貴金屬或礦業的公司之股本證券.基金不會實際持有黃金或其他金屬.",
+    "Custodian": "紐約梅隆銀行(國際)有限公司",
+    "CustodianFee": 0.441,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": null,
+    "FundSize": null,
+    "PriceTransDate": "20161130",
+    "Price": 29.58,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.06,
+    "UpDownRate": 0.2,
+    "Rr1w": -0.03578,
+    "Rr1M": 0.7573,
+    "Rr3M": -0.5694,
+    "Rr6M": 10.82904,
+    "RrThisYear": 48.06571,
+    "Rr1Y": 28.34175,
+    "Rr2Y": -7.48344,
+    "Rr3Y": -19.64336,
+    "Rr5Y": -43.79402,
+    "Rr10Y": -33.41278,
+    "RrFromEst": null,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -4.73,
+    "Beta1Y": 1.02,
+    "Sharpe1Y": 0.78,
+    "StdDev1Y": 39.36,
+    "Alpha3Y": -2.66,
+    "Beta3Y": 1.05,
+    "Sharpe3Y": -0.31,
+    "StdDev3Y": 31.48,
+    "AriMean3Y": -0.813,
+    "Alpha5Y": -2,
+    "Beta5Y": 1.09,
+    "Sharpe5Y": -0.41,
+    "StdDev5Y": 29.45,
+    "Alpha10Y": -2.73,
+    "Beta10Y": 1.03,
+    "Sharpe10Y": 0,
+    "StdDev10Y": 34.28,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "94",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9290889,
+            "SInvRate": 92.90889,
+            "LInvRate": 92.90889
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.0000026,
+            "SInvRate": 0.00026,
+            "LInvRate": 0.00026
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0579365,
+            "SInvRate": 5.79365,
+            "LInvRate": 5.79365
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0129719,
+            "SInvRate": 1.29719,
+            "LInvRate": 1.29719
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 1e-7,
+            "SInvRate": 0.00001,
+            "LInvRate": 0.00001
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 29.58
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 29.52
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 30.01
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 29.81
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 29.97
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 29.45
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 29.53
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 28.84
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 28.34
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 28.96
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 28.65
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 28.42
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 28.66
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 28.74
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 30.11
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 29.53
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 28.11
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 27.91
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 27.5
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 28.03
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 28.08
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 27.94
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 27.83
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 27.76
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 27.93
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 28.29
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 27.95
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 27.67
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 27.54
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 27.46
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 89.34578
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.46153
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Waste Management",
+            "InvRate": 1.39596
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 0.70561
+        }
+    ]
+}

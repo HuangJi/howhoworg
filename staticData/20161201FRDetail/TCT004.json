@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "TCT004",
+    "StarRatingFromEst": null,
+    "Name": "合庫全球高收益債券證券投資信託基金-A類(累積型)美元",
+    "NameEng": "TCB Global High Yield Bond USD A",
+    "NameWarning": "本基金主要係投資於非等級之高風險債券且基金之配息來源可能為本金",
+    "CPId": "16",
+    "CPName": "合作金庫證券投資信託股份有限公司",
+    "CPNameEng": "Taiwan Cooperative Securities Investment Trust Co., Ltd.",
+    "AgentCPId": "16",
+    "AgentCPName": "合作金庫證券投資信託股份有限公司",
+    "AgentCPNameEng": "Taiwan Cooperative Securities Investment Trust Co., Ltd.",
+    "RctName": "台灣",
+    "Count": 11,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20140917",
+    "CategoryId": "682",
+    "CategoryName": "環球高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於中華民國及外國之有價證券.並依下列規範進行投資:1)中華民國之有價證券為:中華民國境內之政府公債,公司債(含次順位公司債),金融債券(含次順位金融債券),依金融資產證券化條例公開招募之受益證券或資產基礎證券,依不動產證券化條例募集之不動產資產信託受益證券及經金管會核准於國內募集發行之國際金融組織債券.2)外國之有價證券為:在美國,德國,法國,英國,加拿大,義大利,盧森堡,委內瑞拉,巴西,荷蘭,俄羅斯,中國,墨西哥,印度,阿拉伯聯合大公國,西班牙,澳大利亞,紐西蘭,印尼,愛爾蘭,芬蘭,南非,香港,波蘭,希臘,阿根廷,以色列,烏克蘭,葡萄牙,匈牙利,丹麥,日本,捷克共和國,哥倫比亞,瑞典,奧地利,瑞士,比利時,挪威,開曼群島,百慕達,英屬維京群島,澤西島等國家或地區進行交易,並由國家或機構所發行之債券(含政府公債,公司債,金融債券,金融資產證券化之受益證券或資產基礎證券,不動產資產信託受益證券及美國Rule 144A債券等).3)本基金所投資之債券,不含下列標的,如有關法令或相關規定修正者,依修正後之規定:i)本國企業赴海外發行之公司債.ii)以國內有價證券,本國上巿或上櫃公司於海外發行之有價證券,國內證券投資信託事業於海外發行之基金受益憑證,未經金管會核准或申報生效得募集及銷售之境外基金為連結標的之連動型或結構型債券.4)原則上,本基金自成立日起屆滿三個月(含)後,整體債券資產組合之加權平均存續期間應在一年以上(含);且本基金自成立日起屆滿六個月(含)後,投資於(高收益債券)總金額應達本基金淨資產價值之百分之六十(含),其餘資產之運用以貨幣市場工具及投資於符合下列ii)所列信用評等機構評定等級以上之債券為限;且投資所在國或地區之國家主權評等未達ii)所列信用評機構評等等級者,投資該國或地區之政府債券及其他債券總金額,不得超過本基金淨資產價值之百分之三十(含).",
+    "Custodian": "元大商業銀行",
+    "CustodianFee": 0.18,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 300,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 176397112.58,
+    "PriceTransDate": "20161130",
+    "Price": 10.1903,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.0013,
+    "UpDownRate": -0.01,
+    "Rr1w": -0.88707,
+    "Rr1M": -0.1313,
+    "Rr3M": 1.40332,
+    "Rr6M": 3.73704,
+    "RrThisYear": 7.78347,
+    "Rr1Y": 4.93286,
+    "Rr2Y": 2.45968,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 2.68101,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 0.94,
+    "StdDev1Y": 4.98,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.855964,
+            "SInvRate": 85.5964,
+            "LInvRate": 85.5964
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1234,
+            "SInvRate": 12.34,
+            "LInvRate": 12.34
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.020636,
+            "SInvRate": 2.0636,
+            "LInvRate": 2.0636
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.1903
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.1791
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.1804
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.1701
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.1621
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.1604
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.1329
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.1198
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.1311
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.13
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.1264
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.085
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.1796
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.2142
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.2371
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.2383
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.191
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.1984
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.1978
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.2272
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.2681
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.2937
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.3202
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.3439
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.3619
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.36
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.3545
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.3515
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.3403
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 10.3195
+        }
+    ],
+    "IndustryRatio": []
+}

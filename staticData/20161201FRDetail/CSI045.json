@@ -1,0 +1,229 @@
+{
+    "Area": "A",
+    "FundId": "CSI045",
+    "StarRatingFromEst": null,
+    "Name": "國泰中國高收益債券證券投資信託基金A(人民幣)",
+    "NameEng": "Cathay China High Yield Bond A CNH",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券且基金之配息來源可能為本金",
+    "CPId": "10",
+    "CPName": "國泰證券投資信託股份有限公司",
+    "CPNameEng": "Cathay Securities Investment Trust",
+    "AgentCPId": "10",
+    "AgentCPName": "國泰證券投資信託股份有限公司",
+    "AgentCPNameEng": "Cathay Securities Investment Trust",
+    "RctName": "台灣",
+    "Count": 52,
+    "CurrencyCode": "CNY",
+    "InceptionYmdOn": "20150910",
+    "CategoryId": "1012",
+    "CategoryName": "人民幣高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "原則上,本基金自成立日起六個月後,應符合下列投資比例之限制:(投資於下列有價證券之資產總額應達本基金淨資產價值之百分之六十(含):1)以人民幣計價之債券;2)由中國大陸地區,香港或其機構所保證或發行之債券;3)由中國大陸地區,香港以外之國家或機構所保證或發行而於中國大陸地區,香港市場所發行或交易之債券;4)依彭博(Bloomberg)資訊系統顯示(涉險國家)為中國大陸地區或香港之債券.",
+    "Custodian": "上海商業儲蓄銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.6,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 300,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 213220878.8,
+    "PriceTransDate": "20161130",
+    "Price": 2.2017,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.002,
+    "UpDownRate": -0.09,
+    "Rr1w": -0.06425,
+    "Rr1M": 1.12855,
+    "Rr3M": 2.12936,
+    "Rr6M": 6.27135,
+    "RrThisYear": 7.65314,
+    "Rr1Y": 9.55975,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 10.36493,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 3.63,
+    "StdDev1Y": 2.21,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "9",
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0295469,
+            "SInvRate": 2.95469,
+            "LInvRate": 2.95469
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8429691,
+            "SInvRate": 84.29691,
+            "LInvRate": 84.29691
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1096777,
+            "SInvRate": 10.96777,
+            "LInvRate": 10.96777
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0178063,
+            "SInvRate": 1.78063,
+            "LInvRate": 1.78063
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 2.2017
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 2.2003
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 2.2023
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 2.2057
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 2.2053
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 2.2071
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 2.1968
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 2.1935
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 2.1916
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 2.1955
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 2.1925
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 2.1875
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 2.1799
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 2.1793
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 2.1875
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 2.1878
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 2.1809
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 2.1781
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 2.1725
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 2.1719
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 2.1729
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 2.1765
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 2.1775
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 2.1794
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 2.1816
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 2.1796
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 2.1775
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 2.1789
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 2.1694
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 2.1673
+        }
+    ],
+    "IndustryRatio": []
+}

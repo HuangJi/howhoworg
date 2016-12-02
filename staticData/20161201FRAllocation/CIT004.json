@@ -1,0 +1,134 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8906003,
+            "SInvRate": 89.06003,
+            "LInvRate": 89.06003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0672,
+            "SInvRate": 6.72,
+            "LInvRate": 6.72
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0421997,
+            "SInvRate": 4.21997,
+            "LInvRate": 4.21997
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 23.03326
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 20.12937
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 17.65168
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 6.82082
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 4.76792
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.64781
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 3.54891
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.93794
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.50761
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 2.1379
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.87679
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "皇田",
+            "InvRate": 8.46607
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "信驊",
+            "InvRate": 5.43509
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "美律",
+            "InvRate": 5.35081
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "劍麟",
+            "InvRate": 4.92884
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "弘帆",
+            "InvRate": 3.92535
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "東洋",
+            "InvRate": 3.73189
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "億豐",
+            "InvRate": 3.64781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "敦泰",
+            "InvRate": 3.40824
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "江申",
+            "InvRate": 3.16286
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "神達",
+            "InvRate": 2.7934
+        }
+    ]
+}

@@ -64,7 +64,6 @@ function schemaModify(data) {
     salesAgency: modifiedData['銷售機構'],
     linkProduct: modifiedData['基金連結保單'],
   }
-  // storedData.map(x => stringjs(x).collapseWhitespace().s)
   return storedData
 }
 

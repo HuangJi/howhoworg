@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "116095",
+    "StarRatingFromEst": 4,
+    "Name": "富蘭克林坦伯頓全球投資系列-全球債券基金歐元A (Mdis)股",
+    "NameEng": "Templeton Global Bond A Mdis EUR",
+    "NameWarning": "本基金之配息來源可能為本金",
+    "CPId": "30",
+    "CPName": "富蘭克林鄧普頓投資",
+    "CPNameEng": "Franklin Templeton Investment Funds",
+    "AgentCPId": "325",
+    "AgentCPName": "富蘭克林證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Franklin Templeton Invsmts (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 31,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20020909",
+    "CategoryId": "675",
+    "CategoryName": "環球債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的主要投資目標是謀求增加投資回報額,在符合其審慎理財的原則下,尋求利息收入,貨幣收益及資本增值.為達到上述目標,該基金主要以組合形式投資世界各地政府或與政府有關的機構所發行的固定或浮動利率的證券及債務承擔.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.14,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 17226994220.6,
+    "PriceTransDate": "20161130",
+    "Price": 17.37,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.35,
+    "UpDownRate": 2.06,
+    "Rr1w": -1.76367,
+    "Rr1M": 6.55908,
+    "Rr3M": 5.49104,
+    "Rr6M": 6.50743,
+    "RrThisYear": -0.82372,
+    "Rr1Y": -0.7632,
+    "Rr2Y": 5.52974,
+    "Rr3Y": 19.37478,
+    "Rr5Y": 36.94037,
+    "Rr10Y": 106.987556,
+    "RrFromEst": 151.015549,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 1.23,
+    "Beta1Y": -0.49,
+    "Sharpe1Y": -0.19,
+    "StdDev1Y": 8.03,
+    "Alpha3Y": -0.86,
+    "Beta3Y": -0.33,
+    "Sharpe3Y": -0.17,
+    "StdDev3Y": 6.94,
+    "AriMean3Y": -0.086,
+    "Alpha5Y": 0.62,
+    "Beta5Y": 0.34,
+    "Sharpe5Y": 0.21,
+    "StdDev5Y": 7.94,
+    "Alpha10Y": 3.7,
+    "Beta10Y": 0.45,
+    "Sharpe10Y": 0.62,
+    "StdDev10Y": 8.61,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "116",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.7267468273253173,
+            "SInvRate": 72.67469,
+            "LInvRate": 72.67469
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.24537227546277246,
+            "SInvRate": 24.53723,
+            "LInvRate": 24.53723
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.02788089721191028,
+            "SInvRate": 2.78809,
+            "LInvRate": 2.78809
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 17.37
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 17.02
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 17.12
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 17.17
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 17.29
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 17.3
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 17.11
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 17.13
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 17.14
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 17.05
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 16.89
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 16.77
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 16.64
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 16.28
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 16.39
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 16.65
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 16.7
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 16.54
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 16.11
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 16.19
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 16.39
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 16.71
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 16.65
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 16.94
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 16.91
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 17
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 17.01
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 16.88
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 16.81
+        }
+    ],
+    "IndustryRatio": []
+}

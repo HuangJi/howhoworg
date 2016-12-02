@@ -1,0 +1,166 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.6432068,
+            "SInvRate": 64.32068,
+            "LInvRate": 64.32068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.1707756,
+            "SInvRate": 17.07756,
+            "LInvRate": 17.07756
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.181336,
+            "SInvRate": 18.1336,
+            "LInvRate": 18.1336
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0046816,
+            "SInvRate": 0.46816,
+            "LInvRate": 0.46816
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 15.7065
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 15.64578
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 7.50003
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.74017
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 2.88333
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 2.77458
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 2.5802
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 1.99411
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 1.90744
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.66988
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.53867
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.21983
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.70649
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 0.70203
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.67343
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.0782
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "104央債甲10",
+            "InvRate": 9.46975
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 8.96334
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台灣電力股份有限公司102年度第2期無擔保公司債",
+            "InvRate": 7.6536
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台灣中油101年度第2期無擔保普通公司債",
+            "InvRate": 7.60781
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "聯發科",
+            "InvRate": 3.61934
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台化",
+            "InvRate": 3.12117
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鴻海",
+            "InvRate": 3.10075
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "國泰金",
+            "InvRate": 2.88333
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台塑化",
+            "InvRate": 2.5802
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "長華",
+            "InvRate": 2.47366
+        }
+    ]
+}

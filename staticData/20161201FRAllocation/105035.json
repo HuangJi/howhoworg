@@ -1,0 +1,179 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9582627958262796,
+            "SInvRate": 95.82627,
+            "LInvRate": 95.82627
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0402670040267004,
+            "SInvRate": 4.0267,
+            "LInvRate": 4.0267
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0014702001470200147,
+            "SInvRate": 0.14702,
+            "LInvRate": 0.14702
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 10.22058
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 9.66029
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 8.93854
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 8.03147
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 7.6769
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 6.88325
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.18947
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 5.17888
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.36608
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 3.88215
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 3.48715
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 3.34828
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 3.1813
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 2.90494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Publishing",
+            "InvRate": 2.19435
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 2.08093
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 2.0582
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.05477
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 1.9655
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.5232
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NESTLE SA-REG CHF0.1",
+            "InvRate": 5.57812
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAP SE NPV",
+            "InvRate": 5.01668
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMADEUS IT GROUP SA EUR0.01",
+            "InvRate": 4.64361
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DSV A/S DKK1",
+            "InvRate": 4.36608
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WH SMITH PLC GBP0.22",
+            "InvRate": 3.99531
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NOVO NORDISK A/S-B DKK0.2",
+            "InvRate": 3.88215
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GLAXOSMITHKLINE PLC GBP0.25",
+            "InvRate": 3.78653
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "STATOIL ASA NOK2.5",
+            "InvRate": 3.48716
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ING GROEP NV EUR0.01",
+            "InvRate": 3.44072
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JUNGHEINRICH - PRFD EUR 0.0000 PFD",
+            "InvRate": 3.43355
+        }
+    ]
+}

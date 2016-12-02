@@ -1,0 +1,240 @@
+{
+    "Area": "B",
+    "FundId": "008045",
+    "StarRatingFromEst": 3,
+    "Name": "景順環球高收益債券基金A(歐元對沖)股 歐元",
+    "NameEng": "Invesco Global High Income A EUR Hdg",
+    "NameWarning": "",
+    "CPId": "56",
+    "CPName": "インベスコ･グローバル･アセット･マネジメントDAC",
+    "CPNameEng": "Invesco Global Asset Management DAC",
+    "AgentCPId": "99",
+    "AgentCPName": "景順證券投資信託股份有限公司",
+    "AgentCPNameEng": "Invesco Taiwan Limited",
+    "RctName": "愛爾蘭",
+    "Count": 7,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20040730",
+    "CategoryId": "835",
+    "CategoryName": "環球高收益債券 - 歐元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的投資目標,是透過投資於發達及新興國家的各種債務證券而達致長期回報,並同時維持高利息收益.",
+    "Custodian": "紐約梅隆銀行信託公司(愛爾蘭)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 391957535.58,
+    "PriceTransDate": "20161130",
+    "Price": 20.03,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.02,
+    "UpDownRate": -0.1,
+    "Rr1w": -0.43967,
+    "Rr1M": 0.34466,
+    "Rr3M": 2.46355,
+    "Rr6M": 5.21425,
+    "RrThisYear": 9.80603,
+    "Rr1Y": 6.42298,
+    "Rr2Y": 3.82067,
+    "Rr3Y": 9.56988,
+    "Rr5Y": 28.25678,
+    "Rr10Y": 73.29936,
+    "RrFromEst": 106.0668,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 1.45,
+    "Beta1Y": 0.49,
+    "Sharpe1Y": 1.11,
+    "StdDev1Y": 6.02,
+    "Alpha3Y": -0.99,
+    "Beta3Y": 0.37,
+    "Sharpe3Y": 0.58,
+    "StdDev3Y": 5.55,
+    "AriMean3Y": 0.267,
+    "Alpha5Y": 0.54,
+    "Beta5Y": 0.38,
+    "Sharpe5Y": 0.78,
+    "StdDev5Y": 6.51,
+    "Alpha10Y": -0.04,
+    "Beta10Y": 0.6,
+    "Sharpe10Y": 0.44,
+    "StdDev10Y": 10.96,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "92",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9116121,
+            "SInvRate": 91.16121,
+            "LInvRate": 91.16121
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0025254,
+            "SInvRate": 0.25254,
+            "LInvRate": 0.25254
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.072573,
+            "SInvRate": 7.2573,
+            "LInvRate": 7.2573
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0132895,
+            "SInvRate": 1.32895,
+            "LInvRate": 1.32895
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 20.03
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 20.05
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 20.02
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 20.02
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 20.02
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 20.02
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 19.97
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 19.93
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 19.96
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 19.93
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 19.92
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 19.82
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 20.03
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 20.06
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 20.17
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 20.25
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 20.26
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 20.17
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 20.18
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 20.18
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 20.24
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 20.3
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 20.38
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 20.38
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 20.43
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 20.49
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 20.49
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 20.47
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 20.47
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 20.44
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160301",
+            "Name": "Autos",
+            "InvRate": 0.3909
+        },
+        {
+            "TransDate": "20160301",
+            "Name": "Conglomerates",
+            "InvRate": 0.01628
+        }
+    ]
+}

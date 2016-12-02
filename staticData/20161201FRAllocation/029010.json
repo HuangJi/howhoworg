@@ -1,0 +1,98 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0007812,
+            "SInvRate": 0.07812,
+            "LInvRate": 0.07812
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9817974,
+            "SInvRate": 98.17974,
+            "LInvRate": 98.17974
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0059211,
+            "SInvRate": 0.59211,
+            "LInvRate": 0.59211
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0070716,
+            "SInvRate": 0.70716,
+            "LInvRate": 0.70716
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0044287,
+            "SInvRate": 0.44287,
+            "LInvRate": 0.44287
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.07812
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 8.70281
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 4.27297
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Notes",
+            "InvRate": 3.86988
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 3.77761
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 2.80997
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 2.47193
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 2.34926
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Bonds",
+            "InvRate": 2.14554
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "U.S. Treasury Notes",
+            "InvRate": 1.80973
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal National Mortgage Association",
+            "InvRate": 1.68337
+        }
+    ]
+}

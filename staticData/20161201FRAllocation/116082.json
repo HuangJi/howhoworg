@@ -1,0 +1,93 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.3708473,
+            "SInvRate": 37.08473,
+            "LInvRate": 37.08473
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0000391,
+            "SInvRate": 0.00391,
+            "LInvRate": 0.00391
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0027183,
+            "SInvRate": 0.27183,
+            "LInvRate": 0.27183
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.5407948,
+            "SInvRate": 54.07948,
+            "LInvRate": 54.07948
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0856005,
+            "SInvRate": 8.56005,
+            "LInvRate": 8.56005
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20150801",
+            "Name": "Forest Products",
+            "InvRate": 0.00005
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MEXICAN FIXED RATE BONDS 5.00% 06/15/2017",
+            "InvRate": 4.56076
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KOREA TREASURY BOND 2.00% 03/10/2021",
+            "InvRate": 3.91171
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LETRA TESOURO NACIONAL 07/01/2019 STRIP COUPON",
+            "InvRate": 2.90264
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "URUGUAY REPUBLIC OF 4.375% 12/15/2028 INDEX LINKED",
+            "InvRate": 2.16141
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NOTA DO TESOURO NACIONAL NTNF 01/01/2021 STATED RATE 10%",
+            "InvRate": 1.98273
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KOREA MONETARY STAB BOND 1.61% 11/09/2016",
+            "InvRate": 1.97767
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "REPUBLIC OF PORTUGAL 5.125% 10/15/2024 REG S",
+            "InvRate": 1.97581
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INDONESIA GOVERNMENT 8.375% 03/15/2024",
+            "InvRate": 1.84295
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KOREA TREASURY BOND 2.00% 12/10/2017",
+            "InvRate": 1.82192
+        }
+    ]
+}

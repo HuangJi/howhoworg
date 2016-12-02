@@ -1,0 +1,207 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9707766,
+            "SInvRate": 97.07766,
+            "LInvRate": 97.07766
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0292234,
+            "SInvRate": 2.92234,
+            "LInvRate": 2.92234
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 19.31825
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 10.76174
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 10.00834
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.20766
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 8.64245
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 6.45654
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 6.39204
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.34934
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 3.90921
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.37921
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.2944
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.92076
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 1.87704
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.69909
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.66981
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.08271
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.02049
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.99087
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 0.66707
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.55829
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.53932
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.34098
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.29731
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.27057
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.26296
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 0.16122
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HLDGS LIMI HKD0.00002",
+            "InvRate": 9.91203
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PING AN INSURANCE 'H'CNY1",
+            "InvRate": 7.37264
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HLDG SPON ADS EACH REP ONE ORD-ADR",
+            "InvRate": 6.67882
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAL EDUCATION GRP ADS EA REPR 2 CL A ORD SHS",
+            "InvRate": 6.45654
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BAIDU INC ADS EACH REPR 10 ORD CLS'A",
+            "InvRate": 4.44739
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHN INTL HLDGS HKD1",
+            "InvRate": 3.90921
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA O/SEAS LAND HKD0.10",
+            "InvRate": 2.76719
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA RES LAND HKD0.10",
+            "InvRate": 2.58896
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NETEASE INC ADR REP 25 COM USD0.0001",
+            "InvRate": 2.48112
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LIVZON PHARMACEUTI 'H'CNY1",
+            "InvRate": 2.47805
+        }
+    ]
+}

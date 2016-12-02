@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0000088,
+            "SInvRate": 0.00088,
+            "LInvRate": 0.00088
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9312054,
+            "SInvRate": 93.12054,
+            "LInvRate": 93.12054
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0038996,
+            "SInvRate": 0.38996,
+            "LInvRate": 0.38996
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.060476,
+            "SInvRate": 6.0476,
+            "LInvRate": 6.0476
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0044102,
+            "SInvRate": 0.44102,
+            "LInvRate": 0.44102
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.00088
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JPMORGAN LIQUIDITY FUNDS - US DOLLAR LIQUIDITY FUND OPEN-END FUND U",
+            "InvRate": 2.75448
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANK OF 2.6% 01/19",
+            "InvRate": 0.63375
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ANHEUSER-BUSC 3.65% 02/26",
+            "InvRate": 0.57668
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANK OF NOVA 1.7% 06/18",
+            "InvRate": 0.56784
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BARCLAYS PLC VAR 11/25",
+            "InvRate": 0.53422
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GE CAPITAL 2.342% 11/20",
+            "InvRate": 0.49802
+        }
+    ]
+}

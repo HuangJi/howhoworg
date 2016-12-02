@@ -1,0 +1,178 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.5180095,
+            "SInvRate": 51.80095,
+            "LInvRate": 51.80095
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.2540646,
+            "SInvRate": 25.40646,
+            "LInvRate": 25.40646
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0840851,
+            "SInvRate": 8.40851,
+            "LInvRate": 8.40851
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1272,
+            "SInvRate": 12.72,
+            "LInvRate": 12.72
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0166408,
+            "SInvRate": 1.66408,
+            "LInvRate": 1.66408
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 12.18034
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.19982
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.12453
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 4.44318
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 3.8354
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.77468
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 3.59782
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 2.64434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.17381
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.82127
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.62364
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.2242
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.01923
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.94062
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.4967
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.3747
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.32666
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "105年度甲類第4期中央政府建設公債",
+            "InvRate": 21.0739
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "104年度甲類第13期中央政府建設公債",
+            "InvRate": 4.33256
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "華研",
+            "InvRate": 3.8354
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "弘帆",
+            "InvRate": 3.77468
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "隆達二可轉債",
+            "InvRate": 2.90391
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瑞儀一可轉債",
+            "InvRate": 2.83154
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "邦特生技",
+            "InvRate": 2.64797
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "華新科",
+            "InvRate": 2.551
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TPK-KY",
+            "InvRate": 2.3361
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "宏益",
+            "InvRate": 1.96687
+        }
+    ]
+}

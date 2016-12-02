@@ -1,0 +1,308 @@
+{
+    "Area": "A",
+    "FundId": "SIN017",
+    "StarRatingFromEst": 4,
+    "Name": "永豐滬深300紅利指數證券投資信託基金",
+    "NameEng": "SinoPac CSI 300 Dividend Index Fund",
+    "NameWarning": "",
+    "CPId": "67",
+    "CPName": "永豐證券投資信託股份有限公司",
+    "CPNameEng": "SinoPac Securities Inv Trust Co., Ltd",
+    "AgentCPId": "67",
+    "AgentCPName": "永豐證券投資信託股份有限公司",
+    "AgentCPNameEng": "SinoPac Securities Inv Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 581,
+    "CurrencyCode": "TWD",
+    "InceptionYmdOn": "20130822",
+    "CategoryId": "1004",
+    "CategoryName": "中國股票 - A股",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "(一)本基金以追蹤標的指數績效表現為投資目標.本基金採取指數化策略將全部或主要部分資產投資於大陸地區,且自開始追蹤標的指數之日起,投資於大陸地區之總金額不得低於本基金淨資產價值之百分之七十(含).(二)為符合本基金追蹤標的指數績效表現之目標及資金調度之需要,經理公司得運用本基金,從事衍生自股價指數,股票,存託憑證及指數股票型基金(ETF)之期貨,選擇權或期貨選擇權等證券相關商品之交易,以使基金投資標的指數成分證券加計證券相關商品之整體曝險,能貼近基金淨資產規模之百分之百,但須符合金管會之(證券投資信託事業運用證券投資信託基金從事證券相關商品交易應行注意事項)及其他金管會之相關規定,所稱證券相關商品包括但不限於:1.香港交易所之恒生指數期貨,小型恒生指數期貨2.香港交易所H股指數期貨,小型H股指數期貨3.新加坡交易所新華富時中國A50指數期貨4.未來如經金管會許可之證券相關商品(如:中國金融期貨交易所滬深300股指期貨,大陸地區,香港及新加坡等國家或地區發行或交易與大陸地區股價指數,股票及指數股票型基金連動之證券相關商品等),亦將納入本基金得投資之範圍.",
+    "Custodian": "彰化銀行",
+    "CustodianFee": 0.22,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 10000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3623711824,
+    "PriceTransDate": "20161130",
+    "Price": 16.08,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.25,
+    "UpDownRate": 1.56,
+    "Rr1w": -1.43136,
+    "Rr1M": 2.08895,
+    "Rr3M": 1.27005,
+    "Rr6M": 4.0522,
+    "RrThisYear": -8.62485,
+    "Rr1Y": -5.01567,
+    "Rr2Y": 36.48648,
+    "Rr3Y": 48.67519,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 51.50002,
+    "RatingTransDate": "201610",
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 0.27,
+    "StdDev1Y": 21.8,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": 0.57,
+    "StdDev3Y": 28.98,
+    "AriMean3Y": 1.533,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 5,
+    "ProviderId": "61",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.749663,
+            "SInvRate": 74.9663,
+            "LInvRate": 74.9663
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.179,
+            "SInvRate": 17.9,
+            "LInvRate": 17.9
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.071337,
+            "SInvRate": 7.1337,
+            "LInvRate": 7.1337
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 16.08
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 16.27
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 16.02
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 15.92
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 15.73
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 15.7
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 15.61
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 15.5
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 15.34
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 15.4
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 15.34
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 15.41
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 15.47
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 15.44
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 15.35
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 15.18
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 15.25
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 15.2
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 15.18
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 15.22
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 15.11
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 15.23
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 15.15
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 15.18
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 15.18
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 15.22
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 15.32
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 15.37
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 15.05
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 15.02
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 21.1257
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.30406
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 7.23768
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 6.93532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 5.26785
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 4.5212
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 3.76985
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 3.42746
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 3.16446
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.56015
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.36104
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 1.88927
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.49623
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.22858
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 0.98291
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.92744
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 0.76709
+        }
+    ]
+}
