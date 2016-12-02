@@ -1,0 +1,271 @@
+{
+    "Area": "B",
+    "FundId": "090004",
+    "StarRatingFromEst": 2,
+    "Name": "KBI全球水資源基金(美元)",
+    "NameEng": "KBI Instl Water C USD",
+    "NameWarning": "",
+    "CPId": "378",
+    "CPName": "KBI全球投資有限公司",
+    "CPNameEng": "KBI Global Investors Ltd",
+    "AgentCPId": "335",
+    "AgentCPName": "康和証券投資顧問股份有限公司",
+    "AgentCPNameEng": "Concord Capital Management Corp.",
+    "RctName": "愛爾蘭",
+    "Count": 139,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20131025",
+    "CategoryId": "767",
+    "CategoryName": "行業股票 - 水資源",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金投資目標係經由主要投資於涉及水資源產業之國際企業之股票及股票相關有價證券,以創造股東最大報酬.此一目的反映於其對資本利得與收益之追求.為達成投資目標,本基金主要將直接或間接(透過集合投資計劃)投資於全球認可交易所上巿或交易之公司股票及股票相關有價證券(包括,但不限於認股權證,可轉換債券,允許持有人申購該公司發行之額外有價證券之權利(由公司發行),美國存託憑證及全球存託憑證),且由投資經理人認定其營收主要來源及營運偏向水資源產業者.",
+    "Custodian": "北方信託信託服務(愛爾蘭)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 2.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": null,
+    "MinInvestmentUnit": null,
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": null,
+    "SizeTransDate": "20160930",
+    "FundSize": 133430849.36,
+    "PriceTransDate": "20161130",
+    "Price": 9.831,
+    "PerformanceTransDate": "20161028",
+    "UpDown": 0.029,
+    "UpDownRate": 0.3,
+    "Rr1w": -1.60752,
+    "Rr1M": -2.83546,
+    "Rr3M": 0.37129,
+    "Rr6M": 1.18528,
+    "RrThisYear": 11.49043,
+    "Rr1Y": 7.53591,
+    "Rr2Y": -4.20318,
+    "Rr3Y": -2.68002,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": -2.68,
+    "RatingTransDate": "201610",
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 0.46,
+    "StdDev1Y": 17.2,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": -0.03,
+    "StdDev3Y": 14.62,
+    "AriMean3Y": -0.024,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160601",
+            "Name": "股票",
+            "InvRate": 0.9933489,
+            "SInvRate": 99.33489,
+            "LInvRate": 99.33489
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "其他",
+            "InvRate": 0.0066511,
+            "SInvRate": 0.66511,
+            "LInvRate": 0.66511
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.831
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.802
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.882
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.844
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.861
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.891
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.821
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.703
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.736
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.763
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.72
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.673
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.707
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.759
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.678
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.564
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.541
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.452
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.451
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.53
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.624
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.74
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.732
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.759
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.803
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.877
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.904
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.891
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.878
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 9.85
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Products",
+            "InvRate": 35.00635
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Utilities - Regulated",
+            "InvRate": 18.00768
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Engineering & Construction",
+            "InvRate": 9.83014
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Waste Management",
+            "InvRate": 8.53903
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Chemicals",
+            "InvRate": 5.60577
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 5.44852
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Computer Hardware",
+            "InvRate": 4.12303
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Industrial Distribution",
+            "InvRate": 4.11385
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Real Estate",
+            "InvRate": 3.4286
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 3.21898
+        },
+        {
+            "TransDate": "20160601",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.01294
+        }
+    ]
+}

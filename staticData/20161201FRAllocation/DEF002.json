@@ -1,0 +1,117 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9213069,
+            "SInvRate": 92.13069,
+            "LInvRate": 92.13069
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0786931,
+            "SInvRate": 7.86931,
+            "LInvRate": 7.86931
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 29.83298
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 23.14135
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 11.11963
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.95424
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 6.62119
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.14864
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 4.37141
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.68373
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.25754
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 10.7013
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中華電",
+            "InvRate": 7.90173
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台達電",
+            "InvRate": 6.32925
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 5.40607
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "日月光",
+            "InvRate": 5.37747
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "信驊",
+            "InvRate": 5.14864
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "振樺電",
+            "InvRate": 5.03759
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "漢翔",
+            "InvRate": 4.37141
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "劍麟",
+            "InvRate": 3.69701
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "可成",
+            "InvRate": 3.6398
+        }
+    ]
+}

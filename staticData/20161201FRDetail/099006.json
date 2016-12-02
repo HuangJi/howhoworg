@@ -1,0 +1,240 @@
+{
+    "Area": "B",
+    "FundId": "099006",
+    "StarRatingFromEst": 3,
+    "Name": "資本集團全球機會高收益債券基金(盧森堡) T",
+    "NameEng": "Capital Group Glbl Hi Inc Opps(LUX)T",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "63",
+    "CPName": "資本國際管理公司",
+    "CPNameEng": "Capital Group",
+    "AgentCPId": "8",
+    "AgentCPName": "華頓證券投資信託股份有限公司",
+    "AgentCPNameEng": "Paradigm Asset Management Co LLC",
+    "RctName": "盧森堡",
+    "Count": 10,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20090401",
+    "CategoryId": "1007",
+    "CategoryName": "全球債券 - 靈活策略",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "長期以投資於高收益有價證券來取得較高帶總收益,透過主要投資於一般於其他管制市場登記上市或進行交易之公司及新興市場國家帶政府公債,及以各國貨幣或多國貨幣(包括新興市場通貨)持有,以達到能夠獲取最高報酬的目的.亦可購買未上市債券進行投資,但需受到“一般投資規範及限制”相關規範但限制.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.05,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 571169464,
+    "PriceTransDate": "20161130",
+    "Price": 32.15,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.02,
+    "UpDownRate": 0.06,
+    "Rr1w": -1.35426,
+    "Rr1M": 2.72436,
+    "Rr3M": 5.04753,
+    "Rr6M": 11.82833,
+    "RrThisYear": 15.53713,
+    "Rr1Y": 12.33789,
+    "Rr2Y": 17.44228,
+    "Rr3Y": 28.35401,
+    "Rr5Y": 51.53668,
+    "Rr10Y": null,
+    "RrFromEst": 116.407867,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 0.13868,
+    "Beta1Y": 1.06155,
+    "Sharpe1Y": 1.29,
+    "StdDev1Y": 8.52,
+    "Alpha3Y": -2.06664,
+    "Beta3Y": 0.9962,
+    "Sharpe3Y": 0.17,
+    "StdDev3Y": 7.49,
+    "AriMean3Y": 0.118,
+    "Alpha5Y": -1.45208,
+    "Beta5Y": 0.98722,
+    "Sharpe5Y": 0.5,
+    "StdDev5Y": 7.42,
+    "Alpha10Y": 1.38,
+    "Beta10Y": 0.78,
+    "Sharpe10Y": 0.42,
+    "StdDev10Y": 10.18,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0024269997573000243,
+            "SInvRate": 0.2427,
+            "LInvRate": 0.2427
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9318266068173393,
+            "SInvRate": 93.18267,
+            "LInvRate": 93.18267
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.053795094620490536,
+            "SInvRate": 5.37951,
+            "LInvRate": 5.37951
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.01195129880487012,
+            "SInvRate": 1.19513,
+            "LInvRate": 1.19513
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 32.15
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 32.13
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 32.2
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 32.08
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 32.24
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 32.09
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 32.04
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 32.09
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 31.85
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 31.76
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 31.64
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 31.61
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 31.66
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 31.78
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 31.67
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 31.59
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 31.3
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 31.43
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 31.38
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 32.05
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 32.14
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 32.26
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 32.3
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 32.6
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 32.49
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 32.44
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 32.18
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 32.03
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 31.91
+        },
+        {
+            "TransDate": "20161017",
+            "Price": 31.82
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 0.17574
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 0.06696
+        }
+    ]
+}

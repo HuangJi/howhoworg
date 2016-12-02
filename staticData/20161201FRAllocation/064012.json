@@ -1,0 +1,287 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 1.0115174,
+            "SInvRate": 101.15174,
+            "LInvRate": 101.15174
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": -0.0115174,
+            "SInvRate": -1.15174,
+            "LInvRate": -1.15174
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Autos",
+            "InvRate": 12.4648
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Banks",
+            "InvRate": 6.97547
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Computer Hardware",
+            "InvRate": 6.97153
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Services",
+            "InvRate": 6.8054
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.60557
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Industrial Products",
+            "InvRate": 6.57584
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.30387
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Application Software",
+            "InvRate": 4.24108
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Real Estate",
+            "InvRate": 4.23332
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Chemicals",
+            "InvRate": 3.69747
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.82458
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Airlines",
+            "InvRate": 2.68597
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.15302
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Conglomerates",
+            "InvRate": 1.88496
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.84754
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.76285
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Steel",
+            "InvRate": 1.59748
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.56664
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.52992
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance",
+            "InvRate": 1.47196
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Credit Services",
+            "InvRate": 1.38078
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.28145
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Tobacco Products",
+            "InvRate": 1.27759
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Business Services",
+            "InvRate": 1.12439
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Building Materials",
+            "InvRate": 0.98781
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.93513
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.89295
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 0.86355
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Asset Management",
+            "InvRate": 0.75797
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Life",
+            "InvRate": 0.66507
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Semiconductors",
+            "InvRate": 0.60097
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Restaurants",
+            "InvRate": 0.57347
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.5633
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.48692
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Employment Services",
+            "InvRate": 0.46256
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.44385
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Online Media",
+            "InvRate": 0.42277
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.41647
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Forest Products",
+            "InvRate": 0.28371
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 0.21388
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 0.09344
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Metals & Mining",
+            "InvRate": 0.09229
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Entertainment",
+            "InvRate": 0.04806
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160701",
+            "ExternalName": "TOYOTA MOTOR CORP.",
+            "InvRate": 4.95605
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "FUTURE INDICE TOPIX - TOK TOPIX INDX FUTR Sep16",
+            "InvRate": 3.36223
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "ASTELLAS PHARMA INC.",
+            "InvRate": 2.45307
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "NTT DOCOMO INC",
+            "InvRate": 2.06872
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "NIPPON TELEGRAPH &TEL",
+            "InvRate": 2.01905
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "HONDA MOTORS",
+            "InvRate": 1.9377
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "SUMITOMO MITSUI FIN G",
+            "InvRate": 1.69194
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "MITSUBISHI UFJ FIN",
+            "InvRate": 1.62812
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "SONY CORP/TOKIO",
+            "InvRate": 1.56965
+        },
+        {
+            "TransDate": "20160701",
+            "ExternalName": "SHIN-ETSU CHEMICAL",
+            "InvRate": 1.50985
+        }
+    ]
+}

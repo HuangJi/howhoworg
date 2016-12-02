@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.1602568,
+            "SInvRate": 16.02568,
+            "LInvRate": 16.02568
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0294756,
+            "SInvRate": 2.94756,
+            "LInvRate": 2.94756
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.8102676,
+            "SInvRate": 81.02676,
+            "LInvRate": 81.02676
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ERSTE ABWICKLUNGSANSTAL-REG-S ECP 0.00000% 01.08.16-01.11.16",
+            "InvRate": 3.45076
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FRANCE, REPUBLIC OF BTF-REG-S TB 0.00000% 09.03.16-01.03.17",
+            "InvRate": 3.28973
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FRANCE, REPUBLIC OF-BTAN 1.75000% 12-25.02.17",
+            "InvRate": 3.04629
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NETHERLANDS, KINGDOM OF THE TB 0.00000% 08.06.16-30.11.16",
+            "InvRate": 2.61111
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SVENSKA HANDELSBANKEN AB ECP 0.00000% 09.06.16-09.12.16",
+            "InvRate": 2.18892
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF TOKYO-MITSUBISHI LTD ECD 0.00000% 30.08.16-28.02.17",
+            "InvRate": 2.14859
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DZ BANK DT ZENTRAL-GENO-REG-S ECP 0.00000% 31.08.16-30.11.16",
+            "InvRate": 2.14679
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SWEDBANK AB-REG-S ECP 0.00000% 26.05.16-28.11.16",
+            "InvRate": 2.10498
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NORINCHUKIN BANK ECD 0.00000% 13.09.16-13.10.16",
+            "InvRate": 2.10349
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SKANDINAVISKA ENSKILDA-REG-S ECP 0.00000% 24.05.16-24.02.17",
+            "InvRate": 2.02268
+        }
+    ]
+}

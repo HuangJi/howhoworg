@@ -1,0 +1,92 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8892988110701189,
+            "SInvRate": 88.92989,
+            "LInvRate": 88.92989
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.00032249996775000325,
+            "SInvRate": 0.03225,
+            "LInvRate": 0.03225
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0024320997567900244,
+            "SInvRate": 0.24321,
+            "LInvRate": 0.24321
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.07806159219384078,
+            "SInvRate": 7.80616,
+            "LInvRate": 7.80616
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.029884997011500297,
+            "SInvRate": 2.9885,
+            "LInvRate": 2.9885
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SFR GROUP SA 5.375% 05/15/2022 REGS CRPN",
+            "InvRate": 1.6089
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNICREDIT SPA 6.95% 10/31/2022 REG S CRPN",
+            "InvRate": 1.46492
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ENEL SPA 6.625% 09/15/2076 REGS FIXED TO FLOAT CFLT",
+            "InvRate": 1.46149
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CNH INDUSTRIAL FINANCE EUROPE SA 6.25% 03/09/2018 REG S CRPN",
+            "InvRate": 1.45126
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELEFONICA EUROPE BV 5.875% 12/31/2049 PERP REG S PERP",
+            "InvRate": 1.40252
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES EURO HIGH YIELD CORPORATE BOND UCITS ETF ETF EUR NPV ETF",
+            "InvRate": 1.35883
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WMG ACQUISITION CORP 6.25% 01/15/2021 REGS CAB",
+            "InvRate": 1.33948
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JAGUAR LAND ROVER AUTOMOTIVE PLC 5.00% 02/15/2022 REGS CRPN",
+            "InvRate": 1.31737
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNITYMEDIA HESSEN GMBH & CO. KG/UNITYMEDIA NRW G 4.00% 01/15/2025 REG S CRPB",
+            "InvRate": 1.20259
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SEALED AIR CORP 4.50% 09/15/2023 REGS CRPN",
+            "InvRate": 1.13203
+        }
+    ]
+}

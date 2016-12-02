@@ -1,0 +1,153 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.6815875,
+            "SInvRate": 68.15875,
+            "LInvRate": 68.15875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.082606,
+            "SInvRate": 8.2606,
+            "LInvRate": 8.2606
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0527685,
+            "SInvRate": 5.27685,
+            "LInvRate": 5.27685
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1172,
+            "SInvRate": 11.72,
+            "LInvRate": 11.72
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.065838,
+            "SInvRate": 6.5838,
+            "LInvRate": 6.5838
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 23.90831
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 15.20657
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.6887
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 5.92602
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.5261
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.6123
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.18957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.09136
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.77545
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 1.45803
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.41753
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.3588
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 6.46747
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 5.74098
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "永冠二可轉債",
+            "InvRate": 5.27685
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "104年度甲類第13期中央政府建設公債",
+            "InvRate": 5.20786
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "億豐",
+            "InvRate": 4.08552
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "美律",
+            "InvRate": 3.7362
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "劍麟",
+            "InvRate": 3.56913
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鑽全",
+            "InvRate": 3.5261
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "啟碁二可轉債",
+            "InvRate": 3.05275
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "奇力新",
+            "InvRate": 3.00111
+        }
+    ]
+}

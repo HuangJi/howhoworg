@@ -1,0 +1,139 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.893308,
+            "SInvRate": 89.3308,
+            "LInvRate": 89.3308
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0948,
+            "SInvRate": 9.48,
+            "LInvRate": 9.48
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.011892,
+            "SInvRate": 1.1892,
+            "LInvRate": 1.1892
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 23.94571
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 18.34944
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 9.67341
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 7.84466
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 7.22908
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.26757
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.11836
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.73409
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.48032
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.79983
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 1.58556
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.30277
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "葡萄王",
+            "InvRate": 6.44961
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 5.97846
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 5.93996
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "百和",
+            "InvRate": 5.26757
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "邦特生技",
+            "InvRate": 5.05547
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "雙鴻",
+            "InvRate": 4.96186
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "漢翔",
+            "InvRate": 3.73409
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "寶雅",
+            "InvRate": 3.48032
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "矽力-KY",
+            "InvRate": 3.31454
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "樺漢",
+            "InvRate": 3.22434
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9731349,
+            "SInvRate": 97.31349,
+            "LInvRate": 97.31349
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0268651,
+            "SInvRate": 2.68651,
+            "LInvRate": 2.68651
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 12.18158
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 9.63839
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 8.57018
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 7.97068
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 6.92653
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.75885
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 5.19119
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Publishing",
+            "InvRate": 4.91567
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 4.66937
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 4.40537
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 3.58919
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.27509
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 2.74695
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.31096
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 2.10187
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.09555
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.01418
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 2.00629
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.80023
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 1.52433
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.35619
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.2031
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 1.06174
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MASTERCARD INC - A",
+            "InvRate": 5.11695
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RELX NV",
+            "InvRate": 4.91567
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AIA GROUP LTD",
+            "InvRate": 4.66937
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "VISA INC-CLASS A SHARES",
+            "InvRate": 4.52144
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HDFC BANK LIMITED",
+            "InvRate": 4.40537
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ALPHABET INC-CL A",
+            "InvRate": 4.35353
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RECKITT BENCKISER GROUP PLC",
+            "InvRate": 4.17036
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BRITISH AMERICAN TOBACCO PLC",
+            "InvRate": 4.08931
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNILEVER NV-CVA",
+            "InvRate": 4.08585
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "S&P GLOBAL INC",
+            "InvRate": 3.46257
+        }
+    ]
+}

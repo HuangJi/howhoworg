@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9200757079924292,
+            "SInvRate": 92.00758,
+            "LInvRate": 92.00758
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.013214798678520132,
+            "SInvRate": 1.32148,
+            "LInvRate": 1.32148
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.04353979564602044,
+            "SInvRate": 4.35398,
+            "LInvRate": 4.35398
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.023169697683030233,
+            "SInvRate": 2.31697,
+            "LInvRate": 2.31697
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNITYMEDIA KABELBW GMBH SECURED REGS 01/27 3.75",
+            "InvRate": 1.99377
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELECOM ITALIA SPA SR UNSECURED REGS 01/23 3.25",
+            "InvRate": 1.85851
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INTERNATIONAL GAME TECHNOLOGY SR SECURED REGS 02/23 4.75",
+            "InvRate": 1.83306
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SOLVAY FINANCE SA 12/49 5.118",
+            "InvRate": 1.81112
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALTICE FINANCING SA SR SECURED REGS 01/22 6.5",
+            "InvRate": 1.74757
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CASINO GUICHARD PERRACHON SA SR UNSECURED REGS 08/26 4.048",
+            "InvRate": 1.73085
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COTT CORP COMPANY GUAR REGS 07/24 5.5",
+            "InvRate": 1.72845
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SCHAEFFLER FINANCE BV SR SECURED REGS 05/21 4.75",
+            "InvRate": 1.72492
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SMURFIT KAPPA ACQUISITIONS COMPANY GUAR REGS 06/21 3.25",
+            "InvRate": 1.70672
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TESCO PLC SR UNSECURED 12/29 6",
+            "InvRate": 1.67901
+        }
+    ]
+}

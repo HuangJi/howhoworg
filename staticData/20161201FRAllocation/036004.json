@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.8640081,
+            "SInvRate": 86.40081,
+            "LInvRate": 86.40081
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.135451,
+            "SInvRate": 13.5451,
+            "LInvRate": 13.5451
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0005409,
+            "SInvRate": 0.05409,
+            "LInvRate": 0.05409
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FRANCE(GOVT OF) 0.50% OAT 25MAY2026",
+            "InvRate": 5.2958
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "U S TREASURY NOTES 1.625% NOTES 15MAY2026",
+            "InvRate": 4.92494
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GERMANY(FEDERAL REPUBLIC) 0.50% BONDS 15FEB2025",
+            "InvRate": 4.58802
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "U S TREASURY BONDS 3.00% BONDS 15NOV2045",
+            "InvRate": 4.37668
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITALY(REPUBLIC OF) 0.45% BTP 01JUN2021",
+            "InvRate": 4.35623
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN 1.70% BONDS 20DEC2031(NO.132)",
+            "InvRate": 4.31113
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN 0.80% BONDS 20DEC2022 (NO.327)",
+            "InvRate": 3.69575
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GERMANY(FEDERAL REPUBLIC) 0.25% BONDS 11OCT2019 SR 170",
+            "InvRate": 3.35744
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SPAIN(KINGDOM OF) 1.60% BONDS 30APR2025",
+            "InvRate": 3.08719
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN 0.60% BONDS 20SEP2023 (NO.331)",
+            "InvRate": 2.99727
+        }
+    ]
+}

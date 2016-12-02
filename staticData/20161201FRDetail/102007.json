@@ -1,0 +1,241 @@
+{
+    "Area": "B",
+    "FundId": "102007",
+    "StarRatingFromEst": 1,
+    "Name": "瑞士寶盛股票基金系列-精品基金(歐元)",
+    "NameEng": "JB EF Luxury Brands-EUR E",
+    "NameWarning": "",
+    "CPId": "54",
+    "CPName": "瑞士及環球資產管理(盧森堡)公司",
+    "CPNameEng": "GAM (Luxembourg) SA",
+    "AgentCPId": "335",
+    "AgentCPName": "康和証券投資顧問股份有限公司",
+    "AgentCPNameEng": "Concord Capital Management Corp.",
+    "RctName": "盧森堡",
+    "Count": 13,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20080131",
+    "CategoryId": "182",
+    "CategoryName": "消費品及服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金之投資目標,即以至少三分之二的基金資產,投資於精選之股份以及其他公司股票組合,藉此實現長期資本增長,投資標的公司必須擁有已建立之品牌並在精品貨物部門提供商品和服務,或其公司主要業務係擁有此種公司之股權或對此種公司挹注資金,且投資標的公司之登記事務所所在地或其主要部分業務活動係位於經認可之國家.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.6,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 202408509,
+    "PriceTransDate": "20161129",
+    "Price": 199.13,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 1.15,
+    "UpDownRate": 0.58,
+    "Rr1w": -1.54475,
+    "Rr1M": 1.08462,
+    "Rr3M": 0.37084,
+    "Rr6M": 3.82554,
+    "RrThisYear": -2.3573,
+    "Rr1Y": -8.30278,
+    "Rr2Y": 3.51549,
+    "Rr3Y": 2.06105,
+    "Rr5Y": 34.74734,
+    "Rr10Y": null,
+    "RrFromEst": 97.57997,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -10.56,
+    "Beta1Y": 1.16,
+    "Sharpe1Y": -0.79,
+    "StdDev1Y": 11.46,
+    "Alpha3Y": -15.4,
+    "Beta3Y": 1.57,
+    "Sharpe3Y": -0.43,
+    "StdDev3Y": 13.31,
+    "AriMean3Y": -0.467,
+    "Alpha5Y": -5.96,
+    "Beta5Y": 1.47,
+    "Sharpe5Y": 0.14,
+    "StdDev5Y": 14.61,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9968706,
+            "SInvRate": 99.68706,
+            "LInvRate": 99.68706
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0031294,
+            "SInvRate": 0.31294,
+            "LInvRate": 0.31294
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 199.13
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 197.98
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 198.81
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 198.08
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 197.91
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 197.87
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 197.87
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 197.31
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 197.56
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 195.04
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 196.09
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 195.06
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 195.43
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 194.87
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 196.44
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 196.16
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 195.44
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 191.99
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 191.74
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 193.19
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 197.58
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 199.18
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 198.87
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 198.89
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 198.94
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 200.68
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 200.69
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 201.21
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 200.99
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 199.1
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 35.22287
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 28.67712
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 17.41717
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 15.97861
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 2.39128
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9862357,
+            "SInvRate": 98.62357,
+            "LInvRate": 98.62357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.001264,
+            "SInvRate": 0.1264,
+            "LInvRate": 0.1264
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.002048,
+            "SInvRate": 0.2048,
+            "LInvRate": 0.2048
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0104281,
+            "SInvRate": 1.04281,
+            "LInvRate": 1.04281
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0000242,
+            "SInvRate": 0.00242,
+            "LInvRate": 0.00242
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160401",
+            "Name": "Banks",
+            "InvRate": 0.05787
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN BOND 0.1% 12/19",
+            "InvRate": 4.03496
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN BOND 0.2% 09/18",
+            "InvRate": 3.23177
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITED 1.75% 12/20",
+            "InvRate": 2.74474
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITED 0.875% 05/18",
+            "InvRate": 2.62905
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN BOND 1% 12/35",
+            "InvRate": 2.56452
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FEDERAL 0.1% 04/23",
+            "InvRate": 1.96419
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN BOND 0.1% 03/26",
+            "InvRate": 1.85898
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITED 1.625% 04/23",
+            "InvRate": 1.77235
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITED STATES 2.5% 02/46",
+            "InvRate": 1.63298
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JAPAN BOND 0.1% 03/26",
+            "InvRate": 1.42422
+        }
+    ]
+}

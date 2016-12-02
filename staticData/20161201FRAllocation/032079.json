@@ -1,0 +1,102 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9890007,
+            "SInvRate": 98.90007,
+            "LInvRate": 98.90007
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0109993,
+            "SInvRate": 1.09993,
+            "LInvRate": 1.09993
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 40.1773
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 34.18801
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 11.94583
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 6.71049
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 5.5802
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 0.29825
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHEVRON CORP",
+            "InvRate": 9.02957
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SCHLUMBERGER LTD",
+            "InvRate": 6.27827
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EXXON MOBIL CORP",
+            "InvRate": 5.77379
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BP PLC",
+            "InvRate": 5.37358
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ROYAL DUTCH SHELL PLC A SHS",
+            "InvRate": 4.88003
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CONOCOPHILLIPS",
+            "InvRate": 4.37185
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SUNCOR ENERGY INC",
+            "InvRate": 4.20147
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EOG RESOURCES INC",
+            "InvRate": 3.94933
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HALLIBURTON CO",
+            "InvRate": 3.8457
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TOTAL SA",
+            "InvRate": 3.77248
+        }
+    ]
+}

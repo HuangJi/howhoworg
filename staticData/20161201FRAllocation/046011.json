@@ -1,0 +1,96 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9420965,
+            "SInvRate": 94.20965,
+            "LInvRate": 94.20965
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0087894,
+            "SInvRate": 0.87894,
+            "LInvRate": 0.87894
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0133068,
+            "SInvRate": 1.33068,
+            "LInvRate": 1.33068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0358073,
+            "SInvRate": 3.58073,
+            "LInvRate": 3.58073
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 0.00845
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Business Services",
+            "InvRate": 0.00003
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELECOM ITALIA SPA/MILANO 144A 5.303 MAY 30 24",
+            "InvRate": 0.79379
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EL PASO CORP 7.75 JAN 15 32",
+            "InvRate": 0.72281
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF AMERICA CORP (6.10% NC10) FRB DEC 29 49",
+            "InvRate": 0.63328
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROYAL BANK OF SCOTLAND GROUP PLC REGS FRB MAR 25 24",
+            "InvRate": 0.53749
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MTS INTL FDG LTD (MOBILE TELESYSTEMS) 5.000 MAY 30 23",
+            "InvRate": 0.52939
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRUPO POSADAS S.A.B. REGS 7.875 JUN 30 22",
+            "InvRate": 0.52272
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALTICE FINANCING SA 144A 6.625 FEB 15 23",
+            "InvRate": 0.52177
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRUPO CEMENTOS (CHIHUAHUA) REGS 8.125 FEB 08 20",
+            "InvRate": 0.51711
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BPCE SA 144A VRB SEP 30 59",
+            "InvRate": 0.5116
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INTESA SANPAOLO SPA REGS 2.855 APR 23 25",
+            "InvRate": 0.49609
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9856277014372299,
+            "SInvRate": 98.56278,
+            "LInvRate": 98.56278
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.012589598741040126,
+            "SInvRate": 1.25896,
+            "LInvRate": 1.25896
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0017826998217300178,
+            "SInvRate": 0.17827,
+            "LInvRate": 0.17827
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 27.85803
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 6.66939
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 5.96882
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 5.65457
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 5.62514
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.22291
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 5.20478
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 3.6201
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 3.09626
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 3.06121
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 2.83411
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.6177
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 2.37914
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 2.29093
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Airlines",
+            "InvRate": 2.12946
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 2.11879
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 1.84554
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.57031
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.55445
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 1.40371
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 1.0976
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.06466
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.05685
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 0.63132
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.48776
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "REITs",
+            "InvRate": 0.48415
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 0.39817
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 0.39733
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 0.21
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.00369
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 0.00279
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.00167
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.00144
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANCO BRADESCO SA ADR USD 0",
+            "InvRate": 7.84393
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITAU UNIBANCO HOLDING SA PREFERENCE BRL 0",
+            "InvRate": 7.6719
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PETROLEO BRASILEIRO SA ADR USD",
+            "InvRate": 5.20478
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RAIA DROGASIL SA COMMON STOCK BRL 0",
+            "InvRate": 4.10399
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FOMENTO ECONOMICO MEXICANO SAB DE CV ADR USD",
+            "InvRate": 3.71464
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CREDICORP LTD COMMON STOCK USD 5",
+            "InvRate": 3.38863
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITAUSA - INVESTIMENTOS ITAU SA PREFERENCE BRL 0",
+            "InvRate": 3.1681
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LOJAS RENNER SA COMMON STOCK BRL 0",
+            "InvRate": 2.68339
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GRUPO FINANCIERO BANORTE SAB DE CV COMMON STOCK MXN 3.5",
+            "InvRate": 2.55274
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "WAL-MART DE MEXICO SAB DE CV COMMON STOCK MXN 0",
+            "InvRate": 2.5502
+        }
+    ]
+}

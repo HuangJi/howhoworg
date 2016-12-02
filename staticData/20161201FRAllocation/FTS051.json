@@ -1,0 +1,194 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9059503,
+            "SInvRate": 90.59503,
+            "LInvRate": 90.59503
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1,
+            "SInvRate": 10,
+            "LInvRate": 10
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0059503,
+            "SInvRate": -0.59503,
+            "LInvRate": -0.59503
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 15.93942
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 7.83172
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 7.77937
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 6.24384
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 5.51712
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 5.35547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 5.28819
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 4.16737
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 3.85398
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 3.77452
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 3.63468
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.40151
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 2.03547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 1.93417
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.90478
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.86336
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.84708
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 1.66516
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.58721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 1.43529
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.43268
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.31573
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.7869
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NVIDIA CORP",
+            "InvRate": 4.55231
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EDWARDS LIFE",
+            "InvRate": 2.18043
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "O'REILLY AUTOMOT",
+            "InvRate": 2.17115
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MICROSOFT CORP",
+            "InvRate": 2.12601
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NEXTERA ENERGY",
+            "InvRate": 2.09939
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "DUKE ENERGY CORP",
+            "InvRate": 2.06799
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MEDTRONIC PLC",
+            "InvRate": 2.05691
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ACTIVISION BLIZZ",
+            "InvRate": 2.04388
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BROADCOM LTD",
+            "InvRate": 2.03766
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRON",
+            "InvRate": 2.03547
+        }
+    ]
+}

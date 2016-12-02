@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "047006",
+    "StarRatingFromEst": 3,
+    "Name": "首域環球傘型基金-首域亞洲優質債券基金",
+    "NameEng": "First State Asian Quality Bond I",
+    "NameWarning": "",
+    "CPId": "78",
+    "CPName": "首域投資(香港)有限公司",
+    "CPNameEng": "First State Investments (Hong Kong) Ltd",
+    "AgentCPId": "318",
+    "AgentCPName": "國泰證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Cathay Securities Investment Consulting",
+    "RctName": "愛爾蘭",
+    "Count": 184,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20030714",
+    "CategoryId": "211",
+    "CategoryName": "亞洲債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "透過主要由亞洲政府及企業發行的投資級別定息債券及類似可轉讓票據組成的多元化投資組合,以達致長線回報.",
+    "Custodian": "匯豐機構信託服務(愛爾蘭)",
+    "CustodianFee": 0.04,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 701626328,
+    "PriceTransDate": "20161130",
+    "Price": 15.73,
+    "PerformanceTransDate": "20161028",
+    "UpDown": 0.02,
+    "UpDownRate": 0.13,
+    "Rr1w": -0.12315,
+    "Rr1M": -0.91631,
+    "Rr3M": 0,
+    "Rr6M": 3.24634,
+    "RrThisYear": 6.92156,
+    "Rr1Y": 6.01307,
+    "Rr2Y": 8.20547,
+    "Rr3Y": 13.74476,
+    "Rr5Y": 21.68044,
+    "Rr10Y": 45.60148,
+    "RrFromEst": 62.2001,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.72,
+    "Beta1Y": 0.82,
+    "Sharpe1Y": 2.11,
+    "StdDev1Y": 2.82,
+    "Alpha3Y": -0.72,
+    "Beta3Y": 0.76,
+    "Sharpe3Y": 1.53,
+    "StdDev3Y": 2.81,
+    "AriMean3Y": 0.367,
+    "Alpha5Y": 0.09,
+    "Beta5Y": 0.76,
+    "Sharpe5Y": 1.1,
+    "StdDev5Y": 3.53,
+    "Alpha10Y": -1.6,
+    "Beta10Y": 0.74,
+    "Sharpe10Y": 0.46,
+    "StdDev10Y": 6.96,
+    "RiskRatingFromEst": 2,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.9783374,
+            "SInvRate": 97.83374,
+            "LInvRate": 97.83374
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": -0.0018236,
+            "SInvRate": -0.18236,
+            "LInvRate": -0.18236
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0234862,
+            "SInvRate": 2.34862,
+            "LInvRate": 2.34862
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 15.73
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 15.71
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 15.7
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 15.69
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 15.69
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 15.72
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 15.71
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 15.75
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 15.76
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 15.79
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 15.77
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 15.85
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 15.84
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 15.91
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 16.01
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 16.16
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 16.19
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 16.17
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 16.22
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 16.22
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 16.24
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 16.24
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 16.23
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 16.24
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 16.23
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 16.22
+        }
+    ],
+    "IndustryRatio": []
+}

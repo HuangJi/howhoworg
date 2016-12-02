@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "029029",
+    "StarRatingFromEst": null,
+    "Name": "聯博-歐洲收益基金AA(穩定月配)美元避險級別",
+    "NameEng": "AB FCP I European Income AA USD H Inc",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "9",
+    "CPName": "聯博(盧森堡)公司",
+    "CPNameEng": "AllianceBernstein (Luxembourg) S.à r.l.",
+    "AgentCPId": "97",
+    "AgentCPName": "聯博證券投資信託股份有限公司",
+    "AgentCPNameEng": "AllianceBernstein Investments Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 41,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20140114",
+    "CategoryId": "687",
+    "CategoryName": "其他債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的投資目標是透過盡量提高當前收入以達致高的總回報,並實現與該目標一致的資本增值.投資管理人有意利用市場發展,孳息差距及發行人的信用變動管理本基金,從而盡量提高當前收入.本基金透過主要投資於歐洲公司及政府的固定收益證券以達致此目標.無論何時,投資管理人均會將基金總資產的三分之二(2/3)投資於該等證券,而最多會將基金總資產的三分之一(1/3)投資於非歐洲發行人以歐元或歐洲貨幣計價的固定收益證券.投資管理人亦預期,本基金約65%的總資產將投資於投資級別固定收益證券,本基金約35%的總資產投資於評級低於投資級別的證券.然而,倘投資管理人認為該等投資就當前市況而言乃屬適當,則本基金最多可投資總資產的50%於投資級別以下的固定收益證券.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": null,
+    "MinInvestmentUnit": null,
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": null,
+    "SizeTransDate": "20161031",
+    "FundSize": 2383317353.85,
+    "PriceTransDate": "20161130",
+    "Price": 13.87,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.08,
+    "UpDownRate": -0.57,
+    "Rr1w": -0.55851,
+    "Rr1M": -0.48878,
+    "Rr3M": 0.13806,
+    "Rr6M": 3.22633,
+    "RrThisYear": 5.89984,
+    "Rr1Y": 5.03156,
+    "Rr2Y": 7.8702,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 11.68062,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 1.31,
+    "StdDev1Y": 3.59,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "90",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0024954,
+            "SInvRate": 0.24954,
+            "LInvRate": 0.24954
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9691909,
+            "SInvRate": 96.91909,
+            "LInvRate": 96.91909
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0022184,
+            "SInvRate": 0.22184,
+            "LInvRate": 0.22184
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0120494,
+            "SInvRate": 1.20494,
+            "LInvRate": 1.20494
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0140459,
+            "SInvRate": 1.40459,
+            "LInvRate": 1.40459
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 13.87
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 13.95
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 13.94
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 13.93
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 13.91
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 13.94
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 13.9
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 13.91
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 13.91
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 13.92
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 13.94
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 13.88
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 13.94
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 13.99
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 14.05
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 14.08
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 14.08
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 14.07
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 14.07
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 14.09
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 14.11
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 14.19
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 14.2
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 14.24
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 14.28
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 14.27
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 14.27
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 14.26
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 14.23
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 14.23
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.24954
+        }
+    ]
+}

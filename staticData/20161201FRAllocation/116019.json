@@ -1,0 +1,149 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9424850942485095,
+            "SInvRate": 94.2485,
+            "LInvRate": 94.2485
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.048790604879060485,
+            "SInvRate": 4.87906,
+            "LInvRate": 4.87906
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.008724300872430087,
+            "SInvRate": 0.87243,
+            "LInvRate": 0.87243
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 27.54059
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 21.37116
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.66156
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 8.66082
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 6.21954
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 5.76075
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 4.31463
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 3.35861
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 1.84035
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 1.73575
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.25159
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.13203
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.73921
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.66192
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FACEBOOK INC COM USD NPV CL A",
+            "InvRate": 3.91266
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMAZON.COM INC COM USD.01",
+            "InvRate": 3.35604
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NXP SEMICONDUCTORS NV ORD USD NPV",
+            "InvRate": 3.02896
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TEXAS INSTRUMENTS INC COM USD1",
+            "InvRate": 2.94075
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MICROSOFT CORP COM USD0.0001",
+            "InvRate": 2.90833
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HOLDING LTD SPONSORED ADR",
+            "InvRate": 2.8635
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PALO ALTO NETWORKS INC COM USD.0001",
+            "InvRate": 2.83644
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC COM USD.001 CL C",
+            "InvRate": 2.71086
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SALESFORCE.COM INC COM USD.001",
+            "InvRate": 2.62878
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FIDELITY NATIONAL INFORMATION SERVICES INC COM USD.01",
+            "InvRate": 2.61431
+        }
+    ]
+}

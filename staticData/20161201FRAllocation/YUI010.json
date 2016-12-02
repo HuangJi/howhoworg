@@ -1,0 +1,145 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0005128,
+            "SInvRate": 0.05128,
+            "LInvRate": 0.05128
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.811897,
+            "SInvRate": 81.1897,
+            "LInvRate": 81.1897
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0003941,
+            "SInvRate": 0.03941,
+            "LInvRate": 0.03941
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.000499,
+            "SInvRate": 0.0499,
+            "LInvRate": 0.0499
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.235547,
+            "SInvRate": 23.5547,
+            "LInvRate": 23.5547
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0488499,
+            "SInvRate": -4.88499,
+            "LInvRate": -4.88499
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20141101",
+            "Name": "Communication Services",
+            "InvRate": 0.0087
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Banks",
+            "InvRate": 0.00532
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Conglomerates",
+            "InvRate": 0.00295
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Asset Management",
+            "InvRate": 0.00274
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Autos",
+            "InvRate": 0.00264
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.00214
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Real Estate",
+            "InvRate": 0.00143
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Insurance",
+            "InvRate": 0.0014
+        },
+        {
+            "TransDate": "20141101",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.0001
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES TIPS BOND ETF",
+            "InvRate": 15.33701
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SCHWAB U.S. TIPS ETF",
+            "InvRate": 10.10437
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES JPM USD EM BND",
+            "InvRate": 7.94956
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "宏利環球基金-美國債券基金AA股",
+            "InvRate": 7.82031
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MFS全盛基金系列-MFS全盛新興市場債券基金 A1(美元)",
+            "InvRate": 7.00047
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "施羅德環球基金系列 - 環球企業債券 A1 類股份 - 累積單位(美元)",
+            "InvRate": 6.22366
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES FRN RATE BOND E",
+            "InvRate": 5.33415
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "摩根基金 - 環球企業債券基金 - JPM環球企業債券(美元) - A股(累計)",
+            "InvRate": 5.15596
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-新興市場債券基金(美元累積)",
+            "InvRate": 5.02625
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ISHARES CORE EURO CORP BOND",
+            "InvRate": 3.43939
+        }
+    ]
+}

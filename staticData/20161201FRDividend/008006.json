@@ -1,0 +1,522 @@
+[
+    {
+        "Currency": "GBP",
+        "TransDate": "20160901",
+        "Div": 0.0058
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20160601",
+        "Div": 0.006
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20160301",
+        "Div": 0.006
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20151201",
+        "Div": 0.0068
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20150901",
+        "Div": 0.007
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20150601",
+        "Div": 0.0068
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20150302",
+        "Div": 0.0075
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20141201",
+        "Div": 0.0074
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20140901",
+        "Div": 0.0072
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20140602",
+        "Div": 0.0071
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20140303",
+        "Div": 0.0066
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20131202",
+        "Div": 0.0062
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20130902",
+        "Div": 0.006
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20130603",
+        "Div": 0.0057
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20130301",
+        "Div": 0.0068
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20121203",
+        "Div": 0.0071
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20120903",
+        "Div": 0.0072
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20120601",
+        "Div": 0.0076
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20120301",
+        "Div": 0.0072
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20111201",
+        "Div": 0.0078
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20110901",
+        "Div": 0.0085
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20110601",
+        "Div": 0.0082
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20110301",
+        "Div": 0.0078
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20101201",
+        "Div": 0.008
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20100901",
+        "Div": 0.0074
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20100601",
+        "Div": 0.0086
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20100301",
+        "Div": 0.0096
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20091201",
+        "Div": 0.0084
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20090901",
+        "Div": 0.0085
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20090602",
+        "Div": 0.008
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20090302",
+        "Div": 0.01
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20081201",
+        "Div": 0.01
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20080901",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20080602",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20080303",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20071203",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20070903",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20070601",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20070301",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20061201",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20060901",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20060601",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20060301",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20051201",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20050901",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20050601",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20050301",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20041201",
+        "Div": 0.012
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20040901",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20040601",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20040303",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20031201",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20030901",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20030602",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20030303",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20021202",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20020902",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20020603",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20020301",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20011203",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20010903",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20010601",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20010301",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20001201",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20000901",
+        "Div": 0.015
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20000602",
+        "Div": 0.016
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "20000301",
+        "Div": 0.016
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19991201",
+        "Div": 0.017
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19990901",
+        "Div": 0.017
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19990602",
+        "Div": 0.017
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19990301",
+        "Div": 0.018
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19981201",
+        "Div": 0.018
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19980901",
+        "Div": 0.018
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19980602",
+        "Div": 0.018
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19980302",
+        "Div": 0.019
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19971201",
+        "Div": 0.019
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19970901",
+        "Div": 0.019
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19970602",
+        "Div": 0.019
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19970303",
+        "Div": 0.019
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19961203",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19960903",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19960603",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19960301",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19951201",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19950901",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19950601",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19950301",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19941201",
+        "Div": 0.02
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19940901",
+        "Div": 0.0203
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19940602",
+        "Div": 0.021
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19940301",
+        "Div": 0.0216
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19931201",
+        "Div": 0.0225
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19930901",
+        "Div": 0.0235
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19930602",
+        "Div": 0.0234
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19930301",
+        "Div": 0.0249
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19921201",
+        "Div": 0.0258
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19920901",
+        "Div": 0.0258
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19920601",
+        "Div": 0.0268
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19920303",
+        "Div": 0.0275
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19911202",
+        "Div": 0.027
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19910903",
+        "Div": 0.023
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19910603",
+        "Div": 0.024
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19910228",
+        "Div": 0.031
+    },
+    {
+        "Currency": "GBP",
+        "TransDate": "19901203",
+        "Div": 0.0365
+    }
+]

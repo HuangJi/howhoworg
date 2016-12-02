@@ -1,0 +1,242 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.975215,
+            "SInvRate": 97.5215,
+            "LInvRate": 97.5215
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.024785,
+            "SInvRate": 2.4785,
+            "LInvRate": 2.4785
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 8.9938
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.51652
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 6.54245
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 5.15234
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 4.8438
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.08611
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 4.05818
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 3.93927
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.83054
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 3.64725
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 3.22642
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 3.12548
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 3.07797
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 3.02525
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.77089
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 2.51805
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.37048
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.28649
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.2407
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.1861
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.15271
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 2.06404
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.78637
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.76407
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 1.58167
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 1.42945
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.4245
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.30738
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.09326
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.08736
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.85083
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 0.64352
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.5207
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0.37755
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PHILIP MORRIS INTL COM STK NPV 'WI'",
+            "InvRate": 4.05818
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PEPSICO INC CAP USD0.016666",
+            "InvRate": 3.22642
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MONDELEZ INTL INC COM USD0.01",
+            "InvRate": 2.77542
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMAZON COM INC COM USD0.01",
+            "InvRate": 2.77089
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WALT DISNEY CO. DISNEY COM USD0.01",
+            "InvRate": 2.6397
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FACEBOOK INC COM USD0.000006 CL 'A'",
+            "InvRate": 2.51805
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "UNION PACIFIC CORP COM USD2.50",
+            "InvRate": 2.28649
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AON PLC COM USD0.01 CL A",
+            "InvRate": 2.1861
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VISA INC COM STK USD0.0001",
+            "InvRate": 2.03789
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SIMON PROP GROUP COM USD0.0001",
+            "InvRate": 1.96838
+        }
+    ]
+}

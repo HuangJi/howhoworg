@@ -1,0 +1,162 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9595806959580696,
+            "SInvRate": 95.95806,
+            "LInvRate": 95.95806
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.04041930404193041,
+            "SInvRate": 4.04193,
+            "LInvRate": 4.04193
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 18.53762
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 16.28084
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 14.43095
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.09987
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 8.69151
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 5.52351
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 5.38163
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 3.26721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 2.54712
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.18738
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.93206
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.80412
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 1.69289
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 1.44049
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 1.05994
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.83939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Truck Manufacturing",
+            "InvRate": 0.75408
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.48747
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD",
+            "InvRate": 9.09987
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SUN HUNG KAI PROPERTIES",
+            "InvRate": 7.22498
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA CONSTRUCTION BANK-H",
+            "InvRate": 6.62866
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MERCHANTS BANK-H",
+            "InvRate": 5.61487
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HONG KONG EXCHANGES & CLEAR",
+            "InvRate": 5.52351
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIA GROUP LTD",
+            "InvRate": 4.99286
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COST OF CURRENCY (CASH) HKD",
+            "InvRate": 4.83622
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MOBILE LTD",
+            "InvRate": 4.26115
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PCCW LTD",
+            "InvRate": 3.97774
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HONGKONG LAND HOLDINGS LTD",
+            "InvRate": 3.46897
+        }
+    ]
+}

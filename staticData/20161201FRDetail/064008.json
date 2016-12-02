@@ -1,0 +1,222 @@
+{
+    "Area": "B",
+    "FundId": "064008",
+    "StarRatingFromEst": 3,
+    "Name": "歐義銳榮新興市場債券基金 D",
+    "NameEng": "Eurizon EasyFund Bd Emg Mkts D",
+    "NameWarning": "本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "34",
+    "CPName": "歐義銳榮資產管理公司",
+    "CPNameEng": "Eurizon Capital S.A.",
+    "AgentCPId": "334",
+    "AgentCPName": "第一金證券投資顧問股份有限公司",
+    "AgentCPNameEng": "First Captial Management Inc",
+    "RctName": "盧森堡",
+    "Count": 8,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20100407",
+    "CategoryId": "225",
+    "CategoryName": "新興市場債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本子基金之凈資産主要投資於位在新興國家或依據其法律設立之政府,其機搆或民營發行人在國內市場或國際市場發行之債券或貨幣性質且至少獲得標準普爾\"B-\"級或穆迪\"B3\"級評等之證券.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 1506055966,
+    "PriceTransDate": "20161129",
+    "Price": 274.61,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -1.2,
+    "UpDownRate": -0.44,
+    "Rr1w": -1.66136,
+    "Rr1M": 1.34788,
+    "Rr3M": 3.04253,
+    "Rr6M": 10.41584,
+    "RrThisYear": 11.4586,
+    "Rr1Y": 12.08983,
+    "Rr2Y": 24.71953,
+    "Rr3Y": 42.15049,
+    "Rr5Y": 58.29262,
+    "Rr10Y": null,
+    "RrFromEst": 69.14095,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.13,
+    "Beta1Y": 0.97,
+    "Sharpe1Y": 1.94,
+    "StdDev1Y": 5.44,
+    "Alpha3Y": -1.88,
+    "Beta3Y": 0.98,
+    "Sharpe3Y": 0.86,
+    "StdDev3Y": 5.3,
+    "AriMean3Y": 0.391,
+    "Alpha5Y": -1.68,
+    "Beta5Y": 0.95,
+    "Sharpe5Y": 0.73,
+    "StdDev5Y": 6.08,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 0.00010429998957000104,
+            "SInvRate": 0.01043,
+            "LInvRate": 0.01043
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "債券",
+            "InvRate": 0.9735240026475998,
+            "SInvRate": 97.35241,
+            "LInvRate": 97.35241
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.026371697362830265,
+            "SInvRate": 2.63717,
+            "LInvRate": 2.63717
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 274.61
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 275.81
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 274.69
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 275.44
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 276.59
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 275.88
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 274.96
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 275.6
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 274.39
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 274.44
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 272.74
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 270.27
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 271.38
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 273.11
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 275.69
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 276.86
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 276.27
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 273.44
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 274.01
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 273.33
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 278.2
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 278.94
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 279.71
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 280.89
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 283.55
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 282.9
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 282.97
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 281.08
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 279.31
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 278.42
+        }
+    ],
+    "IndustryRatio": []
+}

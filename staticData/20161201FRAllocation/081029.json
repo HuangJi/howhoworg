@@ -1,0 +1,191 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9724795027520498,
+            "SInvRate": 97.24796,
+            "LInvRate": 97.24796
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.012399998760000124,
+            "SInvRate": 1.24,
+            "LInvRate": 1.24
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.0009552999044700096,
+            "SInvRate": -0.09553,
+            "LInvRate": -0.09553
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.01607579839242016,
+            "SInvRate": 1.60758,
+            "LInvRate": 1.60758
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 27.43684
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 8.59059
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 8.55046
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 7.34146
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 6.93932
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 6.14777
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 4.79857
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 3.72393
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.34134
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.79518
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.47283
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 2.40534
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 2.08178
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 1.93709
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 1.89691
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 1.30099
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 1.28436
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 1.1877
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.04672
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 0.99672
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 0.97205
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITAU UNIBANCO HLDGS NPV",
+            "InvRate": 8.41743
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BANCO BRADESCO PREF NPV",
+            "InvRate": 8.36136
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "LOJAS RENNER NPV",
+            "InvRate": 5.21733
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GRUPO FINANCIERO BANORTE-O NPV",
+            "InvRate": 4.69524
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MULTIPLAN EMPREENDIMENTOS NPV",
+            "InvRate": 4.49709
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AMBEV NPV",
+            "InvRate": 4.47829
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FOMENTO ECONOMICO MEXICANO 1 ADR REP 10 UTS (1B&2D-B&2D-L)",
+            "InvRate": 4.07217
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ULTRAPAR PARTICIPACOES NPV",
+            "InvRate": 3.72393
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BRF NPV",
+            "InvRate": 3.54071
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "EMBOTELLADORA ANDINA PREF A NPV",
+            "InvRate": 3.05884
+        }
+    ]
+}

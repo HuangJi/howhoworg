@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9302561,
+            "SInvRate": 93.02561,
+            "LInvRate": 93.02561
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0580463,
+            "SInvRate": 5.80463,
+            "LInvRate": 5.80463
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0116976,
+            "SInvRate": 1.16976,
+            "LInvRate": 1.16976
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDIA GOVT INR 8.6% 06-02-28",
+            "InvRate": 5.73741
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BRAZIL NTNF BRL 10.0% 01-01-25",
+            "InvRate": 3.54478
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "BONOS MEXICAN MXN 5.75% 03-05-26",
+            "InvRate": 2.84487
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "RUSSIA GOVT OFZ RUB 7.50% 08-18-21",
+            "InvRate": 2.55113
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "POLAND GOVT BOND PLN 5.75% 09-23-22",
+            "InvRate": 2.26595
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SOUTH AFRICA GVT ZAR R2023 7.75% 02-28-23",
+            "InvRate": 2.26545
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ARGENTINA REP OF (PHASE 1) REG S 6.875% 04-22-21",
+            "InvRate": 2.01055
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MALAYSIA GVT MYR 3.795% 09-30-22",
+            "InvRate": 1.83608
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SOUTH AFRICA GVT ZAR R214 6.5% 02-28-41",
+            "InvRate": 1.80572
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MALAYSIA GOVT SUKUK MYR 4.786% 10-31-35",
+            "InvRate": 1.71571
+        }
+    ]
+}

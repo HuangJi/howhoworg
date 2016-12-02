@@ -1,0 +1,167 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9806698,
+            "SInvRate": 98.06698,
+            "LInvRate": 98.06698
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0193302,
+            "SInvRate": 1.93302,
+            "LInvRate": 1.93302
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 21.32838
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 10.08678
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 6.59495
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 6.50946
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 5.94153
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.12413
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 4.92589
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.48246
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 3.77634
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 3.4623
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Distribution",
+            "InvRate": 3.13112
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 3.10065
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.09804
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.00043
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.91083
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 2.89741
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 2.87944
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.75576
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 2.06105
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FISERV INC ORD USD",
+            "InvRate": 3.77634
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TJX COMPANIES INC ORD USD",
+            "InvRate": 3.63151
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ADOBE SYSTEMS INC ORD USD",
+            "InvRate": 3.5794
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CANTEL MEDICAL CORP ORD USD",
+            "InvRate": 3.50349
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "STARBUCKS CORP ORD USD",
+            "InvRate": 3.4623
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COSTCO WHOLESALE CORP ORD USD",
+            "InvRate": 3.33022
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INTUIT INC ORD USD",
+            "InvRate": 3.30892
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WALGREENS BOOTS ALLIANCE INC ORD USD",
+            "InvRate": 3.26474
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HENRY SCHEIN INC ORD USD",
+            "InvRate": 3.13112
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MICROCHIP TECHNOLOGY INC ORD USD",
+            "InvRate": 3.10065
+        }
+    ]
+}

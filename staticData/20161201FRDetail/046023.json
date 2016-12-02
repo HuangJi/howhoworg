@@ -1,0 +1,221 @@
+{
+    "Area": "B",
+    "FundId": "046023",
+    "StarRatingFromEst": 3,
+    "Name": "MFS全盛基金系列-MFS全盛有限償還期基金 A2(美元)",
+    "NameEng": "MFS Meridian Limited Maturity A2 USD",
+    "NameWarning": "",
+    "CPId": "43",
+    "CPName": "MFS全盛基金",
+    "CPNameEng": "MFS Meridian Funds",
+    "AgentCPId": "64",
+    "AgentCPName": "柏瑞證券投資信託股份有限公司",
+    "AgentCPNameEng": "PineBridge Investments Mgmt Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 32,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20050926",
+    "CategoryId": "224",
+    "CategoryName": "美元短期債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "基金的主要投資目標為尋求符合審慎投資風險的以美元計值的高當前收入,次要投資目標為保本.基金投資於投資級美國固定收益證券(主要是短期至中期證券)投資組合.基金透過投資於較短期證券以減低波動幅度,並試圖透過證券及行業揀選尋求增值.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 0.6,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 837010000,
+    "PriceTransDate": "20161130",
+    "Price": 8.73,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": 0.06834,
+    "Rr1M": -0.04551,
+    "Rr3M": -0.03979,
+    "Rr6M": 0.47356,
+    "RrThisYear": 1.41475,
+    "Rr1Y": 1.07173,
+    "Rr2Y": 0.85251,
+    "Rr3Y": 1.10656,
+    "Rr5Y": 3.62819,
+    "Rr10Y": 16.48563,
+    "RrFromEst": 51.01821,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 0.12,
+    "Beta1Y": 0.65,
+    "Sharpe1Y": 1.09,
+    "StdDev1Y": 0.72,
+    "Alpha3Y": -0.45,
+    "Beta3Y": 0.78,
+    "Sharpe3Y": 0.38,
+    "StdDev3Y": 0.67,
+    "AriMean3Y": 0.031,
+    "Alpha5Y": -0.29,
+    "Beta5Y": 1.01,
+    "Sharpe5Y": 0.74,
+    "StdDev5Y": 0.84,
+    "Alpha10Y": -0.6,
+    "Beta10Y": 0.78,
+    "Sharpe10Y": 0.41,
+    "StdDev10Y": 1.83,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "58",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9430791943079194,
+            "SInvRate": 94.30791,
+            "LInvRate": 94.30791
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.05692080569208057,
+            "SInvRate": 5.69208,
+            "LInvRate": 5.69208
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 8.73
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.73
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.73
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.74
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 8.75
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 8.75
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 8.75
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 8.75
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 8.76
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 8.77
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 8.78
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 8.79
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 8.79
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 8.79
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 8.79
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160401",
+            "Name": "Health Care Providers",
+            "InvRate": 0.00018
+        }
+    ]
+}

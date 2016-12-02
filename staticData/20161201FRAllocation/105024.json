@@ -1,0 +1,152 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.965285,
+            "SInvRate": 96.5285,
+            "LInvRate": 96.5285
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.034715,
+            "SInvRate": 3.4715,
+            "LInvRate": 3.4715
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 25.0041
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 13.63972
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 10.03249
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 9.62237
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 6.97976
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 6.75455
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 5.57438
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 4.77454
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 4.1602
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 3.79585
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 2.72569
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.15574
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.00206
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.83957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.3854
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.08207
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIA GROUP LTD NPV",
+            "InvRate": 10.03249
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CK HUTCHISON HOLDINGS LTD HKD1",
+            "InvRate": 9.62237
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HONG KONG EXCHANGES & CLEAR HKD1",
+            "InvRate": 6.97976
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SUN HUNG KAI PROPERTIES NPV",
+            "InvRate": 6.92058
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANG SENG BANK LTD NPV",
+            "InvRate": 4.89961
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHEUNG KONG PROPERTY HOLDING HKD1",
+            "InvRate": 4.80969
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BOC HONG KONG HOLDINGS LTD NPV",
+            "InvRate": 4.43384
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SANDS CHINA LTD USD0.01",
+            "InvRate": 4.39616
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WHARF HOLDINGS LTD NPV",
+            "InvRate": 4.20565
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "POWER ASSETS HOLDINGS LTD NPV",
+            "InvRate": 4.1602
+        }
+    ]
+}

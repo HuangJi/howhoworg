@@ -1,0 +1,240 @@
+{
+    "Area": "B",
+    "FundId": "046015",
+    "StarRatingFromEst": 3,
+    "Name": "MFS全盛基金系列-MFS全盛全球高收益基金 A1(美元)",
+    "NameEng": "MFS Meridian Global High Yield A1 USD",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券",
+    "CPId": "43",
+    "CPName": "MFS全盛基金",
+    "CPNameEng": "MFS Meridian Funds",
+    "AgentCPId": "64",
+    "AgentCPName": "柏瑞證券投資信託股份有限公司",
+    "AgentCPNameEng": "PineBridge Investments Mgmt Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 27,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19970701",
+    "CategoryId": "682",
+    "CategoryName": "環球高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "基金的主要投資目標為以美元計值的高當前收入,次要投資目標為資本增值.基金主要投資低於投資級美國債務證券投資組合.基金通過自下而上的信用揀選,集中物色最具吸引力的風險回報機會,尋求增值.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 0.75,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 770520000,
+    "PriceTransDate": "20161130",
+    "Price": 26.34,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.01,
+    "UpDownRate": -0.04,
+    "Rr1w": -0.78475,
+    "Rr1M": 0.26435,
+    "Rr3M": 2.31214,
+    "Rr6M": 5.90347,
+    "RrThisYear": 11.69541,
+    "Rr1Y": 7.18611,
+    "Rr2Y": 3.62998,
+    "Rr3Y": 8.67785,
+    "Rr5Y": 29.89238,
+    "Rr10Y": 58.69703,
+    "RrFromEst": 125.573532,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -2.63,
+    "Beta1Y": 0.95,
+    "Sharpe1Y": 1.04,
+    "StdDev1Y": 6.64,
+    "Alpha3Y": -2.21,
+    "Beta3Y": 0.98,
+    "Sharpe3Y": 0.5,
+    "StdDev3Y": 5.64,
+    "AriMean3Y": 0.244,
+    "Alpha5Y": -2.17,
+    "Beta5Y": 0.97,
+    "Sharpe5Y": 0.96,
+    "StdDev5Y": 5.55,
+    "Alpha10Y": -2.63,
+    "Beta10Y": 0.93,
+    "Sharpe10Y": 0.43,
+    "StdDev10Y": 10.09,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "58",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9420965,
+            "SInvRate": 94.20965,
+            "LInvRate": 94.20965
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0087894,
+            "SInvRate": 0.87894,
+            "LInvRate": 0.87894
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0133068,
+            "SInvRate": 1.33068,
+            "LInvRate": 1.33068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0358073,
+            "SInvRate": 3.58073,
+            "LInvRate": 3.58073
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 26.34
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 26.31
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 26.32
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 26.3
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 26.29
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 26.29
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 26.22
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 26.2
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 26.24
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 26.2
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 26.2
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 26.06
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 26.31
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 26.34
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 26.41
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 26.51
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 26.5
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 26.39
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 26.4
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 26.4
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 26.55
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 26.61
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 26.65
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 26.71
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 26.76
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 26.76
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 26.74
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 26.73
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 26.69
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 26.64
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 0.00845
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Business Services",
+            "InvRate": 0.00003
+        }
+    ]
+}

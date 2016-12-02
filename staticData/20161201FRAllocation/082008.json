@@ -1,0 +1,157 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.945044,
+            "SInvRate": 94.5044,
+            "LInvRate": 94.5044
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.054956,
+            "SInvRate": 5.4956,
+            "LInvRate": 5.4956
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 24.28656
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 17.88418
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 15.10517
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 5.89873
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 5.50035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 5.2914
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Equipment",
+            "InvRate": 3.94166
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 3.55714
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 3.08201
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.91396
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.77343
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.32237
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 1.28818
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.12851
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Distribution",
+            "InvRate": 1.05448
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.79199
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 0.68429
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Gamesa Corp Tecnologica Shs",
+            "InvRate": 4.12327
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Prysmian Spa Shs",
+            "InvRate": 3.94166
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Vestas Wind Systems",
+            "InvRate": 3.81439
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Nextera Energy Inc",
+            "InvRate": 3.55611
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Mitsubishi Electric Corp Shs",
+            "InvRate": 3.45428
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Infineon Technologies Shs",
+            "InvRate": 3.30997
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Npx Semiconductor",
+            "InvRate": 3.28635
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Snam S.P.A.",
+            "InvRate": 3.12849
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Enel Shs",
+            "InvRate": 3.0337
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Power Integrations Inc Shs",
+            "InvRate": 2.94163
+        }
+    ]
+}

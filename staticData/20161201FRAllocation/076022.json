@@ -1,0 +1,227 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9777263,
+            "SInvRate": 97.77263,
+            "LInvRate": 97.77263
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0222737,
+            "SInvRate": 2.22737,
+            "LInvRate": 2.22737
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 9.85143
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 8.0115
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 5.63796
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 5.5587
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 5.21324
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 5.16709
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 4.959
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.62166
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 3.45954
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.21486
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 2.94199
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 2.8874
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 2.8396
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.75839
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.75485
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.66606
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 2.41027
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 2.38133
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.2811
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.18772
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.18433
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.10037
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 1.92667
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.66974
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.66113
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.38691
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.37246
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.2984
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 1.09779
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.73031
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.54079
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Best Pacific International Holdings",
+            "InvRate": 3.93033
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Samsung Electronics Co.",
+            "InvRate": 3.2981
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Sunspring Metal",
+            "InvRate": 3.21486
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Bajaj Finance",
+            "InvRate": 2.94199
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "China Maple Leaf Educational Systems",
+            "InvRate": 2.92943
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "i SENS",
+            "InvRate": 2.8874
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LG Household & Healthcare",
+            "InvRate": 2.65779
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ABS-CBN Broadcasting PDR",
+            "InvRate": 2.62529
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Col Financial Group",
+            "InvRate": 2.58795
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Shree Cements",
+            "InvRate": 2.51173
+        }
+    ]
+}

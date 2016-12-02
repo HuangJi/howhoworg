@@ -1,0 +1,124 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9050958,
+            "SInvRate": 90.50958,
+            "LInvRate": 90.50958
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0723726,
+            "SInvRate": 7.23726,
+            "LInvRate": 7.23726
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0225316,
+            "SInvRate": 2.25316,
+            "LInvRate": 2.25316
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 69.2434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 18.01498
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 0.55228
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.49068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.4869
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 0.48186
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.46522
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.4094
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.36477
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Simon Property Group, Inc.",
+            "InvRate": 5.3939
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AvalonBay Communities, Inc.",
+            "InvRate": 2.84036
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Cheung Kong Property Holdings Ltd.",
+            "InvRate": 2.57049
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Ventas, Inc.",
+            "InvRate": 2.27435
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Boston Properties, Inc.",
+            "InvRate": 2.23588
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Extra Space Storage, Inc.",
+            "InvRate": 1.90523
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Cedar Realty Trust, Inc. Series B",
+            "InvRate": 1.8685
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "National Retail Properties, Inc.",
+            "InvRate": 1.65292
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Mitsui Fudosan Co., Ltd.",
+            "InvRate": 1.64653
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Federal Realty Investment Trust",
+            "InvRate": 1.6426
+        }
+    ]
+}

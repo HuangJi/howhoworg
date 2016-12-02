@@ -1,0 +1,229 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9924873007512699,
+            "SInvRate": 99.24874,
+            "LInvRate": 99.24874
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "優先股",
+            "InvRate": 0.0033258996674100333,
+            "SInvRate": 0.33259,
+            "LInvRate": 0.33259
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.004186799581320042,
+            "SInvRate": 0.41868,
+            "LInvRate": 0.41868
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Industrial Products",
+            "InvRate": 18.73622
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Computer Hardware",
+            "InvRate": 12.39882
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Drug Manufacturers",
+            "InvRate": 7.29831
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 6.94841
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Chemicals",
+            "InvRate": 6.34581
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Defensive",
+            "InvRate": 6.29405
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Semiconductors",
+            "InvRate": 5.22975
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.10142
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Application Software",
+            "InvRate": 4.84149
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Building Materials",
+            "InvRate": 2.91149
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Credit Services",
+            "InvRate": 2.80994
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.44239
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 1.84304
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Medical Devices",
+            "InvRate": 1.70497
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Communication Services",
+            "InvRate": 1.68931
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.60272
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Online Media",
+            "InvRate": 1.29751
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 1.22954
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Employment Services",
+            "InvRate": 1.07585
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance",
+            "InvRate": 1.01484
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Real Estate",
+            "InvRate": 0.99657
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.94303
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Insurance - Life",
+            "InvRate": 0.94076
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Business Services",
+            "InvRate": 0.83323
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.63782
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Asset Management",
+            "InvRate": 0.54134
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Banks",
+            "InvRate": 0.52889
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Restaurants",
+            "InvRate": 0.4784
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 0.32083
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Steel",
+            "InvRate": 0.21199
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "MAKITA CORP",
+            "InvRate": 4.57514
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "DISCO CORP",
+            "InvRate": 3.68007
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "NIPPON SHINYAKU CO LTD",
+            "InvRate": 3.51757
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SHIMADZU CORP",
+            "InvRate": 3.43052
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "MISUMI GROUP INC",
+            "InvRate": 3.41374
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SUMITOMO ELECTRIC INDS LTD",
+            "InvRate": 2.94263
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "NIFCO INC",
+            "InvRate": 2.78996
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "NITORI HOLDINGS CO LTD",
+            "InvRate": 2.71464
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SUZUKI MOTOR CORP",
+            "InvRate": 2.56195
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "SHIONOGI & CO LTD",
+            "InvRate": 2.49415
+        }
+    ]
+}

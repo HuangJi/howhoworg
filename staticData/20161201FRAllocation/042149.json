@@ -1,0 +1,68 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 1.01289040128904,
+            "SInvRate": 101.28903,
+            "LInvRate": 101.28903
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.000010700001070000107,
+            "SInvRate": 0.00107,
+            "LInvRate": 0.00107
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.0022462002246200225,
+            "SInvRate": 0.22462,
+            "LInvRate": 0.22462
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": -0.03273110327311033,
+            "SInvRate": -3.27311,
+            "LInvRate": -3.27311
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.017583801758380174,
+            "SInvRate": 1.75838,
+            "LInvRate": 1.75838
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151101",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "PORTUGAL (REPUBLIC OF) 4.1 02/15/2045",
+            "InvRate": 0.78193
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ISHARES $ HIGH YIELD CORPORATE BD",
+            "InvRate": 0.73945
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ANHEUSER-BUSCH INBEV FINANCE INC 3.3 02/01/2023",
+            "InvRate": 0.6321
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TURKEY (REPUBLIC OF) 10.7 02/17/2021",
+            "InvRate": 0.58814
+        }
+    ]
+}

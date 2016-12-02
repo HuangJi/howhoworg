@@ -1,0 +1,229 @@
+{
+    "Area": "B",
+    "FundId": "036027",
+    "StarRatingFromEst": 3,
+    "Name": "霸菱高收益債券基金-A類美元月配息型",
+    "NameEng": "Baring High Yield Bond A MDV USD",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "11",
+    "CPName": "霸菱國際基金經理(愛爾蘭)公司",
+    "CPNameEng": "Baring International Fund Mgrs (Ireland)",
+    "AgentCPId": "324",
+    "AgentCPName": "霸菱證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Baring International Fd Mgrs (TWN) Ltd.",
+    "RctName": "愛爾蘭",
+    "Count": 65,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20021115",
+    "CategoryId": "682",
+    "CategoryName": "環球高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金的主要投資目標為在承受經理按其合理酌情所決定的可接受風險下賺取高現金收益.任何資本增值均屬附帶利益.本基金的投資政策是投資於經濟合作及發展組織((經合組織))任何成員國及任何發展中或新興市場的企業及政府(包括任何政府機構或中央銀行)所發行債務及貸款證券組合(包括信貸相關證券).",
+    "Custodian": "北方信託信託服務(愛爾蘭)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 5000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 629446100.67,
+    "PriceTransDate": "20161130",
+    "Price": 9.67,
+    "PerformanceTransDate": "20161028",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -0.20367,
+    "Rr1M": 0.70757,
+    "Rr3M": 2.24562,
+    "Rr6M": 5.74871,
+    "RrThisYear": 9.72485,
+    "Rr1Y": 5.69813,
+    "Rr2Y": 0.47416,
+    "Rr3Y": 3.60964,
+    "Rr5Y": 26.69284,
+    "Rr10Y": 68.02378,
+    "RrFromEst": 136.724457,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.84,
+    "Beta1Y": 0.78,
+    "Sharpe1Y": 0.93,
+    "StdDev1Y": 5.85,
+    "Alpha3Y": -1.75,
+    "Beta3Y": 0.84,
+    "Sharpe3Y": 0.22,
+    "StdDev3Y": 5.43,
+    "AriMean3Y": 0.108,
+    "Alpha5Y": -1.29,
+    "Beta5Y": 0.94,
+    "Sharpe5Y": 0.78,
+    "StdDev5Y": 6.21,
+    "Alpha10Y": -0.49,
+    "Beta10Y": 0.81,
+    "Sharpe10Y": 0.52,
+    "StdDev10Y": 9.23,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0048577,
+            "SInvRate": 0.48577,
+            "LInvRate": 0.48577
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9295445,
+            "SInvRate": 92.95445,
+            "LInvRate": 92.95445
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0476443,
+            "SInvRate": 4.76443,
+            "LInvRate": 4.76443
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0179535,
+            "SInvRate": 1.79535,
+            "LInvRate": 1.79535
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.67
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.67
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.66
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.66
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 9.66
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.65
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.63
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.61
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.62
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.61
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.61
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.57
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.7
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.71
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.67
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.68
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.69
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.72
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.8
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.82
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.84
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.84
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.82
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.82
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.81
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 9.8
+        }
+    ],
+    "IndustryRatio": []
+}

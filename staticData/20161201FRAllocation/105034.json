@@ -1,0 +1,196 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9678241032175897,
+            "SInvRate": 96.78242,
+            "LInvRate": 96.78242
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.010558698944130106,
+            "SInvRate": 1.05587,
+            "LInvRate": 1.05587
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.021519497848050215,
+            "SInvRate": 2.15195,
+            "LInvRate": 2.15195
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.00009769999023000097,
+            "SInvRate": 0.00977,
+            "LInvRate": 0.00977
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 28.34658
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 8.65342
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 6.9017
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 5.89926
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 5.69869
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 3.99844
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.64836
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.40357
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 3.38598
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 3.27134
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 3.18428
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 2.93185
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.59386
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.42129
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.30415
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 2.0293
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 2.02048
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 1.76946
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.52919
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 1.20871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 1.0771
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 0.50541
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ITAU UNIBANCO HOLDING S-PREF BRL 0.0000 PFD",
+            "InvRate": 6.05103
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMBEV SA NPV",
+            "InvRate": 4.9433
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CREDICORP LTD USD5",
+            "InvRate": 3.71529
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FOMENTO ECONOMICO MEXICA-UBD NPV",
+            "InvRate": 3.71013
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GRUPO FINANCIERO BANORTE-O MXN3.5",
+            "InvRate": 3.54528
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANCO BRADESCO SA-PREF BRL 0.0000 PFD",
+            "InvRate": 3.51927
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMERICA MOVIL SAB DE C-SER L NPV",
+            "InvRate": 3.45969
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "JBS SA NPV",
+            "InvRate": 3.45504
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PETROBRAS - PETROLEO BRAS-PR BRL NPV PFD",
+            "InvRate": 3.27134
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANCO DO BRASIL S.A. NPV",
+            "InvRate": 3.11219
+        }
+    ]
+}

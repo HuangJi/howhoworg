@@ -1,0 +1,229 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8900577,
+            "SInvRate": 89.00577,
+            "LInvRate": 89.00577
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1314072,
+            "SInvRate": 13.14072,
+            "LInvRate": 13.14072
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0214649,
+            "SInvRate": -2.14649,
+            "LInvRate": -2.14649
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 11.91508
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 9.32396
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 8.16233
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 7.98022
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 7.43116
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 7.07651
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 6.61466
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 6.33735
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.78492
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 4.38722
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 3.41856
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.315
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 2.04791
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 1.82885
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.47775
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.17645
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.01875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 0.13331
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 0.09181
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.09064
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.08863
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.06463
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.06227
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.05491
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.04806
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.02508
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.02037
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 0.0174
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.00894
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.00305
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "騰訊",
+            "InvRate": 6.77504
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中國工商銀行",
+            "InvRate": 5.57204
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "網宿科技",
+            "InvRate": 4.86786
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中國平安",
+            "InvRate": 4.626
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "申洲國際集團",
+            "InvRate": 3.41856
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "藥華藥",
+            "InvRate": 3.33705
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中國光大國際",
+            "InvRate": 3.27497
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "神盾",
+            "InvRate": 3.20211
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中車時代電氣",
+            "InvRate": 2.95237
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "碧水源",
+            "InvRate": 2.86544
+        }
+    ]
+}

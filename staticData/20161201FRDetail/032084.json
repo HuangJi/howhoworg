@@ -1,0 +1,263 @@
+{
+    "Area": "B",
+    "FundId": "032084",
+    "StarRatingFromEst": 2,
+    "Name": "法巴百利達全球原物料股票基金/年配 (歐元)",
+    "NameEng": "Parvest Equity World Materials C D",
+    "NameWarning": "(基金之配息來源可能為本金)",
+    "CPId": "14",
+    "CPName": "法國巴黎投資盧森堡公司",
+    "CPNameEng": "BNP Paribas Investment Partners Lux",
+    "AgentCPId": "323",
+    "AgentCPName": "法銀巴黎證券投資顧問股份有限公司",
+    "AgentCPNameEng": "BNP Paribas Investment Partners Taiwan",
+    "RctName": "盧森堡",
+    "Count": 27,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20130517",
+    "CategoryId": "186",
+    "CategoryName": "工業物料股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此子基金主要投資於商品製造行業內國際性公司的股票,包括製造化學品,建築材料,玻璃,紙張,林產品,包裝產品的公司,以及金屬和礦業公司,如鋼鐵製造公司等.此基金的管理遵循自下而上的投資方法,即在選擇股票時,強調首先分析每種股票的具體特點.基金經理基於全球物料行業的股票分類進行股票選擇.基金經理的職責為構建出呈現出良好的風險/收益比率的分散投資組合.若有利的投資機會出現,此基金亦可投資於其他金融工具.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 78331595,
+    "PriceTransDate": "20161130",
+    "Price": 54.09,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.31,
+    "UpDownRate": -0.57,
+    "Rr1w": -0.76576,
+    "Rr1M": 0.97902,
+    "Rr3M": 2.12164,
+    "Rr6M": 6.24343,
+    "RrThisYear": 8.26951,
+    "Rr1Y": 4.18183,
+    "Rr2Y": 9.73807,
+    "Rr3Y": 14.26895,
+    "Rr5Y": 21.61149,
+    "Rr10Y": 14.29091,
+    "RrFromEst": 24.9885,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -5.33,
+    "Beta1Y": 0.79,
+    "Sharpe1Y": 0.26,
+    "StdDev1Y": 16.57,
+    "Alpha3Y": -1.95,
+    "Beta3Y": 0.87,
+    "Sharpe3Y": -0.1,
+    "StdDev3Y": 15.87,
+    "AriMean3Y": -0.127,
+    "Alpha5Y": -1.18,
+    "Beta5Y": 0.92,
+    "Sharpe5Y": 0.02,
+    "StdDev5Y": 16.28,
+    "Alpha10Y": -1.76,
+    "Beta10Y": 1.06,
+    "Sharpe10Y": 0.1,
+    "StdDev10Y": 26.19,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9920782,
+            "SInvRate": 99.20782,
+            "LInvRate": 99.20782
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0066876,
+            "SInvRate": 0.66876,
+            "LInvRate": 0.66876
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0012342,
+            "SInvRate": 0.12342,
+            "LInvRate": 0.12342
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 54.09
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 53.72
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 54.03
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 54.14
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 54.06
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 53.87
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 53.27
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 52.94
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 52.91
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 52.8
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 52.8
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 52.81
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 52.03
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 52.52
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 52.01
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 50.34
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 50.1
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 49.14
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 49.33
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 49.39
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 50.54
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 50.57
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 50.36
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 50.56
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 51.02
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 50.93
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 50.9
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 50.68
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 50.71
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 50.32
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 46.28578
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 22.15837
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 9.26713
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Packaging & Containers",
+            "InvRate": 9.23992
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 5.32728
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 4.70896
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Forest Products",
+            "InvRate": 1.62355
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.59679
+        }
+    ]
+}

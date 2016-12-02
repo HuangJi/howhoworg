@@ -1,0 +1,219 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9287557,
+            "SInvRate": 92.87557,
+            "LInvRate": 92.87557
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0415,
+            "SInvRate": 4.15,
+            "LInvRate": 4.15
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0297443,
+            "SInvRate": 2.97443,
+            "LInvRate": 2.97443
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20150501",
+            "Name": "Asset Management",
+            "InvRate": 0.00651
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Insurance",
+            "InvRate": 0.00554
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Banks",
+            "InvRate": 0.00546
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Communication Services",
+            "InvRate": 0.00426
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Travel & Leisure",
+            "InvRate": 0.00362
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Chemicals",
+            "InvRate": 0.00243
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Industrial Distribution",
+            "InvRate": 0.00157
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.00069
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.00055
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Autos",
+            "InvRate": 0.00053
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.00045
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Utilities - Regulated",
+            "InvRate": 0.00042
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Industrial Products",
+            "InvRate": 0.00037
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Metals & Mining",
+            "InvRate": 0.00029
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 0.00027
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.00024
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Application Software",
+            "InvRate": 0.00021
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Semiconductors",
+            "InvRate": 0.00012
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.00011
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.00009
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.00008
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.00008
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Communication Equipment",
+            "InvRate": 0.00008
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0.00008
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "REITs",
+            "InvRate": 0.00007
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Building Materials",
+            "InvRate": 0.00007
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Computer Hardware",
+            "InvRate": 0.00007
+        },
+        {
+            "TransDate": "20150501",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.00006
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "S 7% 1/4",
+            "InvRate": 1.5715
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALTICE 7% 1/2",
+            "InvRate": 1.03109
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALLY 5% 3/4",
+            "InvRate": 0.89227
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SFRFP 7% 3/8",
+            "InvRate": 0.88405
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FTR 11%",
+            "InvRate": 0.81226
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ENVA 9% 3/4",
+            "InvRate": 0.77609
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FMGAU 9% 3/4",
+            "InvRate": 0.73941
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HCA 7% 1/2",
+            "InvRate": 0.72485
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SGMS 10%",
+            "InvRate": 0.71921
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TMUS 6.542%",
+            "InvRate": 0.71462
+        }
+    ]
+}

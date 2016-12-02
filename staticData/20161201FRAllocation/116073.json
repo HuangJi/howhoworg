@@ -1,0 +1,249 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9469731,
+            "SInvRate": 94.69731,
+            "LInvRate": 94.69731
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0427413,
+            "SInvRate": 4.27413,
+            "LInvRate": 4.27413
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0102856,
+            "SInvRate": 1.02856,
+            "LInvRate": 1.02856
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 8.45168
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Asset Management",
+            "InvRate": 7.15378
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 7.06129
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 5.82189
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.44278
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 5.21637
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.04954
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 5.01885
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.93256
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.36979
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 4.25136
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 3.84072
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 3.23659
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 2.83139
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 2.54648
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.50213
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.37145
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 1.87176
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 1.86211
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 1.20642
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.10428
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 1.07291
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 1.05698
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 0.96888
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.96108
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.88426
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 0.79539
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 0.61253
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 0.56391
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.47609
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.31955
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 0.29394
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 0.2749
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.27367
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BAJAJ HOLDINGS & INVESTMENT LTD ORD INR10 (DEMAT)",
+            "InvRate": 7.15378
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TATA CHEMICALS LTD ORD INR10 (DEMAT)",
+            "InvRate": 4.47593
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FEDERAL BANK LTD ORD INR2",
+            "InvRate": 3.44053
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TRAVELSKY TECHNOLOGY LTD ORD H HKD1",
+            "InvRate": 2.93598
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FILA KOREA LTD ORD KRW 5000",
+            "InvRate": 2.91437
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "APOLLO TYRES LTD ORD INR1",
+            "InvRate": 2.54965
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VIEWORKS CO LTD ORD KRW500",
+            "InvRate": 2.14314
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VARDHMAN TEXTILES LTD ORD INR10",
+            "InvRate": 1.90153
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LUK FOOK HOLDINGS INTERNATIONAL LTD ORD HKD.1",
+            "InvRate": 1.86723
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GS HOME SHOPPING INC ORD KRW5000",
+            "InvRate": 1.7782
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "Currency": "USD",
+        "TransDate": "20161115",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20161017",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160915",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160816",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160715",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160615",
+        "Div": 0.065
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160517",
+        "Div": 0.06083
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160415",
+        "Div": 0.06083
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160315",
+        "Div": 0.06083
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160215",
+        "Div": 0.06083
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20160115",
+        "Div": 0.06083
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20151215",
+        "Div": 0.09125
+    }
+]

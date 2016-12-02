@@ -1,0 +1,247 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9916891,
+            "SInvRate": 99.16891,
+            "LInvRate": 99.16891
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0083109,
+            "SInvRate": 0.83109,
+            "LInvRate": 0.83109
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 15.0216
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 9.8322
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.7724
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 7.97377
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 4.9303
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 4.45286
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 4.4008
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 4.20952
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.779
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 3.42856
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 3.21975
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.99577
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.68995
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 2.51654
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 1.7163
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.54532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.35804
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 1.28777
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 1.27402
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.24613
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.20768
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.19783
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Distribution",
+            "InvRate": 1.17887
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 1.16548
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 1.00434
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.95794
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.77072
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 0.71089
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 0.61377
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 0.56164
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.49957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Specialty",
+            "InvRate": 0.48584
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 0.46801
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 0.4586
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 0.23712
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFACTU COMMON STOCK TWD10.",
+            "InvRate": 6.41125
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRONICS CO LTD COMMON STOCK KRW5000.0",
+            "InvRate": 6.31887
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HOLDINGS LTD COMMON STOCK HKD.00002",
+            "InvRate": 6.06543
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK OF CHINA LTD COMMON STOCK CNY1.0",
+            "InvRate": 2.57393
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMBEV SA ADR",
+            "InvRate": 2.56014
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELEKOMUNIKASI INDONESIA PERSE COMMON STOCK IDR50.",
+            "InvRate": 2.54801
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HON HAI PRECISION INDUSTRY CO COMMON STOCK TWD10.",
+            "InvRate": 2.27502
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AUROBINDO PHARMA LTD COMMON STOCK INR1.",
+            "InvRate": 2.21839
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANCO BRADESCO SA ADR",
+            "InvRate": 1.99764
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LEE & MAN PAPER MANUFACTURING COMMON STOCK HKD.025",
+            "InvRate": 1.80366
+        }
+    ]
+}

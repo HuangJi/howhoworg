@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.1475026,
+            "SInvRate": 14.75026,
+            "LInvRate": 14.75026
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 1.0581283,
+            "SInvRate": 105.81283,
+            "LInvRate": 105.81283
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.2056309,
+            "SInvRate": -20.56309,
+            "LInvRate": -20.56309
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "國內_短期票券(附買回)",
+            "InvRate": 99.41
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SINOCH 3.55% 051317",
+            "InvRate": 3.88904
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ORIEAS 4.1% 012217",
+            "InvRate": 3.50039
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SBSG 4.15% 030117",
+            "InvRate": 3.47793
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SBSG 4% 38 120116",
+            "InvRate": 3.29815
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BEIJII 3% 34 062717",
+            "InvRate": 1.94121
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BOCOM 3.3% 120416",
+            "InvRate": 1.93827
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VANKE 4.05% 121616",
+            "InvRate": 1.16641
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BCHINA 3.45% 011617",
+            "InvRate": 1.16558
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ADBCH 3.28% 011617",
+            "InvRate": 0.77611
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "股票",
+            "InvRate": 0.9968706,
+            "SInvRate": 99.68706,
+            "LInvRate": 99.68706
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0031294,
+            "SInvRate": 0.31294,
+            "LInvRate": 0.31294
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160801",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 35.22287
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 28.67712
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 17.41717
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 15.97861
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "Autos",
+            "InvRate": 2.39128
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Hermes International",
+            "InvRate": 7.8342
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "L Oréal SA",
+            "InvRate": 6.52952
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Estée Lauder Cos",
+            "InvRate": 6.10128
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Diageo Plc",
+            "InvRate": 5.07149
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "adidas AG",
+            "InvRate": 5.06523
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Pernod-Ricard SA",
+            "InvRate": 4.82994
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Brown-Forman Corp",
+            "InvRate": 4.80208
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "LVMH Moet Hennessy SA",
+            "InvRate": 4.38857
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Tiffany & Co",
+            "InvRate": 4.37364
+        },
+        {
+            "TransDate": "20160801",
+            "ExternalName": "Nike Inc",
+            "InvRate": 3.51986
+        }
+    ]
+}

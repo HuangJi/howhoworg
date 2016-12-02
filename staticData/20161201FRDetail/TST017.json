@@ -1,0 +1,228 @@
+{
+    "Area": "A",
+    "FundId": "TST017",
+    "StarRatingFromEst": null,
+    "Name": "台新北美收益基金-美元累積",
+    "NameEng": "Taishin North American Income Trust $ A",
+    "NameWarning": "",
+    "CPId": "47",
+    "CPName": "台新證券投資信託股份有限公司",
+    "CPNameEng": "Taishin Securities Investment Tr Co Ltd",
+    "AgentCPId": "47",
+    "AgentCPName": "台新證券投資信託股份有限公司",
+    "AgentCPNameEng": "Taishin Securities Investment Tr Co Ltd",
+    "RctName": "台灣",
+    "Count": 43,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20141201",
+    "CategoryId": "697",
+    "CategoryName": "北美房地產(直接)",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "經理公司應以分散風險,確保基金之安全,並積極追求長期之投資利得及維持收益之安定為目標.以誠信原則及專業經營方式,將本基金投資於中華民國及外國之有價證券.經理公司並應依下列規範進行投資:1,本基金投資於中華民國之有價證券為中華民國境內公債,金融債券(含次順位金融債券),國際金融組織債券,依金融資產證券化條例公開招募之受益證券或資產基礎證券,依不動產證券化條例募集之封閉型不動產投資信託基金受益證券或不動產資產信託受益證券.2,本基金投資於符合下列第一目至第三目任一規定之外國有價證券:(1)於加拿大,美國證券集中交易市場,美國店頭市場(NASDAQ)之具有收益型信託性質之單位(unit),受益憑證,基金股份及加拿大,美國證券集中交易市場及美國店頭市場(NASDAQ)交易之指數股票型基金(ETF).(2)於加拿大,美國,澳大利亞,英國,日本,香港,韓國等國證券集中交易市場,美國店頭市場(NASDAQ),英國另類投資市場(AIM),日本店頭市場(JASDAQ),韓國店頭市場(KOSDAQ),其他經金管會核准之上述國家店頭市場交易之不動產證券化商品及指數股票型基金(ETF(Exchange Traded Fund),含放空型ETF,商品ETF).(3)符合下列任一信用評等規定,由國家或機構所保證或發行之債券:A,經Standard&Poor's Corporation評定,債務發行評等達BBB級(含)以上.B,經Moody's Investors Service評定,債務發行評等達Baa2級(含)以上.C,經Fitch Ratings Ltd,評定,債務發行評等達BBB級(含)以上.D,經中華信用評等股份有限公司評定,債務發行評等達twBBB級(含)以上.E,經英商惠譽國際信用評等股份有限公司台灣分公司評定,債務發行評等達BBB(twn)級(含)以上.F,經穆迪信用評等股份有限公司評定,債務發行評等達Baa2,tw級(含)以上.",
+    "Custodian": "兆豐國際商業銀行",
+    "CustodianFee": 0.25,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 66140481.54,
+    "PriceTransDate": "20161130",
+    "Price": 0.5894,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0055,
+    "UpDownRate": 0.93,
+    "Rr1w": -2.67585,
+    "Rr1M": -5.13822,
+    "Rr3M": -10.25414,
+    "Rr6M": -0.65424,
+    "RrThisYear": 3.33447,
+    "Rr1Y": 3.58117,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 4.65196,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 0.29,
+    "StdDev1Y": 14.66,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9031936,
+            "SInvRate": 90.31936,
+            "LInvRate": 90.31936
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0936,
+            "SInvRate": 9.36,
+            "LInvRate": 9.36
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0032064,
+            "SInvRate": 0.32064,
+            "LInvRate": 0.32064
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 0.5894
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 0.596
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 0.5905
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 0.5862
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 0.5833
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 0.5867
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 0.5784
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 0.5784
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 0.575
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 0.5792
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 0.5793
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 0.5814
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 0.5741
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 0.5742
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 0.5881
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 0.6011
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 0.5965
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 0.5889
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 0.5851
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 0.5878
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 0.5961
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 0.6074
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 0.601
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 0.5997
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 0.6147
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 0.6219
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 0.6241
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 0.6223
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 0.6244
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 0.6265
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 90.31936
+        }
+    ]
+}

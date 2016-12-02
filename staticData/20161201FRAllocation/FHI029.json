@@ -1,0 +1,174 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9466619,
+            "SInvRate": 94.66619,
+            "LInvRate": 94.66619
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0564,
+            "SInvRate": 5.64,
+            "LInvRate": 5.64
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0030619,
+            "SInvRate": -0.30619,
+            "LInvRate": -0.30619
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 17.29982
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 17.18706
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.4766
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 6.75317
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 6.34194
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 6.29886
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 5.18993
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 5.1421
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 5.0788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 3.07941
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 2.7603
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 2.15932
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.88578
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.774
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.69895
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 1.65302
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Packaging & Containers",
+            "InvRate": 1.29041
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Plans",
+            "InvRate": 0.94546
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 0.65125
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMAZON.COM INC-USA",
+            "InvRate": 3.60862
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PROCTER & GAMBLE CO/THE-USA",
+            "InvRate": 3.20902
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ADIDAS AG-DEU",
+            "InvRate": 2.53428
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COMCAST CORP-CLASS A-USA",
+            "InvRate": 2.38979
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "KAR AUCTION SERVICES INC-USA",
+            "InvRate": 2.25967
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHARTER COMMUNICATIONS INC-A-USA",
+            "InvRate": 2.24083
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PEPSICO INC-USA",
+            "InvRate": 1.94454
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PHILIP MORRIS INTERNATIONAL-USA",
+            "InvRate": 1.89324
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHARP CORP-JPN",
+            "InvRate": 1.84084
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TOYOTA MOTOR CORP-JPN",
+            "InvRate": 1.71466
+        }
+    ]
+}

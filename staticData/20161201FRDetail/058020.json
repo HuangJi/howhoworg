@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "058020",
+    "StarRatingFromEst": null,
+    "Name": "美盛西方資產美國核心增值債券基金A類股澳幣增益配息型(M)(避險)",
+    "NameEng": "Legg Mason WA US Core+ Bd A AUD Inc(M)H+",
+    "NameWarning": "基金之配息來源可能為本金",
+    "CPId": "13",
+    "CPName": "美盛投資(歐洲)有限公司",
+    "CPNameEng": "Legg Mason Investments Europe Ltd",
+    "AgentCPId": "329",
+    "AgentCPName": "美盛證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Legg Mason Global Asset Mgmt (Taiwan)",
+    "RctName": "愛爾蘭",
+    "Count": 11,
+    "CurrencyCode": "AUD",
+    "InceptionYmdOn": "20160219",
+    "CategoryId": "687",
+    "CategoryName": "其他債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金是美盛環球基金系列於(愛爾蘭註冊成立的開放式傘子投資公司)的子基金.本基金將其資產總值至少70%投資於在美國受監管市場上市或買賣的投資級別債務證券,並透過資本增值及收益取得最大總回報.",
+    "Custodian": "紐約梅隆銀行信託公司(愛爾蘭)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.15,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 995793648.39,
+    "PriceTransDate": "20161130",
+    "Price": 100.38,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.16,
+    "UpDownRate": -0.16,
+    "Rr1w": -0.44295,
+    "Rr1M": -0.65407,
+    "Rr3M": -0.47235,
+    "Rr6M": 2.5904,
+    "RrThisYear": null,
+    "Rr1Y": null,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 5.84524,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": null,
+    "StdDev1Y": null,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "12",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.0042422,
+            "SInvRate": 0.42422,
+            "LInvRate": 0.42422
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9541734,
+            "SInvRate": 95.41734,
+            "LInvRate": 95.41734
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0004046,
+            "SInvRate": 0.04046,
+            "LInvRate": 0.04046
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0066875,
+            "SInvRate": 0.66875,
+            "LInvRate": 0.66875
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0344923,
+            "SInvRate": 3.44923,
+            "LInvRate": 3.44923
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 100.38
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 100.54
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 100.39
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 100.16
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 100.16
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 100.36
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 100.29
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 100.64
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 100.95
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 101.2
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 101.06
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 100.84
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 101.23
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 101.65
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 102.15
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 103.39
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 103.48
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 103.4
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 103.25
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 103.33
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 103.37
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 103.39
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 103.29
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 103.37
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 103.66
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 103.89
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 103.85
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 103.93
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 103.91
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 103.87
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20140801",
+            "Name": "Banks",
+            "InvRate": 0.05761
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9916931,
+            "SInvRate": 99.16931,
+            "LInvRate": 99.16931
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0083069,
+            "SInvRate": 0.83069,
+            "LInvRate": 0.83069
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 14.51875
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 12.48205
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 12.15278
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 7.47722
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 6.50995
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 6.27482
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Distribution",
+            "InvRate": 4.39603
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 4.22134
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 4.21424
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 3.9932
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Publishing",
+            "InvRate": 3.64309
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 3.02513
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 2.91327
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.21956
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 2.02788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.74751
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 1.74069
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.12106
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 1.07252
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 1.00236
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance",
+            "InvRate": 0.95476
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 0.92565
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 0.53542
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GLAXOSMITHKLINE PLC",
+            "InvRate": 7.15279
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ROYAL DUTCH SHELL PLC CL B",
+            "InvRate": 6.50995
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHIRE PLC",
+            "InvRate": 6.35318
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BT GROUP PLC",
+            "InvRate": 5.45379
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CRH PLC",
+            "InvRate": 5.24464
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTRAZENECA PLC",
+            "InvRate": 4.99998
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BARCLAYS PLC ORD",
+            "InvRate": 4.69623
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WOLSELEY PLC",
+            "InvRate": 4.39603
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BRITISH AMERICAN TOBACCO PLC",
+            "InvRate": 4.21425
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SKY PLC",
+            "InvRate": 4.14582
+        }
+    ]
+}

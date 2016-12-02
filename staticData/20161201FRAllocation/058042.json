@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.8905147,
+            "SInvRate": 89.05147,
+            "LInvRate": 89.05147
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.0002878,
+            "SInvRate": 0.02878,
+            "LInvRate": 0.02878
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0227658,
+            "SInvRate": 2.27658,
+            "LInvRate": 2.27658
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0864317,
+            "SInvRate": 8.64317,
+            "LInvRate": 8.64317
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF PHILIPPINES",
+            "InvRate": 6.09663
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDIA GOVERNMENT BOND",
+            "InvRate": 4.46763
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MALAYSIA GOVERNMENT",
+            "InvRate": 4.14761
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDIA GOV 8.15% 06/11/22",
+            "InvRate": 3.99199
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "Western Asset US Dollar Liquidity Fund",
+            "InvRate": 3.08946
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDONESIA 8.38% 03/15/24",
+            "InvRate": 2.98165
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "THAILAND G 3.85% 12/12/25",
+            "InvRate": 2.90526
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MALAYSIA GOVERNMENT",
+            "InvRate": 2.73113
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SINGAPOR 2.750% 03/46",
+            "InvRate": 2.68431
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "INDIA GOVERNMENT BOND",
+            "InvRate": 2.61596
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "Area": "B",
+    "FundId": "043091",
+    "StarRatingFromEst": 1,
+    "Name": "富達基金-全球高評等收益基金 (A股月配息-美元)",
+    "NameEng": "Fidelity Gl High Grade Inc A-MDIST-USD",
+    "NameWarning": "",
+    "CPId": "12",
+    "CPName": "富達基金管理有限公司",
+    "CPNameEng": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+    "AgentCPId": "100",
+    "AgentCPName": "富達證券投資信託股份有限公司",
+    "AgentCPNameEng": "FIL Securities Invmt Trust Co. (TW) Ltd",
+    "RctName": "盧森堡",
+    "Count": 40,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20081125",
+    "CategoryId": "675",
+    "CategoryName": "環球債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金旨在藉由分散大約10個不同市場/貨幣的全球高評等與短期債券組合以提供具吸引力的當期收益.高評等債券的定義為具投資等級信評(依標普信評機構所訂或其它信評機構同等之信評)的政府,類政府或超國籍政府機構所發行的債券.",
+    "Custodian": "Brown Brothers Harriman(盧森堡)",
+    "CustodianFee": 0.35,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 185105461.1,
+    "PriceTransDate": "20161130",
+    "Price": 6.913,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.022,
+    "UpDownRate": -0.32,
+    "Rr1w": 0.26734,
+    "Rr1M": -1.41339,
+    "Rr3M": -1.08008,
+    "Rr6M": -2.91365,
+    "RrThisYear": 1.90835,
+    "Rr1Y": -1.01852,
+    "Rr2Y": -12.83638,
+    "Rr3Y": -16.86494,
+    "Rr5Y": -18.53647,
+    "Rr10Y": null,
+    "RrFromEst": 6.42118,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.86,
+    "Beta1Y": 1.12,
+    "Sharpe1Y": -0.14,
+    "StdDev1Y": 7.56,
+    "Alpha3Y": -4.58,
+    "Beta3Y": 1.55,
+    "Sharpe3Y": -0.9,
+    "StdDev3Y": 6.69,
+    "AriMean3Y": -0.494,
+    "Alpha5Y": -2.48,
+    "Beta5Y": 1.22,
+    "Sharpe5Y": -0.54,
+    "StdDev5Y": 7.33,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "134",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9878238,
+            "SInvRate": 98.78238,
+            "LInvRate": 98.78238
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0121762,
+            "SInvRate": 1.21762,
+            "LInvRate": 1.21762
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 6.913
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 6.935
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 6.932
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 6.895
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 6.881
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 6.88
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 6.907
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 6.897
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 6.875
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 6.926
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 6.935
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 6.943
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 6.905
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 6.945
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 6.987
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 7.086
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 7.177
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 7.157
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 7.147
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 7.14
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 7.125
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 7.098
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 7.126
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 7.101
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 7.095
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 7.118
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 7.129
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 7.107
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 7.099
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 7.14
+        }
+    ],
+    "IndustryRatio": []
+}

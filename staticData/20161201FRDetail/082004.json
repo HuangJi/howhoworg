@@ -1,0 +1,301 @@
+{
+    "Area": "B",
+    "FundId": "082004",
+    "StarRatingFromEst": 5,
+    "Name": "瑞萬通博基金-未來資源基金C(美元)",
+    "NameEng": "Vontobel Future Resources C USD",
+    "NameWarning": "",
+    "CPId": "119",
+    "CPName": null,
+    "CPNameEng": "Vontobel Asset Management S.A.",
+    "AgentCPId": "37",
+    "AgentCPName": "瀚亞證券投資信託股份有限公司",
+    "AgentCPNameEng": "Eastspring Securities Invst Tr Co Ltd",
+    "RctName": "盧森堡",
+    "Count": 26,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20110201",
+    "CategoryId": "439",
+    "CategoryName": "天然資源股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金之目標在於達成以歐元計價之最高可能資本成長.子基金之資產依據風險分散原則,主要投資於在全世界經營有關未來資源產業之公司所發行,以美元計價之股票,具股權性質之可轉讓有價證券及參與憑證等等(下稱(股權證券)).未來資源產業主要包含替代能源(如風力,太陽能與生質燃料)與稀少性資源(如原物料,產品創新,潔淨飲水,林業,農業等等)為主.子基金資產至多百分之三十三得投資於前述投資範圍之外.子基金得使用衍生性商品對貨幣及投資組合風險避險.",
+    "Custodian": "RBC投資服務銀行",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 2.65,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 103829747.65,
+    "PriceTransDate": "20161130",
+    "Price": 119.09,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.81,
+    "UpDownRate": -0.7,
+    "Rr1w": -2.15705,
+    "Rr1M": -3.49003,
+    "Rr3M": -2.95137,
+    "Rr6M": -1.71292,
+    "RrThisYear": 1.44082,
+    "Rr1Y": -3.33558,
+    "Rr2Y": -15.38745,
+    "Rr3Y": -19.59644,
+    "Rr5Y": -6.82794,
+    "Rr10Y": null,
+    "RrFromEst": -23.49336,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -4.53,
+    "Beta1Y": 1.22,
+    "Sharpe1Y": -0.2,
+    "StdDev1Y": 14.05,
+    "Alpha3Y": -11.44,
+    "Beta3Y": 1.2,
+    "Sharpe3Y": -0.44,
+    "StdDev3Y": 14.52,
+    "AriMean3Y": -0.519,
+    "Alpha5Y": -11.21,
+    "Beta5Y": 1.17,
+    "Sharpe5Y": -0.03,
+    "StdDev5Y": 14.56,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": "5",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9240676,
+            "SInvRate": 92.40676,
+            "LInvRate": 92.40676
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0759324,
+            "SInvRate": 7.59324,
+            "LInvRate": 7.59324
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 119.09
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 115.02
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 115.83
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 117.6
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 117.57
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 117.51
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 117
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 115.43
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 115.97
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 116.25
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 116.94
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 115.34
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 114.93
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 116.56
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 115.63
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 114.82
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 114.58
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 112.94
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 113.3
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 113.53
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 114.76
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 115.13
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 115.21
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 115.57
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 115.88
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 117.29
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 117.61
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 117.89
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 118.23
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 116.94
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 22.58415
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 18.04539
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 7.98787
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 5.69316
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Agriculture",
+            "InvRate": 5.63786
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 5.20044
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 4.25429
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 4.24024
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 4.02701
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 3.05328
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 3.00487
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 2.7156
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 1.64096
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.24839
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Forest Products",
+            "InvRate": 1.07567
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 1.00577
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 0.99182
+        }
+    ]
+}

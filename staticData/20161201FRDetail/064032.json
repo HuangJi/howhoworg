@@ -1,0 +1,247 @@
+{
+    "Area": "B",
+    "FundId": "064032",
+    "StarRatingFromEst": null,
+    "Name": "歐義銳榮歐洲高收益基金 DU2",
+    "NameEng": "Eurizon EasyFund Bd High Yield Du2",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券且配息來源可能為本金",
+    "CPId": "34",
+    "CPName": "歐義銳榮資產管理公司",
+    "CPNameEng": "Eurizon Capital S.A.",
+    "AgentCPId": "334",
+    "AgentCPName": "第一金證券投資顧問股份有限公司",
+    "AgentCPNameEng": "First Captial Management Inc",
+    "RctName": "盧森堡",
+    "Count": 7,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20150818",
+    "CategoryId": "835",
+    "CategoryName": "環球高收益債券 - 歐元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本子基金之淨資產主要投資於由至少獲得標準普爾“B-”級或穆迪“B3”級之公司發行之債券性質或貨幣性質之證券.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.2,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": null,
+    "MinInvestmentUnit": null,
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 3715039819.36,
+    "PriceTransDate": "20161129",
+    "Price": 101.45,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -0.30007,
+    "Rr1M": 0.46735,
+    "Rr3M": 1.77704,
+    "Rr6M": 4.12602,
+    "RrThisYear": 7.9279,
+    "Rr1Y": 7.25514,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 7.43276,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": 1,
+    "StdDev1Y": 8.39,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 9.9999990000001e-8,
+            "SInvRate": 0.00001,
+            "LInvRate": 0.00001
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "債券",
+            "InvRate": 0.9565372043462795,
+            "SInvRate": 95.65373,
+            "LInvRate": 95.65373
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "可換股債券",
+            "InvRate": 3.99999960000004e-7,
+            "SInvRate": 0.00004,
+            "LInvRate": 0.00004
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.04346189565381044,
+            "SInvRate": 4.34619,
+            "LInvRate": 4.34619
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "其他",
+            "InvRate": 3.99999960000004e-7,
+            "SInvRate": 0.00004,
+            "LInvRate": 0.00004
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 101.45
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 101.45
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 101.44
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 101.38
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 101.4
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 101.44
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 101.17
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 101.17
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 101.4
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 101.43
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 101.54
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 101.62
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 102.17
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 102.5
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 102.6
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 102.81
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 102.81
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 102.67
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 102.73
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 102.73
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 103
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 103.01
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 103.13
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 103.25
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 103.34
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 103.31
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 103.2
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 103.2
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 103.05
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 102.94
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Banks",
+            "InvRate": 0
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Education",
+            "InvRate": 0
+        }
+    ]
+}

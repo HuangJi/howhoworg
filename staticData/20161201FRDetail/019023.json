@@ -1,0 +1,306 @@
+{
+    "Area": "B",
+    "FundId": "019023",
+    "StarRatingFromEst": 3,
+    "Name": "安聯香港股票基金-A配息類股(美元)",
+    "NameEng": "Allianz Hong Kong Equity A",
+    "NameWarning": "基金之配息來源可能為本金",
+    "CPId": "115",
+    "CPName": "安聯環球投資基金",
+    "CPNameEng": "Allianz Global Investors GmbH",
+    "AgentCPId": "49",
+    "AgentCPName": "安聯證券投資信託股份有限公司",
+    "AgentCPNameEng": "Allianz Global Investors Taiwan Ltd",
+    "RctName": "盧森堡",
+    "Count": 27,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19850712",
+    "CategoryId": "167",
+    "CategoryName": "香港股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本基金之目標是透過投資於以香港上市公司為主的投資組合,以達到資本增值.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 2.05,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 1,
+    "MinInvestmentUnit": "Shares",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 622753933.27,
+    "PriceTransDate": "20161130",
+    "Price": 226.9,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 1.14,
+    "UpDownRate": 0.5,
+    "Rr1w": -2.80854,
+    "Rr1M": -1.96645,
+    "Rr3M": 3.86536,
+    "Rr6M": 8.29502,
+    "RrThisYear": 4.59963,
+    "Rr1Y": 0.25073,
+    "Rr2Y": -1.64282,
+    "Rr3Y": 6.24735,
+    "Rr5Y": 23.77629,
+    "Rr10Y": 88.16687,
+    "RrFromEst": 3812.83228,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.93,
+    "Beta1Y": 0.98,
+    "Sharpe1Y": 0.08,
+    "StdDev1Y": 16.69,
+    "Alpha3Y": 2.51,
+    "Beta3Y": 0.99,
+    "Sharpe3Y": 0.19,
+    "StdDev3Y": 18.53,
+    "AriMean3Y": 0.307,
+    "Alpha5Y": 1.55,
+    "Beta5Y": 0.94,
+    "Sharpe5Y": 0.31,
+    "StdDev5Y": 17.61,
+    "Alpha10Y": 4.29,
+    "Beta10Y": 0.97,
+    "Sharpe10Y": 0.35,
+    "StdDev10Y": 23.35,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9595806959580696,
+            "SInvRate": 95.95806,
+            "LInvRate": 95.95806
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.04041930404193041,
+            "SInvRate": 4.04193,
+            "LInvRate": 4.04193
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 226.9
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 225.76
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 226.28
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 225.56
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 225.14
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 225.7
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 225.81
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 223.11
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 223.19
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 221.54
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 221.4
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 221.18
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 221.06
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 221.87
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 228.58
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 226.07
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 229.62
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 228.4
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 228.23
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 228.25
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 229.55
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 230.82
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 231.3
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 233.53
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 235.2
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 237.72
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 237.49
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 236.03
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 235.58
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 236.24
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 18.53762
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 16.28084
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 14.43095
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.09987
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 8.69151
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 5.52351
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Conglomerates",
+            "InvRate": 5.38163
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 3.26721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 2.54712
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 2.18738
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.93206
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 1.80412
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 1.69289
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 1.44049
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 1.05994
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.83939
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Truck Manufacturing",
+            "InvRate": 0.75408
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.48747
+        }
+    ]
+}

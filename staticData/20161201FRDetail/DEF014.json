@@ -1,0 +1,258 @@
+{
+    "Area": "A",
+    "FundId": "DEF014",
+    "StarRatingFromEst": null,
+    "Name": "德銀遠東DWS全球生技創新基金 (美元)",
+    "NameEng": "DFE DWS Global BioInnovation USD",
+    "NameWarning": "",
+    "CPId": "83",
+    "CPName": "德銀遠東證券投資信託股份有限公司",
+    "CPNameEng": "Deutsche FE DWS Asset Mgmt Co.,Ltd",
+    "AgentCPId": "83",
+    "AgentCPName": "德銀遠東證券投資信託股份有限公司",
+    "AgentCPNameEng": "Deutsche FE DWS Asset Mgmt Co.,Ltd",
+    "RctName": "台灣",
+    "Count": 14,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20140815",
+    "CategoryId": "180",
+    "CategoryName": "生化科學股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "原則上,本基金自成立日起六個月後投資於上市或上櫃股票,承銷股票及存託憑證之總額,不低於本基金淨資產價值之百分之七十;投資於外國有價證券之總額不得低於百分之六十,且投資於從事生技科技事業(包括生技工程,特用化學品,製藥,醫療科技,醫療設備,醫療保健,基因工程,農業生物科技及工業生技科技應用等相關事業)之國內及外國(含跨國)公司所發行之股票總額,不低於本基金淨資產價值之百分之七十.但依經理公司之專業判斷,在特殊情形下,為分散風險,確保基金安全之目的,得不受前述投資比例之限制.",
+    "Custodian": "聯邦商業銀行",
+    "CustodianFee": 0.26,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1.8,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 300,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 2979890.93,
+    "PriceTransDate": "20161130",
+    "Price": 9.46,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0,
+    "UpDownRate": 0,
+    "Rr1w": -1.94595,
+    "Rr1M": -7.8252,
+    "Rr3M": -7.06967,
+    "Rr6M": -0.11013,
+    "RrThisYear": -15.54935,
+    "Rr1Y": -17.16895,
+    "Rr2Y": -10.90373,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": -9.3,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": -0.61,
+    "StdDev1Y": 25.74,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9603776,
+            "SInvRate": 96.03776,
+            "LInvRate": 96.03776
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0454,
+            "SInvRate": 4.54,
+            "LInvRate": 4.54
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0057776,
+            "SInvRate": -0.57776,
+            "LInvRate": -0.57776
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 9.46
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 9.77
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 9.7
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 9.64
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 9.79
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 9.75
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 9.82
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 9.75
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.87
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.89
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.79
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.88
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.75
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.19
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.14
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 8.9
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 8.75
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 8.94
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 9.1
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.07
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.16
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.18
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.14
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.16
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.25
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.28
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.35
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 9.27
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 56.1233
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 16.37497
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 11.28957
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 6.00279
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.29034
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 1.34068
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.61613
+        }
+    ]
+}

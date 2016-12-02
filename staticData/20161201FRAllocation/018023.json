@@ -1,0 +1,157 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9799066,
+            "SInvRate": 97.99066,
+            "LInvRate": 97.99066
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0200934,
+            "SInvRate": 2.00934,
+            "LInvRate": 2.00934
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 22.98979
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 10.90634
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 10.35335
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 5.77049
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 5.33813
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 4.95991
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 4.35639
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 4.34532
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Refining & Marketing",
+            "InvRate": 4.17831
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 4.07973
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 3.74689
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 3.6079
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 3.37981
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.92702
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 2.77725
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.25831
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.0157
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SAMSUNG ELECTRONIC KRW5000",
+            "InvRate": 6.67777
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NASPERS 'N' ZAR0.02",
+            "InvRate": 5.71338
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALIBABA GROUP HLDG SPON ADS EACH REP ONE ORD-ADR",
+            "InvRate": 4.95991
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENCENT HLDGS LIMI HKD0.00002",
+            "InvRate": 4.63996
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PING AN INSURANCE 'H'CNY1",
+            "InvRate": 4.35639
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MOBILE LTD NPV",
+            "InvRate": 4.34532
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK CENTRAL ASIA IDR62.5",
+            "InvRate": 4.27028
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LARGAN PRECISION C TWD10",
+            "InvRate": 4.19899
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BCO BRADESCO SA PRF NPV",
+            "InvRate": 4.06248
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA RES LAND HKD0.10",
+            "InvRate": 3.74689
+        }
+    ]
+}

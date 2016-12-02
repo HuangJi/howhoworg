@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9223605922360593,
+            "SInvRate": 92.23605,
+            "LInvRate": 92.23605
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.07765020776502078,
+            "SInvRate": 7.76502,
+            "LInvRate": 7.76502
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.000010800001080000108,
+            "SInvRate": -0.00108,
+            "LInvRate": -0.00108
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Mexico Government International Bond 4% OCT 02 23",
+            "InvRate": 1.57213
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Argentine Republic Government International Bond RegS 7.5% APR 22 26",
+            "InvRate": 1.48609
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Argentina Bonar Bonds 7% APR 17 17",
+            "InvRate": 1.24163
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Development Bank of Kazakhstan JSC RegS 4.125% DEC 10 22",
+            "InvRate": 1.22834
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Mexico Government International Bond 3.625% MAR 15 22",
+            "InvRate": 1.21354
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Russian Foreign Bond - Eurobond RegS 4.5% APR 04 22",
+            "InvRate": 1.13483
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Argentine Republic Government International Bond FRB DEC 31 38",
+            "InvRate": 1.03548
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Hungary Government International Bond 5.375% FEB 21 23",
+            "InvRate": 0.89935
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Indonesia Government International Bond RegS 4.875% MAY 05 21",
+            "InvRate": 0.86857
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Russian Foreign Bond - Eurobond RegS 4.875% SEP 16 23",
+            "InvRate": 0.8682
+        }
+    ]
+}

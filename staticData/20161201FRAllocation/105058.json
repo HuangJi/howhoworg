@@ -1,0 +1,85 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0131117,
+            "SInvRate": 1.31117,
+            "LInvRate": 1.31117
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9108453,
+            "SInvRate": 91.08453,
+            "LInvRate": 91.08453
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0104158,
+            "SInvRate": 1.04158,
+            "LInvRate": 1.04158
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0656272,
+            "SInvRate": 6.56272,
+            "LInvRate": 6.56272
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SWING PRICING ADJUSTMENT USD",
+            "InvRate": 1.08803
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SPRINT CAPITAL CORP 6.9% 01/05/2019",
+            "InvRate": 1.07863
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FMG RESOURCES AUGUST 2006 PTY 6.88% 01/04/2022",
+            "InvRate": 0.99106
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SABINE PASS LIQUEFACTION LLC 5.63% 01/03/2025",
+            "InvRate": 0.81527
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NUSTAR LOGISTICS LP 25 PFD",
+            "InvRate": 0.76888
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TENET HEALTHCARE CORP 8.13% 01/04/2022",
+            "InvRate": 0.70654
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HCA INC 5.38% 01/02/2025",
+            "InvRate": 0.68207
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ZIGGO SECURED FINANCE BV 5.5% 15/01/2027",
+            "InvRate": 0.6614
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VALEANT PHARMACEUTICALS INTERN 7.5% 15/07/2021",
+            "InvRate": 0.65357
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CEMEX SAB DE CV 5.7% 11/01/2025",
+            "InvRate": 0.64914
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8889823,
+            "SInvRate": 88.89823,
+            "LInvRate": 88.89823
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1102,
+            "SInvRate": 11.02,
+            "LInvRate": 11.02
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0008177,
+            "SInvRate": 0.08177,
+            "LInvRate": 0.08177
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 29.69631
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 11.77007
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 8.54185
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 6.81863
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 6.39643
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 4.86269
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.45123
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 3.20788
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 2.26074
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 2.1581
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 2.11468
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 2.11374
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.09038
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.08811
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.04914
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 1.03439
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Waste Management",
+            "InvRate": 0.99858
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 0.20975
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.03552
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WANGSU SCIENCE & TECHNOLOG-A",
+            "InvRate": 7.1208
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNWAY COMMUNICAT-A",
+            "InvRate": 3.74286
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GOERTEK INC -A",
+            "InvRate": 3.22367
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HANGZHOU HIKVISION DIGITAL-A",
+            "InvRate": 3.20788
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HENGTONG OPTIC-ELECTRIC CO-A",
+            "InvRate": 3.2056
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN EVERWIN PRECISION-A",
+            "InvRate": 2.914
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HYTERA COMMUNICATIONS CORP-A",
+            "InvRate": 2.66019
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "WUHU TOKEN SCIENCE CO LTD-A",
+            "InvRate": 2.36264
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NINGBO JOYSON ELECTRONIC -A",
+            "InvRate": 2.32468
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SHENZHEN SUNLORD ELECTRONI-A",
+            "InvRate": 2.26651
+        }
+    ]
+}

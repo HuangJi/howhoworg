@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "075013",
+    "StarRatingFromEst": 1,
+    "Name": "英傑華投資-全球複合債券基金(美元)",
+    "NameEng": "Aviva Investors Global Aggt Bd B $ Acc",
+    "NameWarning": "",
+    "CPId": "52",
+    "CPName": "英傑華投資盧森堡有限公司",
+    "CPNameEng": "Aviva Investors Luxembourg SA",
+    "AgentCPId": "36",
+    "AgentCPName": "中國信託證券投資信託股份有限公司",
+    "AgentCPNameEng": "CTBC Securities Investment Tr Co. Ltd.",
+    "RctName": "盧森堡",
+    "Count": 9,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20120423",
+    "CategoryId": "679",
+    "CategoryName": "環球債券-美元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本子基金之目標係藉由投資全球固定收益債劵,包含但不限於政府及旗下機構,國營機構,跨國組織,企業和銀行所發行之可轉移債劵,以及不動產抵押貸款擔保證券和資產擔保證券,以獲取收益及可能的資本增值.為了實現投資目標,將可能投資金融衍生工具如期貨,選擇權,交換合約,交換選擇權,遠期外匯合約,店頭外匯選擇權和信用違約交換,並可在通過認可的交易所或店頭市場交易.",
+    "Custodian": "摩根大通銀行盧森堡",
+    "CustodianFee": 0.2,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 0.7,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 322738724.44,
+    "PriceTransDate": "20161129",
+    "Price": 8.9864,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.0354,
+    "UpDownRate": 0.4,
+    "Rr1w": 0.19805,
+    "Rr1M": -3.74252,
+    "Rr3M": -3.75341,
+    "Rr6M": -3.65731,
+    "RrThisYear": 4.47503,
+    "Rr1Y": 2.15118,
+    "Rr2Y": -7.58696,
+    "Rr3Y": -10.63381,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": -1.30725,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -0.97,
+    "Beta1Y": 1.03,
+    "Sharpe1Y": 0.23,
+    "StdDev1Y": 9.75,
+    "Alpha3Y": -0.42,
+    "Beta3Y": 0.99,
+    "Sharpe3Y": -0.45,
+    "StdDev3Y": 7.92,
+    "AriMean3Y": -0.286,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9862357,
+            "SInvRate": 98.62357,
+            "LInvRate": 98.62357
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "優先股",
+            "InvRate": 0.001264,
+            "SInvRate": 0.1264,
+            "LInvRate": 0.1264
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "可換股債券",
+            "InvRate": 0.002048,
+            "SInvRate": 0.2048,
+            "LInvRate": 0.2048
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0104281,
+            "SInvRate": 1.04281,
+            "LInvRate": 1.04281
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0000242,
+            "SInvRate": 0.00242,
+            "LInvRate": 0.00242
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 8.9864
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 8.951
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.9472
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 8.9114
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.8886
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.9546
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 8.9739
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.9249
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 8.9304
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 8.9862
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 9.0378
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 9.0166
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 9.1642
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 9.1441
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 9.2844
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 9.4111
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 9.4104
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 9.4963
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 9.4635
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 9.4911
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 9.3595
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 9.3239
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 9.3209
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 9.3502
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 9.3226
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 9.341
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 9.3381
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 9.3815
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 9.4149
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 9.4169
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160401",
+            "Name": "Banks",
+            "InvRate": 0.05787
+        }
+    ]
+}

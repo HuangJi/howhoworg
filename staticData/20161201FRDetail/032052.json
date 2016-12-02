@@ -1,0 +1,263 @@
+{
+    "Area": "B",
+    "FundId": "032052",
+    "StarRatingFromEst": 3,
+    "Name": "法巴百利達全球金融股票基金/年配 (歐元)",
+    "NameEng": "Parvest Equity World Finance C D",
+    "NameWarning": "(基金之配息來源可能為本金)",
+    "CPId": "14",
+    "CPName": "法國巴黎投資盧森堡公司",
+    "CPNameEng": "BNP Paribas Investment Partners Lux",
+    "AgentCPId": "323",
+    "AgentCPName": "法銀巴黎證券投資顧問股份有限公司",
+    "AgentCPNameEng": "BNP Paribas Investment Partners Taiwan",
+    "RctName": "盧森堡",
+    "Count": 13,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20130517",
+    "CategoryId": "184",
+    "CategoryName": "金融服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "此子基金主要投資於金融行業內公司的股票.這些公司可包括銀行,消費信貸機構,投資銀行,經紀公司,資產管理公司和保險公司.此基金的管理遵循自下而上的投資方法,即在選擇股票時,強調首先分析每種股票的具體特點.基金經理基於國際上金融行業的股票分類進行股票選擇.基金經理的職責為構建呈現出良好的風險/收益比率的分散化股票投資組合.若有利的投資機會出現,此基金亦可投資於其他金融工具.",
+    "Custodian": "法國巴黎證券(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 22435944,
+    "PriceTransDate": "20161130",
+    "Price": 226.93,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.45,
+    "UpDownRate": 0.2,
+    "Rr1w": -0.99437,
+    "Rr1M": 4.26081,
+    "Rr3M": 6.33977,
+    "Rr6M": 7.03808,
+    "RrThisYear": -4.83726,
+    "Rr1Y": -4.81558,
+    "Rr2Y": 5.18404,
+    "Rr3Y": 19.5075,
+    "Rr5Y": 75.16207,
+    "Rr10Y": -32.18752,
+    "RrFromEst": 36.28071,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -3.76,
+    "Beta1Y": 1.1,
+    "Sharpe1Y": -0.23,
+    "StdDev1Y": 18.77,
+    "Alpha3Y": -2.29,
+    "Beta3Y": 1.11,
+    "Sharpe3Y": -0.01,
+    "StdDev3Y": 15.21,
+    "AriMean3Y": -0.008,
+    "Alpha5Y": -2.6,
+    "Beta5Y": 1.06,
+    "Sharpe5Y": 0.47,
+    "StdDev5Y": 16.07,
+    "Alpha10Y": -2.35,
+    "Beta10Y": 1.13,
+    "Sharpe10Y": -0.09,
+    "StdDev10Y": 26.63,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9949886,
+            "SInvRate": 99.49886,
+            "LInvRate": 99.49886
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0040834,
+            "SInvRate": 0.40834,
+            "LInvRate": 0.40834
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.000928,
+            "SInvRate": 0.0928,
+            "LInvRate": 0.0928
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 226.93
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 224.56
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 224.11
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 226.34
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 227.7
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 226.43
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 224.51
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 224.28
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 223.56
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 222.13
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 223.3
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 222.93
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 217.11
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 215.9
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 209.03
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 201.73
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 201.47
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 195.66
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 197.76
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 196.46
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 202.12
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 203.46
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 204.08
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 203.6
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 204
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 204.15
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 203.3
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 202.49
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 201.76
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 200.47
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 64.09272
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 11.27894
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 8.28419
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 6.25597
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 2.9919
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 2.76385
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Business Services",
+            "InvRate": 1.90398
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 0.92099
+        }
+    ]
+}

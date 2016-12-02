@@ -1,0 +1,164 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9710594,
+            "SInvRate": 97.10594,
+            "LInvRate": 97.10594
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0229129,
+            "SInvRate": 2.29129,
+            "LInvRate": 2.29129
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0060277,
+            "SInvRate": 0.60277,
+            "LInvRate": 0.60277
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 30.39833
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 9.91457
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 9.36862
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 8.41591
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.67284
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 6.70807
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 5.6369
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 3.76307
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 3.52677
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 2.8325
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 2.74938
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Farm & Construction Machinery",
+            "InvRate": 1.86671
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Coal",
+            "InvRate": 1.64555
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 1.10111
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 0.8996
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 0.60599
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 0
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK RAKYAT INDONESIA PERSER IDR250",
+            "InvRate": 10.04696
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TELEKOMUNIKASI INDONESIA PER IDR50",
+            "InvRate": 8.89442
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK CENTRAL ASIA TBK PT IDR62.5",
+            "InvRate": 8.86048
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ASTRA INTERNATIONAL TBK PT IDR50",
+            "InvRate": 7.67284
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK NEGARA INDONESIA PERSER IDR7500",
+            "InvRate": 4.92359
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "BANK MANDIRI PERSERO TBK PT IDR500",
+            "InvRate": 4.76787
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SEMEN INDONESIA PERSERO TBK IDR100",
+            "InvRate": 4.08141
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MATAHARI DEPARTMENT STORE TB NPV",
+            "InvRate": 3.76307
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PERUSAHAAN GAS NEGARA PERSER IDR100",
+            "InvRate": 3.52677
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INDOFOOD SUKSES MAKMUR TBK P IDR100",
+            "InvRate": 3.40343
+        }
+    ]
+}

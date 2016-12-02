@@ -1,0 +1,125 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.0007567001513400303,
+            "SInvRate": 0.07567,
+            "LInvRate": 0.07567
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8197332639466528,
+            "SInvRate": 81.97331,
+            "LInvRate": 81.97331
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.002280700456140091,
+            "SInvRate": 0.22807,
+            "LInvRate": 0.22807
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.004210800842160169,
+            "SInvRate": 0.42108,
+            "LInvRate": 0.42108
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.16075823215164642,
+            "SInvRate": 16.07582,
+            "LInvRate": 16.07582
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.01226030245206049,
+            "SInvRate": 1.22603,
+            "LInvRate": 1.22603
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 0.042
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.01105
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 0.01077
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 0.00419
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.00118
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─美國優質債券基金A(美元)",
+            "InvRate": 12.69915
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "保德信WIP新興市場固定收益基金I",
+            "InvRate": 12.434
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-歐洲高收益基金(Y類股份累計股份-歐元)",
+            "InvRate": 9.14307
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-歐元債券基金",
+            "InvRate": 8.99474
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO美國高收益債券基金-E級類別(收息股份)",
+            "InvRate": 8.29071
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富達基金-新興市場債券基金(美元累積)",
+            "InvRate": 8.08947
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "瀚亞投資─美國高收益債券基金A(美元)",
+            "InvRate": 7.36541
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "富蘭克林坦伯頓全球投資系列-公司債基金美元A (acc)股",
+            "InvRate": 6.28128
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PIMCO多元收益債券基金-E級類別(收息股份)",
+            "InvRate": 4.49588
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "貝萊德亞洲老虎債券基金 A2 美元",
+            "InvRate": 4.14757
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "Area": "B",
+    "FundId": "102005",
+    "StarRatingFromEst": 3,
+    "Name": "瑞士寶盛債券基金系列-多元機會債券基金",
+    "NameEng": "JB BF Credit Opportunities-EUR E",
+    "NameWarning": "",
+    "CPId": "54",
+    "CPName": "瑞士及環球資產管理(盧森堡)公司",
+    "CPNameEng": "GAM (Luxembourg) SA",
+    "AgentCPId": "335",
+    "AgentCPName": "康和証券投資顧問股份有限公司",
+    "AgentCPNameEng": "Concord Capital Management Corp.",
+    "RctName": "盧森堡",
+    "Count": 16,
+    "CurrencyCode": "EUR",
+    "InceptionYmdOn": "20030430",
+    "CategoryId": "1009",
+    "CategoryName": "全球債券 - 靈活策略 - 歐元對沖",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本公司瑞士寶盛債券基金系列-多元機會債券基金(CREDIT OPPORTUNITIES BOND FUND)之投資目標,係為奉行風險分散之準則,於長期達成高於平均之報酬率.為達到此等目標,多元機會債券基金以至少三分之二的資產,投資於受認可國家發行機構所發行或擔保的各種信用水準,存續期間及計價幣別的固定和浮動利率證券,債權證券及其他債權.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": 0,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 0,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 194657985,
+    "PriceTransDate": "20161129",
+    "Price": 158.56,
+    "PerformanceTransDate": "20161031",
+    "UpDown": -0.03,
+    "UpDownRate": -0.02,
+    "Rr1w": -0.6552,
+    "Rr1M": -0.81917,
+    "Rr3M": -0.17229,
+    "Rr6M": 2.43071,
+    "RrThisYear": 6.12245,
+    "Rr1Y": 4.76559,
+    "Rr2Y": 1.04634,
+    "Rr3Y": 6.40783,
+    "Rr5Y": 18.73536,
+    "Rr10Y": 45.2983,
+    "RrFromEst": 62.24002,
+    "RatingTransDate": "201610",
+    "Alpha1Y": 2.9,
+    "Beta1Y": 0.9,
+    "Sharpe1Y": 1.42,
+    "StdDev1Y": 3.51,
+    "Alpha3Y": 1.41,
+    "Beta3Y": 0.77,
+    "Sharpe3Y": 0.58,
+    "StdDev3Y": 3.82,
+    "AriMean3Y": 0.179,
+    "Alpha5Y": 4.23,
+    "Beta5Y": 0.61,
+    "Sharpe5Y": 0.78,
+    "StdDev5Y": 4.42,
+    "Alpha10Y": 0.19,
+    "Beta10Y": 0.95,
+    "Sharpe10Y": 0.46,
+    "StdDev10Y": 5.63,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160801",
+            "Name": "債券",
+            "InvRate": 0.9297003,
+            "SInvRate": 92.97003,
+            "LInvRate": 92.97003
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "優先股",
+            "InvRate": 0.0000046,
+            "SInvRate": 0.00046,
+            "LInvRate": 0.00046
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "可換股債券",
+            "InvRate": 0.0098503,
+            "SInvRate": 0.98503,
+            "LInvRate": 0.98503
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "現金",
+            "InvRate": 0.0499512,
+            "SInvRate": 4.99512,
+            "LInvRate": 4.99512
+        },
+        {
+            "TransDate": "20160801",
+            "Name": "其他",
+            "InvRate": 0.0104936,
+            "SInvRate": 1.04936,
+            "LInvRate": 1.04936
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 158.56
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 158.59
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 158.38
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 158.36
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 158.33
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 158.66
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 158.44
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 158.3
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 158.75
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 158.88
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 158.95
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 157.93
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 159.52
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 160.01
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 161.32
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 162.32
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 162.13
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 161.81
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 161.79
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 161.82
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 162.24
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 162.26
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 162.49
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 162.91
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 163.26
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 163.31
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 163.22
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 163.15
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 162.98
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 162.76
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160401",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.00176
+        }
+    ]
+}

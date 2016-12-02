@@ -1,0 +1,71 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "債券",
+            "InvRate": 0.9553245,
+            "SInvRate": 95.53245,
+            "LInvRate": 95.53245
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0446755,
+            "SInvRate": 4.46755,
+            "LInvRate": 4.46755
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FEDERATIVE 10% 01/25",
+            "InvRate": 4.25864
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 10.5% 12/26",
+            "InvRate": 4.23476
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNITED 5.75% 03/26",
+            "InvRate": 3.88269
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 6.3% 02/18",
+            "InvRate": 3.80415
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 8.375% 09/26",
+            "InvRate": 2.8864
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "NOTA DO 10% 01/23",
+            "InvRate": 2.87671
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 2% 04/21",
+            "InvRate": 2.47213
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 8.375% 03/34",
+            "InvRate": 2.45079
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "REPUBLIC OF 4% 10/23",
+            "InvRate": 2.44804
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "FEDERATION 3.759% 03/19",
+            "InvRate": 2.4065
+        }
+    ]
+}

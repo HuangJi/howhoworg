@@ -1,0 +1,42 @@
+[
+    {
+        "Currency": "USD",
+        "TransDate": "20160801",
+        "Div": 0.4595
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20150803",
+        "Div": 0.4566
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20140801",
+        "Div": 0.1039
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20130801",
+        "Div": 0.049
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20120801",
+        "Div": 0.0025
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20090803",
+        "Div": 0.1478
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20060801",
+        "Div": 0.0176
+    },
+    {
+        "Currency": "USD",
+        "TransDate": "20050801",
+        "Div": 0.028
+    }
+]

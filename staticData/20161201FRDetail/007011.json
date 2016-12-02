@@ -1,0 +1,268 @@
+{
+    "Area": "B",
+    "FundId": "007011",
+    "StarRatingFromEst": 4,
+    "Name": "摩根基金 - 環球醫療科技基金 - JPM環球醫療科技(美元) - A股(累計)",
+    "NameEng": "JPM Global Healthcare A (acc) USD",
+    "NameWarning": "",
+    "CPId": "383",
+    "CPName": "摩根資產管理(歐洲)有限公司",
+    "CPNameEng": "JPMorgan Asset Management (Europe) S.à r.l.",
+    "AgentCPId": "80",
+    "AgentCPName": "摩根證券投資信託股份有限公司",
+    "AgentCPNameEng": "JPMorgan Asset Management (Taiwan) Ltd",
+    "RctName": "盧森堡",
+    "Count": 77,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20091002",
+    "CategoryId": "185",
+    "CategoryName": "健康護理股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "主要投資於全球製藥,生物科技,保健服務,醫療技術及生命科學之企業((醫療保健企業)),以期達到基金之回報目標.子基金之資產(不包括現金及與現金相當之財產)至少67%將投資於醫療保健企業之權益證券.此等證券之發行人可位於任何國家,包括新興市場.可輔助持有債權證券,現金及約當現金.子基金可投資於可轉讓證券集體投資計畫及其他集體投資計畫.子基金可投資於任何貨幣之資產,且子基金之貨幣曝險可進行避險或參考基金指標進行管理.子基金可為避險目的及有效管理投資組合而投資於衍生性金融工具.",
+    "Custodian": "摩根大通銀行(盧森堡)",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.5,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 35000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20160930",
+    "FundSize": 3187579596,
+    "PriceTransDate": "20161130",
+    "Price": 253.75,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.11,
+    "UpDownRate": 0.04,
+    "Rr1w": -3.57031,
+    "Rr1M": -7.80599,
+    "Rr3M": -12.08327,
+    "Rr6M": -7.88201,
+    "RrThisYear": -17.20676,
+    "Rr1Y": -16.28461,
+    "Rr2Y": -13.42116,
+    "Rr3Y": 9.91949,
+    "Rr5Y": 106.45108,
+    "Rr10Y": 127.447708,
+    "RrFromEst": 145.780045,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -7.64,
+    "Beta1Y": 1.22,
+    "Sharpe1Y": -0.96,
+    "StdDev1Y": 17.21,
+    "Alpha3Y": -3.8,
+    "Beta3Y": 1.14,
+    "Sharpe3Y": 0.27,
+    "StdDev3Y": 15.4,
+    "AriMean3Y": 0.362,
+    "Alpha5Y": -0.36,
+    "Beta5Y": 1.19,
+    "Sharpe5Y": 1.02,
+    "StdDev5Y": 15.36,
+    "Alpha10Y": 0.7,
+    "Beta10Y": 1.12,
+    "Sharpe10Y": 0.53,
+    "StdDev10Y": 16.44,
+    "RiskRatingFromEst": 3,
+    "ProviderId": "73",
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9906755,
+            "SInvRate": 99.06755,
+            "LInvRate": 99.06755
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0078781,
+            "SInvRate": 0.78781,
+            "LInvRate": 0.78781
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0014464,
+            "SInvRate": 0.14464,
+            "LInvRate": 0.14464
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 253.75
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 253.64
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 254.47
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 255.26
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 250.92
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 256.43
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 257.26
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 257.95
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 258.33
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 258.97
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 257.95
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 258.41
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 258.73
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 261.89
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 256.72
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 243.87
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 245.23
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 241.05
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 241.52
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 243.91
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 245.42
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 245.78
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 248.49
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 253.38
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 251.74
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 253.84
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 254.88
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 255.12
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 256.48
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 256.57
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Biotechnology",
+            "InvRate": 43.28143
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 31.88034
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Plans",
+            "InvRate": 11.77469
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Devices",
+            "InvRate": 3.53973
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 2.7035
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 2.24958
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 2.00536
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 1.19719
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Medical Distribution",
+            "InvRate": 0.43573
+        }
+    ]
+}

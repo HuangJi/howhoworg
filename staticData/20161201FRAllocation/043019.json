@@ -1,0 +1,147 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9750441975044197,
+            "SInvRate": 97.50441,
+            "LInvRate": 97.50441
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.02495580249558025,
+            "SInvRate": 2.49558,
+            "LInvRate": 2.49558
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 27.82496
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 20.65997
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 9.40416
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 8.30812
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 7.04195
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 5.46656
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 4.93413
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 3.78704
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 3.58395
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Restaurants",
+            "InvRate": 2.26774
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.43467
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.32847
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.70518
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 0.5836
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.1739
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AMAZON.COM INC",
+            "InvRate": 5.26508
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COLGATE-PALMOLIVE CO",
+            "InvRate": 4.58224
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PHILIP MORRIS INTL INC",
+            "InvRate": 4.43666
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "NESTLE SA (REG)",
+            "InvRate": 3.90717
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COCA COLA CO",
+            "InvRate": 3.78704
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "L'OREAL SA ORD",
+            "InvRate": 3.69239
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COMCAST CORP CL A",
+            "InvRate": 3.58395
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INDITEX SA",
+            "InvRate": 3.58275
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LVMH MOET HENNESSY LOUIS VUITTON SE",
+            "InvRate": 3.48856
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ALPHABET INC CL A",
+            "InvRate": 3.37901
+        }
+    ]
+}

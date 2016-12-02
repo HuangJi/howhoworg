@@ -1,0 +1,249 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.8945284,
+            "SInvRate": 89.45284,
+            "LInvRate": 89.45284
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.1054056,
+            "SInvRate": 10.54056,
+            "LInvRate": 10.54056
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.000066,
+            "SInvRate": 0.0066,
+            "LInvRate": 0.0066
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 13.22168
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 8.16015
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 7.46907
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 5.87464
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 5.622
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Tobacco Products",
+            "InvRate": 4.87224
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 4.75491
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 3.54026
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 3.35278
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 3.35142
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.78602
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 2.63877
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 2.54945
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Metals & Mining",
+            "InvRate": 1.97557
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Online Media",
+            "InvRate": 1.82651
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.40222
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.37701
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Health Care Providers",
+            "InvRate": 1.37267
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.24843
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance",
+            "InvRate": 1.20437
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 1.09421
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Independent Power Producers",
+            "InvRate": 1.08331
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 1.07613
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 1.07406
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 1.01276
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 0.929
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Application Software",
+            "InvRate": 0.87244
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.79387
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 0.72226
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Asset Management",
+            "InvRate": 0.58201
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Education",
+            "InvRate": 0.5514
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.40908
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 0.38206
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Credit Services",
+            "InvRate": 0.27009
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TAIWAN SEMICONDUCTOR MANUFAC",
+            "InvRate": 3.79429
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KT&G CORP",
+            "InvRate": 2.84331
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA MOBILE LTD",
+            "InvRate": 2.64666
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SAMSUNG ELECTRONICS-PREF PREFERRED",
+            "InvRate": 2.64072
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "UNI-PRESIDENT ENTERPRISES CO",
+            "InvRate": 2.18973
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "GUANGDONG INVESTMENT LTD",
+            "InvRate": 2.10074
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SK TELECOM",
+            "InvRate": 2.08253
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHUNGHWA TELECOM LT-SPON ADR",
+            "InvRate": 2.06358
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ITC LTD",
+            "InvRate": 2.02892
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AIA GROUP LTD",
+            "InvRate": 1.94958
+        }
+    ]
+}

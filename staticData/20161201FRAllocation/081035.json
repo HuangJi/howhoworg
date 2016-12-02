@@ -1,0 +1,229 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20161001",
+            "Name": "股票",
+            "InvRate": 0.9678101,
+            "SInvRate": 96.78101,
+            "LInvRate": 96.78101
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "現金",
+            "InvRate": 0.0266504,
+            "SInvRate": 2.66504,
+            "LInvRate": 2.66504
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "其他",
+            "InvRate": 0.0055395,
+            "SInvRate": 0.55395,
+            "LInvRate": 0.55395
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20161001",
+            "Name": "Transportation & Logistics",
+            "InvRate": 13.42296
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Real Estate",
+            "InvRate": 11.89418
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Banks",
+            "InvRate": 10.55483
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Communication Services",
+            "InvRate": 6.30473
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Insurance - Life",
+            "InvRate": 6.23752
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 5.89234
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Conglomerates",
+            "InvRate": 5.55177
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Drug Manufacturers",
+            "InvRate": 4.79687
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.32103
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 3.54759
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Autos",
+            "InvRate": 2.75158
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Industrial Products",
+            "InvRate": 2.26906
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Integrated",
+            "InvRate": 2.20349
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 2.07993
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Personal Services",
+            "InvRate": 1.96193
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.74605
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 1.62893
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Chemicals",
+            "InvRate": 1.50876
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Semiconductors",
+            "InvRate": 1.47902
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Retail - Defensive",
+            "InvRate": 1.32643
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Utilities - Regulated",
+            "InvRate": 1.30127
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 1.25295
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.89633
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Restaurants",
+            "InvRate": 0.82854
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 0.61293
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Building Materials",
+            "InvRate": 0.27155
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Computer Hardware",
+            "InvRate": 0.07866
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 0.03268
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Coal",
+            "InvRate": 0.02707
+        },
+        {
+            "TransDate": "20161001",
+            "Name": "Steel",
+            "InvRate": 0.00032
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20161001",
+            "ExternalName": "AIA GRP NPV",
+            "InvRate": 6.12927
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "JARDINE STRATEGIC HLDGS USD0.05",
+            "InvRate": 5.55177
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "MTR CORP NPV",
+            "InvRate": 5.14102
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HSBC HLDGS USD0.5",
+            "InvRate": 4.06519
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "SWIRE PACIFIC B NPV",
+            "InvRate": 3.76531
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "CHINA MOBILE NPV",
+            "InvRate": 3.74718
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "ABERDEEN GBL SERV CHINA A EQTY Z 2 USD NAV",
+            "InvRate": 3.01637
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "KERRY LOGISTICS NETWORK HKD0.5",
+            "InvRate": 2.9675
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "HANG LUNG GRP NPV",
+            "InvRate": 2.80287
+        },
+        {
+            "TransDate": "20161001",
+            "ExternalName": "TONG REN TANG TECHNOLOGIES-H CNY1",
+            "InvRate": 2.75828
+        }
+    ]
+}

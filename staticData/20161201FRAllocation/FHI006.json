@@ -1,0 +1,173 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.6624213,
+            "SInvRate": 66.24213,
+            "LInvRate": 66.24213
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.0935116,
+            "SInvRate": 9.35116,
+            "LInvRate": 9.35116
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0769511,
+            "SInvRate": 7.69511,
+            "LInvRate": 7.69511
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1354,
+            "SInvRate": 13.54,
+            "LInvRate": 13.54
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.031716,
+            "SInvRate": 3.1716,
+            "LInvRate": 3.1716
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 19.34694
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 8.57233
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 7.90949
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 7.64764
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 5.83347
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 4.26772
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 2.85449
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 2.14271
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 1.77628
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 1.53528
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 1.45249
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 0.93977
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Devices",
+            "InvRate": 0.90156
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Banks",
+            "InvRate": 0.52661
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Forest Products",
+            "InvRate": 0.47879
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 0.05657
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "樺漢",
+            "InvRate": 6.88113
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "央債96-3",
+            "InvRate": 6.22627
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "鈊象電子",
+            "InvRate": 6.02155
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "美律",
+            "InvRate": 3.33048
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 3.13678
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "亞德客-KY",
+            "InvRate": 2.48395
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 2.33705
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "億豐",
+            "InvRate": 1.89598
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中華電",
+            "InvRate": 1.77628
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "東陽",
+            "InvRate": 1.66517
+        }
+    ]
+}

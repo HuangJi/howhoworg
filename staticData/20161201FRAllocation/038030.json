@@ -1,0 +1,152 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160501",
+            "Name": "股票",
+            "InvRate": 0.9566708,
+            "SInvRate": 95.66708,
+            "LInvRate": 95.66708
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "現金",
+            "InvRate": 0.0433292,
+            "SInvRate": 4.33292,
+            "LInvRate": 4.33292
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160501",
+            "Name": "Tobacco Products",
+            "InvRate": 19.07495
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 17.14155
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Drug Manufacturers",
+            "InvRate": 12.79297
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Application Software",
+            "InvRate": 9.36803
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 7.06975
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Industrial Products",
+            "InvRate": 4.73058
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Business Services",
+            "InvRate": 4.29735
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 4.26972
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Entertainment",
+            "InvRate": 4.01571
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Credit Services",
+            "InvRate": 2.77016
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Communication Equipment",
+            "InvRate": 2.30474
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Biotechnology",
+            "InvRate": 2.28114
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.96841
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Medical Devices",
+            "InvRate": 1.50615
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "REITs",
+            "InvRate": 1.04189
+        },
+        {
+            "TransDate": "20160501",
+            "Name": "Manufacturing - Apparel & Furniture",
+            "InvRate": 1.03397
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160501",
+            "ExternalName": "IMPERIAL BRANDS PLC COMMON STOCK GBP.1",
+            "InvRate": 5.1679
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "GLAXOSMITHKLINE PLC COMMON STOCK GBP.25",
+            "InvRate": 5.14609
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "MICROSOFT CORP COMMON STOCK USD.00000625",
+            "InvRate": 4.85029
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "NESTLE SA COMMON STOCK CHF.1",
+            "InvRate": 4.84102
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "PHILIP MORRIS INTERNATIONAL IN COMMON STOCK",
+            "InvRate": 4.70884
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "JOHNSON & JOHNSON COMMON STOCK USD1.",
+            "InvRate": 4.35912
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "ALTRIA GROUP INC COMMON STOCK USD.333",
+            "InvRate": 4.05342
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "UNILEVER PLC COMMON STOCK GBP.0311",
+            "InvRate": 3.70439
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "NOVARTIS AG COMMON STOCK CHF.5",
+            "InvRate": 3.28776
+        },
+        {
+            "TransDate": "20160501",
+            "ExternalName": "PROCTER & GAMBLE CO/THE COMMON STOCK",
+            "InvRate": 3.16781
+        }
+    ]
+}

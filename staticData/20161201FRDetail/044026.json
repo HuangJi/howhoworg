@@ -1,0 +1,247 @@
+{
+    "Area": "B",
+    "FundId": "044026",
+    "StarRatingFromEst": 3,
+    "Name": "駿利資產管理基金 - 駿利高收益基金A美元入息",
+    "NameEng": "Janus High Yield A USD Inc",
+    "NameWarning": "本基金主要係投資於非投資等級之高風險債券，本基金某些股份類別之配息來源可能為本金",
+    "CPId": "28",
+    "CPName": "駿利資產管理國際有限公司",
+    "CPNameEng": "Janus Capital International Ltd",
+    "AgentCPId": "337",
+    "AgentCPName": "駿利證券投資顧問股份有限公司",
+    "AgentCPNameEng": "Janus Capital Taiwan Limited",
+    "RctName": "愛爾蘭",
+    "Count": 45,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "19981224",
+    "CategoryId": "222",
+    "CategoryName": "美元高收益債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "本基金之主要投資目標是獲取高息回報.資本增值是其次目標.本基金主要投資於美國.",
+    "Custodian": "花旗集團存託憑證服務有限公司愛爾蘭 ",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2500,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "分配",
+    "FrontLoadFee": 1.5,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 662896045,
+    "PriceTransDate": "20161130",
+    "Price": 8.27,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.01,
+    "UpDownRate": 0.12,
+    "Rr1w": -0.83135,
+    "Rr1M": 0.40119,
+    "Rr3M": 2.60078,
+    "Rr6M": 5.83237,
+    "RrThisYear": 10.08463,
+    "Rr1Y": 5.91908,
+    "Rr2Y": 3.44178,
+    "Rr3Y": 7.52657,
+    "Rr5Y": 27.99542,
+    "Rr10Y": 67.87548,
+    "RrFromEst": 161.373734,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.03,
+    "Beta1Y": 0.69,
+    "Sharpe1Y": 1.02,
+    "StdDev1Y": 5.5,
+    "Alpha3Y": -1.02,
+    "Beta3Y": 0.76,
+    "Sharpe3Y": 0.5,
+    "StdDev3Y": 4.8,
+    "AriMean3Y": 0.211,
+    "Alpha5Y": -0.87,
+    "Beta5Y": 0.83,
+    "Sharpe5Y": 1.01,
+    "StdDev5Y": 4.94,
+    "Alpha10Y": -0.96,
+    "Beta10Y": 0.81,
+    "Sharpe10Y": 0.54,
+    "StdDev10Y": 8.88,
+    "RiskRatingFromEst": 3,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9101427,
+            "SInvRate": 91.01427,
+            "LInvRate": 91.01427
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.0045246,
+            "SInvRate": 0.45246,
+            "LInvRate": 0.45246
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "可換股債券",
+            "InvRate": 0.0018622,
+            "SInvRate": 0.18622,
+            "LInvRate": 0.18622
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0641981,
+            "SInvRate": 6.41981,
+            "LInvRate": 6.41981
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0192724,
+            "SInvRate": 1.92724,
+            "LInvRate": 1.92724
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 8.27
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 8.26
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 8.26
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 8.25
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 8.26
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 8.25
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 8.23
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 8.22
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 8.23
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 8.21
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 8.22
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 8.23
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 8.28
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 8.28
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 8.3
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 8.32
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 8.32
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 8.28
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 8.3
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 8.3
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 8.33
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 8.35
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 8.37
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 8.39
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 8.4
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 8.42
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 8.42
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 8.41
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 8.41
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 8.39
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20151201",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 0.39089
+        },
+        {
+            "TransDate": "20151201",
+            "Name": "Homebuilding & Construction",
+            "InvRate": 0.1684
+        }
+    ]
+}

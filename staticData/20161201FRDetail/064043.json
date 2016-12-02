@@ -1,0 +1,293 @@
+{
+    "Area": "B",
+    "FundId": "064043",
+    "StarRatingFromEst": 3,
+    "Name": "歐義銳榮金融基金 R2",
+    "NameEng": "Eurizon EasyFund Eq Financial LTE R2",
+    "NameWarning": "",
+    "CPId": "34",
+    "CPName": "歐義銳榮資產管理公司",
+    "CPNameEng": "Eurizon Capital S.A.",
+    "AgentCPId": "334",
+    "AgentCPName": "第一金證券投資顧問股份有限公司",
+    "AgentCPNameEng": "First Captial Management Inc",
+    "RctName": "盧森堡",
+    "Count": 10,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20100211",
+    "CategoryId": "184",
+    "CategoryName": "金融服務股票",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "股票基金",
+    "InvestmentStrategy": "本子基金之資產淨值主要投資在經營於銀行業部門(例如:銀行,金融公司與金融中介機構)之發行人所發行之股票之相關連之股票,可轉換為股票之債券或任何其他證券.",
+    "Custodian": "道富銀行盧森堡",
+    "CustodianFee": null,
+    "CustodianFeeUnitNameEng": null,
+    "ManagementFee": 1.8,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 700,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 3,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 33513925.06,
+    "PriceTransDate": "20161129",
+    "Price": 82.16,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.23,
+    "UpDownRate": 0.28,
+    "Rr1w": -0.03918,
+    "Rr1M": 2.08055,
+    "Rr3M": 4.07941,
+    "Rr6M": 2.50435,
+    "RrThisYear": -1.13666,
+    "Rr1Y": -3.23641,
+    "Rr2Y": -6.64715,
+    "Rr3Y": -2.42224,
+    "Rr5Y": 38.98674,
+    "Rr10Y": null,
+    "RrFromEst": 27.10062,
+    "RatingTransDate": "201610",
+    "Alpha1Y": -1.75,
+    "Beta1Y": 1,
+    "Sharpe1Y": -0.14,
+    "StdDev1Y": 16.76,
+    "Alpha3Y": -1.94,
+    "Beta3Y": 1,
+    "Sharpe3Y": 0,
+    "StdDev3Y": 13.31,
+    "AriMean3Y": 0.005,
+    "Alpha5Y": -1.98,
+    "Beta5Y": 1,
+    "Sharpe5Y": 0.51,
+    "StdDev5Y": 14.8,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 4,
+    "ProviderId": null,
+    "EcAllot": "Y",
+    "RspAllot": "Y",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160701",
+            "Name": "股票",
+            "InvRate": 0.9896601010339899,
+            "SInvRate": 98.96602,
+            "LInvRate": 98.96602
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "優先股",
+            "InvRate": 0.000001099999890000011,
+            "SInvRate": 0.00011,
+            "LInvRate": 0.00011
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "現金",
+            "InvRate": 0.010338798966120104,
+            "SInvRate": 1.03388,
+            "LInvRate": 1.03388
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161129",
+            "Price": 82.16
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 81.93
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 82.74
+        },
+        {
+            "TransDate": "20161124",
+            "Price": 82.64
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 82.56
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 82.53
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 82.26
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 81.8
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 82.2
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 81.64
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 82.29
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 82.1
+        },
+        {
+            "TransDate": "20161111",
+            "Price": 81.03
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 80.67
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 78.29
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 76.9
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 76.67
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 75.11
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 75.76
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 75.53
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 76.54
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 76.65
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 76.9
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 76.85
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 76.54
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 76.57
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 76.25
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 76.33
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 76.25
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 75.66
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160701",
+            "Name": "Banks",
+            "InvRate": 47.22387
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance",
+            "InvRate": 9.59618
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "REITs",
+            "InvRate": 7.11684
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Life",
+            "InvRate": 6.08719
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Real Estate",
+            "InvRate": 5.68575
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.62497
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Asset Management",
+            "InvRate": 4.35049
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Property & Casualty",
+            "InvRate": 3.93458
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Credit Services",
+            "InvRate": 3.60149
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Communication Services",
+            "InvRate": 2.60158
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Business Services",
+            "InvRate": 2.10576
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Insurance - Specialty",
+            "InvRate": 1.6466
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Application Software",
+            "InvRate": 0.39057
+        },
+        {
+            "TransDate": "20160701",
+            "Name": "Consulting & Outsourcing",
+            "InvRate": 0.00014
+        }
+    ]
+}

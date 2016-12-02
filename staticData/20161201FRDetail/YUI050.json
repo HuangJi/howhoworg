@@ -1,0 +1,222 @@
+{
+    "Area": "A",
+    "FundId": "YUI050",
+    "StarRatingFromEst": null,
+    "Name": "元大美元傘型證券投資信託基金之元大全球美元公司債券證券投資信託基金-美元(A)不配息",
+    "NameEng": "Yuanta Global USD Corporate Bond USD A",
+    "NameWarning": "",
+    "CPId": "21",
+    "CPName": "元大證券投資信託股份有限公司",
+    "CPNameEng": "Yuanta Security Inv Trust Co., Ltd",
+    "AgentCPId": "21",
+    "AgentCPName": "元大證券投資信託股份有限公司",
+    "AgentCPNameEng": "Yuanta Security Inv Trust Co., Ltd",
+    "RctName": "台灣",
+    "Count": 21,
+    "CurrencyCode": "USD",
+    "InceptionYmdOn": "20160310",
+    "CategoryId": "304",
+    "CategoryName": "美元企業債券",
+    "BroadAssetClassId": null,
+    "BroadAssetClassName": "債券基金",
+    "InvestmentStrategy": "投資於國內外以美元計價之貨幣市場工具及有價證券之總金額,不得低於本子基金淨資產價值百分之六十.",
+    "Custodian": "上海商業儲蓄銀行",
+    "CustodianFee": 0.25,
+    "CustodianFeeUnitNameEng": "Percentage",
+    "ManagementFee": 1,
+    "ManagementFeeUnitNameEng": "Percentage",
+    "MinInvestment": 2000,
+    "MinInvestmentUnit": "Monetary",
+    "DistnbutionStatus": "不分配",
+    "FrontLoadFee": 2,
+    "FrontLoadFeeUnitNameEng": "Percentage",
+    "SizeTransDate": "20161031",
+    "FundSize": 28722369.81,
+    "PriceTransDate": "20161130",
+    "Price": 10.034,
+    "PerformanceTransDate": "20161031",
+    "UpDown": 0.013,
+    "UpDownRate": 0.13,
+    "Rr1w": -0.60197,
+    "Rr1M": -1.09889,
+    "Rr3M": -1.12808,
+    "Rr6M": 2.19421,
+    "RrThisYear": null,
+    "Rr1Y": null,
+    "Rr2Y": null,
+    "Rr3Y": null,
+    "Rr5Y": null,
+    "Rr10Y": null,
+    "RrFromEst": 3.86204,
+    "RatingTransDate": null,
+    "Alpha1Y": null,
+    "Beta1Y": null,
+    "Sharpe1Y": null,
+    "StdDev1Y": null,
+    "Alpha3Y": null,
+    "Beta3Y": null,
+    "Sharpe3Y": null,
+    "StdDev3Y": null,
+    "AriMean3Y": null,
+    "Alpha5Y": null,
+    "Beta5Y": null,
+    "Sharpe5Y": null,
+    "StdDev5Y": null,
+    "Alpha10Y": null,
+    "Beta10Y": null,
+    "Sharpe10Y": null,
+    "StdDev10Y": null,
+    "RiskRatingFromEst": 2,
+    "ProviderId": "20",
+    "EcAllot": "Y",
+    "RspAllot": "N",
+    "EcRedem": "Y",
+    "EcSwitch": "Y",
+    "StopTradeType": null,
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.8739514,
+            "SInvRate": 87.39514,
+            "LInvRate": 87.39514
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1173,
+            "SInvRate": 11.73,
+            "LInvRate": 11.73
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0087486,
+            "SInvRate": 0.87486,
+            "LInvRate": 0.87486
+        }
+    ],
+    "Recent30DPrice": [
+        {
+            "TransDate": "20161130",
+            "Price": 10.034
+        },
+        {
+            "TransDate": "20161129",
+            "Price": 10.0806
+        },
+        {
+            "TransDate": "20161128",
+            "Price": 10.0676
+        },
+        {
+            "TransDate": "20161125",
+            "Price": 10.0443
+        },
+        {
+            "TransDate": "20161123",
+            "Price": 10.0437
+        },
+        {
+            "TransDate": "20161122",
+            "Price": 10.0631
+        },
+        {
+            "TransDate": "20161121",
+            "Price": 10.0569
+        },
+        {
+            "TransDate": "20161118",
+            "Price": 10.0442
+        },
+        {
+            "TransDate": "20161117",
+            "Price": 10.0897
+        },
+        {
+            "TransDate": "20161116",
+            "Price": 10.1417
+        },
+        {
+            "TransDate": "20161115",
+            "Price": 10.1408
+        },
+        {
+            "TransDate": "20161114",
+            "Price": 10.1202
+        },
+        {
+            "TransDate": "20161110",
+            "Price": 10.1919
+        },
+        {
+            "TransDate": "20161109",
+            "Price": 10.2335
+        },
+        {
+            "TransDate": "20161108",
+            "Price": 10.35
+        },
+        {
+            "TransDate": "20161107",
+            "Price": 10.3639
+        },
+        {
+            "TransDate": "20161104",
+            "Price": 10.3854
+        },
+        {
+            "TransDate": "20161103",
+            "Price": 10.3663
+        },
+        {
+            "TransDate": "20161102",
+            "Price": 10.3765
+        },
+        {
+            "TransDate": "20161101",
+            "Price": 10.3707
+        },
+        {
+            "TransDate": "20161031",
+            "Price": 10.3861
+        },
+        {
+            "TransDate": "20161028",
+            "Price": 10.378
+        },
+        {
+            "TransDate": "20161027",
+            "Price": 10.38
+        },
+        {
+            "TransDate": "20161026",
+            "Price": 10.4202
+        },
+        {
+            "TransDate": "20161025",
+            "Price": 10.4542
+        },
+        {
+            "TransDate": "20161024",
+            "Price": 10.449
+        },
+        {
+            "TransDate": "20161021",
+            "Price": 10.4736
+        },
+        {
+            "TransDate": "20161020",
+            "Price": 10.4693
+        },
+        {
+            "TransDate": "20161019",
+            "Price": 10.4787
+        },
+        {
+            "TransDate": "20161018",
+            "Price": 10.4728
+        }
+    ],
+    "IndustryRatio": []
+}

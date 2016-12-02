@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9127818,
+            "SInvRate": 91.27818,
+            "LInvRate": 91.27818
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0575,
+            "SInvRate": 5.75,
+            "LInvRate": 5.75
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0297182,
+            "SInvRate": 2.97182,
+            "LInvRate": 2.97182
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "105央債甲4",
+            "InvRate": 10.35143
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "T 2.125%",
+            "InvRate": 9.05748
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TII 0.125%",
+            "InvRate": 5.6514
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MADRID 0.997%",
+            "InvRate": 4.2685
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VOD 3.375%",
+            "InvRate": 3.58364
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "104央債甲12",
+            "InvRate": 3.5615
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PEMEX 1.875%",
+            "InvRate": 3.49103
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "IDBI 4.25%",
+            "InvRate": 3.37977
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PPL 3.875%",
+            "InvRate": 3.29808
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "VIVFP 1.875%",
+            "InvRate": 3.29764
+        }
+    ]
+}

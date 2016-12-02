@@ -1,0 +1,146 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.8985601,
+            "SInvRate": 89.85601,
+            "LInvRate": 89.85601
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.00849,
+            "SInvRate": 0.849,
+            "LInvRate": 0.849
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.1129,
+            "SInvRate": 11.29,
+            "LInvRate": 11.29
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0199501,
+            "SInvRate": -1.99501,
+            "LInvRate": -1.99501
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 25.04198
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 23.3529
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 11.16301
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 9.113
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 7.10848
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 5.00012
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 4.44342
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 1.33512
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Instruments & Equipment",
+            "InvRate": 1.03808
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 0.90728
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.78551
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 0.56713
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Alibaba Group Hldg ADR",
+            "InvRate": 9.113
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Tencent Hldgs",
+            "InvRate": 9.08511
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 8.9775
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Samsung Electronics",
+            "InvRate": 7.73256
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SK Hynix",
+            "InvRate": 6.0856
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "啟碁",
+            "InvRate": 4.45321
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Nintendo Co",
+            "InvRate": 4.22089
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Sony Corp",
+            "InvRate": 3.4183
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Keyence Corp",
+            "InvRate": 3.27452
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "大立光",
+            "InvRate": 2.81068
+        }
+    ]
+}

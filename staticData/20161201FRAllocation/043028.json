@@ -1,0 +1,261 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9586439958643996,
+            "SInvRate": 95.86439,
+            "LInvRate": 95.86439
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "優先股",
+            "InvRate": 0.002720300272030027,
+            "SInvRate": 0.27203,
+            "LInvRate": 0.27203
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.030637103063710307,
+            "SInvRate": 3.06371,
+            "LInvRate": 3.06371
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.00799860079986008,
+            "SInvRate": 0.79986,
+            "LInvRate": 0.79986
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 10.57181
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Application Software",
+            "InvRate": 9.82304
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Alcoholic",
+            "InvRate": 8.42225
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 5.48942
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Business Services",
+            "InvRate": 5.38884
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Metals & Mining",
+            "InvRate": 4.95871
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Brokers & Exchanges",
+            "InvRate": 4.2186
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 4.03241
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Computer Hardware",
+            "InvRate": 3.70838
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Consumer Packaged Goods",
+            "InvRate": 3.54654
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Beverages - Non-Alcoholic",
+            "InvRate": 3.19805
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Tobacco Products",
+            "InvRate": 2.94272
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Agriculture",
+            "InvRate": 2.74492
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Online Media",
+            "InvRate": 2.53342
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 2.51508
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 2.25023
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - E&P",
+            "InvRate": 1.84541
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Drug Manufacturers",
+            "InvRate": 1.77643
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Advertising & Marketing Services",
+            "InvRate": 1.77342
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 1.50602
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Aerospace & Defense",
+            "InvRate": 1.47833
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Insurance - Life",
+            "InvRate": 1.34713
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Education",
+            "InvRate": 1.29201
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Chemicals",
+            "InvRate": 1.17906
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 1.12295
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Entertainment",
+            "InvRate": 1.08677
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 1.06932
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Defensive",
+            "InvRate": 0.82825
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Biotechnology",
+            "InvRate": 0.6348
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Health Care Providers",
+            "InvRate": 0.53196
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Credit Services",
+            "InvRate": 0.52721
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Employment Services",
+            "InvRate": 0.33958
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Drilling",
+            "InvRate": 0.28928
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Retail - Apparel & Specialty",
+            "InvRate": 0.28639
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Medical Diagnostics & Research",
+            "InvRate": 0.09093
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MOLSON COORS BREWING CO B",
+            "InvRate": 3.31608
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ANHEUSER BUSCH IV SA NV SP ADR",
+            "InvRate": 3.21635
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PEPSICO INC",
+            "InvRate": 3.19805
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "COMCAST CORP CL A",
+            "InvRate": 3.16128
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PHILIP MORRIS INTL INC",
+            "InvRate": 2.94272
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHARTER COMMUNICATIONS INC A",
+            "InvRate": 2.74397
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LEIDOS HOLDINGS INC",
+            "InvRate": 2.52243
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SBA COMMUNICATIONS CORP CL A",
+            "InvRate": 2.27831
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PRICELINE GROUP INC",
+            "InvRate": 2.27074
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INTERCONTINENTAL EXCHANGE INC",
+            "InvRate": 2.24743
+        }
+    ]
+}

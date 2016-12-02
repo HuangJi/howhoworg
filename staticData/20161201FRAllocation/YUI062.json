@@ -1,0 +1,154 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9133807,
+            "SInvRate": 91.33807,
+            "LInvRate": 91.33807
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0937,
+            "SInvRate": 9.37,
+            "LInvRate": 9.37
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": -0.0070807,
+            "SInvRate": -0.70807,
+            "LInvRate": -0.70807
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "Utilities - Regulated",
+            "InvRate": 15.70277
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Services",
+            "InvRate": 13.8062
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Midstream",
+            "InvRate": 11.30594
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Autos",
+            "InvRate": 9.01762
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Travel & Leisure",
+            "InvRate": 7.83306
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Oil & Gas - Services",
+            "InvRate": 6.48343
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Transportation & Logistics",
+            "InvRate": 4.44112
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Communication Equipment",
+            "InvRate": 3.9829
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Airlines",
+            "InvRate": 3.65747
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Semiconductors",
+            "InvRate": 3.55951
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Industrial Products",
+            "InvRate": 3.26476
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Engineering & Construction",
+            "InvRate": 2.52864
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 1.97816
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Steel",
+            "InvRate": 1.97281
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Building Materials",
+            "InvRate": 1.80367
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "XINGDA INT`L HOLDINGS",
+            "InvRate": 9.01762
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA MOBILE LTD",
+            "InvRate": 6.91189
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "GALAXY ENTERTAINMENT GROUP L",
+            "InvRate": 4.51459
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "TRANSCANADA CORP",
+            "InvRate": 4.39733
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "ZTE CORP-H",
+            "InvRate": 3.9829
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "中華電",
+            "InvRate": 3.98214
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA OILFIELD SERVICES-H",
+            "InvRate": 3.76837
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "PEMBINA PIPELINE CORP",
+            "InvRate": 3.70176
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "AIR CHINA LTD-H",
+            "InvRate": 3.65747
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "台積電",
+            "InvRate": 3.55951
+        }
+    ]
+}

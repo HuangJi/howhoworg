@@ -1,0 +1,89 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "股票",
+            "InvRate": 0.9121732,
+            "SInvRate": 91.21732,
+            "LInvRate": 91.21732
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.086,
+            "SInvRate": 8.6,
+            "LInvRate": 8.6
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0018268,
+            "SInvRate": 0.18268,
+            "LInvRate": 0.18268
+        }
+    ],
+    "IndustryRatio": [
+        {
+            "TransDate": "20160901",
+            "Name": "REITs",
+            "InvRate": 74.88045
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "Real Estate",
+            "InvRate": 16.33686
+        }
+    ],
+    "StockTop": [
+        {
+            "TransDate": "20160901",
+            "ExternalName": "Industrial & Infrastructure",
+            "InvRate": 8.45817
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "LINK REIT",
+            "InvRate": 8.44308
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "FIRST REAL ESTATE INVT TURST",
+            "InvRate": 7.9209
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "EXTRA SPACE STORAGE INC",
+            "InvRate": 7.35766
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHINA OVERSEAS LAND & INVEST",
+            "InvRate": 6.28333
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "HENDERSON LAND DEVELOPMENT",
+            "InvRate": 5.851
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "SCENTRE GROUP",
+            "InvRate": 4.90208
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "MACERICH CO/THE",
+            "InvRate": 4.49576
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "CHARTER HALL GROUP",
+            "InvRate": 4.35434
+        },
+        {
+            "TransDate": "20160901",
+            "ExternalName": "INVESCO MORTGAGE CAPITAL",
+            "InvRate": 3.38669
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "AssertAllocation": [
+        {
+            "TransDate": "20160901",
+            "Name": "債券",
+            "InvRate": 0.9207544,
+            "SInvRate": 92.07544,
+            "LInvRate": 92.07544
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "現金",
+            "InvRate": 0.0675,
+            "SInvRate": 6.75,
+            "LInvRate": 6.75
+        },
+        {
+            "TransDate": "20160901",
+            "Name": "其他",
+            "InvRate": 0.0117456,
+            "SInvRate": 1.17456,
+            "LInvRate": 1.17456
+        }
+    ],
+    "IndustryRatio": [],
+    "StockTop": [
+        {
+            "TransDate": "20150401",
+            "ExternalName": "KZOKZ 5.75% 04/30/43",
+            "InvRate": 4.14
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "OCPMR 5.625% 04/25/24",
+            "InvRate": 3.89
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "BLTN 0%",
+            "InvRate": 3.88
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "AFREXI 4.75% 07/29/19",
+            "InvRate": 3.75
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "GABON 6.375%",
+            "InvRate": 3.69
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "DOMREP 7.5%",
+            "InvRate": 3.42
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "JAMAN 7.625%",
+            "InvRate": 3.4
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "BRASKM 7.125% 07/22/41",
+            "InvRate": 3.22
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "ANGOL 7% 08/16/19",
+            "InvRate": 3.15
+        },
+        {
+            "TransDate": "20150401",
+            "ExternalName": "BTUN 5.75% 01/30/25",
+            "InvRate": 3.15
+        }
+    ]
+}
