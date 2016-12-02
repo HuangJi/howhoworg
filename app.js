@@ -122,7 +122,7 @@ app.use((err, req, res) => {
 })
 
 // Update all per 24 hours.
-// updateAll()
+
 fundRichUpdater.updateAll()
 fundClearUpdater.updateAll()
 
