@@ -5,6 +5,7 @@ const cookieParser = require('cookie-parser')
 const bodyParser = require('body-parser')
 const http = require('http')
 const debug = require('debug')('monitor:server')
+const moment = require('moment')
 
 const routes = require('./routes/index')
 const users = require('./routes/users')
@@ -122,16 +123,18 @@ app.use((err, req, res) => {
 })
 
 // Update all per 24 hours.
-
-fundRichUpdater.updateAll()
-fundClearUpdater.updateAll()
+// const initialDateString = moment().utcOffset('+0800').format('YYYYMMDD')
+// fundRichUpdater.updateAll(initialDateString)
+// fundClearUpdater.updateAll(initialDateString)
 
 setInterval(() => {
-  if (new Date().getHours() === 11) fundRichUpdater.updateAll()
+  const currentDate = moment().utcOffset('+0800')
+  if (currentDate.hours() === 11) fundRichUpdater.updateAll(currentDate.format('YYYYMMDD'))
 }, 1000 * 3600 * 1)
 
 setInterval(() => {
-  if (new Date().getHours() === 11) fundClearUpdater.updateAll()
+  const currentDate = moment().utcOffset('+0800')
+  if (currentDate.hours() === 11) fundClearUpdater.updateAll(currentDate.format('YYYYMMDD'))
 }, 1000 * 3600 * 1)
 // setInterval(() => fundClearUpdater.updateAll(), 1000 * 3600 * 24)
 

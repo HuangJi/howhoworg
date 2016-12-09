@@ -4,13 +4,14 @@ const fs = require('fs')
 const co = require('co')
 const _ = require('lodash')
 // const stringjs = require('string')
+const mkdirp = require('mkdirp')
 const request = require('request')
 const cheerio = require('cheerio')
 const moment = require('moment')
 // const MongoClient = require('mongodb').MongoClient
 const scalegridMongo = require('./scalegridMongo')
 
-const currentDateString = moment().format('YYYYMMDD')
+// const currentDateString = moment().format('YYYYMMDD')
 
 
 // const mongodbUrl = 'mongodb://wilson:Wil9999Wil9999Wil9999@SG-howfintechmongo-8817.servers.mongodirector.com:27017/source?ssl=true'
@@ -23,7 +24,7 @@ let count = 0
 const sleep = time => new Promise(resolve => setTimeout(resolve, time))
 const getRandomMiniSec = () => parseInt((Math.random() * 0.02 * 1000), 10)
 
-function getOneFundClearData(fundIDList, userAgentList) {
+function getOneFundClearData(fundIDList, userAgentList, currentDateString) {
   sleep(getRandomMiniSec()).then(() => {
     if (fundIDList.length <= 0) {
       return
@@ -38,13 +39,13 @@ function getOneFundClearData(fundIDList, userAgentList) {
     request(options, (error, response, body) => {
       if (error) {
         console.error(`error: ${error}`)
-        getOneFundClearData(fundIDList, userAgentList)
+        getOneFundClearData(fundIDList, userAgentList, currentDateString)
       } else {
         count += 1
         const $ = cheerio.load(body)
         let fundData = $('param[name=htNav]').attr('value')
         if (fundData === undefined) {
-          getOneFundClearData(fundIDList, userAgentList)
+          getOneFundClearData(fundIDList, userAgentList, currentDateString)
         } else {
           fundData = fundData.replace(/ /g, '')
           fundData = fundData.replace(/{/g, '')
@@ -56,8 +57,8 @@ function getOneFundClearData(fundIDList, userAgentList) {
             dateData[keyValue[0].replace(/\//g, '')] = {
               Price: parseFloat(keyValue[1]),
               TransDate: keyValue[0].replace(/\//g, ''),
-              createdAt: moment().format('YYYYMMDD'),
-              updatedAt: moment().format('YYYYMMDD'),
+              createdAt: moment().utcOffset('+0800').format('YYYYMMDD'),
+              updatedAt: moment().utcOffset('+0800').format('YYYYMMDD'),
             }
           }
           const path = `./staticData/fundClear/${currentDateString}FCNav/${fundID}.json`
@@ -66,7 +67,7 @@ function getOneFundClearData(fundIDList, userAgentList) {
             console.log(`write FCNav ${fundID}!`)
           })
           // console.log(JSON.stringify(dateData, null, 4))
-          // getOneFundClearData(fundIDList, userAgentList)
+          // getOneFundClearData(fundIDList, userAgentList, currentDateString)
           scalegridMongo.connect((err, db) => {
             const col = db.collection(collectionName)
             const filter = { FCId: fundID }
@@ -80,8 +81,8 @@ function getOneFundClearData(fundIDList, userAgentList) {
                   updateObject[updateKey] = {
                     Price: dateData[dateKey].Price,
                     TransDate: dateData[dateKey].TransDate,
-                    createdAt: moment().format('YYYYMMDD'),
-                    updatedAt: moment().format('YYYYMMDD'),
+                    createdAt: moment().utcOffset('+0800').format('YYYYMMDD'),
+                    updatedAt: moment().utcOffset('+0800').format('YYYYMMDD'),
                   }
                   const result = yield col.update(filter, { $set: updateObject }, { upsert: true })
                   if (result) console.log(`new result: ${result} ${filter.FCId} ${dateKey}`)
@@ -90,7 +91,7 @@ function getOneFundClearData(fundIDList, userAgentList) {
                     Price: dateData[dateKey].Price,
                     TransDate: dateData[dateKey].TransDate,
                     createdAt: fcNavObject.data[dateKey].createdAt,
-                    updatedAt: moment().format('YYYYMMDD'),
+                    updatedAt: moment().utcOffset('+0800').format('YYYYMMDD'),
                   }
                   const result = yield col.update(filter, { $set: updateObject }, { upsert: true })
                   if (result) console.log(`fundClear request success:${fundID} and done! count:${count}`)
@@ -101,7 +102,7 @@ function getOneFundClearData(fundIDList, userAgentList) {
             }).catch((coError) => {
               console.log(coError.stack)
             })
-            getOneFundClearData(fundIDList, userAgentList)
+            getOneFundClearData(fundIDList, userAgentList, currentDateString)
             // const collection = db.collection(collectionName)
             // collection.updateMany(filter,
             //   { $set: { data: dateData } },
@@ -109,7 +110,7 @@ function getOneFundClearData(fundIDList, userAgentList) {
             //     if (!error && r) {
             //       console.log(`fundClear request success:${fundID} and done! count:${count}`)
             //       db.close()
-            //       getOneFundClearData(fundIDList, userAgentList)
+            //       getOneFundClearData(fundIDList, userAgentList, currentDateString)
             //     }
             //   })
           })
@@ -119,7 +120,7 @@ function getOneFundClearData(fundIDList, userAgentList) {
   })
 }
 
-function updateAll() {
+function updateAll(currentDateString) {
   fs.readFile('data/fund_id', (err, data) => {
     if (err) throw err
     const fundIDList = data.toString().split('\n')
@@ -128,11 +129,11 @@ function updateAll() {
         console.error(e)
       } else {
         const userAgentList = fundData.toString().split('\n')
-        fs.mkdir(`./staticData/fundClear/${currentDateString}FCNav`, (fsError) => {
+        mkdirp(`./staticData/fundClear/${currentDateString}FCNav`, (fsError) => {
           if (fsError) {
             console.error(`err:${err}`)
           } else {
-            getOneFundClearData(fundIDList, userAgentList)
+            getOneFundClearData(fundIDList, userAgentList, currentDateString)
           }
         })
       }
