@@ -316,4 +316,50 @@ router.post('/v1/fund/detail', (req, res) => {
   }
 })
 
+router.get('/v1/market/index', (req, res) => {
+  res.setHeader('X-Powered-By', 'Wilson Huang')
+  if (req.headers.authorization !== apiKey) {
+    res.setHeader('WWW-Authenticate', 'Invalid API Key.')
+    res.status(401).json({
+      code: 401,
+      message: 'Invalid API Key.',
+    })
+  } else {
+    console.log(req.headers.authorization)
+    scalegridConnect((err, scalegridDb) => {
+      if (err) {
+        console.error(err)
+      } else {
+        scalegridDb.collection('cyIdx').find().toArray((e1, docs) => {
+          if (e1) {
+            console.error(`error:${e1}`)
+            scalegridDb.close()
+          } else {
+            const responseObjects = _.map(docs, (marketIndex) => {
+              const dateIntArray = _.map(_.map(marketIndex.dateData, 'date'), _.parseInt)
+              const latestDateString = _.max(dateIntArray).toString()
+              for (const data of marketIndex.dateData) {
+                if (data.date === latestDateString) {
+                  return {
+                    name: marketIndex.name,
+                    type: marketIndex.type,
+                    local: data.local,
+                    quote: data.quote,
+                    change: data.change,
+                    changePercent: data.changePercent,
+                    yearROI: data.yearROI,
+                  }
+                }
+              }
+              return {}
+            })
+            res.json(responseObjects)
+            scalegridDb.close()
+          }
+        })
+      }
+    })
+  }
+})
+
 module.exports = router

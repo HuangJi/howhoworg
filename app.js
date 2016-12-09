@@ -123,9 +123,9 @@ app.use((err, req, res) => {
 })
 
 // Update all per 24 hours.
-const initialDateString = moment().utcOffset('+0800').format('YYYYMMDD')
-fundRichUpdater.updateAll(initialDateString)
-fundClearUpdater.updateAll(initialDateString)
+// const initialDateString = moment().utcOffset('+0800').format('YYYYMMDD')
+// fundRichUpdater.updateAll(initialDateString)
+// fundClearUpdater.updateAll(initialDateString)
 
 setInterval(() => {
   const currentDate = moment().utcOffset('+0800')

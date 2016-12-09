@@ -4,6 +4,7 @@ const fs = require('fs')
 const co = require('co')
 const _ = require('lodash')
 // const stringjs = require('string')
+const mkdirp = require('mkdirp')
 const request = require('request')
 const cheerio = require('cheerio')
 const moment = require('moment')
@@ -128,7 +129,7 @@ function updateAll(currentDateString) {
         console.error(e)
       } else {
         const userAgentList = fundData.toString().split('\n')
-        fs.mkdir(`./staticData/fundClear/${currentDateString}FCNav`, (fsError) => {
+        mkdirp(`./staticData/fundClear/${currentDateString}FCNav`, (fsError) => {
           if (fsError) {
             console.error(`err:${err}`)
           } else {
