@@ -95,7 +95,7 @@
     <a href="#" id="nav-button">
       <span>
         NAV
-        <img src="/images/navbar.png" />
+        <img src="images/navbar.png" />
       </span>
     </a>
     <div class="tocify-wrapper">
@@ -282,6 +282,74 @@ Remember to put your API key in header!
 <td>required</td>
 <td>ID you want to find.</td>
 <td>howF156</td>
+</tr>
+</tbody></table>
+
+<aside class="success">
+Remember to put your API key in header!
+</aside>
+
+<h1 id="market">Market</h1>
+
+<h2 id="index">index</h2>
+
+<blockquote>
+<p>The above command returns JSON structured like this:</p>
+</blockquote>
+<pre class="highlight json"><code><span class="p">[</span><span class="w">
+  </span><span class="p">{</span><span class="w">
+    </span><span class="nt">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"深証綜合指數"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"亞洲指數"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"local"</span><span class="p">:</span><span class="w"> </span><span class="s2">"12/08"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"quote"</span><span class="p">:</span><span class="w"> </span><span class="mf">2077.37</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"change"</span><span class="p">:</span><span class="w"> </span><span class="mf">-12.96</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"changePercent"</span><span class="p">:</span><span class="w"> </span><span class="mf">-0.62</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"yearROI"</span><span class="p">:</span><span class="w"> </span><span class="mf">4.38</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="p">{</span><span class="w">
+    </span><span class="nt">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"深圳成指"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"亞洲指數"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"local"</span><span class="p">:</span><span class="w"> </span><span class="s2">"12/08"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"quote"</span><span class="p">:</span><span class="w"> </span><span class="mf">10812.3</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"change"</span><span class="p">:</span><span class="w"> </span><span class="mf">-43.42</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"changePercent"</span><span class="p">:</span><span class="w"> </span><span class="mf">-0.4</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"yearROI"</span><span class="p">:</span><span class="w"> </span><span class="mf">4.6</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="p">{</span><span class="w">
+    </span><span class="nt">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"深証A股"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"亞洲指數"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"local"</span><span class="p">:</span><span class="w"> </span><span class="s2">"12/08"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"quote"</span><span class="p">:</span><span class="w"> </span><span class="mf">2173.33</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"change"</span><span class="p">:</span><span class="w"> </span><span class="mf">-13.61</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"changePercent"</span><span class="p">:</span><span class="w"> </span><span class="mf">-0.62</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"yearROI"</span><span class="p">:</span><span class="w"> </span><span class="mf">4.38</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">]</span><span class="w">
+</span></code></pre>
+
+<p>This endpoint retrieves all funds IDs.</p>
+
+<h3 id="http-request">HTTP Request</h3>
+
+<p><code class="prettyprint">GET http://howfintech.com/api/v1/market/index</code></p>
+
+<h3 id="query-parameters">Query Parameters</h3>
+
+<table><thead>
+<tr>
+<th>Parameter</th>
+<th>Type</th>
+<th>Required</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 </tbody></table>
 
