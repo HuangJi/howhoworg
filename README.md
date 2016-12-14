@@ -9,15 +9,18 @@
 > A versatile fund server for quantity analysis and machine learning.
 
 ## Introduction
-Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) v6.3.1 and [MongoDB](https://www.mongodb.com) 3.2.9. Update fund nav and other data daily and automatically from several reliable sources.
+Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com). Update fund nav and other data daily and automatically from several reliable sources.
 
 ## Requirements
-- [Node.js](https://nodejs.org) v6+
-- [MongoDB](https://www.mongodb.com) v3.2.9+
+- [Node.js](https://nodejs.org) **6.1+**
+- [npm](https://www.npmjs.com) **3.10.3+** or [yarn](https://yarnpkg.com) **0.15.1+**
+
+## Coding Style
+We're using **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)** without semicolons. Let us refer you to [here](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) to get eslint setup.
 
 ## Install
 ```
-yarn
+npm install || yarn
 ```
 
 ## Usage
