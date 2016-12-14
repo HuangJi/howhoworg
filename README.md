@@ -11,18 +11,22 @@
 ## Introduction
 Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) v6.3.1 and [MongoDB](https://www.mongodb.com) 3.2.9. Update fund nav and other data daily and automatically from several reliable sources.
 
+## Requirements
+- [Node.js](https://nodejs.org) v6+
+- [MongoDB](https://www.mongodb.com) v3.2.9+
+
 ## Install
 ```
-yarn || npm install
+yarn
 ```
 
 ## Usage
 ```
-node app || npm start
+node app
 
 ```
 
-## API
+## APIs
 Go to [here](http://howfintech.com/api/docs) to check out API Docs.
 
 ## Trial
