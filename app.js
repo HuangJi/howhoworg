@@ -11,7 +11,6 @@ const routes = require('./routes/index')
 const users = require('./routes/users')
 const api = require('./routes/api')
 
-// const updateAll = require('./daemon/updater').updateAll
 const fundRichUpdater = require('./daemon/fundRichUpdater')
 const fundClearUpdater = require('./daemon/fundClearUpdater')
 
@@ -126,6 +125,33 @@ app.use((err, req, res) => {
 // const initialDateString = moment().utcOffset('+0800').format('YYYYMMDD')
 // fundRichUpdater.updateAll(initialDateString)
 // fundClearUpdater.updateAll(initialDateString)
+// const source = 'fundRich'
+// const type = 'FRAllocation'
+
+// fundRichUpdater.getMissIdList(source, type, initialDateString, (missIdError, results) => {
+//   if (missIdError) {
+//     console.error(`missIdError:${missIdError}`)
+//   } else {
+//     console.log(`missId:${results}`)
+//     if (type === 'FRDetail') {
+//       for (const id of results) {
+//         fundRichUpdater.updateOneFundRichDetailDataById(id, initialDateString)
+//       }
+//     } else if (type === 'FRNav') {
+//       for (const id of results) {
+//         fundRichUpdater.updateOneFundRichNavDataById(id, initialDateString)
+//       }
+//     } else if (type === 'FRAllocation') {
+//       for (const id of results) {
+//         fundRichUpdater.updateOneFundRichAllocationDataById(id, initialDateString)
+//       }
+//     } else if (type === 'FRDividend') {
+//       for (const id of results) {
+//         fundRichUpdater.updateOneFundRichDividendDataById(id, initialDateString)
+//       }
+//     }
+//   }
+// })
 
 setInterval(() => {
   const currentDate = moment().utcOffset('+0800')

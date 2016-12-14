@@ -347,7 +347,7 @@ router.get('/v1/market/index', (req, res) => {
                     quote: data.quote,
                     change: data.change,
                     changePercent: data.changePercent,
-                    yearROI: data.yearROI,
+                    yearROI: parseFloat(parseFloat(data.yearROI).toFixed(4)) || '---',
                   }
                 }
               }
