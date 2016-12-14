@@ -8,7 +8,6 @@ const debug = require('debug')('monitor:server')
 const moment = require('moment')
 
 const routes = require('./routes/index')
-const users = require('./routes/users')
 const api = require('./routes/api')
 
 const fundRichUpdater = require('./daemon/fundRichUpdater')
@@ -85,7 +84,6 @@ app.use((req, res, next) => {
 })
 
 app.use('/', routes)
-app.use('/users', users)
 app.use('/api', api)
 
 // catch 404 and forward to error handler

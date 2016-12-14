@@ -6,13 +6,11 @@ const request = require('request')
 const scalegridMongo = require('./scalegridMongo')
 const _ = require('lodash')
 
-
 const collectionDetailName = 'FRDetail'
 const collectionNavName = 'FRNav'
 const collectionAllocationName = 'FRAllocation'
 const collectionDividendName = 'FRDividend'
 const dataPath = './staticData'
-// const currentDateString = moment().format('YYYYMMDD')
 
 const sleep = time => new Promise(resolve => setTimeout(resolve, time))
 const getRandomMiniSec = () => parseInt((Math.random() * 0.05 * 1000), 10)
@@ -57,7 +55,6 @@ function getMissIdList(source, type, date, callback) {
         getFundRichIdList((error, results) => {
           const missIdList = _.difference(results, idList)
           callback(null, missIdList)
-          // console.log(missIdList)
         })
       }
     })
@@ -96,7 +93,6 @@ function getMissIdList(source, type, date, callback) {
           getFundRichIdList((error, results) => {
             const missIdList = _.difference(results, idList)
             callback(null, missIdList)
-            // console.log(missIdList)
           })
         }
       })

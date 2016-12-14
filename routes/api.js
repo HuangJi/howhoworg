@@ -47,7 +47,6 @@ router.post('/v0/fund/info', (req, res) => {
       MongoClient.connect(mongodbUrl, (err, database) => {
         db = database
         collection = db.collection('fundCollection')
-        // const rgString = `/.*${req.body.name}.*/`
         filter = {
           fundChineseName: new RegExp(req.body.name),
         }
@@ -179,8 +178,6 @@ router.get('/v0/fund/list', (req, res) => {
         if (error) {
           res.status(505).json({ status: 'db error', message: error })
         } else {
-          // const objectList = _.map(docs, 'fundChineseName', 'isOffshore')
-          // res.json(objectList)
           const validObjects = _.map(_.filter(docs, fund => !_.isEmpty(fund)), 'fundChineseName')
           res.json(validObjects)
         }
@@ -242,7 +239,6 @@ router.post('/v1/fund/detail', (req, res) => {
         let frAllocationData
         let tejData
         let fundDjData
-        // let tejObject
 
         if (fundCodeData.FRId) {
           frDetailData = yield scalegridDb.collection('FRDetail').find({ FRId: fundCodeData.FRId }).limit(1).next()
