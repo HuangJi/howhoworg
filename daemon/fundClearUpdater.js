@@ -3,20 +3,12 @@
 const fs = require('fs')
 const co = require('co')
 const _ = require('lodash')
-// const stringjs = require('string')
 const mkdirp = require('mkdirp')
 const request = require('request')
 const cheerio = require('cheerio')
 const moment = require('moment')
-// const MongoClient = require('mongodb').MongoClient
 const scalegridMongo = require('./scalegridMongo')
 
-// const currentDateString = moment().format('YYYYMMDD')
-
-
-// const mongodbUrl = 'mongodb://wilson:Wil9999Wil9999Wil9999@SG-howfintechmongo-8817.servers.mongodirector.com:27017/source?ssl=true'
-// const ca = [fs.readFileSync('/Users/wilson/.ssh/scalegrid.crt')]
-// const serverOption = { server: { sslValidate: true, sslCA: ca } }
 const collectionName = 'FCNav'
 
 let count = 0
@@ -66,15 +58,12 @@ function getOneFundClearData(fundIDList, userAgentList, currentDateString) {
             if (writeError) throw writeError
             console.log(`write FCNav ${fundID}!`)
           })
-          // console.log(JSON.stringify(dateData, null, 4))
-          // getOneFundClearData(fundIDList, userAgentList, currentDateString)
           scalegridMongo.connect((err, db) => {
             const col = db.collection(collectionName)
             const filter = { FCId: fundID }
             co(function* __() {
               const updateObject = {}
               const fcNavObject = yield col.find(filter).limit(1).next()
-              // console.log(`fcNavObject.data:${JSON.stringify(fcNavObject.data, null, 4)}`)
               for (const dateKey of _.keys(dateData)) {
                 const updateKey = `data.${dateKey}`
                 if (!fcNavObject.data[dateKey]) {
@@ -103,16 +92,6 @@ function getOneFundClearData(fundIDList, userAgentList, currentDateString) {
               console.log(coError.stack)
             })
             getOneFundClearData(fundIDList, userAgentList, currentDateString)
-            // const collection = db.collection(collectionName)
-            // collection.updateMany(filter,
-            //   { $set: { data: dateData } },
-            //   { upsert: true }, (e, r) => {
-            //     if (!error && r) {
-            //       console.log(`fundClear request success:${fundID} and done! count:${count}`)
-            //       db.close()
-            //       getOneFundClearData(fundIDList, userAgentList, currentDateString)
-            //     }
-            //   })
           })
         }
       }
