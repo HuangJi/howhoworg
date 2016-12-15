@@ -4,10 +4,8 @@
 	<img width="720" src="public/images/biglogo.png" alt="awesome">
 </h1>
 
-> A versatile fund server for quantity analysis and machine learning.
 
-## Introduction
-Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com). Update fund nav and other data daily and automatically from several reliable sources.
+> Howhoworg is a versatile server build from [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com). Not only updating nav and other fund data daily, automatically from several reliable sources, but also a stable API Server providing finance data.
 
 ## Requirements
 - [Node.js](https://nodejs.org) **6.1+**
@@ -16,7 +14,41 @@ Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) an
 ## Coding Style
 We're using **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)** without semicolons. Let us refer you to [here](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) to get eslint setup, then take a look at our [.eslintrc](https://github.com/HowFintech/howhoworg/blob/master/.eslintrc).
 
-## Setup
+## Architecture
+
+<h5 align="center">
+	<img width="720" src="public/images/structure.png" alt="awesome">
+</h5>
+
+So called **MVC (Model-View-Controller)** architecture, we have several groups in the picture above.
+
+### app.js
+Entry point, start API Server and updaters to crawl market data from several sources. The production process manager we use is [pm2](http://pm2.keymetrics.io). It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+
+### test
+Unit Test is matter! It helps you really understand the design of the code you are working on. Keep coverage higher as you can. Test framework we use are [Mocha](https://mochajs.org) and [Chai](http://chaijs.com). 
+
+**Mocha** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases., and **Chai** is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+
+### data
+Some legacy temporary data, like fund clear id list, tej csv test files, and other json files.
+
+### models
+Schema, classes and its method we use in database would be here. About the MongoDB driver, our choice was [Mongo Native Driver](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html) but [Mongoose](http://mongoosejs.com). Performance, flexibility, and learning cure are matter, here is the reason. For more, you could check this [comparison](http://voidcanvas.com/mongoose-vs-mongodb-native/) and feel free to propose question if you have any better idea.
+
+### views & public
+*.ejs files and web page static files. And [our API docs](http://howfintech.com/api/docs) are using open source api docs generator, called [slate](https://github.com/lord/slate).
+
+### routes
+Web page routing and RESTFUL API stuff, including database connecting, data handling, and request authorization. You can click [here](http://howfintech.com/api/docs) to check out API Docs.
+
+### daemon
+Howhoworg has several updaters running constantly, and update market data to database everyday morning. Our database is located at East Asia, using [ScaleGrid](https://scalegrid.io), database as a service. You're able to look more detail in [scalegirdMongo.js](https://github.com/HowFintech/howhoworg/blob/master/daemon/scalegridMongo.js)
+
+### parseCode
+Legacy code, most of them are using for parsing api data and test data.
+
+## Getting Started
 Step 1. Click the top right `fork` button to fork this repository to your account.
 
 Step 2. Clone this object on your client.
@@ -35,39 +67,6 @@ or
 yarn
 ```
 
-## Architecture
-
-<h5 align="center">
-	<img width="720" src="public/images/structure.png" alt="awesome">
-</h5>
-
-So called **MVC (Model-View-Controller)** architecture, we have several groups in the picture above.
-
-### app.js
-Entry point, Starting API Server and updaters to crawl market data from several sources.
-
-### test
-Unit Test is matter! It helps you really understand the design of the code you are working on. Keep coverage higher as you can.
-
-### data
-Some legacy temporary data put in here, like fund clear id list, tej csv test files, and other json files.
-
-### models
-Schema, classes and its method we use in database would be put here.
-
-### views & public
-*.ejs files and web page static files.
-
-### routes
-Web page routing and Restful API stuff, including database connecting, data handling, authorization. You can click [here](http://howfintech.com/api/docs) to check out API Docs.
-
-### daemon
-Howhoworg has several updaters running constantly, and update market data to database everyday morning.
-
-### parseCode
-Legacy code, most of them are using for parsing api data and test data.
-
-
 ## Usage
 ```
 node app
@@ -80,7 +79,7 @@ npm test
 ```
 
 ## API Spec
-Go to [here](http://howfintech.com/api/docs) to check API Docs.
+Click [here](http://howfintech.com/api/docs) to see our API Docs.
 
 
 ## Trial
