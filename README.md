@@ -37,10 +37,10 @@ Some legacy temporary data, like fund clear id list, tej csv test files, and oth
 Schema, classes and its method we use in database would be here. About the MongoDB driver, our choice was [Mongo Native Driver](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html) but [Mongoose](http://mongoosejs.com). Performance, flexibility, and learning cure are matter, here is the reason. For more, you could check this [comparison](http://voidcanvas.com/mongoose-vs-mongodb-native/) and feel free to propose question if you have any better idea.
 
 ### views & public
-*.ejs files and web page static files. And [our API docs](http://howfintech.com/api/docs) are using open source api docs generator, called [slate](https://github.com/lord/slate).
+*.ejs files and web page static files. [Our API docs](http://howfintech.com/api/docs) are using open source api docs generator, called [slate](https://github.com/lord/slate). Slate could helps you create beautiful, intelligent, responsive API documentation in several minutes.
 
 ### routes
-Web page routing and RESTFUL API stuff, including database connecting, data handling, and request authorization. You can click [here](http://howfintech.com/api/docs) to check out API Docs.
+Web page routing and RESTFUL API stuff, including database connecting, data handling, and request authorization. Web framework we use is [Express](http://expressjs.com), with a myriad of HTTP utility methods and middleware at our disposal, creating a robust API is quick and easy. You can click [here](http://howfintech.com/api/docs) to check our API Docs now.
 
 ### daemon
 Howhoworg has several updaters running constantly, and update market data to database everyday morning. Our database is located at East Asia, using [ScaleGrid](https://scalegrid.io), database as a service. You're able to look more detail in [scalegirdMongo.js](https://github.com/HowFintech/howhoworg/blob/master/daemon/scalegridMongo.js)
@@ -70,7 +70,6 @@ yarn
 ## Usage
 ```
 node app
-
 ```
 
 ## Testing
