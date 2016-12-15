@@ -13,7 +13,7 @@ const scalegridMongo = require('./scalegridMongo')
 const moment = require('moment')
 // const stream = fs.createReadStream('../data/cyidx.csv')
 const cyidxJson = require('../data/cyidx')
-const CyIdx = require('./cyIdx')
+const CyIdx = require('../models/cyIdx')
 
 function getCyIdxData() {
   const options = { url: 'http://money.cnyes.com/pricemid.aspx' }
