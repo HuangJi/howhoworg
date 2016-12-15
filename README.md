@@ -1,3 +1,5 @@
+# Howhoworg
+
 <h1 align="center">
 	<br>
 	<img width="360" src="public/images/biglogo.png" alt="awesome">
@@ -16,11 +18,25 @@ Howhoworg is a versatile fund server build from [Node.js](https://nodejs.org) an
 - [npm](https://www.npmjs.com) **3.10.3+** or [yarn](https://yarnpkg.com) **0.15.1+**
 
 ## Coding Style
-We're using **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)** without semicolons. Let us refer you to [here](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) to get eslint setup.
+We're using **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)** without semicolons. Let us refer you to [here](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) to get eslint setup, then take a look at our [.eslintrc](https://github.com/HowFintech/howhoworg/blob/master/.eslintrc).
 
-## Install
+## Setup
+Step 1. Click the top right `fork` button to fork this repository to your account.
+
+Step 2. Clone this object on your client.
+
 ```
-npm install || yarn
+git clone https://github.com/<your_user_name>/howhoworg.git
+```
+Step 3. Check in your directory and install dependencies.
+
+```
+npm install
+```
+or
+
+```
+yarn
 ```
 
 ## Usage
@@ -29,8 +45,8 @@ node app
 
 ```
 
-## APIs
-Go to [here](http://howfintech.com/api/docs) to check out API Docs.
+## API Spec
+Go to [here](http://howfintech.com/api/docs) to check API Docs.
 
 ## Trial
 Go to [here](http://howfintech.com/example) to get alpha free trial.
