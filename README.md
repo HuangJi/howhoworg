@@ -1,11 +1,7 @@
 # Howhoworg
 
 <h1 align="center">
-	<br>
-	<img width="360" src="public/images/biglogo.png" alt="awesome">
-	<br>
-	<br>
-	<br>
+	<img width="720" src="public/images/biglogo.png" alt="awesome">
 </h1>
 
 > A versatile fund server for quantity analysis and machine learning.
@@ -39,14 +35,53 @@ or
 yarn
 ```
 
+## Architecture
+
+<h5 align="center">
+	<img width="720" src="public/images/structure.png" alt="awesome">
+</h5>
+
+So called **MVC (Model-View-Controller)** architecture, we have several groups in the picture above.
+
+### app.js
+Entry point, Starting API Server and updaters to crawl market data from several sources.
+
+### test
+Unit Test is matter! It helps you really understand the design of the code you are working on. Keep coverage higher as you can.
+
+### data
+Some legacy temporary data put in here, like fund clear id list, tej csv test files, and other json files.
+
+### models
+Schema, classes and its method we use in database would be put here.
+
+### views & public
+*.ejs files and web page static files.
+
+### routes
+Web page routing and Restful API stuff, including database connecting, data handling, authorization. You can click [here](http://howfintech.com/api/docs) to check out API Docs.
+
+### daemon
+Howhoworg has several updaters running constantly, and update market data to database everyday morning.
+
+### parseCode
+Legacy code, most of them are using for parsing api data and test data.
+
+
 ## Usage
 ```
 node app
 
 ```
 
+## Testing
+```
+npm test
+```
+
 ## API Spec
 Go to [here](http://howfintech.com/api/docs) to check API Docs.
+
 
 ## Trial
 Go to [here](http://howfintech.com/example) to get alpha free trial.
